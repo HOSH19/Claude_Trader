@@ -59,15 +59,19 @@ badly), also update memory/TRADING-STRATEGY.md and call out the change
 in the review.
 
 STEP 6 — Send ONE Telegram message. <= 15 lines:
-  bash scripts/telegram.sh "Week ending MMM DD
-  Portfolio: \$X (±X% week, ±X% phase)
-  vs S&P 500: ±X%
-  Trades: N (W:X / L:Y / open:Z)
-  Best: SYM +X% Worst: SYM -X%
-  One-line takeaway: <...>
-  Grade: <letter>"
+  bash scripts/telegram.sh "📅 Weekly Review — $DATE
+─────────────────────
+💼 Portfolio: \$X (±X% week | ±X% phase)
+📊 vs S&P 500: ±X%
+🔢 Trades: N  ✅ W:X  ❌ L:Y  ⏳ open:Z
+🏆 Best: SYM +X%  |  💀 Worst: SYM -X%
+
+💡 Takeaway: <one sentence>
+🎓 Grade: <letter>"
 
 STEP 7 — COMMIT AND PUSH (mandatory):
+  git config user.email "bot@trading-bot"
+  git config user.name "Trading Bot"
   git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
   git commit -m "weekly review $DATE"
   git push origin main

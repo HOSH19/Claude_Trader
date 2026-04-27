@@ -50,10 +50,22 @@ if not at -7% yet. Document reasoning in TRADE-LOG.
 STEP 6 — Optional intraday research via Tavily if something is moving
 sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
 
-STEP 7 — Notification: only if action was taken.
-  bash scripts/telegram.sh "<action summary>"
+STEP 7 — Notification: always send a status.
+If action taken:
+  bash scripts/telegram.sh "⚡ Midday $DATE
+─────────────────────
+<• cut SYM at -7% (\$X.XX realized)>
+<• tightened SYM trail stop to X%>
+💼 <N> positions open"
+If no action:
+  bash scripts/telegram.sh "⚡ Midday $DATE
+─────────────────────
+✅ All clear — no cuts, no adjustments
+💼 <N> positions open, all within rules"
 
 STEP 8 — COMMIT AND PUSH (if any memory files changed):
+  git config user.email "bot@trading-bot"
+  git config user.name "Trading Bot"
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md
   git commit -m "midday scan $DATE"
   git push origin main

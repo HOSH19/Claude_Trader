@@ -57,10 +57,22 @@ If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 STEP 6 — Append each trade to memory/TRADE-LOG.md (matching existing format):
 Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
 
-STEP 7 — Notification: only if a trade was placed.
-  bash scripts/telegram.sh "<tickers, shares, fill prices, one-line why>"
+STEP 7 — Notification: always send a status (trade or no-trade).
+If trades fired:
+  bash scripts/telegram.sh "🔔 Market Open $DATE
+─────────────────────
+✅ BOUGHT <SYM ×N @ \$X.XX (trail stop \$X.XX)>
+💡 <one-line thesis>
+💵 Cash remaining: \$X"
+If no trades:
+  bash scripts/telegram.sh "🔔 Market Open $DATE
+─────────────────────
+⏸ No trades — <reason>
+💼 <N> positions open"
 
 STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
+  git config user.email "bot@trading-bot"
+  git config user.name "Trading Bot"
   git add memory/TRADE-LOG.md
   git commit -m "market-open trades $DATE"
   git push origin main
