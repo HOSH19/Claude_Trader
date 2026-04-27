@@ -57,15 +57,19 @@ For all five:
 - **Open pull request**: **OFF** -- the agent must push directly to `main`
 - **Identity**: your account (or "team" if shared)
 
-For each one, the cron + prompt differ. The PDF originally used `America/Chicago` (since CT market open is 8:30 AM); shift to your timezone if needed.
+For each one, the cron + prompt differ. Cursor's Automation UI (as of Apr 2026) does **not** expose a timezone selector — the cron runs in your local timezone. The table below assumes Pacific Time (PT). Shift hours if you're in a different zone:
 
-| # | Name | Cron (CT) | Prompt source |
-|---|---|---|---|
-| 1 | Trading bot - pre-market | `0 6 * * 1-5` | paste contents of [`routines/pre-market.md`](routines/pre-market.md) |
-| 2 | Trading bot - market-open | `30 8 * * 1-5` | paste contents of [`routines/market-open.md`](routines/market-open.md) |
-| 3 | Trading bot - midday | `0 12 * * 1-5` | paste contents of [`routines/midday.md`](routines/midday.md) |
-| 4 | Trading bot - daily-summary | `0 15 * * 1-5` | paste contents of [`routines/daily-summary.md`](routines/daily-summary.md) |
-| 5 | Trading bot - weekly-review | `0 16 * * 5` | paste contents of [`routines/weekly-review.md`](routines/weekly-review.md) |
+- ET = PT + 3
+- CT = PT + 2
+- UTC = PT + 7 (winter) / +8 (summer)
+
+| # | Name | Cron (PT) | Equivalent ET | Prompt source |
+|---|---|---|---|---|
+| 1 | Trading bot - pre-market | `0 4 * * 1-5` | 7:00 AM ET (2.5h before open) | paste contents of [`routines/pre-market.md`](routines/pre-market.md) |
+| 2 | Trading bot - market-open | `30 6 * * 1-5` | 9:30 AM ET (open) | paste contents of [`routines/market-open.md`](routines/market-open.md) |
+| 3 | Trading bot - midday | `0 10 * * 1-5` | 1:00 PM ET | paste contents of [`routines/midday.md`](routines/midday.md) |
+| 4 | Trading bot - daily-summary | `0 13 * * 1-5` | 4:00 PM ET (close) | paste contents of [`routines/daily-summary.md`](routines/daily-summary.md) |
+| 5 | Trading bot - weekly-review | `0 14 * * 5` | 5:00 PM ET Friday | paste contents of [`routines/weekly-review.md`](routines/weekly-review.md) |
 
 Paste the **entire** file contents into the prompt field, verbatim. Don't paraphrase -- the env-check block and the commit-and-push step are load-bearing.
 
