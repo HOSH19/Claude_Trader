@@ -1,6 +1,6 @@
 # Trading Bot — Cursor Automations Edition
 
-Autonomous swing-trading bot that runs five times a weekday on **Cursor Automations** (Cloud Agents) using **Claude 4.7 Opus**. Adapted from Nate Herk's "Opus 4.7 Trading Bot — Setup Guide" (originally built on Claude Code cloud routines). The trading strategy, hard rules, wrappers, memory model, and prompt scaffold are unchanged; only the runtime/scheduler differs.
+Autonomous swing-trading bot that runs five times a weekday on **Cursor Automations** (Cloud Agents) using **Claude 4.7 Opus**. Adapted from Nate Herk's "Opus 4.7 Trading Bot — Setup Guide" (originally built on Claude Code cloud routines). The trading strategy, hard rules, wrappers, memory model, and prompt scaffold are unchanged; runtime/scheduler are Cursor instead of Claude Code, and notifications go to Telegram instead of ClickUp.
 
 > Stocks only. No options, ever. The discipline is the strategy.
 
@@ -11,7 +11,7 @@ Five Cursor Automations, each with its own cron, fire on weekdays. On each fire:
 1. Cursor's Cloud Agent VM clones this repo at `main`.
 2. It reads `memory/*.md` for context.
 3. It runs the routine prompt with Claude 4.7 Opus.
-4. The agent calls `scripts/alpaca.sh` / `perplexity.sh` / `clickup.sh` as needed.
+4. The agent calls `scripts/alpaca.sh` / `perplexity.sh` / `telegram.sh` as needed.
 5. It appends to `memory/*.md`, then **commits and pushes to `main`**.
 6. The VM is destroyed. No state survives outside git.
 
@@ -23,7 +23,7 @@ flowchart TB
     read --> work["Run Opus 4.7"]
     work --> alpaca["scripts/alpaca.sh"]
     work --> ppx["scripts/perplexity.sh"]
-    work --> clickup["scripts/clickup.sh"]
+    work --> telegram["scripts/telegram.sh"]
     work --> writeMem["Append to memory/*.md"]
     writeMem --> push["git commit + push to main"]
 ```
@@ -35,7 +35,7 @@ flowchart TB
 | `routines/pre-market.md` | `0 6 * * 1-5` | Research catalysts, write today's trade ideas |
 | `routines/market-open.md` | `30 8 * * 1-5` | Execute planned trades, set 10% trailing stops |
 | `routines/midday.md` | `0 12 * * 1-5` | Cut losers at -7%, tighten stops on winners |
-| `routines/daily-summary.md` | `0 15 * * 1-5` | EOD snapshot to TRADE-LOG.md, ClickUp recap |
+| `routines/daily-summary.md` | `0 15 * * 1-5` | EOD snapshot to TRADE-LOG.md, Telegram recap |
 | `routines/weekly-review.md` | `0 16 * * 5` | Friday: weekly stats + letter grade |
 
 Adjust the timezone in each Automation to your locality.
@@ -59,7 +59,7 @@ trading-bot/
 ├── scripts/                 # The only path to external APIs
 │   ├── alpaca.sh
 │   ├── perplexity.sh
-│   └── clickup.sh
+│   └── telegram.sh
 └── memory/                  # Agent's persistent state (committed to main)
     ├── TRADING-STRATEGY.md
     ├── TRADE-LOG.md
@@ -90,9 +90,8 @@ At [cursor.com/dashboard/cloud-agents](https://cursor.com/dashboard/cloud-agents
 | `ALPACA_DATA_ENDPOINT` | `https://data.alpaca.markets/v2` |
 | `PERPLEXITY_API_KEY` | from Perplexity API settings |
 | `PERPLEXITY_MODEL` | `sonar` |
-| `CLICKUP_API_KEY` | from ClickUp settings |
-| `CLICKUP_WORKSPACE_ID` | numeric, from ClickUp URL |
-| `CLICKUP_CHANNEL_ID` | format `4-XXXXXXX-X` |
+| `TELEGRAM_BOT_TOKEN` | from @BotFather, format `1234567890:AAEhBP9...` |
+| `TELEGRAM_CHAT_ID` | numeric — your user ID, group ID, or channel ID |
 
 ### 4. Create the five Automations
 

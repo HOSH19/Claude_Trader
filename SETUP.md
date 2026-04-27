@@ -1,6 +1,6 @@
 # Setup Walkthrough
 
-The repo scaffolding is done. The remaining steps all happen in external dashboards (GitHub, Cursor, Alpaca, Perplexity, ClickUp). Follow these in order.
+The repo scaffolding is done. The remaining steps all happen in external dashboards (GitHub, Cursor, Alpaca, Perplexity, Telegram). Follow these in order.
 
 ## 0. Push the repo to GitHub
 
@@ -20,7 +20,7 @@ git push -u origin main
 |---|---|---|
 | Alpaca | https://alpaca.markets/ | Open a **paper** account first; copy API Key + Secret from the dashboard. Live account too if you plan to flip later. |
 | Perplexity | https://www.perplexity.ai/settings/api | Generate an API key. The default `sonar` model is included in the Pro plan. |
-| ClickUp | https://app.clickup.com/ | Get a personal API token from Settings -> Apps. Create a **Chat channel** for the bot and note the workspace ID + channel ID (channel ID looks like `4-XXXXXXX-X`). |
+| Telegram | t.me/BotFather | Create a bot via `/newbot`, save the bot token. Then message your bot once and grab your chat ID from `https://api.telegram.org/bot<TOKEN>/getUpdates` (the `chat.id` field). |
 
 ## 2. Install the Cursor GitHub App on this repo
 
@@ -43,9 +43,8 @@ Go to https://cursor.com/dashboard/cloud-agents -> **Secrets** tab. Add each of 
 | `ALPACA_DATA_ENDPOINT` | `https://data.alpaca.markets/v2` |
 | `PERPLEXITY_API_KEY` | from Perplexity API settings |
 | `PERPLEXITY_MODEL` | `sonar` |
-| `CLICKUP_API_KEY` | personal API token |
-| `CLICKUP_WORKSPACE_ID` | numeric, from ClickUp URL (`app.clickup.com/<workspaceId>/...`) |
-| `CLICKUP_CHANNEL_ID` | format `4-XXXXXXX-X`, from the chat channel URL |
+| `TELEGRAM_BOT_TOKEN` | bot token from @BotFather, format `1234567890:AAEhBP9...` |
+| `TELEGRAM_CHAT_ID` | numeric chat ID — your user ID, group ID, or channel ID |
 
 ## 4. Create the five Automations
 
@@ -90,7 +89,7 @@ If all green, enable the schedules on the other four Automations.
 
 1. Let the bot run on the paper endpoint for **at least 5 trading days**.
 2. Each evening, read the day's commits on GitHub: `memory/RESEARCH-LOG.md`, `memory/TRADE-LOG.md` deltas.
-3. Watch ClickUp for daily summaries. Make sure the format and tone are reasonable.
+3. Watch Telegram for daily summaries. Make sure the format and tone are reasonable.
 4. After a successful paper week, swap `ALPACA_ENDPOINT` in the Cursor Secrets dashboard to `https://api.alpaca.markets/v2`. **No code changes needed.** The next scheduled run picks up the live endpoint.
 
 ## Troubleshooting (mirrors PDF Part 9)
@@ -103,7 +102,7 @@ If all green, enable the schedules on the other four Automations.
 | Agent creates a `.env` file anyway | Prompt was paraphrased and lost the "DO NOT create .env" block | Re-paste the prompt from `routines/*.md` exactly |
 | Yesterday's trades missing from today's run | Previous run didn't commit+push | Verify `git log origin/main`; re-check STEP N of that routine |
 | Push fails "fetch first" / non-fast-forward | Two runs raced | Prompt handles this with `git pull --rebase`. If looping, look for a real merge conflict |
-| ClickUp message didn't arrive | One of the three CLICKUP_* vars is missing | Script falls back to a local file silently; add the missing var |
+| Telegram message didn't arrive | `TELEGRAM_BOT_TOKEN` or `TELEGRAM_CHAT_ID` missing, OR you never messaged the bot first (Telegram requires you to start the chat before a bot can DM you) | Script falls back to a local file silently; add the missing var or send `/start` to the bot |
 | Perplexity calls didn't happen | `PERPLEXITY_API_KEY` missing | Script exits 3, agent falls back to WebSearch. Add the key or accept fallback |
 | Alpaca rejects stop with PDT error | Same-day stop on same-day buy | Prompt's fallback ladder (trailing -> fixed -> queue tomorrow) handles it. If not cascading, re-paste STEP 5 verbatim |
 | Agent opens a PR instead of pushing to main | "Open pull request" wasn't disabled on the Automation | Edit the Automation; toggle PR off. The prompts also explicitly say "Do NOT open a PR" but the dashboard setting is the harder gate |

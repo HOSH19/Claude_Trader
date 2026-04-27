@@ -10,7 +10,7 @@
 .vscode/
 .idea/
 
-# Local fallback notification log (when ClickUp creds are absent)
+# Local fallback notification log (when Telegram creds are absent)
 DAILY-SUMMARY.md
 
 # Python
