@@ -8,6 +8,17 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Apr 27 — EOD Snapshot (Day 1, Monday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** First trading day (Day 1). Account launched on Apr 27, 2026 with $100,000 paper capital. No positions entered today — bot came online mid-day and no qualifying setups were identified. Cash is 100% deployed in reserves. Pre-market research and sector screening will begin tomorrow morning to identify the first entries. Watching for momentum setups with clear catalysts and favorable R:R.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
