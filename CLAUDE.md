@@ -17,7 +17,7 @@ Open these in order before doing anything:
 
 ## Daily Workflows
 
-Defined in `routines/`. Five scheduled Cursor Automations per trading day:
+Defined in `routines/`. Five scheduled Claude Code remote agents per trading day:
 
 - `routines/pre-market.md` — research + trade ideas
 - `routines/market-open.md` — execute trades + set trailing stops
@@ -43,6 +43,16 @@ Defined in `routines/`. Five scheduled Cursor Automations per trading day:
 
 Use `bash scripts/alpaca.sh`, `scripts/tavily.sh`, `scripts/telegram.sh`.
 Never `curl` these APIs directly.
+
+## Git Identity (required before first commit each session)
+
+```
+git config user.email "bot@trading-bot"
+git config user.name "Trading Bot"
+```
+
+Run once per session before any `git commit`. Claude Code remote agent VMs have
+no global git identity pre-configured; commits fail without this.
 
 ## Persistence (Cloud Agent runs)
 

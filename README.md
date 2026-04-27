@@ -1,6 +1,6 @@
-# Trading Bot — Cursor Automations Edition
+# Trading Bot — Claude Code Routines Edition
 
-Autonomous swing-trading bot that runs on **Cursor Automations** (Cloud Agents) with a frontier Claude model, **Alpaca** for execution, **Tavily** for web-backed research, and **Telegram** for alerts. Adapted from Nate Herk’s *Opus 4.7 Trading Bot — Setup Guide* (originally built on Claude Code cloud routines). The strategy rules, bash wrappers, git-backed memory, and routine prompts are the same idea; the **scheduler and hosting** are **Cursor** instead of Claude Code.
+Autonomous swing-trading bot that runs on **Claude Code** scheduled remote agents with a frontier Claude model, **Alpaca** for execution, **Tavily** for web-backed research, and **Telegram** for alerts. Based on Nate Herk’s *Opus 4.7 Trading Bot — Setup Guide*. The strategy rules, bash wrappers, git-backed memory, and routine prompts are all in this repo; the **scheduler and hosting** are **Claude Code** scheduled remote agents.
 
 > Stocks only. No options, ever. The discipline is the strategy.
 
@@ -16,10 +16,10 @@ The bot is not a long-running server. It is **five scheduled jobs**: each one sp
 
 ```mermaid
 flowchart TB
-    cron["Automation cron (or Run now)"] --> vm["Ephemeral Cloud Agent VM"]
-    vm --> boot[".cursor/environment + secrets"]
+    cron["Scheduled routine (or manual trigger)"] --> vm["Ephemeral Cloud Agent VM"]
+    vm --> boot["CLAUDE.md auto-loaded + env vars injected"]
     boot --> clone["git clone @ main"]
-    clone --> read["AGENTS.md + memory/*.md + routine prompt"]
+    clone --> read["CLAUDE.md + memory/*.md + routine prompt"]
     read --> work["Claude (model you chose)"]
     work --> alpaca["scripts/alpaca.sh"]
     work --> tavily["scripts/tavily.sh"]
@@ -31,10 +31,10 @@ flowchart TB
 
 ### One run, end to end
 
-1. **Trigger** — A Cursor Automation fires on its cron (see table below) or you click **Run now** for a manual test.
-2. **VM bootstrap** — [`.cursor/environment.json`](.cursor/environment.json) installs `jq` and `python3` and makes `scripts/*.sh` executable. [Cursor Cloud](https://cursor.com/docs/cloud-agent) injects your **secrets** as environment variables (not from a `.env` file in the repo).
+1. **Trigger** — A Claude Code scheduled routine fires on its cron (see table below) or you trigger it manually.
+2. **VM bootstrap** — Claude Code project settings inject the eight API keys as process env vars. No `.env` file is sourced.
 3. **Clone** — The agent works from a **clean clone of `main`**. The previous run’s commits are the only “state” it sees, plus whatever it reads in this session.
-4. **Context** — `AGENTS.md` is the agent rulebook. It also reads the relevant `memory/*.md` files and the **routine** it was given: one of the five playbooks in [`routines/`](routines/).
+4. **Context** — `CLAUDE.md` is the agent rulebook. It also reads the relevant `memory/*.md` files and the **routine** it was given: one of the five playbooks in [`routines/`](routines/).
 5. **Action** — It calls the **wrappers** only:
    - [`scripts/alpaca.sh`](scripts/alpaca.sh) — account, positions, orders, quotes, order placement
    - [`scripts/tavily.sh`](scripts/tavily.sh) — search/answer JSON for pre-market and research steps (optional fallback to the agent’s built-in web search if the key is missing)
@@ -64,9 +64,9 @@ This loop is the entire architecture: **schedule → model + tools → memory fi
 
 Weekends are quiet: only crons you configure for `1–5` will fire on weekdays. **Weekly review** is typically one Automation on **Friday** only.
 
-### The five automations and schedules
+### The five scheduled routines
 
-Cron strings below match **Pacific Time** if your Cursor UI does not offer a timezone (see [`SETUP.md`](SETUP.md)). They line up with **US market hours in ET** (roughly: pre-market ≈ 2.5h before the open, market-open at the open, midday ~1:00pm ET, daily summary ~4:00pm ET close, weekly review Friday after the close). Adjust hours in the Automation if you are not in PT.
+Cron strings below match **Pacific Time** (see [`SETUP.md`](SETUP.md) for timezone guidance). They line up with **US market hours in ET** (roughly: pre-market ≈ 2.5h before the open, market-open at the open, midday ~1:00pm ET, daily summary ~4:00pm ET close, weekly review Friday after the close). Adjust hours if you are not in PT.
 
 | Routine file | Cron (PT) | Role |
 |--------------|-----------|------|
@@ -76,20 +76,22 @@ Cron strings below match **Pacific Time** if your Cursor UI does not offer a tim
 | [`routines/daily-summary.md`](routines/daily-summary.md) | `0 13 * * 1-5` | EOD snapshot; Telegram |
 | [`routines/weekly-review.md`](routines/weekly-review.md) | `0 14 * * 5` | Friday: `WEEKLY-REVIEW.md` |
 
-The **model** (e.g. Opus vs Sonnet) is chosen per Automation in the Cursor UI — not in the markdown files. Heavier judgment (opens, position management) may warrant a larger model; pure research or recap can use a smaller one. Cloud Agents use **Max Mode**-style full runs; **usage** draws from your plan’s **API credit pool** and can **overage** at published model rates. Set a **spend cap** in Cursor if you want a hard ceiling.
+The **model** defaults to the one configured in your Claude Code project settings. Heavier routines (market-open, midday) warrant Opus; research and summary can use Sonnet.
 
 ## Repository layout
 
 ```
 claudebot/
-├── AGENTS.md                 # Auto-loaded rules for every agent session
+├── CLAUDE.md                 # Auto-loaded rules for every agent session
 ├── README.md                 # This file
-├── SETUP.md                  # One-time dashboard setup (GitHub, secrets, crons, smoke test)
-├── env.template              # Local var names only; real secrets in Cursor, not in git
+├── SETUP.md                  # One-time setup (GitHub, secrets, schedules, smoke test)
+├── env.template              # Local var names only; real secrets in Claude Code project settings
 ├── .gitignore
+├── .claude/
+│   └── settings.json         # Bash permissions allowlist for remote agents
 ├── .cursor/
-│   └── environment.json      # Cloud VM: jq, python3, executable scripts
-├── routines/                 # Full text pasted into each Automation as the prompt
+│   └── environment.json      # Cursor-only; not used by Claude Code
+├── routines/                 # Full text used as the prompt for each scheduled routine
 │   ├── pre-market.md
 │   ├── market-open.md
 │   ├── midday.md
@@ -125,8 +127,8 @@ Full rulebook: [`memory/TRADING-STRATEGY.md`](memory/TRADING-STRATEGY.md).
 
 - The agent can place real orders through Alpaca. **Run on paper** until you are confident, then point **Alpaca** secrets at live keys and the live **endpoint** (see `SETUP.md` — no code change required for the switch).
 - Treat **main** as the live tape: if branch protection or PRs block pushes, the next run will not see the last run’s memory.
-- If something looks wrong, **stop the Automations**, inspect the last commits on `main`, and use `git revert` if you need to undo a bad memory write.
+- If something looks wrong, **pause the scheduled routines** via `/schedule` in Claude Code, inspect the last commits on `main`, and use `git revert` if you need to undo a bad memory write.
 
 ---
 
-*Operational setup: [`SETUP.md`](SETUP.md) · Models and billing: [cursor.com/docs/models-and-pricing](https://cursor.com/docs/models-and-pricing)*
+*Operational setup: [`SETUP.md`](SETUP.md) · Claude Code docs: [docs.anthropic.com/en/docs/claude-code](https://docs.anthropic.com/en/docs/claude-code)*

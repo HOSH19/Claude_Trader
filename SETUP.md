@@ -1,6 +1,6 @@
 # Setup Walkthrough
 
-The repo scaffolding is done. The remaining steps all happen in external dashboards (GitHub, Cursor, Alpaca, Tavily, Telegram). Follow these in order.
+The repo scaffolding is done. The remaining steps all happen in external dashboards (GitHub, Claude Code, Alpaca, Tavily, Telegram). Follow these in order.
 
 ## 0. Push the repo to GitHub
 
@@ -22,20 +22,20 @@ git push -u origin main
 | Tavily | https://app.tavily.com/ | Sign up (no credit card), generate an API key from the dashboard. Free tier = 1000 searches/month, plenty for this bot's ~170/month. |
 | Telegram | t.me/BotFather | Create a bot via `/newbot`, save the bot token. Then message your bot once and grab your chat ID from `https://api.telegram.org/bot<TOKEN>/getUpdates` (the `chat.id` field). |
 
-## 2. Install the Cursor GitHub App on this repo
+## 2. Connect the repo to Claude Code
 
-1. Open https://cursor.com/agents (or the Cloud Agents tab in Cursor IDE).
-2. When prompted, click **Install GitHub App**.
-3. On GitHub, choose **Only select repositories** -> select your `trading-bot` repo -> grant **Read & write** access.
-4. Back in Cursor, confirm the repo appears in the connected repos list.
+1. Open [claude.ai/code](https://claude.ai/code) and go to your project settings.
+2. Under **GitHub integration**, click **Connect repository**.
+3. On GitHub, choose **Only select repositories** → select your `trading-bot` repo → grant **Read & write** access.
+4. Back in Claude Code, confirm the repo appears in the connected repos list.
 
-This is the equivalent of the original guide's "Install the Claude GitHub App" step. Without this, Cloud Agents can't clone your repo and can't push memory updates back.
+Without this, remote agents can't clone your repo and can't push memory updates back to `main`.
 
-## 3. Add Secrets at the Cloud Agents dashboard
+## 3. Add environment variables in Claude Code project settings
 
-Go to https://cursor.com/dashboard/cloud-agents -> **Secrets** tab. Add each of these. **Mark every API key as redacted** (the toggle next to the value field) so the agent can never accidentally print them in a commit or chat message.
+Go to your Claude Code project settings → **Environment Variables**. Add each of the following. Never commit these values to the repo — they must only live in the dashboard.
 
-| Secret name | Example / Notes |
+| Variable name | Example / Notes |
 |---|---|
 | `ALPACA_API_KEY` | from Alpaca dashboard |
 | `ALPACA_SECRET_KEY` | from Alpaca dashboard |
@@ -46,22 +46,15 @@ Go to https://cursor.com/dashboard/cloud-agents -> **Secrets** tab. Add each of 
 | `TELEGRAM_BOT_TOKEN` | bot token from @BotFather, format `1234567890:AAEhBP9...` |
 | `TELEGRAM_CHAT_ID` | numeric chat ID — your user ID, group ID, or channel ID |
 
-## 4. Create the five Automations
+These are injected as process env vars into every scheduled agent run. The wrapper scripts read them directly from the process environment — no `.env` file is sourced or needed.
 
-Go to https://cursor.com/automations -> **New Automation**. Repeat five times with these settings:
+## 4. Register the five scheduled routines
 
-For all five:
-- **Repository**: your `trading-bot` repo, branch `main`
-- **Model**: **Claude 4.7 Opus** (Cloud Agents always run Max Mode at API rates)
-- **Trigger**: **Scheduled**, in your local timezone
-- **Open pull request**: **OFF** -- the agent must push directly to `main`
-- **Identity**: your account (or "team" if shared)
+In a Claude Code session with this repo open, use `/schedule` to register each routine. For each one:
 
-For each one, the cron + prompt differ. Cursor's Automation UI (as of Apr 2026) does **not** expose a timezone selector — the cron runs in your local timezone. The table below assumes Pacific Time (PT). Shift hours if you're in a different zone:
-
-- ET = PT + 3
-- CT = PT + 2
-- UTC = PT + 7 (winter) / +8 (summer)
+- Pass the **entire** file contents as the prompt (verbatim — don't paraphrase; the env-check block and commit-and-push step are load-bearing)
+- Use `durable: true` so the schedule persists across sessions
+- Use the cron expressions below (in your local timezone — shift hours if you are not in PT)
 
 | # | Name | Cron (PT) | Equivalent ET | Prompt source |
 |---|---|---|---|---|
@@ -71,51 +64,58 @@ For each one, the cron + prompt differ. Cursor's Automation UI (as of Apr 2026) 
 | 4 | Trading bot - daily-summary | `0 13 * * 1-5` | 4:00 PM ET (close) | paste contents of [`routines/daily-summary.md`](routines/daily-summary.md) |
 | 5 | Trading bot - weekly-review | `0 14 * * 5` | 5:00 PM ET Friday | paste contents of [`routines/weekly-review.md`](routines/weekly-review.md) |
 
-Paste the **entire** file contents into the prompt field, verbatim. Don't paraphrase -- the env-check block and the commit-and-push step are load-bearing.
+**Timezone offsets** (if not on PT):
+- ET = PT + 3
+- CT = PT + 2
+- UTC = PT + 7 (winter) / +8 (summer)
 
-## 5. Smoke-test the pre-market Automation
+**Note on expiry:** Claude Code CronCreate schedules auto-expire after 7 days unless `durable: true` is set. If routines stop running after a week, re-register them via `/schedule`.
 
-Before enabling all five schedules, click **Run now** on the **pre-market** Automation only. Watch the run logs and verify:
+The remote agents push directly to `main` as instructed by the routine prompts — no pull request setting to configure.
 
+## 5. Smoke-test the pre-market routine
+
+Before enabling all five schedules, manually trigger the **pre-market** routine only (via `/schedule` → run now). Watch the run logs and verify:
+
+- [ ] `.claude/settings.json` is present — without it bash calls will block for approval
 - [ ] Env-var preflight prints all six required vars as `set` (none `MISSING`)
 - [ ] `bash scripts/alpaca.sh account` returns valid JSON (paper account equity)
 - [ ] Tavily calls succeed, or gracefully fall back to native WebSearch
 - [ ] `memory/RESEARCH-LOG.md` gains a new dated entry
 - [ ] No `.env` file was created (the prompt forbids this)
 - [ ] Run ends with `git push origin main` succeeding (check `git log` on GitHub)
-- [ ] No PR was opened -- the commit landed directly on `main`
 
 If any of these fail, see the troubleshooting table below before re-running.
 
-If all green, enable the schedules on the other four Automations.
+If all green, enable the schedules on the other four routines.
 
 ## 6. Run a paper week, then go live
 
 1. Let the bot run on the paper endpoint for **at least 5 trading days**.
 2. Each evening, read the day's commits on GitHub: `memory/RESEARCH-LOG.md`, `memory/TRADE-LOG.md` deltas.
 3. Watch Telegram for daily summaries. Make sure the format and tone are reasonable.
-4. After a successful paper week, swap `ALPACA_ENDPOINT` in the Cursor Secrets dashboard to `https://api.alpaca.markets/v2`. **No code changes needed.** The next scheduled run picks up the live endpoint.
+4. After a successful paper week, swap `ALPACA_ENDPOINT` in the Claude Code project environment variables to `https://api.alpaca.markets/v2`. **No code changes needed.** The next scheduled run picks up the live endpoint.
 
-## Troubleshooting (mirrors PDF Part 9)
+## Troubleshooting
 
 | Symptom | Likely cause | Fix |
 |---|---|---|
-| "Repository not accessible" / clone fails | Cursor GitHub App not installed on this repo | Install per Step 2 |
-| `git push` fails with proxy/permission error | App lacks write access, or branch protection on `main` | Re-grant write access; turn off branch protection on `main` for this repo |
-| `ALPACA_API_KEY not set in environment` | Secret missing or misnamed in dashboard | Add it in Step 3 dashboard, not in any `.env` file |
+| "Repository not accessible" / clone fails | Claude Code GitHub integration not connected | Connect per Step 2 |
+| `git push` fails with permission error | App lacks write access, or branch protection on `main` | Re-grant write access; turn off branch protection on `main` for this repo |
+| `ALPACA_API_KEY not set in environment` | Variable missing or misnamed in project settings | Add it in Step 3 dashboard, not in any `.env` file |
 | Agent creates a `.env` file anyway | Prompt was paraphrased and lost the "DO NOT create .env" block | Re-paste the prompt from `routines/*.md` exactly |
 | Yesterday's trades missing from today's run | Previous run didn't commit+push | Verify `git log origin/main`; re-check STEP N of that routine |
 | Push fails "fetch first" / non-fast-forward | Two runs raced | Prompt handles this with `git pull --rebase`. If looping, look for a real merge conflict |
 | Telegram message didn't arrive | `TELEGRAM_BOT_TOKEN` or `TELEGRAM_CHAT_ID` missing, OR you never messaged the bot first (Telegram requires you to start the chat before a bot can DM you) | Script falls back to a local file silently; add the missing var or send `/start` to the bot |
 | Tavily calls didn't happen | `TAVILY_API_KEY` missing | Script exits 3, agent falls back to WebSearch. Add the key or accept fallback |
-| Alpaca rejects stop with PDT error | Same-day stop on same-day buy | Prompt's fallback ladder (trailing -> fixed -> queue tomorrow) handles it. If not cascading, re-paste STEP 5 verbatim |
-| Agent opens a PR instead of pushing to main | "Open pull request" wasn't disabled on the Automation | Edit the Automation; toggle PR off. The prompts also explicitly say "Do NOT open a PR" but the dashboard setting is the harder gate |
+| Alpaca rejects stop with PDT error | Same-day stop on same-day buy | Prompt's fallback ladder (trailing → fixed → queue tomorrow) handles it. If not cascading, re-paste STEP 5 verbatim |
+| Scheduled routine stops running after a week | CronCreate 7-day auto-expiry | Re-register via `/schedule` in Claude Code, or verify `durable: true` was used |
+| `git commit` fails with "Please tell me who you are" | No git identity on remote VM | `CLAUDE.md` instructs the agent to run `git config user.email/name` before commits; verify it is present at repo root |
+| Bash calls block waiting for approval | `.claude/settings.json` missing or permissions allowlist not set | Verify `.claude/settings.json` exists with the `allow` array from Step 2 of this repo's setup |
 
 ## Reference docs
 
-- Cursor Automations: https://cursor.com/docs/cloud-agent/automations
-- Cursor Cloud Agents: https://cursor.com/docs/cloud-agent
-- Setup (environment.json, secrets): https://cursor.com/docs/cloud-agent/setup
-- Models & pricing: https://cursor.com/docs/models-and-pricing
+- Claude Code docs: https://docs.anthropic.com/en/docs/claude-code
+- Claude Code scheduled agents: https://docs.anthropic.com/en/docs/claude-code/scheduled-tasks
 - Alpaca trading API: https://docs.alpaca.markets/
 - Tavily API: https://docs.tavily.com/
