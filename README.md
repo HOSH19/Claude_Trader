@@ -89,8 +89,6 @@ claudebot/
 ├── .gitignore
 ├── .claude/
 │   └── settings.json         # Bash permissions allowlist for remote agents
-├── .cursor/
-│   └── environment.json      # Cursor-only; not used by Claude Code
 ├── routines/                 # Full text used as the prompt for each scheduled routine
 │   ├── pre-market.md
 │   ├── market-open.md
