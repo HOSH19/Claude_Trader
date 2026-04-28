@@ -20,13 +20,13 @@ No positions yet. Bot launches tomorrow.
 ---
 
 ### Apr 28 — EOD Snapshot (Day 2, Tuesday)
-**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)**
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
 | — | — | — | — | — | — | — |
 
-**Notes:** Day 2 with no open positions. Account equity unchanged at $100,000.00; no trades executed today. Pre-market routine is in place; awaiting qualifying momentum setups with clear catalysts before deploying capital. Still 0/3 trades used this week. Target is to identify 1-2 high-conviction entries for the rest of the week once sector momentum signals develop.
+**Notes:** Day 2 final EOD. No positions entered, no orders placed. Equity flat at $100,000.00 — unchanged from open. 0/3 trades used this week. Bot is operational and scanning for high-conviction momentum setups; no qualifying entries identified today. Pre-market tomorrow will focus on sector momentum signals and catalyst screens to identify first live entries.
 
 ---
 
