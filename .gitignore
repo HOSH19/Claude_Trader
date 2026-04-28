@@ -10,9 +10,6 @@
 .vscode/
 .idea/
 
-# Local fallback notification log (when Telegram creds are absent)
-DAILY-SUMMARY.md
-
 # Python
 __pycache__/
 *.pyc
