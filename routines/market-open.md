@@ -58,17 +58,24 @@ STEP 6 — Append each trade to memory/TRADE-LOG.md (matching existing format):
 Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
 
 STEP 7 — Notification: always send a status (trade or no-trade).
+Use EXACTLY the matching template below — do NOT rewrite as prose or a
+single sentence. Each field on its own line. Fill in real values.
+
 If trades fired:
-  bash scripts/telegram.sh "🔔 Market Open $DATE
+  bash scripts/telegram.sh "🔔 Market Open — $DATE
 ─────────────────────
-✅ BOUGHT <SYM ×N @ \$X.XX (trail stop \$X.XX)>
+✅ BOUGHT: SYM ×N @ \$X.XX
+   Stop: \$X.XX (10% trail) | Target: \$X.XX
 💡 <one-line thesis>
-💵 Cash remaining: \$X"
+
+💵 Cash: \$X | Positions: N open"
+
 If no trades:
-  bash scripts/telegram.sh "🔔 Market Open $DATE
+  bash scripts/telegram.sh "🔔 Market Open — $DATE
 ─────────────────────
-⏸ No trades — <reason>
-💼 <N> positions open"
+⏸ No trades — <one-line reason>
+
+💼 Positions: N open"
 
 STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
   git config user.email "bot@trading-bot"
