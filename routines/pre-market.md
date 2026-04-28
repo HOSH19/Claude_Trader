@@ -59,12 +59,17 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - Risk factors for the day
 - Decision: trade or HOLD (default HOLD — patience > activity)
 
-STEP 5 — Notification: always send a brief pre-market summary.
-  bash scripts/telegram.sh "🌅 Pre-Market $DATE
+STEP 5 — Notification: always send the pre-market summary.
+Use EXACTLY this multi-line format — do NOT rewrite as prose or a single
+sentence. Each field on its own line. Fill in real values; omit nothing.
+
+  bash scripts/telegram.sh "🌅 Pre-Market — $DATE
 ─────────────────────
-💼 Equity: \$X | Cash: \$X | DT used: N
-📊 VIX: X | SPX futures: ±X%
-🎯 Ideas: <tickers or none>
+💼 Equity: \$X | Cash: \$X | DT: N
+📊 VIX: X | SPX futs: ±X%
+
+Ideas: <TICKER, TICKER — or NONE>
+
 📋 Decision: <TRADE: tickers | HOLD — one-line reason>"
 
 STEP 6 — COMMIT AND PUSH (mandatory):
