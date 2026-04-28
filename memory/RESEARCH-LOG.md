@@ -168,6 +168,15 @@ Plan: market-open routine should re-test API connectivity. If Alpaca recovers an
 
 ---
 
+## 2026-04-27 — Midday Addendum
+
+- **Positions:** 0 open | **Orders:** 0 open — Alpaca confirmed live (503 on first call, recovered on retry)
+- **S&P 500 / Nasdaq:** Closed at record highs today; broad momentum intact
+- **NVDA:** Retook $5T market cap; +positive price action; Ising quantum-AI models unveiled (minor catalyst, sector-supportive)
+- **DELL:** Still in AI-infra rotation; thesis intact; no negative news
+- **XOM / Oil:** Iran/Hormuz tension ongoing; oil elevated; energy sector bid
+- **No action taken:** 0 positions to cut, tighten, or exit
+- **Midday verdict: HOLD** — FOMC Wed + Mag 7 earnings Wed/Thu remain the dominant binary; market at all-time highs makes chasing entries higher-risk; patience > activity
 ## 2026-04-28 — Pre-market Research
 
 ### Account Snapshot
