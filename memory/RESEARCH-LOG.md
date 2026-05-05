@@ -485,3 +485,65 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 - FOMC decision Wednesday — no new buys until after rate decision
 
 ### Midday Verdict: HOLD — no action required
+
+---
+
+## 2026-05-05 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $99,346.62 | **Cash:** $72,374.94 | **Buying Power:** $171,721.56
+- **Session-start equity:** $99,164.78 | Δ: +$181.84 (+0.18%) — NO DD halt
+- **DT count:** 0 | **Week 2 trades:** 1/3 used (AAPL May 4)
+- **Positions:** 2 open
+
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-----------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $279.45 | +$85.96 (+1.11%) | 10% trail, HWM $279.74, stop $251.77 |
+| NVDA | 96 | $207.15 | $199.46 | −$738.33 (−3.71%) | 10% trail, HWM $206.99, stop $186.29 |
+
+### Market Context
+- **VIX:** ~19.57, range 19.47–20.03 — elevated, up from ~16.99 last week; approaching 20 threshold
+- **S&P 500:** −0.35% today; −0.41% Monday — 2 consecutive down days
+- **WTI / Brent:** Elevated $106+ WTI; US and Iran exchanged fire in Strait of Hormuz on May 4 (fresh escalation after Apr 17 ceasefire opened strait); oil +4% Monday
+- **AMD:** Down ~5.27% today heading into Q1 earnings (after close); consensus: ~$9.85B rev (+33% YoY), EPS ~$1.29 — ±8% expected swing; binary risk to semiconductor sector
+- **FOMC:** Decision Wednesday May 6 — major macro binary; rate decision + press conference
+- **Earnings before open today:** None from universe
+
+### Candidate Scoring (20-symbol universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Pass? |
+|--------|-------|----------|--------|-------|--------|-----|-------|
+| GOOGL | **8/10** | 2 (Q1 cloud beat +63%, rev +22%) | 2 (XLK top) | 0 ($389 live = >10% above est. SMA ~$335) | 2 (post-earnings) | 2 (entry $389, stop $350, target $467 = 2:1) | ✗ DISCARD — setup=0 extended |
+| AMZN | **7/10** | 1 (Q1 beat, $200B capex overhang) | 2 (XLK top) | 1 ($276 est. ~4–7% above SMA ~$258) | 1 (muted post-earnings) | 2 (entry $276, stop $248, target $331 = 2:1) | ✗ HOLD — FOMC binary tomorrow |
+| NVDA | HOLD | 1 (AI capex intact; AMD binary risk tonight) | 2 (XLK top) | — | — | — | Existing position — cannot add (19.3% equity) |
+| AAPL | HOLD | 2 (Q2 beat + upgrades) | 2 (XLK top) | — | — | — | Existing position — cannot add (would exceed 8% cap) |
+| AMD | 5/10 | 1 (earnings binary tonight) | 2 | 0 (binary event) | 2 | 0 | ✗ DISCARD <7 + binary |
+| MSFT | 3/10 | 0 (−3.93% capex fear) | 2 | 0 | 1 | 0 | ✗ DISCARD |
+| META | 3/10 | 0 (−8.55% capex + RL losses) | 2 | 0 | 1 | 0 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF −4.72% YTD) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 1/10 | 0 | 0 (XLV −5.84% YTD) | 0 | 0 | 0 | ✗ DISCARD |
+| XOM/CVX | 4/10 | 1 (oil elevated) | 2 (XLE top) | 1 | 1 | 0 (R:R poor given "cracks forming") | ✗ DISCARD <7 |
+| TSM/AVGO | 5/10 | 1 (AI chip halo) | 2 | 1 | 0 | 1 | ✗ DISCARD <7 |
+| TSLA/SPY/QQQ | 2–4/10 | 0 | 1–2 | 1 | 0 | 0–1 | ✗ DISCARD |
+
+### Position Health Check
+- **AAPL** $279.45: +1.11% unrealized. Not at −7% cut. Not at +15%/+20% tightening. Thesis intact. Stop $251.77 (10% trail, HWM $279.74) — healthy.
+- **NVDA** $199.46: −3.71% unrealized. Manual cut at −7% = $192.65 (−$6.81 cushion). Stop $186.29 (10% trail). AMD earnings binary tonight = heightened watch. Not yet actionable.
+
+### Risk Factors
+- **AMD binary tonight (±8%)** — semiconductor sector drag risk; could push NVDA toward $186.29 stop or $192.65 manual cut; critical watch
+- **FOMC Wednesday (May 6)** — dominant macro binary; hawkish surprise = growth sell-off
+- **Market 2-day decline** — not a momentum entry environment; chasing into weakness violates discipline
+- **GOOGL extended >10% above SMA** — rule-based discard; wait for pullback to $350–360
+- **VIX approaching 20** — elevated uncertainty; wider stops and more false signals
+- **US-Iran fresh escalation** — Hormuz ceasefire broke down May 4; oil spike tail risk to broader equities
+
+### Decision
+**HOLD — no new positions today.** Five compounding reasons:
+1. **AMD binary tonight** — ±8% swing in semis; NVDA already −3.71% and approaching −7% cut; adding exposure into this is imprudent
+2. **FOMC tomorrow (May 6)** — one day of patience preferred; opening new positions today = holding through Wednesday decision blind
+3. **Market declining 2 days** — no momentum confirmation for new entries
+4. **GOOGL discard** — extended >10% above SMA (setup=0); highest-scored candidate fails technical rule
+5. **AMZN (7/10)** — valid candidate but better entry post-FOMC clarity; thesis not time-sensitive
+
+**Watchlist for tomorrow/week:** AMD post-earnings May 6 morning (could score 8–9 on a beat with guidance raise); AMZN post-FOMC entry (7/10, entry ~$276, stop ~$248, target ~$331); GOOGL pullback to $350–360 range. NVDA: if AMD reports well and NVDA recovers above $206.99 HWM, trailing stop auto-tightens.
