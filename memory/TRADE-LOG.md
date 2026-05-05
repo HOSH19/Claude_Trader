@@ -41,6 +41,18 @@ No positions yet. Bot launches tomorrow.
 - R:R: 2.0:1
 - Order ID: bf725f63 (buy) | 7588351f (trailing stop)
 
+---
+
+### May 05 — EOD Snapshot (Day 7, Tuesday)
+**Portfolio:** $99,169.10 | **Cash:** $72,374.94 (73.0%) | **Day P&L:** +$4.32 (+0.00%) | **Phase P&L:** -$830.90 (-0.83%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $284.18 | +2.66% | +$218.40 (+2.82%) | $256.11 |
+| NVDA | 96 | $207.15 | $196.22 | -1.14% | -$1,049.30 (-5.28%) | $186.29 |
+
+**Notes:** Day 7 EOD. Quiet session — no new trades. Two positions held: AAPL recovering strongly post-earnings (+2.66% today, HWM $284.57, trailing stop tightened to $256.11); NVDA sliding further at -5.28% unrealized loss, approaching the -7% manual cut threshold — monitor closely at open tomorrow and cut if it breaches $192.65. Portfolio is 27% deployed, well below the 80% target; pre-market tomorrow should scout 1-2 additional setups from the approved universe (1/3 trades used this week). NVDA trade log entry missing from prior sessions — position confirmed live via Alpaca (96 shares, avg $207.15, stop $186.29, HWM $206.99). Phase P&L sits at -0.83%; need AAPL and NVDA recovery to close the gap vs S&P 500 benchmark.
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
