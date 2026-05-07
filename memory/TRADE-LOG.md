@@ -65,6 +65,18 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Day 8 EOD. Strong session — NVDA staged a decisive intraday reversal (+5.59%), recovering from -5.28% unrealized loss yesterday to near-flat +0.16% today; the -7% cut was not triggered. AAPL continued its post-earnings grind higher (+1.08%), setting a new HWM of $288 with trailing stop now at $259.20. Phase P&L flips positive for the first time: +$337.26 (+0.34%). No new trades today; 1/3 trades used this week. Portfolio remains lightly deployed at 27.9% vs 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups to close the gap. Stops: AAPL $259.20 (HWM $288.00, 10% trail), NVDA $187.44 (HWM $208.27, 10% trail).
 
+### May 07 — EOD Snapshot (Day 9, Thursday)
+**Portfolio:** $100,799.94 | **Cash:** $72,374.94 (71.8%) | **Day P&L:** +$462.68 (+0.46%) | **Phase P&L:** +$799.94 (+0.80%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $287.91 | +0.14% | +$322.84 (+4.17%) | $262.92 |
+| NVDA | 96 | $207.15 | $212.10 | +2.06% | +$475.18 (+2.39%) | $192.78 |
+
+**Notes:** Day 9 EOD. Steady session — both positions advanced. NVDA gained +2.06%, continuing its recovery with HWM now $214.20 and trailing stop updated to $192.78. AAPL moved modestly +0.14%, maintaining +4.17% unrealized gain with HWM at $292.13 and stop at $262.92. Portfolio equity reaches new high: +$799.94 (+0.80%) vs. starting $100K. No trades today; 1/3 weekly trades used with Friday remaining. Portfolio deployed at only 28.2% vs. 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups from approved universe to close the gap.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
