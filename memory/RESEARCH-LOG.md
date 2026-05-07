@@ -53,7 +53,7 @@ TRADE or HOLD (default HOLD if no edge)
 - **Sector momentum YTD:** Tech +22% leading, Energy strong (oil elevated), Healthcare supported by demographics. Semis/AI infrastructure, power/grids, renewables also in favor (source: investing.com, linkedin.com/intrinsicedge)
 
 ### Trade Ideas
-1. **DELL** — AI server orders ($64B FY2026, $50B FY2027 expected), $1.4B Boost Run deal, ISG revenue up mid-60s% YoY. Entry ~$130, stop $117 (-10%), target $156 (+20%), R:R 2:1. Sector: Tech/AI Infrastructure.
+1. **DELL** — AI server orders ($64B FY2026 backlog), $1.4B Boost Run deal, ISG revenue up mid-60s% YoY. Entry ~$130, stop $117 (-10%), target $156 (+20%), R:R 2:1. Sector: Tech/AI Infrastructure.
 2. **XLE (Energy Select SPDR)** — Oil elevated WTI $96/Brent $107 on Middle East supply risk, energy sector strong YTD. Entry ~$102, stop $92 (-10%), target $118 (+16%), R:R 1.6:1. Sector: Energy. *ETF, not single stock — consider individual names like XOM or CVX for better R:R.*
 3. **NVDA** — AI demand secular tailwind, beneficiary of Dell/hyperscaler capex cycle, strong sector momentum. Entry ~$132, stop $119 (-10%), target $158 (+20%), R:R 2:1. Sector: Semiconductors.
 
@@ -96,7 +96,7 @@ TRADE or HOLD (default HOLD if no edge)
 - **Stocks to watch this week (WallStreetZen):** CSTM, DELL, BWMX, MNTN (source: wallstreetzen.com)
 
 ### Trade Ideas
-1. **DELL** — AI server orders ($64B FY2026 backlog), "old tech" rotation in full swing, stock at 52-week records (+157.75%), 100% Buy consensus, $0.63 dividend ex-date Apr 21. Entry ~$130–$135 on any morning dip, stop $119 (-10%), target $158–$162 (+20%), R:R 2:1. Sector: Tech/AI Infrastructure. **WAIT for FOMC clarity Wednesday before sizing up.**
+1. **DELL** — AI server orders ($64B FY2026 backlog), "old tech" rotation in full swing, stock at 52-week records (+157.75%), 100% Buy consensus, $0.63 dividend ex-date Apr 21. Entry $135–$140 on any morning dip, stop $119 (-10%), target $158–$162 (+20%), R:R 2:1. Sector: Tech/AI Infrastructure. **WAIT for FOMC clarity Wednesday before sizing up.**
 2. **NVDA** — AI secular tailwind, NASDAQ futures +1.88% premarket signals semis in favor today, hyperscaler capex cycle intact. Entry ~$132 on pullback from open, stop $119 (-10%), target $158 (+20%), R:R 2:1. Sector: Semiconductors. **Risk: FOMC + GDP data this week could cause chop.**
 3. **XOM** — Oil WTI ~$96/Brent ~$107 on sustained Middle East risk, energy sector momentum confirmed. Entry ~$118, stop $106 (-10%), target $142 (+20%), R:R 2:1. Sector: Energy. More direct play than XLE ETF.
 
@@ -173,7 +173,7 @@ Plan: market-open routine should re-test API connectivity. If Alpaca recovers an
 - **Positions:** 0 open | **Orders:** 0 open — Alpaca confirmed live (503 on first call, recovered on retry)
 - **S&P 500 / Nasdaq:** Closed at record highs today; broad momentum intact
 - **NVDA:** Retook $5T market cap; +positive price action; Ising quantum-AI models unveiled (minor catalyst, sector-supportive)
-- **DELL:** Still in AI-infra rotation; thesis intact; no negative news
+- **DELL:** Thesis intact; AI-server backlog story unchanged; no negative news
 - **XOM / Oil:** Iran/Hormuz tension ongoing; oil elevated; energy sector bid
 - **No action taken:** 0 positions to cut, tighten, or exit
 - **Midday verdict: HOLD** — FOMC Wed + Mag 7 earnings Wed/Thu remain the dominant binary; market at all-time highs makes chasing entries higher-risk; patience > activity
@@ -525,5 +525,26 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 - **No cuts** — AAPL +3.48%, NVDA −1.14%; neither at −7% threshold
 - **No stop tightening** — AAPL at +3.48% (below +15%); NVDA still underwater
 - **No thesis breaks** — AAPL above entry ($286 vs $276.38); NVDA bouncing +4.22% today, May 20 earnings catalyst intact
+
+### Midday Verdict: HOLD — no action required
+
+---
+
+## 2026-05-07 — Midday Addendum
+
+### Account Snapshot (midday)
+- Equity: $100,817.82 | Cash: $72,374.94 | DT count: 0
+- Session-start equity (last_equity): $100,376.90 | Change: +$440.92 (+0.44%) — **no DD halt**
+
+### Positions
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Today | Stop (HWM) | Status |
+|--------|--------|-----------|---------|----------------|-------|------------|--------|
+| AAPL | 28 | $276.38 | $288.83 | +$348.60 (+4.51%) | +0.46% | 10% trail, HWM $292.13, stop $262.92 | Thesis intact |
+| NVDA | 96 | $207.15 | $212.09 | +$473.74 (+2.38%) | +2.05% | 10% trail, HWM $214.20, stop $192.78 | Thesis intact |
+
+### Actions Taken
+- **No cuts** — AAPL +4.51%, NVDA +2.38%; neither at −7% threshold
+- **No stop tightening** — neither position at +15%/+20% winner threshold
+- **No thesis breaks** — AAPL continuing post-earnings recovery; NVDA rallying toward HWM with May 20 earnings intact
 
 ### Midday Verdict: HOLD — no action required
