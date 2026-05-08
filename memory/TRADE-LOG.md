@@ -90,6 +90,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 08 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $101,182.27 | **Cash:** $64,454.34 (63.7%) | **Day P&L:** +$382.33 (+0.38%) | **Phase P&L:** +$1,182.27 (+1.18%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $293.10 | +1.97% | +$468.16 (+6.05%) | $265.28 |
+| MSFT | 19 | $416.87 | $415.15 | -1.34% | -$32.75 (-0.41%) | $376.77 |
+| NVDA | 96 | $207.15 | $214.92 | +1.62% | +$745.90 (+3.75%) | $196.02 |
+
+**Notes:** Day 10 EOD — end of week 2. New position added: bought 19 shares MSFT at $416.87, post-earnings dip recovery on Azure +40% YoY strength; 10% trailing stop active at $376.77 (HWM $418.63). AAPL continued grinding higher (+1.97% today, +6.05% unrealized), stop now $265.28 (HWM $294.76). NVDA held gains (+1.62% today, +3.75% unrealized), stop $196.02 (HWM $217.80). Phase P&L reaches +$1,182.27 (+1.18%) — new high. Week closes with 2/3 trades used (AAPL Mon, MSFT Fri). Portfolio deployed at 36.3% vs 80% target — pre-market Monday must aggressively scout 1–2 high-conviction setups to close the deployment gap (3 fresh trades available next week).
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
