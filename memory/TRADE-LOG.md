@@ -77,6 +77,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-08 — BUY MSFT
+- Shares: 19
+- Entry: $416.87
+- Stop: 10% trailing | HWM $416.48 | Current stop $374.83
+- Target: $500.24 (+20%)
+- Thesis: Post-earnings dip recovery; market overreacted to $190B capex guidance; Azure +40% YoY; Goldman Sachs top software pick PT $610
+- Catalyst: Q3 FY2026 beat — EPS $4.27 vs $4.06 est (+5.2%), Revenue $82.89B vs $81.39B est, Azure +40% YoY; dip from $420 to $416 on capex fear = opportunity
+- Sector: Tech (XLK top tier, +12.57% YTD)
+- R:R: 2.0:1
+- Order ID: 770c5783 (buy) | 9d87db04 (trailing stop)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
