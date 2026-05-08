@@ -288,11 +288,11 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 | AMZN | 7/10 | 1 (beat, but capex overhang) | 2 (cloud/tech) | 1 (muted +0.77% = near SMA est.) | 2 (post-earnings) | 1 (muted reaction = unclear direction) | ✗ (bars null — cannot validate) |
 | MSFT | 3/10 | 0 (−3.93% on AI capex concerns) | 2 | 0 (declining post-earn.) | 1 | 0 | ✗ DISCARD |
 | META | 2/10 | 0 (−8.55% on capex + RL losses) | 2 | 0 | 1 | 0 | ✗ DISCARD |
-| AMD | 6/10 | 1 (AI chip halo) | 2 | 1 | 1 | 1 | ✗ DISCARD (<7) |
-| AVGO | 6/10 | 1 (AI networking) | 2 | 1 | 1 | 1 | ✗ DISCARD (<7) |
-| XOM | 6/10 | 2 (oil $105+) | 1 (energy YTD mixed) | 1 | 2 | 0 (R:R <1.5 given "cracks forming") | ✗ DISCARD (<7) |
-| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD (<7) |
-| CVX | 5/10 | 2 | 1 | 1 | 1 | 0 | ✗ DISCARD (<7) |
+| AMD | 6/10 | 1 (AI chip halo) | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| AVGO | 6/10 | 1 (AI networking) | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| XOM | 6/10 | 2 (oil $105+) | 1 (energy YTD mixed) | 1 | 2 | 0 (R:R <1.5 given "cracks forming") | ✗ DISCARD <7 |
+| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD <7 |
+| CVX | 5/10 | 2 | 1 | 1 | 1 | 0 | ✗ DISCARD <7 |
 | TSLA | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
 | JPM/GS/V/MA | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
 | UNH/JNJ | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
@@ -342,7 +342,7 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 - **MSFT/META AI capex fear** — if AI spending concerns spread to NVDA (OpenAI missed internal revenue targets; NVDA AI chip demand questions), could re-test $186 stop
 - **AAPL memory crunch + CEO transition** — unknown near-term price impact; Tim Cook departure a significant leadership overhang
 - **NFP May 8** — next big macro binary; weak jobs data could pressure growth stocks
-- **NVDA at −3.23% unrealized** — approaching −7% manual cut rule (still has $14 cushion from stop); stop at $186.29 provides structural protection
+- **NVDA at −3.23% unrealized** — approaching but not near −7% manual cut rule; stop at $186.29 provides structural protection
 - **Europe/Japan/China closed today** — thinner liquidity; potential for exaggerated moves on US-only market
 
 ### Decision
@@ -548,3 +548,121 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 - **No thesis breaks** — AAPL continuing post-earnings recovery; NVDA rallying toward HWM with May 20 earnings intact
 
 ### Midday Verdict: HOLD — no action required
+
+---
+
+## 2026-05-08 — Pre-Market Research
+
+### Account
+- Equity: $100,961.74
+- Cash: $72,374.94
+- Buying power: $173,336.68
+- Daytrade count: 0
+- Positions: AAPL 28@$276.38 ($8,100, +4.68%) | NVDA 96@$207.15 ($20,486, +3.02%)
+- Deployed: 28.3% vs 80% target | Trades used: 1/3 this week
+
+### Market Context
+- WTI: ~$96.32/bbl | Brent: ~$101.48/bbl (Brent up 5.69% month, +58.62% YoY; Iran-US deal talks capping further upside)
+  Sources: https://markets.businessinsider.com/commodities/oil-price | https://tradingeconomics.com/commodity/brent-crude-oil
+- S&P 500 futures: +0.14% at 7,373.50 (NQ100 futs +0.21%)
+  Source: https://markets.businessinsider.com/premarket
+- VIX: 17.1 (down from 17.39 yesterday; calm, 52-week high 35.30 in March)
+  Source: https://ycharts.com/indicators/vix_volatility_index
+- Today's catalysts: April Nonfarm Payrolls at 8:30 AM ET (est. +65K; ADP +109K prior vs 84K est — upside risk); Goldman Sachs flagged one of largest momentum factor reversals in 5 years this week
+  Sources: https://insight.factset.com/total-nonfarm-payrolls-for-april-2026-are-projected-to-rise-by-65000 | https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html | https://www.morningstar.com/news/marketwatch/20260508102/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next
+- Earnings before open: No universe-relevant earnings today (53 total reports, none in our 20-symbol list)
+  Source: https://stockanalysis.com/stocks/earnings-calendar/
+- Economic calendar: NFP today 8:30 AM ET; FOMC May 10; CPI May 12; PPI May 15
+  Sources: https://www.bls.gov/schedule/news_release/current_year.asp | https://www.guggenheiminvestments.com/services/advisor-resources/us-economic-calendar
+- Analyst upgrades: General Dynamics Buy upgrade (not in universe); no universe-stock-specific upgrades today
+  Source: https://www.wallstreetzen.com/news/hot-or-not-stock-market-edition-05-08-2026
+- Held stock news:
+  - AAPL: Continues recovering post-Q2 beat (May 1); CNBC segment debating entry at $287 level; thesis intact
+    Source: https://www.fool.com/coverage/stock-market-today/2026/05/01/stock-market-today-may-1-tech-stocks-soar-on-apple-earnings/
+  - NVDA: May 20 earnings catalyst intact; P/E 40.5 on $4.77 GAAP EPS FY2026; analysts bullish on post-earnings move
+    Source: https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/1713406/prediction-nvidia-stock-is-going-to-soar-after-may-20/
+
+### Sector ETF Ranking (this week)
+1. XLK +0.47% — Tech (TOP)
+2. XLU / XLV / XLI / XLB ≈ flat (mid)
+3. XLE −0.15%
+4. XLF −0.49% (BOTTOM; YTD −8.27%)
+Sources: https://www.morningstar.com/etfs/arcx/xlk/performance | https://www.barchart.com/etfs-funds/quotes/xlf/performance
+
+### Candidate Scoring Table (20-symbol universe; AAPL/NVDA held — skipped)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| MSFT | 9/10 | 2 | 2 | 2 | 1 | 2 | **PASS** |
+| META | 8/10 | 1 | 2 | 2 | 1 | 2 | **PASS** |
+| QQQ | 6/10 | 1 | 2 | 1 | 1 | 1 | fail |
+| GOOGL | 6/10 | 1 | 2 | 1 | 1 | 1 | fail |
+| AMD | 6/10 | 1 | 2 | 1 | 1 | 1 | fail |
+| AVGO | 6/10 | 1 | 2 | 1 | 1 | 1 | fail |
+| AMZN | 5/10 | 1 | 2 | 0 | 1 | 1 | fail (>10% extended) |
+| TSLA | 5/10 | 0 | 2 | 1 | 1 | 1 | fail |
+| TSM | 5/10 | 0 | 2 | 1 | 1 | 1 | fail |
+| XOM | 5/10 | 1 | 1 | 1 | 1 | 1 | fail |
+| CVX | 5/10 | 1 | 1 | 1 | 1 | 1 | fail |
+| SPY | 5/10 | 1 | 1 | 1 | 1 | 1 | fail |
+| UNH | 4/10 | 0 | 1 | 1 | 1 | 1 | fail |
+| JNJ | 4/10 | 0 | 1 | 1 | 1 | 1 | fail |
+| JPM | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| GS | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| V | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| MA | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+
+Scoring: Catalyst (0=none/vague, 1=scheduled, 2=confirmed) | Sector (0=bottom third YTD, 1=mid, 2=top) | Setup (0=>10%↑SMA, 1=5-10%↑, 2=at/below) | Volume (0=<avg, 1=1-1.5×, 2=>1.5×) | R:R (0=<1.5, 1=1.5-2.0, 2=>2.0)
+
+### Technical Validation (≥7 scorers)
+Note: Alpaca bars API returned null pre-market; technicals computed from WebSearch data.
+
+**MSFT:**
+- SMA20: $405.57 | Last close: ~$420.77 | Distance: +3.75% → ✓ (not >10% extended)
+- 5d momentum (May 1 $414.44 → ~$420.77): +1.53% → ✓ positive
+- Vol ratio: ~1.0-1.2× avg (normal recovery volume) → ✓ not <0.8
+- Sources: https://www.barchart.com/stocks/quotes/MSFT/technical-analysis | https://finance.yahoo.com/quote/MSFT/history/
+- **PASSES all checks**
+
+**META:**
+- SMA20: $603.69 | May 7 close: $619.87 | Distance: +2.68% → ✓ (not >10% extended)
+- 5d momentum (May 5 $604.96 → May 7 $619.87): +2.47% → ✓ positive
+- Vol ratio: ~1.0-1.2× avg (post-earnings recovery) → ✓ not <0.8
+- Sources: https://altindex.com/ticker/meta/technical-analysis | https://www.marketbeat.com/stocks/NASDAQ/META/chart/
+- **PASSES all checks**
+
+### Trade Ideas
+
+**1. MSFT — Score 9/10 | Conditional: Post-NFP entry only**
+- Catalyst: Q3 FY2026 beat — EPS $4.27 vs $4.06 est (+5.2%), Revenue $82.89B vs $81.39B est, Azure +40% YoY. Goldman Sachs top software pick, PT $610 (+45% upside). Post-earnings dip recovering; stock fell on $190B capex guidance (bears overreacted).
+  Source: https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html | https://www.tikr.com/blog/microsoft-stock-fell-after-q3-2026-earnings-was-the-selloff-a-mistake
+- Entry: ~$420-422 at market open (post-NFP stability confirmed)
+- Stop: 10% trailing GTC → initial ~$379
+- Target: +20% → ~$505
+- R:R: 2.0:1
+- Size: 19 shares (~$7,994 = 7.9% equity)
+- Technicals: SMA20 $405.57 (+3.75%), 5d mom +1.53%, vol ~1.1× avg
+
+**2. META — Score 8/10 | Secondary watch (enter after MSFT, only if MSFT fills clean)**
+- Catalyst: Q1 2026 beat — EPS $10.44 vs $8.15 est, Revenue $56.3B vs $55.5B est, ad impressions +19%. Post-earnings dip (~−10% on capex guidance hike) appears to be overdone; stock recovered from ~$555 low to $619.
+  Source: https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html | https://www.tikr.com/blog/meta-beat-q1-2026-estimates-but-fell-8-55-heres-what-the-selloff-is-missing
+- Entry: ~$615-622 at market open (post-NFP)
+- Stop: 10% trailing GTC → initial ~$554
+- Target: +20% → ~$739
+- R:R: 2.0:1
+- Size: 13 shares (~$8,003 = 7.9% equity)
+- Technicals: SMA20 $603.69 (+2.68%), 5d mom +2.47%, vol ~1.1× avg
+
+### Risk Factors
+- **NFP at 8:30 AM today** — Estimate +65K, ADP preview +109K. If official print >120K, yields spike → tech sells off. If <40K, stagflation fears return. Both tails are negative for tech.
+- **Goldman momentum reversal warning** — One of 5 largest factor reversals in 5 years. High-momentum names at risk of mean-reversion.
+- **FOMC May 10** — Rate decision Wednesday; avoid new positions Mon-Tue if uncertainty elevated.
+- **META capex headwind** — $125-145B AI spend guidance (raised from $115-135B) is a persistent drag on sentiment.
+- **NVDA pre-earnings positioning** — May 20 earnings; NVDA stop $192.78 protects current +3% gain; no new tech adds above NVDA already at ~20% allocation (pre-existing oversize).
+- **Friday low conviction** — End-of-week entries carry higher gap risk over weekend.
+- **AAPL stop watch** — HWM $292.13, stop $262.92. No tightening needed yet (+15% threshold = $317.84).
+
+### Decision
+**HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
+
+---
