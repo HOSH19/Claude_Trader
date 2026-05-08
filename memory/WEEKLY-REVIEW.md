@@ -105,3 +105,71 @@ Template for each entry:
 - **Research continuity**: Ensure daily-summary commits EOD snapshots every day — no more gaps
 
 ### Overall Grade: C-
+
+---
+
+## Week ending 2026-05-08
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,164.92 (May 4 open) |
+| Ending portfolio | $101,181.31 |
+| Week return | +$2,016.39 (+2.03%) |
+| S&P 500 week | ~+2.02% (7,243.95 → 7,390.13) |
+| Bot vs S&P | +0.01% (tied) |
+| Phase P&L | +$1,181.31 (+1.18%) vs S&P phase +2.81% → -1.63% vs benchmark |
+| Trades | 2 (W:0 / L:0 / open:2; NVDA carried from wk 1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | AAPL +6.00% unrealized |
+| Worst trade | MSFT -0.44% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh, May 4) | $292.96 | +$464.30 (+6.00%) | Trail 10%, HWM $292.96, stop ~$263.67 |
+| NVDA | $207.15 (96 sh, Apr 28) | $214.98 | +$751.66 (+3.78%) | Trail 10%, HWM $214.20, stop $192.78 |
+| MSFT | $416.87 (19 sh, May 8) | $415.05 | -$34.65 (-0.44%) | Trail 10%, HWM $416.48, stop $374.83 |
+
+Deployed: $36,726.97 (36.3%) | Cash: $64,454.34
+
+### What Worked
+- AAPL entry timing: May 4 entry at $276.38 into post-earnings pullback zone was clean; +6.00% in 4 trading days
+- NVDA recovery: survived the -5.28% scare on May 5 without triggering -7% cut; recovered to +3.78% by week end
+- Candidate scoring: MSFT correctly scored 9/10 (highest of the week) — Azure +40%, Q3 beat, Goldman top pick; thesis validated
+- Sector discipline: All 3 positions in XLK (top-tier YTD); avoided financials (XLF -8.27% YTD) and healthcare (XLV worst)
+- Stop hygiene: All 3 positions have active GTC trailing stops; no manual overrides or lapses
+
+### What Didn't Work
+- Deployment remains critically low: 36.3% deployed vs 80% target — 2nd consecutive week of massive underdeployment
+- NVDA position oversizes the 8% max rule (~19.7% of equity, $19,886 cost basis) — this was a rule violation from week 1 never corrected
+- MSFT initiated on NFP Friday end-of-week instead of earlier — higher gap risk, weaker conviction timing
+- META (scored 8/10) not initiated despite passing all checks — left a high-conviction setup on the table
+- Still no closed trades in 2 weeks — no realized P&L; all performance is paper unrealized gains
+
+### Key Lessons
+- Underdeployment is now the #1 structural drag: being 63.7% in cash while the market grinds higher costs 1%+ per week in opportunity cost vs benchmark
+- NVDA position sizing violates the 8% rule (19.7% of equity) — oversized position from inception; the rule must be respected going forward; cannot add more until NVDA trims to below 8%
+- End-of-week entries (MSFT on Friday) carry inherent weekend gap risk — prefer Mon-Wed entries for new positions
+- META at 8/10 was actionable and was skipped due to FOMC uncertainty; FOMC hold was priced in — that hesitation cost potential alpha
+- "3 new trades per week" budget used this week (AAPL + MSFT = 2; but NVDA was week 1); next week all 3 slots available
+
+### Adjustments for Next Week
+- **Deployment push**: Must reach ≥60% by Wed May 13; scout 2 quality entries Mon AM pre-market; no more sitting on 64% cash
+- **Primary candidates**: META (still 8/10, $619 zone), GOOGL (pullback candidate if market softens on CPI May 12), AMZN (cloud backlog story)
+- **NVDA**: Hold through May 20 earnings; stop $192.78 intact; do NOT add (rule violation to add when already at 19.7%)
+- **MSFT**: Early in position (-0.44%); thesis intact (Azure +40%); hold unless thesis breaks; stop $374.83
+- **AAPL**: At +6%; tighten trail to 7% when it reaches +15% (~$317.84); stop now ~$263.67
+- **FOMC May 10 (Wed)**: Rate decision — no new buys Mon-Tue; initiate after FOMC holds confirmed
+- **CPI May 12**: Secondary macro gate; tech-heavy portfolio sensitive to inflation prints
+
+### Overall Grade: B-
