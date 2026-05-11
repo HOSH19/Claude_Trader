@@ -90,6 +90,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 11 — EOD Snapshot (Day 11, Monday)
+**Portfolio:** $101,542.56 | **Cash:** $64,454.34 (63.5%) | **Day P&L:** +$328.78 (+0.32%) | **Phase P&L:** +$1,542.56 (+1.54%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $292.68 | -0.22% | +$456.34 (+5.90%) | $265.28 |
+| MSFT | 19 | $416.87 | $412.05 | -0.74% | -$91.68 (-1.16%) | $376.77 |
+| NVDA | 96 | $207.15 | $219.42 | +1.96% | +$1,177.90 (+5.92%) | $200.07 |
+
+**Notes:** Day 11 EOD. Mixed session — NVDA led with +1.96% (HWM now $222.30, stop $200.07, unrealized +5.92%); AAPL and MSFT gave back small amounts (-0.22% and -0.74% respectively). No trades today; 0/3 weekly trades used this week. Portfolio deployed at 36.5% vs 80% target — well below the deployment goal. AAPL stop at $265.28 (HWM $294.76, 10% trail), MSFT stop at $376.77 (HWM $418.63, 10% trail). No positions near the -7% manual cut threshold. Phase P&L advances to +1.54% ($+1,542.56); need to increase deployment to close gap vs S&P 500 benchmark.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
