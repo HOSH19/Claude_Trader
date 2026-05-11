@@ -666,3 +666,57 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-11 — Pre-market Research (Market-Open Inline)
+
+### Account
+- Equity: $101,105.65 | Cash: $64,454.34 | Buying Power: $165,559.99
+- Daytrade count: 0 | Trades this week: 0/3
+- Positions: AAPL 28@$276.38 (+5.68%) | MSFT 19@$416.87 (−1.74%) | NVDA 96@$207.15 (+4.05%)
+- Deployed: 36.2% vs 80% target | Session-start equity: $101,213.78
+
+### Market Context
+- WTI: ~$97.89–$100.00 | Brent: ~$104 — Iran war ongoing; deal speculation capping upside
+- S&P 500 futures: 7,407.25, −0.16% | Dow futures: falling on Iran war headlines
+- VIX: 19.18 (up from 17.10 on May 8 — trending toward 20; caution)
+- Today's catalysts: Iran war headlines weighing on Dow; no universe earnings today
+- Economic calendar: **CPI April TOMORROW May 12** (major binary risk); PPI May 15; NVDA earnings May 20
+- Sector momentum: XLK top tier; XLF bottom (YTD −8.27%)
+
+### Candidate Scoring (≥7 to advance)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | 8/10 | 1 | 2 | 2 | 1 | 2 | PASS — deferred (CIP binary) |
+| GOOGL | 6/10 | 1 | 2 | 1 | 1 | 1 | fail |
+| AMD | 5/10 | 1 | 2 | 0 | 0 | 1 | fail (spread $464–$485; skip) |
+| AMZN | 5/10 | 1 | 2 | 0 | 1 | 1 | fail (extended) |
+| AVGO | 5/10 | 1 | 2 | 1 | 0 | 1 | fail |
+| TSM | 4/10 | 1 | 2 | 1 | 0 | 0 | fail |
+| XOM/CVX | 4/10 | 1 | 1 | 1 | 0 | 1 | fail (oil falling on Iran deal hopes) |
+| JPM/GS/V/MA | 2/10 | 0 | 0 | 1 | 0 | 1 | fail |
+| UNH/JNJ | 2/10 | 0 | 0 | 1 | 0 | 1 | fail |
+
+### Held Position Check
+- **AAPL**: Quote $289.88–$291.37 | Normal spread ✓ | +5.68% unrealized | Stop HWM $292.13, current stop $262.92 | Thesis intact — post-earnings recovery continuing
+- **MSFT**: Quote $409.89–$410.10 | Normal spread ✓ | −1.74% unrealized | Stop HWM $416.48, current stop $374.83 | Market down broadly (Iran/VIX); Azure +40% thesis intact; not at −7% cut threshold
+- **NVDA**: Quote $215.14–$217.00 | Normal spread ✓ | +4.05% unrealized | Stop HWM $215.55 est., current stop $192.78 | May 20 earnings 9 days away; bearish Palantir-precedent article is risk factor; thesis intact
+
+### Risk Factors
+- **CPI April tomorrow (May 12)** — dominant binary; hot print → tech selloff; entering today means holding through it
+- **VIX 19.18 rising** — from 17.10 May 8; approaching 20 threshold; risk-off tilt
+- **Iran war latest news** — dragging Dow futures; any de-escalation = oil collapse + mixed equity impact
+- **NVDA May 20 earnings** — bearish precedent article (Palantir comparison); pre-earnings volatility risk
+- **MSFT trending lower** — 3 sessions since entry, slightly underwater; headline "disappointed third quarter in a row" (sentiment drag vs. our beat thesis)
+- **AMD bid/ask $464–$485** — $20 spread, skip entirely
+
+### Decision
+**HOLD** — No new entries today.
+1. CPI tomorrow = binary macro risk; no new tech positions before print
+2. VIX rising to 19.18 + Dow down on Iran = risk-off environment
+3. META (8/10) qualifies technically but CIP blocks entry; defer to post-CPI
+4. All other candidates <7 or with disqualifying conditions (AMD spread, energy falling)
+5. Existing positions: all thesis intact, no cuts or tighten needed
+**Watch**: META post-CPI if print benign; NVDA stop monitor into May 20 earnings
+
+---
