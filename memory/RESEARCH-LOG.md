@@ -666,3 +666,25 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-11 — Midday Addendum
+
+### Account Snapshot (midday)
+- Equity: $101,545.49 | Cash: $64,454.34 | DT count: 0
+- Session-start equity (last_equity): $101,213.78 | Change: +$331.71 (+0.33%) — **no DD halt**
+
+### Positions
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Today | Stop (HWM) | Status |
+|--------|--------|-----------|---------|----------------|-------|------------|--------|
+| AAPL | 28 | $276.38 | $291.28 | +$417.20 (+5.39%) | −0.69% | 10% trail, HWM $294.76, stop $265.28 | Thesis intact |
+| MSFT | 19 | $416.87 | $409.09 | −$147.89 (−1.87%) | −1.45% | 10% trail, HWM $418.63, stop $376.77 | Thesis intact — hedge fund selling (TCI, Sands Cap) but analysts bullish; capex headwind known at entry, Azure intact |
+| NVDA | 96 | $207.15 | $220.57 | +$1,288.30 (+6.48%) | +2.50% | 10% trail, HWM $222.30, stop $200.07 | Thesis intact — May 20 earnings catalyst; rallying intraday |
+
+### Actions Taken
+- **No cuts** — AAPL +5.39%, MSFT −1.87%, NVDA +6.48%; none at −7% threshold
+- **No stop tightening** — no position at +15%/+20% winner thresholds
+- **No thesis breaks** — MSFT soft on hedge fund selling (TCI, Sands Capital exiting) but Azure fundamentals unchanged; this is the same capex-fear overreaction thesis entered on May 08
+
+### Midday Verdict: HOLD — no action required
+
+---
