@@ -666,3 +666,152 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-11 — Pre-market Research
+
+### Account
+- Equity: $101,061.39
+- Cash: $64,454.34 (63.8%)
+- Buying power: $165,515.73
+- Daytrade count: 0
+- Deployed: $36,607.05 (36.2% vs 80% target)
+- Weekly trades used: 0/3 (new week)
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | HWM | Stop | Status |
+|--------|--------|-------|---------|----------------|-----|------|--------|
+| AAPL | 28 | $276.38 | $293.69 | +$484.68 (+6.26%) | $294.76 | $265.28 (10%) | Healthy |
+| MSFT | 19 | $416.87 | $411.91 | -$94.31 (-1.19%) | $418.63 | $376.77 (10%) | Monitor |
+| NVDA | 96 | $207.15 | $214.14 | +$671.02 (+3.37%) | $217.80 | $196.02 (10%) | Healthy |
+
+### Market Context
+- **WTI / Brent:** ~$98-100 / ~$101-105 (elevated; US-Iran war, Strait of Hormuz blockade; peace deal talks causing some oil price retreat)
+  Sources: https://markets.businessinsider.com/commodities/oil-price | https://oilprice.com/
+- **S&P 500 futures:** $7,412.25 (−6.75 pts, −0.09%) — essentially flat after Friday ATH close
+  Source: https://www.marketwatch.com/investing/future/es00
+- **VIX:** 17.19 (stable; up 0.6% from Friday; range 16.82-17.53; 52-week high 35.30)
+  Source: https://www.theglobeandmail.com/investing/markets/stocks/CSCO/pressreleases/1843988/stock-market-news-for-may-11-2026/
+- **Today's catalysts:**
+  - AAPL ex-dividend date ($0.27/share, 28 shares = $7.56); minor positive
+  - Wedbush (Dan Ives) raises AAPL PT to $400 (street high, from $350); AI chapter "finally underway"
+  - Tim Cook stepping down as CEO this September (John Ternus succession); markets positive on transition
+  - Trump to invite AAPL/NVDA CEOs on China trip (tariff resolution catalyst)
+  - TSMC April revenue +17.5% YoY (bullish for NVDA/TSM/semiconductor chain)
+  - Friday NFP +177K (vs 130K est) → S&P 500 and Nasdaq hit all-time highs Friday
+  - US-Iran peace deal talks: oil stocks SINKING (Exxon, Chevron fell); disqualifies energy sector entries
+  Sources: https://www.barchart.com/story/news/1750682/dear-apple-stock-fans-mark-your-calendars-for-may-11 | https://www.cnbc.com/quotes/MSFT
+- **Earnings before open:** JD.com (BMO) — not in universe. No universe-relevant earnings today.
+  Source: https://stockanalysis.com/stocks/earnings-calendar/
+- **Economic calendar:**
+  - TODAY (May 11): No major releases — clean macro day
+  - Tomorrow (May 12): **April CPI at 8:30 AM ET** — Forecast 3.7-4.0% YoY (elevated due to Iran war/energy). HIGH RISK event.
+  - Kalshi: High probability CPI prints above 3.7%
+  - PPI: ~May 15; Fed speakers this week
+  Sources: https://www.bls.gov/news.release/pdf/cpi.pdf | https://bkobog.substack.com/p/preview-of-the-week-starting-11may2026 | https://kalshi.com/markets/kxcpiyoy/inflation/kxcpiyoy-26apr
+
+### Sector ETF Ranking (YTD 2026)
+1. **XLE** +25.40% (TOP — but cautious: oil stocks falling on Iran peace deal expectations)
+2. **XLK** +22.07% (TOP — preferred for new entries; tech momentum intact)
+3. **XLI** +11.97% (mid)
+4. XLP +8.98% (mid)
+5. XLU +5.49% (mid)
+6. XLC -0.53% (mid-low)
+7. XLF -5.96% (BOTTOM — avoid financials)
+Source: https://totalrealreturns.com/n/XLP,XLU,XLC,XLE,XLF,XLI,XLK
+
+### Held Stock News
+- **AAPL:** Wedbush PT↑$400 (Dan Ives, street high); AI features "finally underway"; Tim Cook succession; ex-div $0.27 today; Trump China trip invite. Thesis intact and strengthening.
+  Sources: https://www.cnn.com/markets/stocks/AAPL | https://www.barchart.com/story/news/1750682/dear-apple-stock-fans-mark-your-calendars-for-may-11
+- **NVDA:** Pre-earnings run-up pattern (9/12 historical, avg +2.6% in 2 weeks); TSMC rev +17.5% April bullish; NVDA/MU/QCOM hit 52-week highs last week; May 20 earnings. Thesis intact.
+  Sources: https://marketchameleon.com/articles/b/2026/5/5/a-stock-rise-in-nvda-has-history-on-its-side | https://stocktwits.com/news-articles/markets/equity/nvda-mu-qcom-stocks-hit-52-week-highs-last-week-what-is-behind-the-surge/
+- **MSFT:** -1.19% unrealized. Headwinds: hedge fund sold $8B MSFT, China patent dispute, clean energy pledge review. Positives: Azure +40% YoY, Goldman top pick, Q3 beat intact. Thesis holds; stop $376.77 is 8.5% below current ($411.91) — not at risk.
+  Source: https://robinhood.com/us/en/stocks/MSFT/ | https://www.cnbc.com/quotes/MSFT
+
+### Candidate Scoring (20-symbol universe; excl. held AAPL/MSFT/NVDA)
+Note: bars API returned null pre-market; technicals computed via WebSearch (same approach as May 8).
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | 8/10 | 2 | 2 | 1 | 1 | 2 | **PASS** |
+| AMD | 8/10 | 2 | 2 | 0 | 2 | 2 | pass (RSI 93 overbought — high risk) |
+| GOOGL | 7/10 | 2 | 2 | 1 | 1 | 1 | **MARGINAL PASS** |
+| TSM | 7/10 | 2 | 2 | 0 | 1 | 2 | fail (bars null, likely >10% extended) |
+| AVGO | 5/10 | 1 | 2 | 0 | 1 | 1 | fail |
+| AMZN | 5/10 | 1 | 2 | 0 | 1 | 1 | fail (>10% extended) |
+| TSLA | 4/10 | 0 | 2 | 1 | 1 | 0 | fail |
+| QQQ | 5/10 | 1 | 2 | 1 | 1 | 0 | fail |
+| SPY | 4/10 | 1 | 1 | 1 | 1 | 0 | fail |
+| XOM | 4/10 | 0 | 2 | 1 | 1 | 0 | fail (peace deal = negative catalyst for oil) |
+| CVX | 4/10 | 0 | 2 | 1 | 1 | 0 | fail (peace deal = negative catalyst for oil) |
+| UNH | 3/10 | 0 | 1 | 1 | 1 | 0 | fail |
+| JNJ | 3/10 | 0 | 1 | 1 | 1 | 0 | fail |
+| JPM | 2/10 | 0 | 0 | 1 | 1 | 0 | fail |
+| GS | 2/10 | 0 | 0 | 1 | 1 | 0 | fail |
+| V | 2/10 | 0 | 0 | 1 | 1 | 0 | fail |
+| MA | 2/10 | 0 | 0 | 1 | 1 | 0 | fail |
+
+Scoring rubric: Catalyst (0=none, 1=scheduled, 2=confirmed) | Sector (0=bottom third YTD, 1=mid, 2=top) | Setup (0=>10%↑SMA20, 1=5-10%↑, 2=at/below) | Volume (0=<avg, 1=1-1.5×, 2=>1.5×) | R:R (0=<1.5, 1=1.5-2.0, 2=>2.0)
+- XOM/CVX catalyst downgraded: Iran peace deal = oil prices fall = negative near-term catalyst for oil stocks
+- Energy sector (XLF) = financials bottom tier; XLE energy sector top YTD but near-term bearish
+
+### Technical Validation (candidates scoring ≥7)
+
+**META — Score 8/10:**
+- SMA20 est: ~$618 | Current est: ~$640 (post-Friday ATH rally from May 7 close $619.87) | Distance: +3.6% → ✓ not >10% extended
+- 5d momentum: May 7 $619.87 → ~$640: +3.2% → ✓ positive
+- Volume ratio: ~1.0-1.2× avg (steady post-earnings recovery) → ✓ not <0.8
+- Sources: https://www.tipranks.com/stocks/meta/technical-analysis | https://altindex.com/ticker/meta/technical-analysis
+- **PASSES all checks**
+
+**GOOGL — Score 7/10:**
+- SMA20 est: ~$348 (recovered from ~$323 on Apr 29 pre-earnings) | Current: ~$383 | Distance: ~+10.1% → BORDERLINE (may fail >10%)
+- 5d momentum: positive (post-earnings recovery, markets at ATH) → ✓
+- Volume ratio: moderate → ✓
+- Analyst consensus PT: $383.34 = current price → zero fundamental upside per sell-side
+- Sources: https://capital.com/en-int/market-updates/alphabet-stock-forecast-30-04-2026 | https://public.com/stocks/googl/forecast-price-target
+- **MARGINAL — AT analyst consensus PT, borderline SMA distance; lower conviction**
+
+**AMD — Score 8/10 (excluded from trade ideas):**
+- SMA20 est: ~$235 (20-day EMA $235.21 per TipRanks) | Current: ~$278 | Distance: +18.3% → ✗ FAILS (>10% extended)
+- RSI: 93.2 (extreme overbought per altindex) → dangerous entry, likely to mean-revert
+- 5d momentum: positive (post-earnings beat) → ✓
+- Volume: high (earnings catalyst) → ✓
+- Fails only 1 of 3 technical checks (not discarded by 2+ rule), but RSI 93 = extreme risk; excluded from trade ideas
+- Sources: https://www.tipranks.com/stocks/amd/technical-analysis | https://altindex.com/ticker/amd/technical-analysis
+
+### Trade Ideas
+
+**1. META — Score 8/10 | Watch: Enter post-CPI May 12 if inline (≤3.8%)**
+- Catalyst: Q1 2026 confirmed beat — EPS $10.44 vs $8.15 est (+28%), Revenue $56.3B vs $55.5B est, ad impressions +19%. Post-earnings capex-fear dip from ~$620→$555 appears fully recovered; stock at ~$640 with AI monetization story intact and no near-term headwinds.
+  Sources: https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html
+- Entry: ~$635-645 post-CPI confirmation (May 12 open)
+- Stop: 10% trailing GTC → initial ~$576-581
+- Target: +20% → ~$762-774
+- R:R: 2.0:1
+- Size: 12 shares (~$7,680 = 7.6% equity) [max 8% = 12-13 shares at $640]
+- Technicals: SMA20 ~$618 (+3.6%), 5d mom +3.2%, vol ~1.1× avg
+
+**2. GOOGL — Score 7/10 | Secondary watch (only if META fills and CPI ≤3.7%)**
+- Catalyst: Q1 2026 confirmed beat — Alphabet surged +10% post-earnings; Google Cloud growth, Gemini AI. Stock held above $380 with 100% probability on prediction market.
+  Sources: https://capital.com/en-int/market-updates/alphabet-stock-forecast-30-04-2026 | https://public.com/stocks/googl/forecast-price-target
+- Entry: ~$383 (at current level — tight entry; validate SMA distance pre-order)
+- Stop: 10% trailing GTC → initial ~$344.70
+- Target: +20% → ~$459.60
+- R:R: 2.0:1
+- Size: 21 shares (~$8,043 = 7.96% equity)
+- **WARNING:** Analyst consensus PT = $383 = current price. Technical SMA distance borderline. Lower conviction than META.
+- Technicals: SMA20 est ~$348 (~+10% distance — borderline), 5d mom positive, vol moderate
+
+### Risk Factors
+- **CPI tomorrow (May 12, 8:30 AM):** Forecast 3.7-4.0% YoY (elevated due to Iran war oil). Hot print (>4%) → tech selloff; entering today exposes to overnight/pre-market CPI risk
+- **Iran peace deal near-term:** Oil stocks sinking on ceasefire progress; Exxon/Chevron Q1 profits FELL despite high oil; energy sector disqualified
+- **NVDA oversizing:** 96 shares × $214 = $20,557 = 20.3% of equity (exceeds 8% rule; pre-existing legacy position). No further NVDA adds possible
+- **MSFT headwinds:** Hedge fund sold $8B MSFT, China patent dispute ongoing, clean energy pledge review — near-term sentiment drag
+- **AMD/semis overbought:** RSI 93.2 on AMD; semiconductor space very extended after NVDA/MU/QCOM hit 52-week highs Friday — mean-reversion risk
+- **Markets at all-time highs:** S&P 500 and Nasdaq at ATH after Friday NFP rally — downside risk asymmetric
+- **Low deployment (36%):** Urgency to deploy exists but not at cost of chasing into CPI risk
+
+### Decision
+**HOLD** — Today is macro-clean but CPI tomorrow (May 12, 8:30 AM, forecast 3.7-4.0%) creates binary overnight risk for any new tech position. META (8/10) is the highest-conviction entry; GOOGL secondary. Both entries should wait for CPI confirmation — if April CPI prints ≤3.8%, enter META at open May 12. If CPI hot (>4%), tech selloff = better entry price in days ahead. Existing positions hold: AAPL (Wedbush PT $400 catalyst), NVDA (pre-earnings run-up setup), MSFT (thesis intact despite noise). No stop tightening needed (none at +15% threshold yet). Patience > activity.
+
+---
