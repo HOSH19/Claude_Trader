@@ -90,6 +90,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-12 — BUY META
+- Shares: 13
+- Entry: $598.88
+- Stop: 10% trailing | HWM $598.60 | Current stop $538.74
+- Target: $718.66 (+20%)
+- Thesis: Post-earnings dip recovery; Q1 2026 EPS $10.44 vs $8.15 est (+28%), capex fear oversold; trading below 20d SMA ($603) = rare setup; CPI 2.3% vs 3.7% expected = macro tailwind
+- Catalyst: Q1 2026 beat (EPS +28%, Revenue $56.3B vs $55.5B est); CPI massive undershoot → rate cut probability surges → growth stocks repriced higher
+- Sector: Tech (XLK top tier YTD)
+- R:R: 2.0:1
+- Order ID: d84f32e5 (buy) | 35f2e0b1 (trailing stop)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 

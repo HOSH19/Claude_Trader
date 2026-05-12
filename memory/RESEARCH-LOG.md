@@ -666,3 +666,52 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-12 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $101,588.52
+- Cash: $64,454.34
+- Buying power: $166,042.86
+- Daytrade count: 0
+- Positions: 3 — AAPL 28@$276.38 (+5.93%) | MSFT 19@$416.87 (−1.87%) | NVDA 96@$207.15 (+6.38%)
+- Deployed: 36.6% vs 80% target | Trades used: 0/3 this week (new week May 11)
+
+### Market Context
+- **CPI April 2026:** 2.3% YoY actual vs 3.7% headline expected (FactSet consensus) — MASSIVE BEAT; core CPI also below estimates. Rate cut probability surges; bullish for tech/growth.
+- **S&P 500:** Closed 7,412.84 on May 11; near all-time highs.
+- **VIX:** ~17 (calm; 52-wk high 35.30 in March)
+- **Today's catalysts:** CPI print (8:30 AM ET) = primary catalyst; no universe earnings today
+- **Sector momentum:** XLK (tech) top tier YTD; financials/energy lagging
+
+### Candidate Scoring (20-symbol universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | **9/10** | 2 (Q1 EPS+28% beat; CPI macro tailwind) | 2 (XLK top) | 2 (below SMA20 ~$603) | 1 (elevated at open) | 2 (entry $592, target $710, 2:1) | **PASS** |
+| MSFT | 8/10 | 2 (Q3 Azure+40% beat; CPI) | 2 (XLK top) | 2 (at SMA ~$406) | 1 | 2 | HELD — already in position |
+| NVDA | 8/10 | 2 (May 20 earnings; CPI) | 2 | 1 (>SMA) | 2 | 2 | HELD — already in position |
+| AAPL | 7/10 | 1 (post-Q2 beat) | 2 | 1 | 1 | 2 | HELD — already in position |
+| GOOGL | 6/10 | 1 (cloud beat) | 2 | 0 ($385 >10% extended vs SMA) | 1 | 1 | fail |
+| AMD | 3/10 | 0 | 2 | 0 | 0 | 1 | fail (spread too wide at open) |
+
+### Trade Idea
+
+**META — Score 9/10 | Entry today post-CPI**
+- Catalyst: Q1 2026 beat (EPS $10.44 vs $8.15 est, Rev $56.3B vs $55.5B est); CPI 2.3% vs 3.7% expected = macro tailwind; stock oversold on capex fear (recovered from ~$555 low to ~$592)
+- Entry: ~$592 market (bid $589 / ask $596)
+- Stop: 10% trailing GTC → initial ~$533
+- Target: $710 (+20%)
+- R:R: 2.0:1
+- Size: 13 shares (~$7,700 = 7.6% equity)
+
+### Risk Factors
+- CPI data may already be partially priced in pre-market; opening gap risk
+- META bid/ask spread at open was $7 ($589–$596); fill may be near ask
+- MSFT in portfolio at -1.87% unrealized — no cut needed but monitor
+- Goldman momentum reversal warning still relevant (flagged May 8)
+
+### Decision
+**TRADE — BUY META.** CPI massive beat (2.3% vs 3.7%) provides clear macro catalyst. META below SMA20 with confirmed earnings beat = rare combination of technical setup + fundamental catalyst. Score 9/10. All gates pass. 1/3 weekly trades.
+
+---
