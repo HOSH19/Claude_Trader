@@ -666,3 +666,32 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-12 — Afternoon Addendum (Midday Scan)
+
+### Account Snapshot (midday)
+- Equity: $101,222.17 | Cash: $56,668.85 | Session-start equity: $101,556.16
+- Change from open: −$333.99 (−0.33%) — **no DD halt**
+- DT count: 1
+
+### Position Review
+
+| Ticker | Shares | Entry | Price | Unrealized P&L | Trailing Stop | HWM |
+|--------|--------|-------|-------|----------------|---------------|-----|
+| AAPL | 28 | $276.38 | $294.39 | +$504.14 (+6.52%) | $265.41 (10%) | $294.90 |
+| META | 13 | $598.88 | $598.85 | −$0.43 (−0.01%) | $543.37 (10%) | $603.75 |
+| MSFT | 19 | $416.87 | $408.75 | −$154.35 (−1.95%) | $376.77 (10%) | $418.63 |
+| NVDA | 96 | $207.15 | $216.05 | +$854.38 (+4.30%) | $201.38 (10%) | $223.75 |
+
+### Actions Taken
+- None. All positions within rules.
+- No -7% breaches. No +15%/+20% tighten thresholds reached.
+- No thesis breaks observed.
+
+### Intraday Notes
+- CPI day (scheduled catalyst); tech sector mild pullback intraday. NVDA −1.55% today, MSFT −0.95% today — both within noise.
+- MSFT at −1.95% from entry; no action until −7%. Post-earnings thesis intact (Azure +40%, Q3 beat).
+- META near flat from entry; 10% trailing stop in place.
+- NVDA pre-earnings (May 20) setup intact; stop at $201.38 protects +4% gain from entry.
+- Portfolio deployed: ~44% ($44,553 / $101,222) — below 80% target; no new buys this midday session.
+
