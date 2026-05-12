@@ -666,3 +666,96 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-12 — Pre-Market Research
+
+### Account
+- Equity: $101,327.62 | Cash: $64,454.34 | Buying Power: $165,781.96
+- DayTrade Count: 0 | Deployed: 36.4% (3 positions)
+- Session-start equity (prev close): $101,556.16 → DD: -0.22% (well within 10% halt threshold)
+- Trades this week (May 11–15): 0/3
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| AAPL | 28 | $276.38 | $291.99 | +$437.08 (+5.65%) | $265.28 (HWM $294.76) |
+| NVDA | 96 | $207.15 | $217.70 | +$1,012.78 (+5.09%) | $200.07 (HWM $222.30) |
+| MSFT | 19 | $416.87 | $410.44 | -$122.24 (-1.54%) | $376.77 (HWM $418.63) |
+
+Notes: AAPL ex-dividend $0.27 on May 11. NVDA earnings scheduled May 20 (8 days). MSFT -1.54% unrealized; stop $376.77 intact, cut threshold $387.69.
+
+### Market Context
+- **WTI:** ~$99/bbl (+4.23%) | **Brent:** ~$105/bbl (+3.70%)
+- **SPX futures:** 7,418 (-0.16%) | **NASDAQ 100 futures:** 29,310 (-0.39%)
+- **VIX:** ~18.5 (up ~6–10% from yesterday)
+- **KEY EVENT: April CPI at 8:30 AM ET today** — prior +0.2% core MM; consensus ~+0.3% headline / +0.2% core
+- US-China 90-day tariff truce active (slashing tariffs from 145%→30%) — positive backdrop for ad-revenue names
+- Sources: https://markets.businessinsider.com/premarket | https://blog.kraken.com/economic-brief/may-6-2026 | https://www.bls.gov/schedule/news_release/cpi.htm
+
+### Sector ETF Rankings (this week)
+1. XLK Technology — still top YTD ~+12.57%; but fell this week (sector momentum waning)
+2. XLV Healthcare / XLI Industrials — mid-tier
+3. XLE Energy — worst performer this week at **-5.35%** (massive reversal from prior #1)
+- XLF Finance — bottom third YTD (-8.27%); no support from rates environment
+- Sources: https://x.com/SerSigma/status/2053500308140019844
+
+### Candidate Scoring Table (20-symbol universe; AAPL/NVDA/MSFT held — excluded)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | 8/10 | 1 | 2 | 2 | 1 | 2 | **PASS** |
+| AMD | 6/10 | 2 | 2 | 0 | 2 | 0 | fail (>10% extended, RSI 93) |
+| AVGO | 6/10 | 1 | 2 | 0 | 1 | 2 | fail (>10% extended) |
+| GOOGL | 5/10 | 2 | 2 | 0 | 1 | 0 | fail (>10% extended, +12.7% above SMA) |
+| AMZN | 5/10 | 1 | 2 | 0 | 1 | 1 | fail (>10% extended) |
+| TSLA | 5/10 | 1 | 2 | 1 | 1 | 0 | fail (<1.5 R:R) |
+| QQQ | 4/10 | 1 | 1 | 1 | 1 | 0 | fail |
+| TSM | 4/10 | 0 | 2 | 1 | 1 | 0 | fail |
+| SPY | 4/10 | 1 | 1 | 1 | 1 | 0 | fail |
+| UNH | 4/10 | 0 | 1 | 1 | 1 | 1 | fail |
+| JNJ | 4/10 | 0 | 1 | 1 | 1 | 1 | fail |
+| XOM | 3/10 | 0 | 0 | 1 | 1 | 1 | fail (XLE sector -5.35% this week) |
+| CVX | 3/10 | 0 | 0 | 1 | 1 | 1 | fail (XLE sector -5.35% this week) |
+| JPM | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| GS | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| V | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+| MA | 3/10 | 0 | 0 | 1 | 1 | 1 | fail |
+
+Scoring: Catalyst (0=none/vague, 1=scheduled/stale, 2=confirmed fresh) | Sector (0=bottom third YTD, 1=mid, 2=top) | Setup (0=>10%↑SMA, 1=5–10%↑, 2=at/below) | Volume (0=<avg, 1=1–1.5×, 2=>1.5×) | R:R (0=<1.5, 1=1.5–2.0, 2=>2.0)
+
+### Technical Validation (≥7 scorers)
+Note: Alpaca bars API returned null pre-market; technicals computed from WebSearch/Tavily data.
+
+**META:**
+- SMA20: $648.85 | Last price: ~$609.63 | Distance: **-6.1% BELOW SMA** → ✓ (not extended; score 2)
+- 5-day momentum (May 7 $619.87 → ~$609.63): **-1.65%** → ✗ (slightly negative)
+- Vol ratio: ~1.0–1.2× avg (post-tariff-truce recovery) → ✓ (not <0.8)
+- Fails 1/3 checks → **PASSES** (need 2+ failures to discard)
+- Sources: https://financhill.com/stock-price-chart/meta-technical-analysis | https://altindex.com/ticker/meta/technical-analysis | https://www.fxleaders.com/news/2026/05/06/meta-meta-stock-analysis-may-6-2026-605-falling-wedge-gains-trade-truce-catalyst-650-gap-fill-in-play/
+
+### Trade Ideas
+
+**1. META — Score 8/10 | Conditional on CPI near consensus**
+- Catalyst: US-China 90-day tariff truce (slashes tariffs 145%→30%, removes biggest risk to Q2 ad revenue guidance); Q1 2026 beat — EPS $10.44 vs $8.15 est (+28%), Rev $56.3B vs $55.5B; $650 gap-fill in play as next resistance.
+  Sources: https://www.fxleaders.com/news/2026/05/06/meta-meta-stock-analysis-may-6-2026-605-falling-wedge-gains-trade-truce-catalyst-650-gap-fill-in-play/
+- Entry: ~$610–615 post-CPI (wait 15–30 min after 8:30 print; abort if core CPI >+0.4%)
+- Stop: 10% trailing GTC → initial ~$549
+- Target: +20% → ~$732
+- R:R: ($732 − $613) / ($613 − $552) = $119/$61 = **2.0:1**
+- Size: 13 shares × ~$613 = ~$7,969 (~7.87% of equity)
+- Technicals: SMA20 $648.85 (−6.1% below), 5d mom −1.65% (slight neg), vol ~1.1× avg
+
+### Risk Factors
+- **CPI at 8:30 AM ET** — hot print (>+0.4% core) → rates spike → tech sells off; entry conditioned on benign print
+- **VIX ~18.5 (up 6–10%)** — elevated fear; CPI amplifies vol
+- **WTI surging (+4.2%)** — rising oil = inflation signal; could support a hot CPI print
+- **XLK down this week** — tech sector momentum waning despite tariff truce
+- **META 5-day momentum negative (−1.65%)** — mini-downtrend; stock below all major MAs per Chartmill
+- **NVDA earnings May 20** — pre-earnings positioning risk; current gain +5.09%, stop $200.07 (HWM $222.30) intact
+- **Portfolio deployed 36.4%** — urgency to add positions but not at the cost of macro misstep
+- **MSFT −1.54%** — monitoring; cut threshold $387.69, stop $376.77; thesis intact (revenue growth acceleration)
+
+### Decision
+**CONDITIONAL TRADE — META** if CPI near consensus. Wait for 8:30 AM print. If core CPI ≤ +0.3% and tech opens flat-to-green, enter META ~$610–615 at market-open routine. Abort if core >+0.4%. Patience > activity — no pre-CPI entries. Hold AAPL (+5.65%), NVDA (+5.09%), MSFT (−1.54%) unchanged.
+
+---
