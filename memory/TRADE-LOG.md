@@ -90,6 +90,33 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-12 — BUY META
+- Shares: 13
+- Entry: $598.88
+- Stop: 10% trailing | HWM $603.75 | Current stop $543.37
+- Target: $718.66 (+20%)
+- Thesis: Post-earnings momentum play; AI-driven engagement and ad monetization gains; sector (Tech/XLK) top-tier YTD
+- Catalyst: Strong Q1 2026 results expected; Meta AI product expansion driving engagement uplift
+- Sector: Tech (XLK)
+- R:R: 2.0:1
+- Order ID: (market fill) | 35f2e0b1 (trailing stop)
+
+---
+
+### May 12 — EOD Snapshot (Day 12, Tuesday)
+**Portfolio:** $101,613.26 | **Cash:** $56,668.85 (55.8%) | **Day P&L:** +$57.10 (+0.06%) | **Phase P&L:** +$1,613.26 (+1.61%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $294.52 | +0.63% | +$507.88 (+6.56%) | $265.72 |
+| META | 13 | $598.88 | $602.50 | +0.60% | +$47.01 (+0.60%) | $543.37 |
+| MSFT | 19 | $416.87 | $407.40 | -1.27% | -$180.02 (-2.27%) | $376.77 |
+| NVDA | 96 | $207.15 | $220.05 | +0.28% | +$1,238.38 (+6.23%) | $201.38 |
+
+**Notes:** Day 12 EOD. Flat session (+$57 day P&L). New position META opened (13sh @ $598.88); 1/3 weekly trades used. Portfolio now 4 positions, 44.2% deployed vs 80% target — still meaningfully underweight. AAPL HWM $295.24 (stop $265.72, 10% trail); NVDA HWM $223.75 (stop $201.38, 10% trail — tightens to 7% at +15%); MSFT -2.27% unrealized, well above -7% cut, stop $376.77 (HWM $418.63); META fresh entry, stop $543.37 (HWM $603.75). Phase P&L: +$1,613.26 (+1.61%). Two trades remain this week — pre-market tomorrow must scout 1-2 high-conviction setups from approved universe to close the deployment gap.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
