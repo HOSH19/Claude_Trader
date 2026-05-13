@@ -666,3 +666,107 @@ Note: Alpaca bars API returned null pre-market; technicals computed from WebSear
 **HOLD** — NFP release at 8:30 creates too much uncertainty for pre-market entry. MSFT (9/10) is the highest-conviction setup available; watch for post-NFP open. If NFP near consensus (+60-80K) and tech holds green at open, enter MSFT first. META is secondary if MSFT fills cleanly and market remains stable. Hold META decision until post-FOMC (May 10). Patience > activity on a Friday with macro catalysts in flight.
 
 ---
+
+## 2026-05-13 — Pre-Market Research
+
+### Account
+- Equity: $102,095.61
+- Cash: $56,668.85
+- Buying power: $158,764.46
+- Daytrade count: 0
+- Positions: 4 | Deployed: 44.5% ($45,426.76) vs 80% target
+- Trades used this week: 1/3 (META on May 12)
+
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-----------|---------|----------------|------------|
+| AAPL | 28 | $276.38 | $294.34 | +$502.88 (+6.50%) | 10% trail, HWM $295.24, stop $265.72 |
+| META | 13 | $598.88 | $601.42 | +$32.97 (+0.42%) | 10% trail, HWM $603.745, stop $543.37 |
+| MSFT | 19 | $416.87 | $406.10 | −$204.70 (−2.58%) | 10% trail, HWM $418.63, stop $376.77 |
+| NVDA | 96 | $207.15 | $225.53 | +$1,764.46 (+8.87%) | 10% trail, HWM $223.75, stop $201.38 |
+
+### Market Context
+- **WTI / Brent:** WTI ~$100.88–$101.18 / Brent ~$106.32–$106.88 — elevated on Iran/Hormuz disruption; slight retreat from recent highs (sources: markets.businessinsider.com, bloomberg.com/energy)
+- **S&P 500 futures:** +0.32% at 7,450.25 | NQ100 +0.87% at 29,424.75 — positive premarket despite inflation headwinds (source: markets.businessinsider.com/premarket)
+- **VIX:** ~17.91–17.93, down ~2.1% — constructive; 52-week high 35.30 on 3/9/26 (sources: tradingview.com, marketwatch.com)
+- **CPI (yesterday, May 12):** CPI +0.6% MoM, +3.8% YoY (above consensus); Core CPI +2.8% YoY (above 2.7% est) — hot print; 10-year Treasury yields rose to 1-year high; "Nasdaq Pares Losses" as market absorbed data (sources: bls.gov/news.release/cpi.nr0.htm, wsj.com/livecoverage/cpi-inflation-report-stock-market-05-12-2026, aimsfx.com)
+- **PPI today (May 13) at 8:30 AM ET:** April 2026 PPI — major market-moving event; one source suggests 4.9% YoY expected; back-to-back inflation prints = key risk for tech today (sources: bls.gov/schedule/news_release/ppi.htm, investing.com/economic-calendar/ppi-734)
+- **FOMC:** Decision taken May 10 — likely hold; outcome not confirmed this session
+- **Earnings before open today:** No universe-relevant names; 147 total reports but none from our 20-symbol list (source: stockanalysis.com/stocks/earnings-calendar)
+- **NVDA:** Multiple "NVDA Will Soar on May 20" analyst pieces pre-earnings; catalyst intact (sources: fool.com/investing/2026/05/13/prediction-nvidia-stock-will-soar-on-may-20, fool.com/investing/2026/05/13/nvidia-could-make-a-big-move-by-may-20)
+- **GOOGL YTD:** +27.24% | **AMZN YTD:** +17.48% | **S&P 500 YTD:** +7.09% (source: aol.com)
+
+### Sector ETF Ranking (this week)
+1. **XLK** (Tech) — TOP; "S&P 500 tech sector on track for record high" per Barron's May 12; NQ futures +0.87% today (source: marketwatch.com/investing/fund/xlk)
+2. **XLE** (Energy) — TOP; oil sustained above $100; YTD ~+32% (source: barchart.com)
+3. **XLU** (Utilities) — MID; YTD +4.76% (source: barchart.com/etfs-funds/quotes/XLU/performance)
+4. **XLF** (Financials) — BOTTOM; YTD ~−8% (source: prior research log)
+5. **XLV** (Healthcare) — BOTTOM; YTD ~−6% (source: prior research log)
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held — monitored separately)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| GOOGL | **7/10** | 2 (Q1 cloud +63% beat, YTD +27%) | 2 (XLK top) | 1 (est. 5–10% above SMA; post-earnings recovery) | 1 (normal post-earnings) | 1 (elevated entry after +10% gap) | ✗ Bars null — cannot validate |
+| AVGO | **7/10** | 2 (AI rev +106% YoY, $73B backlog, $8.4B Q1 AI) | 2 (XLK top) | 1 (est. near SMA, AI premium) | 1 (steady) | 1 (est. ~2:1) | ✗ Bars null — cannot validate |
+| AMZN | 6/10 | 1 (Q1 AWS beat; $200B capex overhang) | 2 (tech) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| AMD | 6/10 | 1 (post-Q1 earn.; Helios rack mid-2026) | 2 (XLK top) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| XOM | 5/10 | 1 (oil $101) | 1 (energy YTD strong but Q1 miss) | 1 | 1 | 1 | ✗ DISCARD |
+| CVX | 5/10 | 1 | 1 | 1 | 1 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF bottom) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV bottom) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+*Bars API returned null for all symbols — pre-market data unavailable. Technicals estimated from web research.*
+
+### Technical Validation (≥7 scorers only)
+
+**GOOGL** (bars null — research-based):
+- Post-Q1 gap: +9.96% from ~$350 pre-earnings → est. ~$385. YTD +27.24%.
+- Est. 20d SMA: ~$350–360 (lagging post-gap). Distance: ~+7–10% → borderline PASS
+- 5-day momentum: Recovering from gap (positive) ✓
+- Volume ratio: Post-earnings normal ~1.0× ✓
+- CPI headwind yesterday → GOOGL -0.72%
+- Technical result: **CANNOT CONFIRM** (bars null). Blocked.
+
+**AVGO** (bars null — research-based):
+- Last known: ~$406 (April). AI revenue acceleration driving premium.
+- Est. 20d SMA: ~$380–400. Distance: ~0–7% → likely PASS (not extended)
+- 5-day momentum: AI tailwind ongoing ✓
+- Volume ratio: Est. ~1.0× ✓
+- Technical result: **CANNOT CONFIRM** (bars null). Blocked.
+
+### Existing Position Monitoring
+
+**NVDA** — +8.87% unrealized. Pre-market +2.15% today ($225.53 vs $220.78). HWM $223.75 → trailing stop auto-updating. NOT at +15% tighten threshold ($238.22). May 20 earnings in 7 days. Thesis intact. **No action.**
+
+**AAPL** — +6.50% unrealized. HWM $295.24, stop $265.72. Tighten threshold $317.84. Thesis intact. **No action.**
+
+**META** — +0.42% unrealized. Entered yesterday. HWM $603.745, stop $543.37. New position; needs room. **No action.**
+
+**MSFT** — −2.58% unrealized ($406.10 vs entry $416.87). Manual cut at −7% = $387.69. Hot CPI/PPI environment could pressure further. **Watch closely at open; cut only if $387.69 breached.**
+
+### Trade Ideas
+No actionable entries today (bars null + PPI macro gate):
+
+1. **GOOGL (watchlist)** — Score 7/10. Cloud catalyst confirmed. Entry ~$378–385, stop ~$345, target ~$455, R:R ~2:1. Unlock post-PPI if print in-line and bars confirm at open.
+2. **AVGO (watchlist)** — Score 7/10. AI revenue $8.4B Q1, $73B backlog. Entry ~$400, stop ~$360, target ~$480, R:R ~2:1. Unlock post-PPI if print in-line and bars confirm at open.
+
+### Risk Factors
+- **PPI at 8:30 AM today** — back-to-back inflation after hot CPI. 4.9% YoY expected. Hot print = yields spike, tech sells off, MSFT approaching cut territory.
+- **MSFT −2.58%** — vulnerable to hot PPI; manual cut level $387.69; stop $376.77.
+- **NVDA May 20 earnings** — 7 days; +8.87% position rides into binary event; stop $201.38 provides ~11% structural floor below current price.
+- **10-year yields at 1-year high** — CPI-driven; compresses tech multiples across board.
+- **Iran/Hormuz** — oil $101 WTI sustained; any de-escalation collapses energy sector.
+- **Bars API null** — all new position decisions blocked until intraday bars available.
+
+### Decision
+**HOLD — no new positions today.**
+1. PPI at 8:30 AM is a binary macro event; entering before the print violates patience > activity.
+2. CPI already hot — hot PPI follow-through would pressure tech materially; MSFT under watch.
+3. Bars null — cannot complete technical validation for GOOGL or AVGO.
+4. 2 trade slots remain this week — preserve for post-PPI confirmed setups at market open.
+5. GOOGL and AVGO are the primary targets for next entry if PPI clears constructively.
+
+---
