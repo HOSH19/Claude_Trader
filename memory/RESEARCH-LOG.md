@@ -769,4 +769,10 @@ No actionable entries today (bars null + PPI macro gate):
 4. 2 trade slots remain this week — preserve for post-PPI confirmed setups at market open.
 5. GOOGL and AVGO are the primary targets for next entry if PPI clears constructively.
 
+### Afternoon Addendum — 2026-05-14 Midday
+- **NVDA approaching +15% tighten trigger.** Entry $207.15, current $235.29 (+13.58%). Threshold: $238.22. Gap: ~$2.93 (1.25%). If hit today, cancel order db9a0e69, replace with 7% trail.
+- **NVDA earnings May 20** (6 days). Pre-earnings momentum explains +4.19% intraday move. Thesis intact. Stop at $212.823 (HWM $236.47, 10% trail).
+- **No cuts, no tightenings triggered.** MSFT recovering (+0.70% today, unrealized -2.11%). All positions within rules.
+- **Account:** Equity $103,351.95 (+$919 today, +0.90%). 4 positions, 45.2% deployed.
+
 ---
