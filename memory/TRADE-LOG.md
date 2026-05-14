@@ -90,6 +90,20 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 14 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $103,490.24 | **Cash:** $56,668.85 (54.8%) | **Day P&L:** +$1,058.17 (+1.03%) | **Phase P&L:** +$3,490.24 (+3.49%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $298.38 | -0.17% | +$615.94 (+7.96%) | $270.83 |
+| META | 13 | $598.88 | $618.00 | +0.22% | +$248.51 (+3.19%) | $561.36 |
+| MSFT | 19 | $416.87 | $408.75 | +0.87% | -$154.35 (-1.95%) | $376.77 |
+| NVDA | 96 | $207.15 | $236.11 | +4.55% | +$2,780.14 (+13.98%) | $212.89 |
+
+**Notes:** Day 14 EOD. Strong session led by NVDA (+4.55%, HWM now $236.54, stop $212.89) — approaching the +15% tighten-to-7%-trail threshold at $238.22; watch closely at open tomorrow. AAPL drifted -0.17% but holds +7.96% unrealized with HWM $300.92 and stop $270.83. META gained +0.22%, unrealized +3.19%, stop $561.36; note: buy entry was missing from TRADE-LOG — position confirmed live via Alpaca (13 shares, avg $598.88, stop created May 12). MSFT remains mildly underwater at -1.95% unrealized but recovered +0.87% today; HWM $418.63, stop $376.77. Portfolio deployed at 45.2% vs 80% target — pre-market tomorrow must identify 1–2 additional setups; 2 trades remaining this week. Phase P&L: +3.49% vs S&P benchmark.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
