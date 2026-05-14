@@ -770,3 +770,114 @@ No actionable entries today (bars null + PPI macro gate):
 5. GOOGL and AVGO are the primary targets for next entry if PPI clears constructively.
 
 ---
+
+## 2026-05-14 — Pre-Market Research
+
+### Account
+- Equity: $102,891.81
+- Cash: $56,668.85
+- Buying power: $159,560.66
+- Daytrade count: 0
+- Deployed: $46,222.96 (44.9%) vs 80% target | Trades used: 1/3 this week (META May 12)
+
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-----------|---------|----------------|------------|
+| AAPL | 28 | $276.38 | $300.18 | +$666.34 (+8.61%) | 10% trail, HWM $300.92, stop $270.83 |
+| META | 13 | $598.88 | $617.50 | +$242.01 (+3.11%) | 10% trail, HWM $619.89, stop $557.90 |
+| MSFT | 19 | $416.87 | $406.32 | −$200.52 (−2.53%) | 10% trail, HWM $418.63, stop $376.77 |
+| NVDA | 96 | $207.15 | $229.90 | +$2,183.98 (+10.98%) | 10% trail, HWM $227.84, stop $205.06 |
+
+### Market Context
+- **WTI / Brent:** WTI ~$100.56–$101.17 / Brent ~$105.38–$105.97 — sustained on Iran/Hormuz; +11.63% past month, +64.22% YoY for Brent (source: https://markets.businessinsider.com/commodities/oil-price, https://tradingeconomics.com/commodity/brent-crude-oil)
+- **S&P 500 futures:** Range 7,435–7,489; Morningstar: "Nvidia Rally Propels Stocks to New Records" (source: https://www.wsj.com/market-data/quotes/futures/SP%20500%20FUTURES, https://www.morningstar.com/markets)
+- **VIX:** 17.87 (May 13 close, −0.67%) — constructive; 52-week high 35.30 on 3/9/26 (source: https://finance.yahoo.com/quote/%5EVIX/history/)
+- **Today's catalysts:** Jensen Huang joined Trump in Beijing (invited at last minute); BofA raised NVDA PT to $320 (from $300), AI datacenter TAM raised to $1.7T by 2030; AAPL dividend payable today; "NVDA Rally Propels Stocks to New Records" per Morningstar (source: https://www.tikr.com/blog/nvidia-stock-rose-this-week-as-jensen-huang-joins-trump-in-beijing-heres-what-it-means-for-the-stock-in-2026, https://www.youtube.com/watch?v=jUD-qA2buAw)
+- **Earnings before open:** No universe-relevant names; Vecima Networks, GH Research — minor (source: https://www.wallstreethorizon.com/earnings-calendar)
+- **Economic calendar 8:30 AM ET:** Retail Sales April (consensus +0.5% MoM, prior +1.7%); Initial Jobless Claims week of May 9 (prior 200K, est. 209K); Import/Export Prices (source: https://us.econoday.com/, https://www.marketwatch.com/economy-politics/calendar)
+- **MSFT note:** YTD −14%, underperforming Nasdaq — thesis (Azure +40% YoY) valid but sector momentum is low vs held book (source: https://finance.yahoo.com/markets/stocks/articles/meta-vs-msft-better-buy-182446831.html)
+- **NVDA May 20 earnings:** Q1 FY2027 guidance $78B (+75% YoY); China revenue excluded from guidance; Jensen Huang in China could unlock re-access (source: https://www.tikr.com/blog/nvidia-stock-rose-this-week-as-jensen-huang-joins-trump-in-beijing-heres-what-it-means-for-the-stock-in-2026)
+
+### Sector ETF Ranking (YTD through May 12)
+1. **XLE +29.60%** (Energy — TOP)
+2. **XLK +21.84%** (Tech — TOP)
+3. **XLI +12.71%** (Industrials — mid)
+4. XLP +9.31% | XLU +6.60% | SPY +8.46%
+5. **XLF −5.34%** (Financials — BOTTOM)
+6. **XLV −1.27%** (Healthcare — bottom-ish)
+(source: https://totalrealreturns.com/n/XLP,XLU,XLC,XLE,XLF,XLI,XLK)
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held — monitored)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| NVDA | **8/10** | 2 (Jensen/China + BofA PT $320 + May 20 earn. $78B) | 2 (XLK top) | 1 (est. +5-7% above SMA20) | 2 (elevated on headline) | 1 (R:R ~1.8:1 at current) | HELD — at 19.4% equity cap |
+| MSFT | **8/10** | 1 (Azure +40% YoY thesis intact; no new catalyst) | 2 (XLK top) | 2 (at/below SMA; YTD −14%) | 1 (normal) | 2 (R:R ~2.75:1 from current) | HELD — watch $387.69 cut |
+| GOOGL | **7/10** | 2 (Q1 Cloud +63% beat; YTD +27.24%) | 2 (XLK top) | 1 (est. 5–8% above SMA; post-gap recovery) | 1 (normal post-earnings) | 1 (R:R ~2:1 at ~$385-395) | ✗ Bars null — cannot validate |
+| AVGO | **7/10** | 2 (AI rev +106% YoY; $73B backlog; $10B+ H2 customer) | 2 (XLK top) | 1 (est. near SMA; AI premium ongoing) | 1 (steady) | 1 (R:R ~2:1 at ~$390-400) | ✗ Bars null — cannot validate |
+| AAPL | **7/10** | 1 (dividend today; ATH $300.92 May 12; no new catalyst) | 2 (XLK top) | 1 (est. 5–9% above SMA) | 1 (normal, ~0.89× avg) | 2 (R:R ~2.1:1) | HELD — no add |
+| META | **7/10** | 1 (Q1 beat; ad revenue thesis intact) | 2 (XLK top) | 1 (est. +2-5% above SMA) | 1 (normal) | 2 (R:R ~2.1:1) | HELD |
+| AMD | 6/10 | 1 (Q1 beat; Helios rack mid-2026) | 2 (XLK top) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| XOM | 6/10 | 1 (oil $101) | 2 (XLE top) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| CVX | 6/10 | 1 (oil $101; CEO guided Q2 momentum) | 2 (XLE top) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| AMZN | 5/10 | 1 (AWS beat; $200B capex overhang) | 2 (tech) | 0 (>10% extended post-gap) | 1 | 1 | ✗ DISCARD |
+| TSM | 5/10 | 1 (AI chip halo) | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF bottom) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV bottom) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+*Bars API null pre-market for all symbols. Technicals estimated from web research.*
+
+### Technical Validation (≥7 scorers — new candidates only)
+
+**GOOGL** (bars null — research-based):
+- Est. price: ~$385–400 (post-Q1 gap +9.96% from ~$350; YTD +27.24%)
+- Est. SMA20: ~$360–375 (lagging post-earnings jump ~2 weeks ago)
+- Distance from SMA: ~+5–8% → likely PASS (not >10%)
+- 5-day momentum: recovering from Q1 gap level → positive ✓
+- Volume ratio: normal ~0.9–1.1× avg → PASS ✓
+- Technical result: **CANNOT CONFIRM** (bars null). 0 formal fails, but unverifiable.
+
+**AVGO** (bars null — research-based):
+- Est. price: ~$390–410 (market cap $1.84T; analysts avg PT $436, high $525)
+- Est. SMA20: ~$375–395 (AI momentum trend ongoing)
+- Distance from SMA: ~+0–5% → likely PASS (not >10%)
+- 5-day momentum: AI AI revenue tailwind ongoing → positive ✓
+- Volume ratio: steady ~1.0× → PASS ✓
+- Technical result: **CANNOT CONFIRM** (bars null). 0 formal fails, but unverifiable.
+
+### Existing Position Monitoring
+
+**NVDA** — +10.98% unrealized ($229.90 vs $207.15 entry). HWM $227.84, stop $205.06. Tighten threshold (+15%): $238.22 — NOT yet reached. Massive catalyst today: Jensen Huang in Beijing with Trump; BofA PT $320; May 20 earnings (guidance $78B = +75% YoY). **No action needed; monitor for HWM update.**
+
+**AAPL** — +8.61% unrealized ($300.18 vs $276.38 entry). HWM $300.92, stop $270.83. Tighten threshold (+15%): $317.84 — NOT yet reached. Dividend payable today; ATH reached May 12. **No action.**
+
+**META** — +3.11% unrealized ($617.50 vs $598.88 entry). HWM $619.89, stop $557.90. Thesis intact. **No action.**
+
+**MSFT** — −2.53% unrealized ($406.32 vs $416.87 entry). Manual cut at $387.69 (−7%). HWM $418.63, stop $376.77. YTD −14% is a sector concern; Azure thesis (Azure +40% YoY) remains valid. **Watch closely at open; cut only if $387.69 breached.**
+
+### Trade Ideas
+
+1. **GOOGL (watchlist)** — Score 7/10. Catalyst: Q1 cloud +63% beat, YTD +27.24%, ongoing hyperscaler AI spend. Entry ~$385–395 (post-retail-sales confirmation), stop ~$346–355 (10% trail), target ~$462–474 (+20%), R:R ~2:1. Size: ~26 shares (~$9,880 = ~9.6% equity). Bars must confirm at open (≤10% above SMA, vol ≥0.8×, positive 5d momentum). Source: https://www.tipranks.com/news/is-broadcom-stock-a-buy-for-2026-analysts-predict-over-30-upside
+
+2. **AVGO (watchlist)** — Score 7/10. Catalyst: AI revenue +106% YoY, $73B backlog, $10B+ H2 customer order, analyst PT $436–$545. Entry ~$390–410 (post-retail-sales), stop ~$351–369 (10% trail), target ~$468–492 (+20%), R:R ~2:1. Size: ~24 shares (~$9,480 = ~9.2% equity). Bars must confirm at open. Source: https://www.tipranks.com/news/is-broadcom-stock-a-buy-for-2026-analysts-predict-over-30-upside, https://finance.yahoo.com/news/analysts-betting-broadcom-stock-2026-191611049.html
+
+### Risk Factors
+- **Retail Sales + Jobless Claims 8:30 AM ET** — Retail consensus +0.5% (prior +1.7%); miss = risk-off; beat = tech rally. Dominant binary for today's open.
+- **NVDA +10.98%** riding into May 20 earnings binary; stop $205.06 provides floor but a bad earnings reaction could gap below stop.
+- **MSFT YTD −14%** — underperforming; ongoing capex concern; $387.69 cut level must be watched at open.
+- **Bars null all symbols** — all new entry decisions blocked until intraday bars available at market open.
+- **Deployment gap** — 44.9% deployed vs 80% target; 2 trade slots remaining this week.
+- **Oil sustained $101 WTI** — Iran/Hormuz ongoing; any de-escalation collapses energy sector; no energy exposure currently.
+- **AAPL near ATH** — extended above prior resistance; could see profit-taking; stop at $270.83 protects entry.
+
+### Decision
+**HOLD — no new positions pre-market.**
+1. Retail sales + jobless claims at 8:30 AM = macro binary gate; entering before print violates patience > activity.
+2. Bars null for GOOGL and AVGO — cannot complete technical validation required by strategy.
+3. 2 trade slots remain; preserve for post-retail-sales confirmed setups at market open (GOOGL primary, AVGO secondary).
+4. NVDA catalyst today (Jensen/China + BofA PT) is extremely bullish — existing 96-share position well-positioned.
+
+**Action at open:** Evaluate GOOGL then AVGO if retail sales ≥ consensus AND bars confirm setup. Enter GOOGL first (stronger R:R history); AVGO as second trade if clean.
+
+---
