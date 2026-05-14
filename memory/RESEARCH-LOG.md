@@ -770,3 +770,69 @@ No actionable entries today (bars null + PPI macro gate):
 5. GOOGL and AVGO are the primary targets for next entry if PPI clears constructively.
 
 ---
+
+## 2026-05-14 — Pre-market Research (inline, market-open)
+
+### Account Snapshot
+- **Equity:** $102,964.91
+- **Cash:** $56,668.85
+- **Buying power:** $159,633.76
+- **Daytrade count:** 0
+- **Positions:** 4 | **Deployed:** 44.95% ($46,296.06) vs 80% target
+- **Trades used this week:** 1/3 (META on May 12)
+
+| Symbol | Shares | Avg Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-----------|---------|----------------|------------|
+| AAPL | 28 | $276.38 | $297.58 | +$593.60 (+7.67%) | 10% trail, HWM $300.92, stop $270.83 |
+| META | 13 | $598.88 | $617.95 | +$247.80 (+3.18%) | 10% trail, HWM $619.89, stop $557.90 |
+| MSFT | 19 | $416.87 | $403.82 | −$248.02 (−3.13%) | 10% trail, HWM $418.63, stop $376.77 |
+| NVDA | 96 | $207.15 | $231.90 | +$2,375.99 (+11.95%) | 10% trail, HWM $232.19, stop $208.97 |
+
+### Market Context
+- **WTI / Brent:** ~$100-101 / ~$106 — Iran/Hormuz sustained; slight retreat from spike highs
+- **S&P 500 futures:** +0.22% — tech rebound; Dow Jones futures +0.06% (European hours)
+- **VIX:** ~17.9 — constructive, declining
+- **PPI April 2026 (released May 13):** +1.4% MoM vs +0.5% expected — BIGGEST INCREASE IN 4 YEARS (Reuters); +6.0% YoY (Zacks). Follows hot CPI +3.8% YoY. Higher-for-longer rates now elevated probability.
+- **Earnings before open today:** No universe-relevant names
+- **Economic calendar:** No major releases today; next major — FOMC (ongoing)
+- **Sector momentum:** XLK (tech) still top sector; market showing resilience despite inflation shock
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held — monitored)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| GOOGL | 7/10 | 2 (Q1 cloud +63%, YTD +27%) | 2 (XLK top) | 0 (>10% above est. SMA $350–360; quote $399–405) | 1 | 2 | ✗ FAILS setup (extended >10%) |
+| AVGO | 7/10 | 2 (AI rev +106% YoY, $73B backlog) | 2 (XLK top) | 0 (>10% above 20d SMA $395.96; quote $429–445) | 1 | 2 | ✗ FAILS spread (3.4%) + extended |
+
+### Technical Validation
+**GOOGL:** Quote $399.37–$405. Est. 20d SMA ~$350–360 (post-gap, lagging). Distance: ~+10–15% → FAILS setup score (>10% extended = 0). R:R poor at elevated entry. **DISCARD.**
+
+**AVGO:** Quote $429.67–$445 (spread $15.33 = 3.4% — disqualifying). 20d SMA $395.96 (Financhill). Distance: +10.4% → borderline FAIL setup. Wide spread blocks entry regardless. **DISCARD.**
+
+### Trade Ideas
+None actionable today. Both ≥7 candidates fail technical validation or spread check.
+
+### Existing Position Checks
+- **NVDA +11.95%** — approaching +15% tighten threshold ($238.22). No action yet.
+- **AAPL +7.67%** — tighten threshold $317.84. No action.
+- **META +3.18%** — thesis intact. No action.
+- **MSFT −3.13%** — manual cut at −7% ($387.69). Quote $403–404; not at risk today. Watch closely.
+- **Session-start equity:** $102,432.07 | Current: $102,964.91 | Change: +$532.84 (+0.52%) — **no DD halt**
+
+### Risk Factors
+- **PPI +1.4% MoM** (biggest in 4 years) + **CPI +3.8% YoY** — higher-for-longer rate environment; compresses tech multiples
+- **MSFT thesis at risk** — post-earnings recovery thesis; hot inflation headwind; stop $376.77 structural but thesis weakening
+- **Iran/oil** — oil $100+ WTI sustained; geopolitical risk tail
+- **NVDA May 20 earnings** — 6 days out; riding into binary with +11.95% gain; stop $208.97 provides floor
+
+### Decision
+**HOLD — no new trades.**
+1. PPI +1.4% MoM (biggest in 4 years) is a dominant macro shock; higher-for-longer rates = tech multiple compression
+2. GOOGL: >10% above est. 20d SMA — fails technical setup; R:R poor at $399–405 entry
+3. AVGO: 3.4% bid/ask spread disqualifies entry; also >10% above 20d SMA
+4. MSFT −3.13% already reflecting inflation headwind; adding tech exposure here increases risk
+5. Patience > activity; 2 trade slots preserved for post-inflation-clarity setups
+
+**Watchlist:** GOOGL pullback to $360–370 range; AVGO spread normalization + pullback to $400–410. NVDA May 20 earnings = next major catalyst gate.
+
+---
