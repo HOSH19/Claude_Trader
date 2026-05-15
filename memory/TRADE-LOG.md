@@ -90,6 +90,32 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-12 — BUY META
+- Shares: 13
+- Entry: $598.88
+- Stop: 10% trailing | HWM $623.73 | Current stop $561.36
+- Target: $718.66 (+20%)
+- Thesis: Post-earnings momentum; strong ad revenue beat; AI monetization accelerating
+- Sector: Tech (XLK top tier)
+- R:R: 2.0:1
+- Order ID: 35f2e0b1 (trailing stop)
+
+---
+
+### May 15 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $102,603.24 | **Cash:** $56,668.85 (55.2%) | **Day P&L:** -$865.29 (-0.84%) | **Phase P&L:** +$2,603.24 (+2.60%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $300.23 | +0.68% | +$667.80 (+8.63%) | $272.88 |
+| META | 13 | $598.88 | $612.03 | -1.03% | +$170.90 (+2.20%) | $561.36 |
+| MSFT | 19 | $416.87 | $420.30 | +2.65% | +$65.10 (+0.82%) | $385.35 |
+| NVDA | 96 | $207.15 | $224.85 | -4.62% | +$1,699.18 (+8.54%) | $212.89 |
+
+**Notes:** Day 15 EOD (Friday). Down day — NVDA fell -4.62% (stop $212.89, HWM $236.54, still safe; +8.54% unrealized), META -1.03%; MSFT +2.65% and AAPL +0.68% partially offset. No trades today; 1 trade this week (META May 12). Portfolio 44.8% deployed vs 80% target — 3/week cap resets Monday. Phase P&L +2.60%. Missing EOD snapshots May 08–14 not committed in prior sessions; META buy entry reconstructed from Alpaca orders. Next week: scout 2–3 setups to close deployment gap.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
