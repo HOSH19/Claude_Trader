@@ -105,3 +105,67 @@ Template for each entry:
 - **Research continuity**: Ensure daily-summary commits EOD snapshots every day — no more gaps
 
 ### Overall Grade: C-
+
+---
+
+## Week ending 2026-05-15
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | ~$101,500 (est. May 11 AM; EOD snapshots May 08–11 missing) |
+| Ending portfolio | $102,600 |
+| Week return | +$1,100 (+1.1%) |
+| S&P 500 week | +0.6% (7,398.94 → 7,445.11) |
+| Bot vs S&P | +0.5% outperformance |
+| Phase P&L | +$2,600 (+2.60% from $100K) |
+| Trades | 1 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | NVDA +8.62% unrealized |
+| Worst trade | MSFT +0.76% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $300.23 | +$667.80 (+8.63%) | GTC trail 10%, HWM $300.92, stop $272.88 |
+| META | $598.88 (13 sh) | $612.03 | +$170.90 (+2.20%) | GTC trail 10%, HWM $623.73, stop $561.36 |
+| MSFT | $416.87 (19 sh) | $420.30 | +$65.10 (+0.82%) | GTC trail 10%, HWM $418.63, stop $376.77 |
+| NVDA | $207.15 (96 sh) | $224.85 | +$1,699.18 (+8.54%) | GTC trail 10%, HWM $236.54, stop $212.89 |
+
+### What Worked
+- All 4 positions profitable at week end: NVDA +8.54%, AAPL +8.63%, META +2.20%, MSFT +0.82%
+- MSFT entry thesis validated: post-earnings capex fear was overdone; recovered from -2.58% mid-week to green
+- META entry (May 12) disciplined: bought into the dip on hot CPI day; position already +2.20%
+- NFP-driven MSFT entry on May 08 (+115K vs +65K est.) worked exactly as planned — strong jobs = tech rally
+- Slight S&P 500 outperformance (+0.5%) for the week despite selling today (NVDA -4.62%, META -1.03%)
+
+### What Didn't Work
+- Portfolio still badly underdeployed: 44.8% vs 80% target — third consecutive week below 60%; massive opportunity cost
+- Only 1 of 3 weekly trade slots used (META May 12); AVGO and GOOGL (both 8/10) held back by bars API null for 3rd consecutive week
+- No closed trades in 3 weeks running — zero realized P&L; trailing stops at risk if NVDA May 20 earnings disappoint
+- NVDA earnings binary (May 20) creates outsized risk: $1,699 unrealized gain exposed on single catalyst event
+- EOD snapshot discipline still failing — May 08–14 snapshots missing from trade log
+
+### Key Lessons
+- Bars API null is a systemic operational blocker, not a one-off: three consecutive weeks of failed pre-market technical validation cannot be accepted as normal; need explicit fallback rule
+- Consistently missing deployment target (20% → 27% → 44% deployed) means the strategy's "80% deployed" rule is being systematically violated; opportunity cost is material
+- All current positions are beating or near entry — the entry criteria (score ≥7, catalyst, sector) is working; the failure is in execution volume, not selection quality
+- NVDA May 20 earnings risk: holding 96 shares into a binary event with $1,699 unrealized gain and stop at $212.89 (-5.3% below current) is acceptable risk given thesis strength, but must be monitored closely
+
+### Adjustments for Next Week
+- **Bars API fallback (new rule — see TRADING-STRATEGY.md)**: When bars null, use WebSearch for technical validation; do not block entry on API failure alone
+- **NVDA May 20**: Hold through earnings; if opens down >10% post-earnings, evaluate close vs wait; stop $212.89 provides structural floor; if +15% triggers ($238.22), tighten trail to 7% immediately
+- **AVGO, GOOGL (primary targets Mon May 18)**: Both scored 8/10 this week but blocked by bars null; execute Monday AM if WebSearch/bars confirm setup; do not let 3rd consecutive week pass without filling 2–3 positions
+- **Deployment target**: Must reach 70–80% deployed by end of May 18 week; use all 3 trade slots if 3 candidates pass the gate
+- **Record-keeping**: Commit EOD snapshots every day this week — no gaps; set this as first commit of daily-summary routine
+
+### Overall Grade: B-

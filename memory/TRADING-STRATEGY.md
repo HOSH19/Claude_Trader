@@ -24,7 +24,7 @@ Only trade symbols from this list. No exceptions.
 ## Core Rules
 
 1. NO OPTIONS — ever
-2. 80% deployed (target)
+2. 80% deployed (target); if deployed < 60% at week end with remaining trade slots, use all remaining slots the following Monday
 3. Up to 10 positions, max 8% each
 4. 10% trailing stop on every position as a real GTC order
 5. Cut losers at -7% manually
@@ -35,6 +35,7 @@ Only trade symbols from this list. No exceptions.
 10. Exit a sector after 2 consecutive failed trades
 11. Portfolio DD halt: if equity drops 10% from session-start equity, stop all new buys for the day
 12. Patience > activity
+13. Bars API fallback: when Alpaca bars return null, use WebSearch for technical validation (price vs SMA, volume trend). Document source inline. Do not block entry solely because bars are unavailable — block only if WebSearch also cannot provide price/volume data.
 
 ## Candidate Scoring (min 7/10 to advance to trade idea)
 
