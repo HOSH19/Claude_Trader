@@ -770,3 +770,108 @@ No actionable entries today (bars null + PPI macro gate):
 5. GOOGL and AVGO are the primary targets for next entry if PPI clears constructively.
 
 ---
+
+## 2026-05-15 — Pre-market Research
+
+### Account
+- Equity: $102,940.06
+- Cash: $56,668.85
+- Buying power: $159,608.91 (margin)
+- Long market value: $46,271.21 (44.9% deployed vs 80% target)
+- Daytrade count: 0
+- Trades this week: 1/3 (META bought May 12)
+- Phase P&L: +$2,940.06 (+2.94%)
+
+### Positions
+| Ticker | Shares | Avg Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-----------|---------|----------------|------------|
+| AAPL | 28 | $276.38 | $295.80 | +$543.76 (+7.03%) | $270.83 (HWM $300.92) |
+| META | 13 | $598.88 | $608.87 | +$129.87 (+1.67%) | $561.36 (HWM $623.73) |
+| MSFT | 19 | $416.87 | $412.17 | -$89.39 (-1.13%) | $376.77 (HWM $418.63) |
+| NVDA | 96 | $207.15 | $231.69 | +$2,355.82 (+11.85%) | $212.89 (HWM $236.54) |
+
+- AAPL tighten threshold (+15%): $317.84 — not triggered
+- NVDA tighten threshold (+15%): $238.22 — not triggered; May 20 earnings in 5 days
+- MSFT manual cut at -7%: $387.69 — monitor; current far above
+
+### Market Context
+- WTI: ~$103-105/bbl | Brent: ~$107-109/bbl (sources: businessinsider.com/commodities/oil-price, oilprice.com)
+- S&P 500 futures: $7,441.75 (-$48.50 / ~-0.6%); futures retreat after record highs as Trump concludes China visit (source: marketwatch.com/investing/future/es00, benzinga.com)
+- VIX: ~17.87-18.07 (source: fred.stlouisfed.org/series/VIXCLS, ycharts.com)
+- Today's catalysts: Trump-Xi summit concluded; sell-the-news dynamic; Jensen Huang accompanied Trump's delegation to Beijing — chip export relief hopes now moving to resolution phase. AAPL upgraded to Strong Buy by InvestorPlace (May 12); AAPL-Intel preliminary chip deal (Apple to use Intel foundry — source: wsj.com/tech/apple-intel-have-reached-preliminary-chip-making-agreement). AAPL near IBD buy zone ahead of WWDC 2026. BofA named AVGO and AMD top semiconductor picks (May 14) — source: tipranks.com/news/broadcom-amd-why-bofa-names-them-top-semiconductor-picks
+- Earnings before open: No universe-relevant names (Cygnus Metals, Logistics Development Group only — source: rttnews.com/calendar/earnings.aspx)
+- Economic calendar: No major US releases today. China retail sales and industrial production (overseas only). Clean macro slate for Friday (source: rttnews.com/corpinfo/economiccalendar.aspx?date=15-May-2026)
+- Sector momentum this week:
+  1. **XLK** (Tech) — +1.5% this week; S&P 500 tech on track for record high (source: marketwatch.com/investing/fund/xlk)
+  2. **XLE** (Energy) — oil sustained $103-105 WTI; YTD strong
+  3. **XLI** (Industrials) — estimated mid-tier; no negative catalyst
+  - Bottom: XLB -0.8%, XLU -2.1% this week; XLF YTD -5.34% (source: barchart.com/etfs-funds/quotes/XLU/performance, yahoo.com/quote/XLF)
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held — monitored separately)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | **8/10** | 2 (BofA top pick, AI rev $8.4B, $73B backlog, Trump-Xi chip relief) | 2 (XLK top) | 1 (est. 5-10% above SMA; OpenAI snag absorbed) | 1 (steady) | 2 (entry ~$440, stop ~$396, target ~$528 → 2:1) | ✗ Bars null — cannot validate |
+| GOOGL | **8/10** | 2 (Q1 cloud +63%, AI search momentum, strong YTD +27%) | 2 (XLK top) | 1 (est. 5-10% above post-earnings SMA) | 1 (normal) | 2 (entry ~$455, stop ~$410, target ~$546 → 2:1) | ✗ Bars null — cannot validate |
+| AMD | **7/10** | 2 (BofA top semiconductor pick, Q1 beat, Helios rack catalyst) | 2 (XLK top) | 1 (est. recovering from Q1 dip) | 1 (bars null) | 1 (entry unclear — bars null) | ✗ Bars null — cannot validate |
+| AMZN | 6/10 | 1 | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| TSM | 5/10 | 1 (Trump-Xi partial) | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| XOM/CVX | 5/10 | 1 (oil $103-105) | 1 (XLE mid this week) | 1 | 1 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF -5.34% YTD) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV bottom) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (≥7 scorers only; bars API returned null for all symbols — 3rd consecutive session)
+
+**AVGO** (research-based, bars null):
+- AVGO closed ~$440 (May 14 CNBC: $439.79); was ~$350 on April 9 (Zacks) → ~+25% over 5 weeks
+- Est. 20d SMA: ~$395-410 (lagging post-run). Distance: ~+7-11% — borderline/extended
+- 5-day momentum: positive (BofA upgrade, AI tailwind) ✓
+- Volume ratio: cannot confirm ✗
+- **Technical result: CANNOT CONFIRM** (bars null, possible >10% extension). Blocked.
+
+**GOOGL** (research-based, bars null):
+- YTD +27.24%; post-Q1 earnings gap ~+10%; est. current ~$455-465
+- Est. 20d SMA: ~$420-440 (lagging post-gap). Distance: ~+5-10% → borderline PASS
+- 5-day momentum: positive (AI product momentum) ✓
+- Volume ratio: cannot confirm ✗
+- **Technical result: CANNOT CONFIRM** (bars null). Blocked.
+
+**AMD** (research-based, bars null):
+- BofA top pick with AVGO; Q1 data center beat; Helios rack in-progress
+- Price estimate: unknown without bars
+- **Technical result: CANNOT CONFIRM** (bars null, R:R uncertain). Blocked.
+
+### Existing Position Monitoring
+
+- **NVDA** (+11.85%): Pre-market soft (-1.72% yesterday close). May 20 earnings in 5 days — binary event. HWM $236.54, stop $212.89. Tighten at $238.22 (+15%) — not triggered. Jensen Huang's Beijing trip = positive AI chip diplomatic signal; thesis very much intact. HOLD, let trailing stop work.
+- **AAPL** (+7.03%): Upgraded Strong Buy; preliminary Intel chip deal (foundry); WWDC 2026 approaching. HWM $300.92, stop $270.83. Down -0.81% premarket. Thesis strengthening. HOLD.
+- **META** (+1.67%): Incognito Chat with Meta AI (WhatsApp product launch May 14). First Eagle boosted stake. ARK cut. HWM $623.73, stop $561.36. Down -1.55% premarket. Thesis intact. HOLD.
+- **MSFT** (-1.13%): HWM $418.63, stop $376.77. Manual cut at $387.69 (-7% from entry). Up slightly premarket (+0.67%). No immediate action.
+
+### Trade Ideas
+No actionable entries today (bars null + sell-the-news open):
+
+1. **AVGO (watchlist)** — Score 8/10. BofA top pick + $73B AI backlog. Entry ~$438-442, stop ~$396, target ~$528, R:R ~2:1. Unlock if bars clear next session with volume >1.5× avg.
+2. **GOOGL (watchlist)** — Score 8/10. Cloud +63% YoY + AI search dominance. Entry ~$455-462, stop ~$412, target ~$546, R:R ~2:1. Unlock if bars confirm 5-day momentum and distance from SMA ≤10%.
+3. **AMD (watchlist)** — Score 7/10. BofA top semiconductor pick + Helios data center. Entry TBD pending bars, stop -10%, target +20%.
+
+### Risk Factors
+- **Trump-Xi summit sell-the-news** — futures -0.6% at open; euphoria about chip export relief may already be priced in
+- **NVDA May 20 earnings** — binary event in 5 days; $2,355 unrealized gain at risk; stop $212.89 provides structural floor ($231.69 current → -8.1% buffer to stop)
+- **Bars API persistent null** — 3rd consecutive session unable to confirm technical validation; likely pre-market timing issue
+- **SPX near all-time high** — Friday profit-taking risk; index extended
+- **MSFT -1.13%** — near-flat; yield pressure; manual cut level $387.69 remains watch point
+- **Portfolio at 44.9% deployed** — significantly below 80% target; opportunity cost if market runs but patience rule maintained
+- **Oil at $103-105** — Iran/Hormuz sustained; energy exposure limited (no positions in XOM/CVX)
+
+### Decision
+**HOLD — no new positions today.**
+1. SPX futures -0.6% on Trump-Xi summit conclusion — sell-the-news dynamic; poor Friday entry timing.
+2. Bars API null for 3rd consecutive session — technical validation blocked for AVGO, GOOGL, AMD.
+3. NVDA May 20 earnings binary event in 5 days — no additional semiconductor exposure warranted.
+4. 2 trade slots remain this week (expiring today) — not worth burning on a down open without bar confirmation.
+5. AVGO, GOOGL, AMD are primary watchlist targets; execute Monday if bars confirm and macro stabilizes.
+
+---
