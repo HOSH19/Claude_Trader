@@ -880,3 +880,97 @@ No actionable entries today (bars null + sell-the-news open):
 5. AVGO, GOOGL, AMD are primary watchlist targets; execute Monday if bars confirm and macro stabilizes.
 
 ---
+
+## 2026-05-18 — Pre-market Research
+
+### Account
+- Equity: $102,633.14
+- Cash: $56,668.85 (55.2%)
+- Buying power: $159,301.99 (2× margin)
+- Daytrade count: 0 (new week — 0/3 trades used)
+
+### Market Context
+- WTI / Brent: WTI ~$107.24 | Brent ~$110.91 (+1.5% today; +69% YTD — Iran War, Strait of Hormuz choke) (source: tradingeconomics.com/commodity/brent-crude-oil, markets.businessinsider.com/commodities/oil-price)
+- S&P 500 futures: 7,383 (-$48.5, ~-0.6%) (source: markets.businessinsider.com/premarket)
+- VIX: ~18.9 (+6.78% today; elevated from 17.87 last session) (source: markets.businessinsider.com/index/vix, tradingview.com/symbols/TVC-VIX)
+- Today's catalysts: NVDA Q1 FY27 earnings Wednesday May 20 (consensus EPS $1.77 +118.5% YoY, rev ~$43.2B; blowout expected but may not move stock big per Motley Fool analysis). FOMC minutes Wednesday. Iran War: US proposed ceasefire conditions — de-escalation risk to oil/energy stocks. AAPL hit record high pre-WWDC; Intel foundry deal confirmed (Intel +13–16% on news). (sources: zacks.com/stock/news/2921831, tipranks.com, msn.com/en-us/news/technology/apple-stock-notches-record-high-ahead-of-wwdc-news)
+- Earnings before open: No universe-relevant names. (source: stockanalysis.com/stocks/earnings-calendar)
+- Economic calendar: Philly Fed Employment (May). No CPI/PPI until June. FOMC policy decision was May 15 — minutes released Wednesday May 20. Clean macro slate today. (source: tradingeconomics.com/calendar)
+- Sector momentum (YTD):
+  1. **XLE** (Energy) +33.81% — Iran War oil spike; BUT ceasefire risk = whipsaw danger
+  2. **XLK** (Tech) +22.58% — AI infrastructure; NVDA earnings catalyst this week
+  3. **XLI** (Industrials) +10.81% — mid-tier
+  - Bottom: XLV -5.88%, XLF -6.22%
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | **8/10** | 2 (Q1 FY26 rec rev +29% YoY, AI rev +106%, $73B backlog, BofA top pick) | 2 (XLK top) | 1 (est 5–10% above SMA; +19% 30-day run) | 1 (high vol days noted; bars null) | 2 (~$448 entry, ~$403 stop, ~$538 target, 2:1) | ✗ Bars null — BLOCKED |
+| GOOGL | **8/10** | 2 (Cloud +63% YoY, AI Search Overviews, YTD +27%) | 2 (XLK top) | 1 (est 5–10% above post-Q1 SMA) | 1 (bars null) | 2 (~$455 entry, ~$410 stop, ~$546 target, 2:1) | ✗ Bars null — BLOCKED |
+| AMD | **7/10** | 2 (BofA top semiconductor pick, Q1 data center beat, Helios rack) | 2 (XLK top) | 1 (recovering; bars null) | 1 (bars null) | 1 (price unknown) | ✗ Bars null — BLOCKED |
+| AMZN | 6/10 | 1 | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| XOM | 5/10 | 1 (oil high but Q1 profits HIT by derivative losses; ceasefire risk) | 2 (XLE top) | 1 | 0 | 1 | ✗ DISCARD |
+| CVX | 5/10 | 1 (same as XOM; fell 5% on de-escalation headlines) | 2 (XLE top) | 1 | 0 | 1 | ✗ DISCARD |
+| TSM | 4/10 | 1 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF -6.22%) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV -5.88%) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (≥7 scorers — bars API null, 4th consecutive session)
+
+**AVGO** (research-based, bars null — 4th consecutive day):
+- Perplexity: Q1 FY26 record rev $19.3B (+29% YoY); stock near 52-week high. Tickeron: +19% in 30 days from ~$293 March dip; high vol days 30M+ shares on breakout.
+- Est. 20d SMA: ~$415–430 (lagging rapid run). Est. distance: ~+5–10% → borderline Setup:1
+- 5-day momentum: positive (AI revenue story intact + NVDA earnings enthusiasm) ✓
+- Volume ratio: high trading days confirmed in research; cannot compute ratio ✗
+- **CANNOT CONFIRM** — bars null, potential >10% extension risk. BLOCKED pending bar data.
+
+**GOOGL** (research-based, bars null):
+- YTD +27%, post-Q1 earnings gap ~+10%, Cloud +63% YoY. AI search monetization accelerating.
+- Est. 20d SMA: ~$420–440 (post-gap lag). Distance: est. 5–10% → borderline Setup:1
+- 5-day momentum: positive ✓
+- Volume ratio: cannot confirm ✗
+- **CANNOT CONFIRM** — bars null. BLOCKED.
+
+**AMD** (research-based, bars null):
+- BofA top semiconductor pick alongside AVGO. Q1 data center beat. Helios rack AI catalyst.
+- Price/SMA: unknown without bars. R:R: indeterminate.
+- **CANNOT CONFIRM** — bars null. BLOCKED.
+
+### Existing Position Review
+
+| Ticker | Shares | Entry | Current | Unrealized | HWM | Stop | Action |
+|--------|--------|-------|---------|------------|-----|------|--------|
+| AAPL | 28 | $276.38 | $298.54 | +8.02% | $303.20 | $272.88 | HOLD — record high pre-WWDC; tighten at +15% ($317.84) |
+| META | 13 | $598.88 | $609.00 | +1.69% | $623.73 | $561.36 | HOLD — intact thesis; -0.85% pre-market |
+| MSFT | 19 | $416.87 | $419.00 | +0.51% | $428.17 | $385.35 | HOLD — flat; manual cut at $387.69 (-7%); no new action |
+| NVDA | 96 | $207.15 | $226.16 | +9.18% | $236.54 | $212.89 | HOLD through earnings May 20; stop provides floor; tighten at +15% ($238.22) |
+
+### Trade Ideas
+No actionable entries today — bars null (4th consecutive session) + NVDA binary risk + elevated VIX:
+
+1. **AVGO (watchlist — primary)** — Score 8/10. Q1 FY26 record AI revenue +106% YoY, $73B backlog, BofA top pick. Entry target ~$445–450, stop -10% (~$403), target +20% (~$538), R:R ~2:1. **Unlock post-NVDA earnings (May 20 EOD) if bars API clears and volume confirms.**
+2. **GOOGL (watchlist — secondary)** — Score 8/10. Cloud +63% YoY, AI search dominance. Entry ~$455–462, stop ~$410, target ~$546, R:R ~2:1. **Unlock post-FOMC minutes + bars confirmation.**
+3. **AMD (watchlist — tertiary)** — Score 7/10. BofA top semis pick + Helios data center. Entry/stop/target TBD pending bars. Lower priority than AVGO.
+
+### Risk Factors
+- **NVDA May 20 earnings (Wednesday)** — binary event; $1,824 unrealized gain at risk; blowout expected but consensus already priced in per Motley Fool; stop $212.89 provides structural floor; do NOT add semiconductor exposure (AVGO/AMD) until post-earnings.
+- **FOMC minutes Wednesday** — any hawkish surprise → rate-sensitive tech selloff.
+- **Iran ceasefire talks** — US proposed conditions; if Hormuz reopens, oil craters → XOM/CVX fall 5%+ (already demonstrated); explains why energy (XLE +33.81% YTD) is a trap entry here.
+- **VIX elevated at ~18.9 (+6.78%)** — poor entry conditions; higher IV means wider spreads, stop volatility.
+- **SPX futures -0.6%** — weak open; risk-off Monday; patience warranted.
+- **Bars API null (4th consecutive session)** — persistent; may be pre-market timing or data feed issue; technical validation completely blocked until resolved.
+- **AAPL below HWM** — at $298 vs HWM $303.20; WWDC upcoming but no confirmed date; normal consolidation.
+- **Portfolio 44.9% deployed** — well below 80% target; opportunity cost if market runs; week has 3 trade slots, use them wisely once conditions improve.
+
+### Decision
+**HOLD — no new positions today.**
+1. VIX +6.78% to ~18.9 and SPX futures -0.6% = elevated risk, poor entry timing.
+2. Bars API null for 4th consecutive session — technical validation blocked for AVGO, GOOGL, AMD.
+3. NVDA earnings Wednesday May 20 = binary event; no new semiconductor exposure until resolved.
+4. FOMC minutes Wednesday = additional uncertainty catalyst.
+5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
+
+---
