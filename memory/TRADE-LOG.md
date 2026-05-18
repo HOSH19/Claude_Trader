@@ -116,6 +116,20 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 18 — EOD Snapshot (Day 16, Monday)
+**Portfolio:** $102,343.09 | **Cash:** $56,668.85 (55.4%) | **Day P&L:** -$260.15 (-0.25%) | **Phase P&L:** +$2,343.09 (+2.34%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $297.82 | -0.80% | +$600.32 (+7.76%) | $272.88 |
+| META | 13 | $598.88 | $611.21 | -0.49% | +$160.24 (+2.06%) | $561.36 |
+| MSFT | 19 | $416.87 | $423.77 | +0.44% | +$131.03 (+1.65%) | $385.35 |
+| NVDA | 96 | $207.15 | $222.27 | -1.35% | +$1,451.50 (+7.30%) | $212.89 |
+
+**Notes:** Day 16 EOD (Monday). Soft start to the week — three of four positions declined, led by NVDA -1.35% and AAPL -0.80%. MSFT was the lone gainer (+0.44%). All positions remain well above their trailing stops (nearest: NVDA at $222.27 vs stop $212.89). Portfolio equity slips slightly to $102,343.09, down -$260.15 (-0.25%) from Friday close, but phase P&L still positive at +$2,343.09 (+2.34%). No trades today; 0/3 weekly trades used. Portfolio deployed at 44.6% vs 80% target — 3/3 weekly trade slots available. Pre-market tomorrow must identify 1–2 high-conviction setups to accelerate deployment.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
