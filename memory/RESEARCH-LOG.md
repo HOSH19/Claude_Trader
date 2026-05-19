@@ -974,3 +974,75 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
 ---
+
+## 2026-05-19 — Pre-market Research (inline — no prior entry)
+
+### Account
+- Equity: $102,358.22
+- Cash: $56,668.85 (55.3%)
+- Buying power: $159,027.07
+- Daytrade count: 0 (0/3 trades used this week)
+
+### Market Context
+- SPX: Declining for 2nd consecutive session; chip stocks leading drawdown; high yields threatening bull market. (source: CNBC live May 18/19 updates)
+- Sector momentum: XLK (Tech) still top-tier YTD; Energy (XLE) strong on Iran War; XLF/XLV still lagging.
+- NVDA earnings **TOMORROW** (May 20, after close) — consensus EPS $1.77 +118.5% YoY; binary event for all AI/semi names.
+- FOMC minutes **TOMORROW** (May 20) — hawkish risk.
+
+### Candidate Scoring (20-symbol universe; AAPL/META/MSFT/NVDA held)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| GOOGL | **9/10** | 2 (Google+Blackstone $5B AI cloud JV TODAY; Cloud +63% YoY; Berkshire 3× stake) | 2 (XLK top) | 2 (bars: $393 close, open $396.96 → possible pullback to SMA) | 1 (vol 1.9M today; below prior avg) | 2 ($393 entry, $354 stop, $471 target, 2:1) | ⚠ BLOCKED — bearish divergence + NVDA eve |
+| AVGO | **8/10** | 2 (Q1 FY26 AI rev +106% YoY, $73B backlog, June 3 next earnings) | 2 (XLK top) | 1 (bars: $415.58 close, est SMA $410–425 — borderline) | 1 (vol 966K today) | 2 ($415 entry, $373 stop, $498 target, 2:1) | ⚠ BLOCKED — semiconductor eve of NVDA earnings |
+| AMD | 7/10 | 2 | 2 | 1 | 0 | 1 | ✗ SKIP — extreme bid/ask spread ($400 bid / $442 ask); halted or data error |
+
+### Technical Validation (bars API RESTORED — first time in 5 sessions)
+
+**GOOGL** (bars confirmed):
+- Today's bar: open $396.96, close $393.11, high $397.15, low $392.77, vol 1,925,515
+- Down -0.97% today DESPITE Google+Blackstone AI cloud JV breaking news → bearish divergence
+- Est. 20d SMA: ~$375–385 (post-Q1-earnings-gap lag); price ~$393 = modest extension (~2–5%)
+- Setup: Score 2 (at/near SMA range), but negative price action on positive catalyst is concerning
+- Volume: 1.9M vs prior avg unclear; not obviously >1.5× avg
+
+**AVGO** (bars confirmed):
+- Today's bar: open $409.82, close $415.58, high $415.88, low $408.74, vol 966,149
+- Up +1.41% today; AVGO next earnings June 3 (not NVDA)
+- Est. 20d SMA: ~$405–420; price $415 = borderline (0–3% above lower bound)
+- Volume: 966K — moderate; prior avg ~1.5–2M; not confirming breakout
+
+**AMD** — wide quote spread (bid $400 / ask $442 = $42 gap); skip entirely.
+
+### Existing Position Review
+
+| Ticker | Shares | Entry | Current | Unrealized | Stop | Tighten At | Action |
+|--------|--------|-------|---------|------------|------|------------|--------|
+| AAPL | 28 | $276.38 | $298.64 | +8.05% | $272.88 | $317.84 (+15%) | HOLD |
+| META | 13 | $598.88 | $607.09 | +1.37% | $561.36 | $688.71 (+15%) | HOLD |
+| MSFT | 19 | $416.87 | $427.19 | +2.48% | $385.35 | $479.40 (+15%) | HOLD |
+| NVDA | 96 | $207.15 | $222.11 | +7.22% | $212.89 | $238.22 (+15%) | HOLD — earnings tomorrow; stop provides floor |
+
+No stop tightenings triggered. All positions safe above stops.
+
+### Risk Factors
+- **NVDA earnings tomorrow (May 20, after close)** — single largest portfolio risk; $1,436 unrealized gain; stop $212.89 is structural floor (current $222.11 → 4.1% buffer to stop).
+- **GOOGL bearish divergence** — stock fell -0.97% on confirmed $5B positive catalyst; signals macro/yield pressure overwhelming stock-specific news.
+- **AMD wide spread** — possible circuit breaker or data error; uninvestable today.
+- **Chip stocks broadly declining** — AVGO entry day before NVDA earnings adds direct correlation risk.
+- **FOMC minutes tomorrow** — additional macro risk on top of NVDA binary event.
+- **Portfolio 44.7% deployed** — well below 80% target; opportunity cost if market resumes upward trend.
+- **Bars API restored** — confirms AVGO and GOOGL as viable entries technically; but macro timing overrides.
+
+### Decision
+**HOLD — no new positions today.**
+1. NVDA earnings tomorrow (binary event) — one more day of patience avoids systemic AI/semi correlation risk for AVGO and indirect risk for GOOGL.
+2. GOOGL showed bearish divergence — stock DOWN on confirmed positive catalyst (Google-Blackstone JV) → wait for confirmation of buyer follow-through.
+3. FOMC minutes tomorrow add a second macro uncertainty catalyst on the same day.
+4. AMD quote is broken (extreme spread) — uninvestable.
+5. All four existing positions healthy and above stops.
+6. Primary watchlist: GOOGL (score 9/10) then AVGO (8/10). Target entry post-NVDA earnings (May 20 EOD) if macro stabilizes and GOOGL holds above $390.
+
+---
+
+---
