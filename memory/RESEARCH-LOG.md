@@ -974,3 +974,93 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
 ---
+
+## 2026-05-19 — Pre-market Research
+
+### Account
+- Equity: $102,202.04
+- Cash: $56,668.85
+- Buying power: $158,870.89
+- Daytrade count: 0
+- Weekly trades used: 0/3
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized | HWM | Stop |
+|--------|--------|-------|---------|------------|-----|------|
+| AAPL | 28 | $276.38 | $296.15 | +$553.56 (+7.15%) | $303.20 | $272.88 |
+| META | 13 | $598.88 | $609.70 | +$140.66 (+1.81%) | $623.73 | $561.36 |
+| MSFT | 19 | $416.87 | $426.76 | +$187.84 (+2.37%) | $428.17 | $385.35 |
+| NVDA | 96 | $207.15 | $220.90 | +$1,319.98 (+6.64%) | $236.54 | $212.89 |
+
+### Market Context
+- WTI: ~$103.61/bbl (-0.74%) | Brent: ~$110.37/bbl (-1.54%) — oil stable/slightly softening
+- S&P 500 futures: 7,484.75 (+0.80% vs May 18 close 7,425.75) — bullish pre-market
+- VIX: 17.75 (May futures settling today; down from 19.25 yesterday) — volatility cooling
+- Fed Governor Waller speech: 8:00 AM | Pending Homes Index: 10:00 AM (no CPI/PPI today)
+- **NVDA Q1 FY2027 earnings TOMORROW (May 20, AMC)** — consensus EPS $1.75, rev $78.82B; Morgan Stanley raised PT today, expects beat-and-raise (+$3B beat, +$4B guide); NVDA YTD +66%
+- Ackman's Pershing Square bought 5.65M shares of MSFT in Q1 — strong institutional endorsement
+- BofA bullish on GOOGL ahead of annual developer event; new Gemini AI model expected
+- AAPL WWDC confirmed June 8 — BofA PT $330; Wedbush calls 2026 a "significant product launch year"
+- Earnings before open: None from universe (GDS Holdings only — irrelevant)
+
+### Sector ETF Ranking (YTD through May 15)
+1. **XLE** +33.81% — energy; ceasefire risk = whipsaw trap; avoid
+2. **XLK** +22.58% — tech/AI; -1.81% this week (minor pullback from high)
+3. **XLI** +10.81% — industrials
+- Bottom: XLF -6.22%, XLV -5.88%
+
+### Candidate Scoring (20-symbol universe; held tickers excluded)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | **8/10** | 2 (Q1 FY26 record rev $19.31B, AI rev +106%, $73B backlog, PT $442) | 2 (XLK top) | 1 (est 5-10% above 20d SMA; bars null) | 1 (bars null) | 2 (~$417 entry, ~$375 stop, ~$500 target, 2:1) | ✓ PASS scoring; BLOCKED by NVDA binary |
+| GOOGL | **8/10** | 2 (BofA bullish, new Gemini model, developer event, Cloud +63% YoY) | 2 (XLK top) | 1 (est near/slightly above post-earnings SMA; bars null) | 1 (bars null) | 2 (~$387 entry, ~$348 stop, ~$464 target, 2:1) | ✓ PASS scoring; BLOCKED by NVDA binary |
+| AMD | 6/10 | 2 (BofA top semis pick, Q1 data center beat) | 2 (XLK top) | 0 (bars null, conservative) | 1 (bars null) | 1 (price/R:R uncertain) | ✗ DISCARD <7 |
+| AMZN | 6/10 | 1 | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| XOM/CVX | 5/10 | 1 | 2 (XLE top but trap) | 1 | 0 | 1 | ✗ DISCARD |
+| TSM | 4/10 | 1 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF bottom) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV bottom) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (bars API null — 5th consecutive session)
+
+**AVGO** ($420.71 close May 18, $417.50 premarket May 19):
+- Yahoo history: May 8 close $435.00 → May 11 $433.65 → May 12 $429.34 → May 13 $418.63 → May 18 $420.71
+- 5-day momentum (May 12→May 18): $420.71 / $429.34 - 1 = **-2.0% → NEGATIVE → FAIL**
+- Est. 20d SMA: ~$415-425 (stock ran from ~$290s in March, SMA lagging post-earnings gap). Distance ~+0-5% → borderline Setup 1-2
+- Volume ratio: cannot confirm (bars null)
+- **Result: 1 confirmed fail (momentum), volume uncertain → CONDITIONAL BLOCK**
+
+**GOOGL** (~$387.35 close May 18):
+- Yahoo history: Apr 30 close $384.80 (post-Q1 earnings gap); current ~$387.35
+- 5-day momentum: roughly flat/slightly positive (+0.5-1%) → PASS
+- Est. 20d SMA: ~$383-386 (post-gap lag); distance ~0-2% above SMA → borderline Setup 2
+- Volume ratio: cannot confirm (bars null)
+- **Result: 0 confirmed fails; technically cleaner than AVGO; STILL BLOCKED by NVDA binary**
+
+### Trade Ideas
+**No actionable entries today — NVDA earnings binary event tomorrow + tech over-concentration.**
+
+1. **GOOGL (primary watchlist — post-NVDA)** — Score 8/10. BofA bullish ahead of developer event, new Gemini AI model upcoming, Cloud +63% YoY. ~5-day momentum flat-positive. Entry target ~$387-392, stop -10% (~$348-353), target +20% (~$464-470), R:R ~2:1. **Unlock Wednesday post-NVDA-earnings if macro holds and bars API restores.**
+2. **AVGO (secondary watchlist — post-NVDA)** — Score 8/10. Q1 FY26 record AI revenue, $73B backlog, BofA/Morgan Stanley top pick. Negative 5-day momentum (minor concern). Entry target ~$415-420, stop ~$375, target ~$500-504, R:R ~2:1. **Unlock post-NVDA, must confirm positive momentum + volume.**
+
+### Risk Factors
+- **NVDA May 20 earnings (TOMORROW, AMC)** — binary event; $1,319 unrealized gain. Morgan Stanley expects beat-and-raise; consensus already elevated. Stop $212.89 provides structural floor (-3.6% from current).
+- **Tech over-concentration** — all 4 positions (AAPL, META, MSFT, NVDA) in tech. No new tech additions until NVDA catalyst passes and position risk assessed.
+- **Bars API null (5th consecutive session)** — persistent; technical validation blocked. Cannot confirm volume or precise SMA distance for any candidate.
+- **Fed Gov Waller speech 8:00 AM** — any hawkish surprise could pressure rate-sensitive tech.
+- **AVGO negative 5-day momentum** — stock retreated from $435 peak to $417-420 range; needs momentum confirmation before entry.
+- **AAPL below HWM** — $296 vs HWM $303.20; WWDC June 8 is catalyst; stop $272.88 safe.
+- **Portfolio 44.6% deployed** — well below 80% target; 3 weekly trade slots available. Post-NVDA Wednesday is the deployment window.
+
+### Decision
+**HOLD — no new positions today.**
+1. NVDA earnings TOMORROW (May 20 AMC) = binary tech sector event; all 4 positions in tech; adding any tech today doubles sector risk.
+2. VIX cooling (17.75) and SPX futures +0.8% are positive, but risk asymmetry favors waiting until NVDA result is known.
+3. Bars API null (5th consecutive session) — cannot fully validate technicals.
+4. GOOGL is the cleanest setup (BofA catalyst, flat/positive momentum); deploy Wednesday if NVDA beats.
+5. AVGO secondary target; confirm momentum turns positive post-NVDA.
+
+---
