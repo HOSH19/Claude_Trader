@@ -144,6 +144,33 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-20 — BUY GOOGL
+- Shares: 20
+- Entry: $389.84
+- Stop: 10% trailing | HWM $389.54 | Current stop $350.59
+- Target: $467.81 (+20%)
+- Thesis: Tech momentum; AI/cloud growth; add diversification to tech allocation
+- Sector: Tech (XLK top tier)
+- R:R: 2.0:1
+- Order ID: 84e42181 (trailing stop)
+
+---
+
+### May 20 — EOD Snapshot (Day 18, Wednesday)
+**Portfolio:** $102,455.51 | **Cash:** $48,872.15 (47.7%) | **Day P&L:** +$437.52 (+0.43%) | **Phase P&L:** +$2,455.51 (+2.46%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $302.24 | +1.09% | +$724.08 (+9.36%) | $272.88 |
+| GOOGL | 20 | $389.84 | $388.89 | +0.32% | -$18.90 (-0.24%) | $350.59 |
+| META | 13 | $598.88 | $604.75 | +0.36% | +$76.26 (+0.98%) | $561.36 |
+| MSFT | 19 | $416.87 | $420.15 | +0.65% | +$62.25 (+0.79%) | $389.43 |
+| NVDA | 96 | $207.15 | $223.94 | +1.51% | +$1,611.82 (+8.11%) | $212.89 |
+
+**Notes:** Day 18 EOD (Wednesday). Green day — all five positions closed higher. NVDA led +1.51%, AAPL +1.09%, MSFT +0.65%, META +0.36%. Executed 1 new trade: BUY GOOGL 20 @ $389.84; ended the day marginally below entry (-$18.90) after a late-session dip with trailing stop set at $350.59. Portfolio deployment improved to 52.3% vs 80% target; 1/3 weekly trade slots used, 2 remain. Phase P&L +$2,455.51 (+2.46%). Tomorrow: scout 1–2 high-conviction setups to continue closing deployment gap.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
