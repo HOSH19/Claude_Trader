@@ -974,3 +974,41 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
 ---
+
+## 2026-05-20 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $101,973.61 (session-start $101,983.48; drop −$9.87 — no DD halt)
+- Cash: $56,668.85
+- Buying power: $158,642.46
+- Daytrade count: 0
+- Positions: 4 | Trades this week: 0/3
+- Deployed: 44.4% vs 80% target
+
+### Market Context
+- NVDA Q1 FY27 earnings (after close May 19): EPS $1.78 vs $1.54 est (+15.6% beat); Revenue $79.2B — blowout. Stock pre-market +1.59% to $224.11, now trading ~$221.
+- S&P 500 opened higher; VIX stable. FOMC minutes pushed to May 21 (not today).
+- AVGO: Wells Fargo PT ↑$545, Evercore PT ↑$582, Citi PT ↑$500 — but bid/ask spread $412.53/$433.77 (5%+) at open → HALTED or illiquid → SKIP.
+- GOOGL: trading $388–389 (tight spread); consolidating 3+ weeks since Q1 gap (+63% cloud beat). 20d SMA est. ~$375–380 → ~2–5% above SMA = Setup:2.
+- AMD: at ~$429 (tight spread) but +25% run since early May; potential extension risk.
+
+### Candidate Scoring (inline)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| GOOGL | **9/10** | 2 (Q1 cloud +63%, NVDA beat confirms AI demand) | 2 (XLK top) | 2 (est. 2–5% above SMA after 3-wk consolidation) | 1 (bars null) | 2 (entry ~$389, stop ~$350, target ~$467, 2:1) | ✅ TRADE |
+| AVGO | SKIP | — | — | — | — | — | Wide spread (5%+) at open — rule block |
+| AMD | 7/10 | 2 (BofA top pick, NVDA halo) | 2 (XLK top) | 1 (possibly >10% extended from ~$355 in early May) | 1 | 2 | ✗ Lower conviction vs GOOGL; defer |
+
+### Trade Idea
+**GOOGL — BUY 20 shares at market**
+- Entry: ~$389 | Stop: 10% trailing GTC (~$350 initial) | Target: ~$467 (+20%)
+- Size: 20 × $389 = ~$7,780 (7.6% equity)
+- Catalyst: Cloud +63% YoY Q1 beat + NVDA AI demand confirmation
+- Sector: XLK (top tier)
+- R:R: 2.0:1
+
+### Decision
+**TRADE — BUY GOOGL (20 shares).** NVDA earnings unlock this watchlist entry. AVGO spread too wide at open; AMD potentially extended. 1/3 trades used this week.
+
+---

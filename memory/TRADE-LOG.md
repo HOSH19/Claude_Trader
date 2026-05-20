@@ -144,6 +144,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-20 — BUY GOOGL
+- Shares: 20
+- Entry: $389.84
+- Stop: 10% trailing | HWM $389.40 | Current stop $350.46
+- Target: $467.81 (+20%)
+- Thesis: Post-Q1 earnings consolidation (3+ weeks); SMA catch-up brings setup to ~2–5% above 20d SMA; NVDA Q1 FY27 blowout beat ($1.78 EPS vs $1.54 est, $79.2B rev) confirms AI infrastructure demand tailwind
+- Catalyst: Q1 2026 cloud revenue +63% YoY, $20B cloud quarter; NVDA earnings unlock watchlist entry
+- Sector: Tech (XLK top tier)
+- R:R: 2.0:1
+- Order ID: abe306a2 (buy) | 84e42181 (trailing stop)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
