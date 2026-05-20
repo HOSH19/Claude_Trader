@@ -974,3 +974,94 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
 ---
+
+## 2026-05-20 — Pre-market Research
+
+### Account
+- Equity: $102,312.31
+- Cash: $56,668.85
+- Buying Power: $158,981.16
+- Daytrade count: 0
+- Deployed: $45,643.46 (44.6% of equity — below 80% target)
+- Weekly trades: 0/3 used
+
+### Market Context
+- WTI: $103.02 (-1.08%) | Brent: $110.12 (-1.04%) — oil easing slightly (source: businessinsider.com/commodities/oil-price)
+- S&P 500 futures: 7,388.50 +10.50 pts (+0.14%) — mild positive open (source: investing.com/indices/us-spx-500-futures)
+- VIX: 18.02 (-0.22%) — down from yesterday's 18.9; improving but still elevated (source: finance.yahoo.com/quote/%5EVIX/)
+- S&P 500 completed 7th straight up week (+16% over streak); historically bullish precedent (source: fool.com/investing/2026/05/20)
+- Today's catalysts: NVDA Q1 FY27 earnings after close (THE key event); FOMC minutes 2:00 PM ET; Google+Blackstone AI cloud deal announced (GOOGL +0.90% premarket)
+- Earnings before open: ADI (Analog Devices), TJX Companies, Lowe's — no universe names
+- Earnings after close: **NVDA** — consensus EPS $1.75 (vs $1.62 Q4 FY26), revenue $78.85B; Wedbush expects EPS >$1.80, revenue $2B+ above consensus; 37 analysts Buy; PT range $280+ (source: mexc.com/news/1101049, marketbeat.com/stocks/NASDAQ/NVDA/earnings/)
+- Economic calendar: FOMC minutes 2:00 PM ET (April 28-29 meeting); hawkish surprise risk for rate-sensitive tech (source: federalreserve.gov/newsevents/2026-may.htm)
+- Sector momentum (YTD): #1 XLE +33.81% | #2 XLK +22.58% | #3 XLI +10.81% | Bottom: XLF -6.22%, XLV -5.88% (source: totalrealreturns.com/n/SPY,XLP...)
+
+### Open Position Review
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized | Stop | HWM | Action |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $299.92 | +$657 (+8.48%) | $272.88 | $303.20 | HOLD — near record high; WWDC catalyst pending; tighten at +15% ($317.84) |
+| META | 13 | $598.88 | $603.70 | +$62 (+0.80%) | $561.36 | $623.73 | HOLD — intact thesis; ad revenue/AI monetization story |
+| MSFT | 19 | $416.87 | $415.90 | -$18 (-0.23%) | $389.43 | $432.70 | HOLD — near flat; manual cut trigger $387.09; watch FOMC minutes reaction |
+| NVDA | 96 | $207.15 | $224.33 | +$1,648 (+8.29%) | $212.89 | $236.54 | HOLD through earnings tonight; blowout expected; tighten to 7% trail at $238.22 (+15%) |
+
+### Candidate Scoring (20-symbol universe)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | **8/10** | 2 (Evercore ISI PT raised $582; TD Cowen Buy $500; IBD top pick; Q2 FY26 est. EPS $2.32) | 2 (XLK top) | 1 (est. 5-10% above 20d SMA at ~$405-415; $426 current) | 1 (bars null; institutional demand high) | 2 ($426 entry, $383 stop, $511 target, 2:1 R:R) | ✗ BLOCKED — bars null (5th session) + NVDA binary event today |
+| GOOGL | **8/10** | 2 (Google+Blackstone AI cloud JV; Cloud 50%+ growth; +0.90% premarket) | 2 (XLK top) | 1 (est. 5-10% above SMA; $396 current post Q1 gap) | 1 (bars null; premarket volume elevated) | 2 (~$397 entry, $357 stop, $476 target, 2:1) | ✗ BLOCKED — bars null + FOMC minutes 2pm risk |
+| AMD | **7/10** | 2 (Citi revamped PT; BofA top semis pick; Helios AI rack data center) | 2 (XLK top) | 1 (bars null) | 1 (bars null) | 1 (price/setup indeterminate) | ✗ BLOCKED — bars null + NVDA binary event today |
+| AMZN | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| XOM | 5/10 | 1 (oil declining; ceasefire risk) | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| CVX | 5/10 | 1 (same as XOM) | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| TSM | 4/10 | 1 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF -6.22%) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 1/10 | 0 | 0 (XLV -5.88%) | 0 | 0 | 1 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (≥7 scorers — bars null, 5th consecutive session)
+
+**AVGO** (research-based estimates only):
+- Current price: $426.02 (Nasdaq pre-mkt). Evercore ISI PT $582 (raised from $490). Q2 FY26 EPS est. $2.32.
+- Est. 20d SMA: ~$405-415 (30-day run from ~$293 → +45% move; SMA lags fast moves). Distance: est. +3-7% → borderline Setup:1
+- 5-day momentum: positive (AI backlog story, analyst upgrades this week) ✓
+- Volume ratio: cannot confirm (bars null); institutional demand confirmed by analyst activity ✗
+- **BLOCKED**: cannot validate technically. NVDA earnings tonight = do NOT add semiconductor risk today.
+
+**GOOGL** (research-based estimates only):
+- Current price: $396.86 (Nasdaq, +0.90% pre-mkt). Google+Blackstone AI cloud JV announced.
+- Est. 20d SMA: ~$375-385 (post-Q1 earnings gap pushed stock from ~$355 → $390+; SMA lagging). Distance: est. +3-6% → borderline Setup:1-2
+- 5-day momentum: positive (GOOG up ~+3-4% past week per MarketChameleon) ✓
+- Volume ratio: cannot confirm (bars null); premarket activity elevated per MarketChameleon ✗
+- **BLOCKED**: bars null. FOMC minutes 2pm introduces uncertainty. Watchlist priority #2.
+
+**AMD** (research-based estimates only):
+- Citi revamped PT (TheStreet reference). Price indeterminate without bars.
+- **BLOCKED**: bars null + NVDA binary event = no semiconductor entries today.
+
+### Trade Ideas
+No actionable entries today — NVDA binary event (earnings tonight) + FOMC minutes 2pm + bars null (5th consecutive session):
+
+**Watchlist for post-NVDA (May 21+):**
+1. **AVGO (primary)** — Score 8/10. Evercore ISI PT $582, IBD top pick, Q2 FY26 EPS est. $2.32 vs $1.58 year-ago (+47% YoY). Entry target $426-430, stop -10% ($383-387), target +20% ($511-516), R:R 2:1. **Unlock: post-NVDA positive reaction + bars API restoration.**
+2. **GOOGL (secondary)** — Score 8/10. Google+Blackstone AI cloud JV (new catalyst today). Cloud margin expansion 20%→27% QoQ. Entry ~$396-400, stop ~$357-360, target ~$475-480, R:R ~2:1. **Unlock: post-FOMC minutes confirmation + bars API restoration.**
+3. **AMD (tertiary)** — Score 7/10. BofA top semis pick + Citi PT revision. Entry/stop/target TBD pending bars. **Unlock: post-NVDA + bars restoration only.**
+
+### Risk Factors
+- **NVDA Q1 FY27 earnings tonight (after close)** — consensus EPS $1.75 (Wedbush expects $1.80+); blowout widely expected but "buy the rumor sell the news" risk; our $1,648 unrealized gain at risk; stop $212.89 provides structural floor but gap-down risk if results disappoint
+- **FOMC minutes 2:00 PM ET** — April 28-29 meeting; any hawkish signal on rates → rate-sensitive tech selloff (MSFT, META, GOOGL most exposed)
+- **MSFT near flat (-0.23%)** — approaching manual cut threshold ($387.09 = -7% from entry); watch closely; FOMC minutes could push it either way
+- **Bars API null (5th consecutive session)** — technical validation completely blocked; biggest operational risk; still unclear if pre-market timing or persistent data feed issue
+- **Deployment gap** — 44.6% deployed vs 80% target; 0/3 weekly trades used; need 2-3 high-conviction entries but not forcing in risky conditions
+- **Oil declining** — WTI -1.08%, Brent -1.04%; explains XOM/CVX weakness; no energy sector exposure warranted
+- **AAPL near HWM** — $299.92 vs HWM $303.20; approaching record; tighten stop to 7% trail if it hits $317.84 (+15%)
+
+### Decision
+**HOLD — no new positions today.**
+1. NVDA Q1 FY27 earnings after close = binary semiconductor event; do NOT add AVGO/AMD exposure today.
+2. FOMC minutes 2:00 PM = hawkish surprise risk; holding cash prudent into the announcement.
+3. Bars API null (5th consecutive session) — technical validation blocked for all candidates.
+4. SPX futures only +0.14% — insufficient conviction for new entries.
+5. Post-NVDA path (May 21): IF NVDA reaction positive and bars API restores → execute AVGO (primary). IF NVDA disappoints → defensive, protect existing stops.
+
+---
