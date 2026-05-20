@@ -973,4 +973,25 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 4. FOMC minutes Wednesday = additional uncertainty catalyst.
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
+### Afternoon Addendum — Midday Scan 2026-05-20
+
+**Market-open action (logged retroactively):** GOOGL bought — 20 shares at $389.84 avg fill. Bars API restored at open; technical validation cleared. Trailing stop 84e42181 placed (10% trail, HWM $389.51, stop $350.56). 1 of 3 weekly trade slots used.
+
+**Midday state (intraday):**
+
+| Ticker | Entry | Current | Unrealized% | Stop | Action |
+|--------|-------|---------|-------------|------|--------|
+| AAPL | $276.38 | $300.54 | +8.74% | $272.88 | HOLD — below +15% threshold |
+| GOOGL | $389.84 | $384.80 | -1.29% | $350.56 | HOLD — well above -7% cut level |
+| META | $598.88 | $604.14 | +0.88% | $561.36 | HOLD — thesis intact |
+| MSFT | $416.87 | $418.53 | +0.40% | $389.43 | HOLD — thesis intact |
+| NVDA | $207.15 | $224.50 | +8.38% | $212.89 | HOLD through earnings tonight |
+
+- **DD halt:** Equity $102,347 vs session-start $101,983 → +0.36%. No halt.
+- **Cuts:** None — all positions above -7%.
+- **Stop tightening:** None — no position ≥+15%.
+- **FOMC minutes:** Released today; no hawkish surprise evident.
+- **NVDA earnings:** After close tonight — stop $212.89 provides floor. No new semi exposure until outcome known.
+- **Portfolio deployed:** 52.2% ($53,475 / $102,347). 2 weekly trade slots remain.
+
 ---

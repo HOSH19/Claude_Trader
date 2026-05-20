@@ -144,6 +144,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-20 — BUY GOOGL
+- Shares: 20
+- Entry: $389.84 (avg fill at market-open)
+- Stop: 10% trailing | HWM $389.51 | Current stop $350.56
+- Target: $467.81 (+20%)
+- Thesis: Score 8/10; Q1 Cloud +63% YoY beat, AI Search Overviews monetization accelerating, YTD +27%; bars API restored at open — technical validation cleared; XLK top-tier sector momentum
+- Catalyst: Q1 FY26 Cloud beat +63% YoY; AI search dominance expanding ad monetization; FOMC minutes in-line (rates steady)
+- Sector: Tech (XLK top tier)
+- R:R: ~2:1 ($389.84 entry, $350.56 stop = $39.28 risk, $467.81 target = $77.97 reward)
+- Order ID: 84e42181 (trailing stop — GTC)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
