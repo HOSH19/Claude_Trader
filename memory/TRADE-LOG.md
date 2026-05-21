@@ -171,6 +171,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 21 — EOD Snapshot (Day 19, Thursday)
+**Portfolio:** $102,078.20 | **Cash:** $48,872.15 (47.9%) | **Day P&L:** -$377.31 (-0.37%) | **Phase P&L:** +$2,078.20 (+2.08%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $304.72 | +0.82% | +$793.63 (+10.26%) | $274.99 |
+| GOOGL | 20 | $389.84 | $388.24 | -0.17% | -$31.83 (-0.41%) | $353.25 |
+| META | 13 | $598.88 | $607.39 | +0.39% | +$110.58 (+1.42%) | $561.36 |
+| MSFT | 19 | $416.87 | $418.85 | -0.53% | +$37.55 (+0.47%) | $389.43 |
+| NVDA | 96 | $207.15 | $219.30 | -1.86% | +$1,166.74 (+5.87%) | $212.89 |
+
+**Notes:** Day 19 EOD (Thursday). Mixed session — AAPL +0.82% and META +0.39% were the bright spots, while NVDA fell -1.86% (largest drag), MSFT -0.53%, and GOOGL -0.17%. Portfolio equity dips to $102,078.20, down $377.31 (-0.37%) from Wednesday's close, with phase P&L pulling back to +$2,078.20 (+2.08%). No trades today; weekly trade count stays at 1/3 used. Deployment at 52.1% vs 80% target — 2 trade slots remain but with tomorrow being Friday (weekly review day), any new entries should be high-conviction only. All stops intact; AAPL is the top performer at +10.26% unrealized.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
