@@ -974,3 +974,101 @@ No actionable entries today — bars null (4th consecutive session) + NVDA binar
 5. Primary watchlist: AVGO then GOOGL. Execute post-NVDA-earnings if bars API restores and macro stabilizes.
 
 ---
+
+## 2026-05-21 — Pre-Market Research (Day 19, Thursday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $102,230.02 |
+| Cash | $48,872.15 (47.8%) |
+| Long MV | $53,357.87 |
+| Deployed | 52.2% (target 80%) |
+| DT Count | 0/3 |
+| Weekly Trades | 1/3 used (GOOGL May 20) |
+| Session-start equity | $102,455.51 (prior close) |
+| DD from start | −$225.49 (−0.22%) — safe |
+
+### Market Context
+- **WTI**: ~$99–100/bbl (−3.5%), **Brent**: ~$105–107/bbl (−3.8%) — oil pulling back sharply
+- **SPX Futures**: 7,430 (−0.29%, −21.75 pts) — mild negative open
+- **VIX**: 17.44 (−0.62, −3.43%) — improving from 18.9 prior; risk-off easing
+- **NVDA Earnings (Q1 FY2027 — May 20 EOD)**: Rev $81.62B (beat $78.84B est), Adj EPS $1.87 (beat $1.77 est), data center rev nearly doubled. After-hours VWAP $222.22 (range $217.81–$225.97) — **sell-the-news dynamic**; stock drifting lower post-report. NASDAQ premarket ~$220.68 (−1.25%).
+- **AAPL**: Hit all-time high premarket ahead of WWDC; broke 22-week consolidation above $288.62; Nasdaq $301.53 (+0.85%).
+- **Today's Earnings**: Deere (DE), Take-Two Interactive, Copart — none in universe.
+- **Economic Calendar**: No CPI/PPI/FOMC today; markets watching FOMC member speech tones. 30-yr Treasury near 20-yr high ~5.19% — rate pressure on high-multiple tech.
+- Sources: oilprice.com, businessinsider.com/premarket, finance.yahoo.com/^VIX, marketchameleon.com/NVDA, investors.com (AAPL), earningswhispers.com
+
+### Sector ETF Ranking
+| Rank | Sector | ETF | Week Perf | YTD |
+|------|--------|-----|-----------|-----|
+| 1 | Energy | XLE | +10.22% (week) | +33.81% |
+| 2 | Utilities | XLU | +6.51% (week) | +3.48% |
+| 3 | Technology | XLK | −1.81% (week) | +22.58% |
+| — | Financials | XLF | — | −6.22% |
+| — | Healthcare | XLV | — | −5.88% |
+
+*Note: XLE weekly surge driven by Iran war oil spike; reversing today (oil −3.5%). XLK weekly weakness from NVDA sell-the-news + bond yield pressure. YTD top 3: XLE > XLK > XLI.*
+Source: fbroker.kz sector breakdown, totalrealreturns.com
+
+### Candidate Scoring (20-symbol universe; AAPL/GOOGL/META/MSFT/NVDA held)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | **8/10** | 2 (WF $545 PT; Citi $500 PT; $73B AI backlog; NVDA results validate) | 2 (XLK top YTD) | 1 (near 52-wk high; bars null) | 1 (bars null) | 2 (~$455 entry, ~$410 stop, ~$546 target, 2.0:1) | ✗ BLOCKED — bars null (5th session) |
+| AMD | **7/10** | 2 (BofA top pick; NVDA AI validation; Helios data center) | 2 (XLK top YTD) | 1 (bars null; −1.65% sympathy sell) | 1 (bars null) | 1 (price unknown) | ✗ BLOCKED — bars null |
+| AMZN | 6/10 | 1 | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
+| TSM | 4/10 | 1 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| XOM/CVX | 4/10 | 1 (oil spike reversing −3.5% today) | 2 (XLE YTD) | 1 | 0 | 1 | ✗ DISCARD |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF −6.22% YTD) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV −5.88% YTD) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (≥7 scorers — bars null, 5th consecutive session)
+
+**AVGO** (research-based estimate):
+- WF upgraded to $545 PT (from $430); Citi $500 PT (from $475); most dramatic large-cap semis upgrade of the year
+- AVGO "near 52-week high" per Perplexity — potential >10% above SMA20 → Setup could score 0 (drops to 6/10)
+- $73B AI backlog anchored by Meta, Google, Anthropic; fiscal Q2 earnings June 3 is next catalyst
+- 5-day momentum: positive pre-NVDA; today possible sympathy sell (−2.29% observed in competitor data)
+- Volume ratio: cannot compute (bars null)
+- **BLOCKED**: bars null (5th consecutive session) + 52-week high extension risk
+
+**AMD** (research-based estimate):
+- NVDA AI results confirm massive data center demand; AMD Helios rack positioned as enterprise alternative
+- 5-day momentum: unclear; −1.65% sympathy sell today
+- Price/SMA/volume: indeterminate without bars
+- **BLOCKED**: bars null
+
+### Existing Position Review
+
+| Ticker | Shares | Entry | Current | Unrealized | HWM | Stop | Action |
+|--------|--------|-------|---------|------------|-----|------|--------|
+| AAPL | 28 | $276.38 | $301.20 | +$694.99 (+8.98%) | $303.20 | $272.88 | HOLD — WWDC record high run; tighten trail at +15% ($317.84) |
+| GOOGL | 20 | $389.84 | $388.51 | −$26.50 (−0.34%) | $389.54 | $350.59 | HOLD — new position; thesis intact (Cloud +63% YoY) |
+| META | 13 | $598.88 | $601.60 | +$35.31 (+0.45%) | $623.73 | $561.36 | HOLD — stable |
+| MSFT | 19 | $416.87 | $417.17 | +$5.63 (+0.07%) | $432.70 | $389.43 | HOLD — flat; manual cut floor $387.69 |
+| NVDA | 96 | $207.15 | $222.99 | +$1,520.62 (+7.65%) | $236.54 | $212.89 | HOLD — sell-the-news at ~$220–223; stop $212.89 is ~4% buffer; trust trailing stop |
+
+### Watchlist Trade Ideas (blocked — bars null)
+
+1. **AVGO — Primary (Score 8/10)**: WF $545 PT, Citi $500 PT, $73B AI backlog. Entry ~$450–460, stop ~$405–415 (−10%), target ~$546 (+20%), R:R ~2:1. Unlock when: bars restore AND not >10% above SMA20 AND semiconductor sector stabilizes. Next catalyst: Fiscal Q2 earnings June 3.
+2. **AMD — Secondary (Score 7/10)**: BofA top pick, NVDA AI demand validation, Helios data center. Entry/stop TBD pending bars.
+
+### Risk Factors
+- **NVDA sell-the-news**: AH VWAP $222.22; PM ~$220.68. Stop $212.89 buffer ~4% — narrowing. AVGO −2.29%, AMD −1.65% in sympathy. No new semiconductor exposure until sector stabilizes.
+- **30-yr Treasury ~5.19% (near 20-yr high)**: Rate pressure on high-multiple tech; headwind for AVGO/AMD additions.
+- **SPX futures −0.29%**: Mild negative open.
+- **Oil reversal −3.5%**: Energy spike was a this-week event; XOM/CVX remain correctly avoided.
+- **Bars API null (5th consecutive session)**: Systematic issue blocking all technical validation.
+- **Portfolio 52.2% deployed**: 2 trade slots and 5 position slots available; preserve for high-conviction setup.
+
+### Decision
+**HOLD — no new positions today.**
+1. Bars API null (5th session) — technical validation blocked.
+2. NVDA sell-the-news → semiconductor space (AVGO, AMD) under sympathy pressure.
+3. 30-yr Treasury ~5.19% → rate headwind for new high-multiple tech entries.
+4. SPX futures mildly negative → wait for stability.
+5. AAPL WWDC momentum benefits held position.
+6. 2 trade slots remain — preserve for AVGO if bars restore + conditions improve.
