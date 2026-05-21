@@ -1072,3 +1072,5 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 4. SPX futures mildly negative → wait for stability.
 5. AAPL WWDC momentum benefits held position.
 6. 2 trade slots remain — preserve for AVGO if bars restore + conditions improve.
+
+---
