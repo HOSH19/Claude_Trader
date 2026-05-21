@@ -295,8 +295,8 @@ Only candidates from: AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V 
 | AMD | 6/10 | 1 (AI chip halo) | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
 | AVGO | 6/10 | 1 (AI networking) | 2 | 1 | 1 | 1 | ✗ DISCARD <7 |
 | XOM | 6/10 | 2 (oil $105+) | 1 (energy YTD mixed) | 1 | 2 | 0 (R:R <1.5 given "cracks forming") | ✗ DISCARD <7 |
-| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD <7 |
-| CVX | 5/10 | 2 | 1 | 1 | 1 | 0 | ✗ DISCARD <7 |
+| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | ✗ DISCARD |
+| CVX | 5/10 | 2 | 1 | 1 | 1 | 0 | ✗ DISCARD |
 | TSLA | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
 | JPM/GS/V/MA | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
 | UNH/JNJ | 2/10 | 0 | 1 | 1 | 0 | 0 | ✗ DISCARD |
@@ -1074,3 +1074,25 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 6. 2 trade slots remain — preserve for AVGO if bars restore + conditions improve.
 
 ---
+
+### 2026-05-21 — Midday Addendum (12:xx ET)
+
+**Account:** $102,018.24 | DD from session-start ($102,455.51): −0.43% — safe
+
+**Position Snapshot (midday):**
+| Symbol | Current | Unrealized % | Stop | Status |
+|--------|---------|-------------|------|--------|
+| AAPL | $303.76 | +9.91% | $273.83 | HOLD |
+| GOOGL | $388.27 | −0.40% | $351.45 | HOLD |
+| META | $602.67 | +0.63% | $561.36 | HOLD |
+| MSFT | $416.25 | −0.15% | $389.43 | HOLD |
+| NVDA | $220.24 | +6.32% | $212.89 | HOLD |
+
+**Checks:**
+- DD halt: −0.43% — NO halt
+- Cuts (-7% threshold): none triggered
+- Stop tightening (+15%/+20%): none eligible
+- Thesis check: NVDA sell-the-news confirmed (post-earnings profit-taking, -1.4% today); Kiplinger/Investors.com confirm analysts remain bullish, AI data center thesis intact. Trailing stop at $212.89 managing downside. No thesis break.
+- No sharp unexplained moves in other positions.
+
+**Action: None — all positions within rules.**
