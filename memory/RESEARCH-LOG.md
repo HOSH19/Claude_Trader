@@ -1096,3 +1096,97 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 - No sharp unexplained moves in other positions.
 
 **Action: None — all positions within rules.**
+
+---
+
+## 2026-05-22 — Pre-Market Research
+
+### Account
+- Equity: $102,121.15
+- Cash: $48,872.15 (47.9%)
+- Buying power: $150,993.30
+- Daytrade count: 0
+- Phase P&L: +$2,121.15 (+2.12%)
+- Deployed: $53,249 / $102,121 = 52.1% (vs 80% target)
+- Weekly trades used: 1/3 (GOOGL May 20); 2 slots remain
+
+### Market Context
+- WTI: ~$98/barrel (+3.2%) | Brent: ~$105/barrel (+2.2%) — oil surging; XLE +10.22% weekly
+- S&P 500 futures: 7,490.50 (+0.33%) | NASDAQ-100 futures: 29,576 (+0.44%) — positive open
+- VIX: 16.74 (−0.12%) — low fear, calm market
+- Today's catalysts: Oil surge; AVGO analyst upgrades continuing (Evercore $582, WF $545, UBS $490); Mag7 YTD: NVDA +8.1%, GOOGL +9.2%, AAPL −0.6%
+- Earnings before open: No major universe-relevant earnings (generic calendar, no specifics returned)
+- Economic calendar: No CPI/PPI/FOMC today; jobless claims/housing starts were this week; quiet Friday
+- Sector momentum (weekly): #1 XLE Energy +10.22% | #2 XLU Utilities +6.51% | #3 Real Estate +5.03% | XLK Tech −2.01%
+- Sector momentum (YTD): #1 XLE +33.81% | #2 XLK +22.58% | #3 XLI +10.81% | XLU +3.48% | XLV −5.88% | XLF −6.22%
+
+### Candidate Pool Scoring
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Decision |
+|--------|-------|----------|--------|-------|--------|-----|----------|
+| AVGO | **8/10** | 2 (Evercore $582, WF $545, UBS $490; Q2 June 3) | 2 (XLK +22.58% YTD) | 1 (bars null; est. below SMA20 after pullback from ~$450 → $392) | 1 (bars null) | 2 ($490 UBS target; R:R ~2.5:1) | ★ WATCHLIST — blocked |
+| XOM | **7/10** | 2 (WTI +3.2%, oil near $98; XLE top sector) | 2 (XLE +33.81% YTD) | 1 (bars null; energy extended after +10% week) | 1 (bars null) | 1 (est. 1.5:1) | ✗ HOLD — energy extended |
+| CVX | **7/10** | 2 (same oil thesis as XOM) | 2 (XLE +33.81% YTD) | 1 (bars null) | 1 (bars null) | 1 (est. 1.5:1) | ✗ HOLD — energy extended |
+| AMD | 6/10 | 1 (BofA prior; no new catalyst today) | 2 (XLK YTD) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| TSM | 6/10 | 1 (ASML/AI chip context) | 2 (XLK) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| AMZN | 4/10 | 0 (no catalyst) | 1 (XLY mid) | 1 | 1 | 1 | ✗ DISCARD <7 |
+| TSLA | 3/10 | 0 | 1 | 1 | 0 | 1 | ✗ DISCARD |
+| JPM/GS/V/MA | 2/10 | 0 | 0 (XLF −6.22% YTD) | 1 | 0 | 1 | ✗ DISCARD |
+| UNH/JNJ | 2/10 | 0 | 0 (XLV −5.88% YTD) | 1 | 0 | 0 | ✗ DISCARD |
+| SPY/QQQ | 4/10 | 0 | 2 | 1 | 1 | 0 | ✗ DISCARD |
+
+### Technical Validation (≥7 scorers — bars null, 6th consecutive session)
+
+**AVGO** (quote: $392.58 bid as of May 21 close):
+- Pulled from ~$450+ (52-week high zone, WF upgrade May 14–15) to $392 (NVDA sympathy sell)
+- 20d SMA: INDETERMINATE (bars null); estimated ~$415–430 → price below SMA (~−5% to −9%) → NOT extended → PASS
+- 5-day momentum: NEGATIVE (~−13% from ~$450 peak) → FAIL
+- Volume ratio: INDETERMINATE (bars null)
+- Result: 1 definitive fail, 1 pass (est), 1 unknown → **<2 fails → does NOT trigger discard rule; but bars null blocks full validation → WATCHLIST**
+- Entry: ~$393–395 | Stop: 10% trail (~$354) | Target: $490 (UBS) | R:R: ($490−$393)/$39 = 2.5:1
+- Position sizing: 20 shares × $393 = $7,860 (7.7% of equity — within 8% cap)
+
+**XOM** (quote: $147.08 bid):
+- 5-day momentum: POSITIVE (energy +10.22% weekly) → PASS
+- Extension risk: After +10% weekly move, XOM likely >10% above SMA20 → FAIL
+- Volume ratio: INDETERMINATE
+- Result: 1 fail (extension), 1 pass, 1 unknown → borderline; energy extended = elevated risk → HOLD
+
+**CVX** (quote: $182.87 bid):
+- Same profile as XOM → HOLD
+
+### Open Position Review
+
+| Ticker | Entry | Current | Unrealized | HWM | Stop | Buffer | Action |
+|--------|-------|---------|-----------|-----|------|--------|--------|
+| AAPL | $276.38 | $305.15 | +$805.56 (+10.41%) | $305.54 | $274.99 | +10.9% | HOLD; tighten at $317.84 (+15%) |
+| GOOGL | $389.84 | $388.30 | −$30.70 (−0.39%) | $392.50 | $353.25 | +9.9% | HOLD; thesis intact |
+| META | $598.88 | $606.48 | +$98.75 (+1.27%) | $623.73 | $561.36 | +8.0% | HOLD |
+| MSFT | $416.87 | $418.50 | +$30.90 (+0.39%) | $432.70 | $389.43 | +7.4% | HOLD |
+| NVDA | $207.15 | $219.88 | +$1,221.58 (+6.14%) | $236.54 | $212.89 | +3.2% | HOLD — stop buffer tight; Alpaca GTC trailing stop active |
+
+### Trade Ideas
+
+1. **AVGO — Primary Watchlist (8/10)**: Evercore PT $582, WF $545, UBS $490. "Supply still can't keep up" (Evercore). $73B AI backlog (Meta, Google, Anthropic). Pulled from ~$450 to $392 on NVDA sympathy sell — may be overdone. Entry ~$393–395, stop 10% trail, target $490, R:R 2.5:1. Unlock when: (a) bars restore AND negative 5d momentum reverses OR (b) today's open shows clear positive momentum above $395. Q2 earnings June 3 = next major catalyst.
+   Sources: https://www.cnn.com/markets/stocks/AVGO, https://www.perplexity.ai/finance/AVGO, https://247wallst.com/investing/2026/04/27/broadcom-stock-price-prediction-after-32-monthly-surge-475-target-558-bull-case
+
+2. **XOM — Secondary Watchlist (7/10)**: WTI +3.2% today, oil near $98. XLE #1 sector YTD (+33.81%) and this week (+10.22%). Entry ~$148–150, stop $133 (−10%), target $170 (+15%), R:R ~1.5:1. Hold off: energy may be extended after +10% weekly surge; wait for consolidation dip.
+
+3. **CVX — Tertiary Watchlist (7/10)**: Same oil thesis as XOM. Entry ~$183, stop $165, target $210, R:R ~1.5:1. Same caveat: wait for pullback after +10% energy week.
+
+### Risk Factors
+- **Bars API null (6th consecutive session)** — systematic issue blocking all technical validation; AVGO and XOM/CVX cannot be fully validated
+- **XLE extended**: +10.22% in one week is extreme; energy sector likely overbought short-term
+- **AVGO negative 5d momentum**: sympathy sell dragged it from ~$450 to $392; AI thesis intact but momentum headwind
+- **NVDA stop buffer tight at 3.2%**: HWM $236.54, stop $212.89, current $219.88 — small adverse move could trigger GTC stop
+- **Rate headwind**: 30-yr Treasury near 5.19% (near 20-yr high) — pressure on high-multiple tech
+- **Friday**: last trading day of week; conservative bias
+
+### Decision
+**HOLD — no new positions today.**
+1. Bars API null (6th session) — technical validation blocked for all candidates
+2. AVGO negative 5d momentum (−13% from peak); prefer to see stabilization before entry
+3. XOM/CVX potentially extended after +10% energy week
+4. Friday conservative bias — 2 trade slots preserved for next week
+5. AVGO remains primary target for Monday: watch for bars restore + momentum flip
+6. NVDA stop approaching — no new semiconductor exposure until buffer widens
