@@ -1096,3 +1096,27 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 - No sharp unexplained moves in other positions.
 
 **Action: None — all positions within rules.**
+
+---
+
+## 2026-05-22 — Midday Addendum
+
+**Account:** $102,000.74 | DD from session-start ($102,096.68 last_equity): −0.09% — safe
+
+**Position Snapshot (midday):**
+| Symbol | Current | Unrealized % | Stop (HWM) | Status |
+|--------|---------|-------------|------------|--------|
+| AAPL | $309.23 | +11.89% | $280.25 (HWM $311.39) | HOLD |
+| GOOGL | $386.06 | −0.97% | $353.25 (HWM $392.50) | HOLD |
+| META | $608.70 | +1.64% | $561.36 (HWM $623.73) | HOLD |
+| MSFT | $418.78 | +0.46% | $389.43 (HWM $432.70) | HOLD |
+| NVDA | $217.49 | +4.99% | $212.89 (HWM $236.54) | HOLD |
+
+**Checks:**
+- DD halt: −0.09% — NO halt
+- Cuts (−7% threshold): none triggered
+- Stop tightening (+15%/+20%): AAPL +11.89% (threshold $317.84); none eligible
+- Thesis check: AAPL near ATH on WWDC/AI momentum (thesis intact); GOOGL −0.97% within normal range (Cloud thesis intact); META/MSFT flat (theses intact); NVDA post-earnings stabilizing at $217 (AI data center thesis intact, stop $212.89 provides ~4% floor)
+- No sharp unexplained moves requiring Tavily research.
+
+**Action: None — all positions within rules.**
