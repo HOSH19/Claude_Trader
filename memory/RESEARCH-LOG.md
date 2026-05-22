@@ -1096,3 +1096,52 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 - No sharp unexplained moves in other positions.
 
 **Action: None — all positions within rules.**
+
+---
+
+## 2026-05-22 — Market-Open Inline Research (Friday, Day 20)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $102,300.53 |
+| Last equity (session-start) | $102,096.68 |
+| DD from session-start | +$203.85 (+0.20%) — **no halt** |
+| Cash | $48,872.15 (47.8%) |
+| Deployed | $53,428.38 (52.2%) |
+| DT Count | 0 |
+| Weekly Trades | 1/3 used (GOOGL May 20) — 2 slots remain |
+
+### Current Positions (live prices)
+| Ticker | Shares | Entry | Current | Unrealized | Stop (HWM) | Status |
+|--------|--------|-------|---------|------------|------------|--------|
+| AAPL | 28 | $276.38 | $308.21 | +$891.16 (+11.52%) | $277.61 (HWM $308.45) | HOLD |
+| GOOGL | 20 | $389.84 | $387.16 | -$53.50 (-0.69%) | $353.25 (HWM $392.50) | HOLD |
+| META | 13 | $598.88 | $613.51 | +$190.14 (+2.44%) | $561.36 (HWM $623.73) | HOLD |
+| MSFT | 19 | $416.87 | $421.65 | +$90.75 (+1.15%) | $389.43 (HWM $432.70) | HOLD |
+| NVDA | 96 | $207.15 | $219.47 | +$1,182.22 (+5.95%) | $212.89 (HWM $236.54) | HOLD |
+
+### Market Context (inline; no Tavily required — data from positions + quotes)
+- **Tone:** Portfolio +0.20% from session-start; tech sector broadly positive
+- **AAPL:** +11.52% unrealized; HWM $308.45 with trailing stop self-managing; tighten threshold $317.84 (+15%) not yet triggered
+- **NVDA:** +5.95%; sell-the-news post-earnings stabilizing; stop $212.89 intact
+- **Friday context:** End of week; new positions carry weekend gap risk
+
+### Candidate Scoring (watchlist from prior sessions)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | 8/10 | 2 | 2 | 1 | 1 | 2 | ✗ **SKIP — spread $416.48/$434.32 = $17.84 (4.2%) — rule: skip wide spread** |
+| AMD | 7/10 | 2 | 2 | 1 | 1 | 1 | ✗ HOLD — spread $474.24/$482.50 = $8.26 (1.7%); Friday gap risk; no fresh catalyst today |
+
+### Sell-Side Rule Checks
+- Manual cut (-7%): None triggered. Nearest GOOGL -0.69% — far above threshold
+- Stop tighten (+15%): AAPL at +11.52% — threshold $317.84 not reached. NVDA +5.95% — not reached
+- Thesis breaks: None — all theses intact
+
+### Decision
+**HOLD — no new positions today.**
+1. AVGO: bid/ask spread 4.2% — hard skip per rules (wide spread)
+2. AMD: 1.7% spread borderline + Friday = weekend gap risk + no fresh catalyst documentation
+3. 2 weekly trade slots preserved for next week when conditions are cleaner
+4. All 5 positions within rules; stops auto-managing
