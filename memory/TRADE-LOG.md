@@ -186,6 +186,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 22 — EOD Snapshot (Day 20, Friday)
+**Portfolio:** $101,732.10 | **Cash:** $48,872.15 (48.0%) | **Day P&L:** -$346.10 (-0.34%) | **Phase P&L:** +$1,732.10 (+1.73%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $309.11 | +1.35% | +$916.44 (+11.84%) | $280.25 |
+| GOOGL | 20 | $389.84 | $383.41 | -1.10% | -$128.50 (-1.65%) | $353.25 |
+| META | 13 | $598.88 | $609.64 | +0.37% | +$139.83 (+1.80%) | $561.36 |
+| MSFT | 19 | $416.87 | $419.09 | 0.00% | +$42.11 (+0.53%) | $389.43 |
+| NVDA | 96 | $207.15 | $215.10 | -2.01% | +$763.18 (+3.84%) | $212.89 |
+
+**Notes:** Day 20 EOD (Friday). Mixed session closing out the week — AAPL led +1.35%, META +0.37%, MSFT flat, while NVDA fell -2.01% (now just $2.21 / 1.0% above its $212.89 trailing stop; HWM $236.54 intact) and GOOGL dipped -1.10%, sliding further below entry. Portfolio equity $101,732.10, down $346.10 (-0.34%) on the day; Phase P&L retreats to +$1,732.10 (+1.73%). No trades today; week closes at 1/3 trade slots used (GOOGL buy May 20). Deployment 52.0% vs 80% target. Weekly review today — NVDA and GOOGL require close monitoring into Monday; 2 trade slots and deployment gap open for next week's setups.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
