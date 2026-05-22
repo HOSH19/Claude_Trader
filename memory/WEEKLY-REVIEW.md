@@ -105,3 +105,68 @@ Template for each entry:
 - **Research continuity**: Ensure daily-summary commits EOD snapshots every day — no more gaps
 
 ### Overall Grade: C-
+
+---
+
+## Week ending 2026-05-22
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $102,603.24 (May 15 close) |
+| Ending portfolio | $101,707.94 |
+| Week return | -$895.30 (-0.87%) |
+| S&P 500 week | ~+1.13% (7,408→7,492) |
+| Bot vs S&P | -2.00% |
+| Trades | 1 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | AAPL +11.70% unrealized |
+| Worst trade | GOOGL -1.67% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $308.72 | +$905.52 (+11.70%) | $280.25 (HWM ~$309) |
+| GOOGL | $389.84 (20 sh) | $383.34 | -$129.90 (-1.67%) | $353.25 |
+| META | $598.88 (13 sh) | $609.83 | +$142.30 (+1.83%) | $561.36 |
+| MSFT | $416.87 (19 sh) | $418.64 | +$33.56 (+0.42%) | $389.43 |
+| NVDA | $207.15 (96 sh) | $215.03 | +$756.46 (+3.80%) | $212.89 (⚠️ 1.0% above stop) |
+
+### What Worked
+- Deployment progress: 52% deployed vs 44% prior week — gap closing
+- AAPL is standout at +11.70%; approaching +15% tighten threshold ($317.84)
+- GOOGL entry May 20 added diversification; AI/cloud thesis intact long-term
+- META and MSFT stable with intact structural stops
+- XLK tech sector concentration remains strategically correct (top tier YTD)
+
+### What Didn't Work
+- Negative absolute returns (-0.87%) vs S&P +1.13% = -2.00% relative — worst weekly performance yet
+- NVDA dangerously close to stop: $215.03 vs $212.89 (1.0% gap) — one bad day stops it out at only +3.80% after 4 weeks
+- GOOGL immediately below entry (-1.67%); first position opened in the red
+- Still 52% deployed vs 80% target — persistent underdeployment for 4th consecutive week
+- Used only 1/3 trade slots again; not acting with enough conviction on valid setups
+
+### Key Lessons
+- NVDA stop ($212.89) now a near-term binary risk — HWM $236.54 is old; position has drifted down while stop hasn't moved; at 1% above stop after 4 weeks this is a poor return on held capital
+- AAPL tighten window is close — prepare to update the stop to 7% trail when it clears $317.84
+- All 5 positions are tech (XLK) — single-sector concentration; need one energy or defensive name
+- GOOGL entry slightly premature vs prior research which identified $380 as the ideal entry zone
+- The pattern of 1 trade/week when 3 slots are available means setups are either too rare or the entry bar is too high; be more decisive on ≥7/10 scoring candidates
+
+### Adjustments for Next Week
+- **NVDA**: Watch closely at Monday open; if it gaps down toward $212.89, evaluate thesis vs locking +3.80%; do NOT manually cut unless -7% or thesis breaks — let the stop work
+- **AAPL**: Tighten trailing stop to 7% when price exceeds $317.84; current $308.72 is close
+- **New positions**: Target 2 new entries next week — scout XOM or CVX (energy diversifier, oil ~$100+) plus one high-conviction tech; get to 65-70% deployed
+- **Sector diversification**: All 5 in tech — must add non-tech name to reduce XLK concentration risk
+- **Execution discipline**: If a candidate scores ≥7/10 AND bars confirm, pull the trigger — stop over-waiting
+
+### Overall Grade: C-
