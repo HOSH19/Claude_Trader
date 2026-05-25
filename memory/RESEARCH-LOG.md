@@ -1120,3 +1120,27 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 - No sharp unexplained moves requiring Tavily research.
 
 **Action: None — all positions within rules.**
+
+---
+
+## 2026-05-25 — Midday Scan (Memorial Day — Market Closed)
+
+**Account:** $101,736.40 | Data as of 2026-05-22 close (holiday, no trading)
+
+**Position Snapshot (Friday close prices):**
+| Symbol | Current | Unrealized % | Stop (HWM) | Status |
+|--------|---------|-------------|------------|--------|
+| AAPL | $308.82 | +11.74% | $280.25 (HWM $311.39) | HOLD |
+| GOOGL | $382.97 | −1.76% | $353.25 (HWM $392.50) | HOLD |
+| META | $610.26 | +1.90% | $561.36 (HWM $623.73) | HOLD |
+| MSFT | $418.57 | +0.41% | $389.43 (HWM $432.70) | HOLD |
+| NVDA | $215.33 | +3.95% | $212.89 (HWM $236.54) | HOLD |
+
+**Checks:**
+- Market status: CLOSED (Memorial Day)
+- DD halt: $0 change — NO halt
+- Cuts (−7% threshold): none triggered
+- Stop tightening (+15%/+20%): AAPL +11.74% (threshold $317.84); none eligible
+- Thesis check: No intraday moves to evaluate; all theses intact from Friday
+
+**Action: None — market closed, all positions within rules.**
