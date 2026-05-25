@@ -201,6 +201,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 25 — EOD Snapshot (Day 21, Monday)
+**Portfolio:** $101,736.40 | **Cash:** $48,872.15 (48.0%) | **Day P&L:** +$4.30 (+0.00%) | **Phase P&L:** +$1,736.40 (+1.74%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $308.82 | 0.00% | +$908.32 (+11.74%) | $280.25 |
+| GOOGL | 20 | $389.84 | $382.97 | 0.00% | -$137.30 (-1.76%) | $353.25 |
+| META | 13 | $598.88 | $610.26 | 0.00% | +$147.89 (+1.90%) | $561.36 |
+| MSFT | 19 | $416.87 | $418.57 | 0.00% | +$32.23 (+0.41%) | $389.43 |
+| NVDA | 96 | $207.15 | $215.33 | 0.00% | +$785.26 (+3.95%) | $212.89 |
+
+**Notes:** Day 21 EOD (Monday, Memorial Day holiday). US markets closed — no trading, no price movement. Equity effectively unchanged at $101,736.40 (+$4.30 rounding vs Fri close). All five positions intact with existing GTC trailing stops. AAPL leads at +11.74% unrealized; GOOGL remains the sole loser at -1.76%. Week 0/3 trade slots used. Deployment at 52.0% vs 80% target. First trading day of new week is tomorrow (Tuesday May 26) — scout for 1–2 high-conviction setups to close deployment gap.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
