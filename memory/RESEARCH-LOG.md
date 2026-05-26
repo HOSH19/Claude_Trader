@@ -1120,3 +1120,84 @@ Source: fbroker.kz sector breakdown, totalrealreturns.com
 - No sharp unexplained moves requiring Tavily research.
 
 **Action: None — all positions within rules.**
+
+---
+
+## 2026-05-26 — Pre-Market Research (Day 22, Tuesday)
+
+### Account
+- Equity: $102,073.75 (last_equity $101,736.40)
+- Cash: $48,872.15 (47.9%)
+- Long market value: $53,201.60
+- Buying power: $150,945.90
+- Daytrade count: 0
+- Deployment: 52.1% vs 80% target
+- Weekly trades used: 0/3
+
+### Market Context
+- WTI: ~$92/bbl | Brent: ~$99/bbl (elevated; Bloomberg https://www.bloomberg.com/energy)
+- S&P 500 futures: +0.74% at 7,539.50 (Markets Insider https://markets.businessinsider.com/premarket)
+- Nasdaq 100 futures: +1.02%
+- VIX: 16.64 (benign; Business Insider https://markets.businessinsider.com/index/vix)
+- Today's catalysts: Federal spending surge on AI/cybersecurity/defense/infrastructure; S&P 500 hit record close 7,473.47 Mon; Tech stocks driving strength (https://www.wallstreetzen.com/news/hot-or-not-stock-market-edition-05-26-2026)
+- Earnings before open: None major (holiday-shortened week, light calendar)
+- Economic calendar: FHFA Home Price Index 8am ET; FOMC Minutes 1pm ET (vol catalyst); CPI June 10, PPI June 12
+- Sector momentum (week): #1 XLE +10.22% | #2 XLU +7.05% | #3 XLRE +5.03% (https://fbroker.kz/en/news/sampp-500s-weekly-market-breakdown-sector-performance-ru-2)
+- Sector momentum (YTD): XLF +5.00% | SPY/XLK strong | XLV −2.77% (https://totalrealreturns.com/n/SPY,XLP,XLV,XLU,XLE,XLF,XLI,XLK)
+- Top 3 sectors: #1 Tech (AI/cyber/defense federal spending) | #2 Energy (XLE week leader) | #3 Healthcare (gaining momentum)
+- Analyst upgrades: MU most upgraded 2026; no universe-specific upgrades today
+
+### Position Review
+| Ticker | Current | Unrealized % | Stop (HWM) | Status |
+|--------|---------|-------------|------------|--------|
+| AAPL | $310.38 | +12.30% | $280.25 (HWM $311.39) | HOLD — WWDC June 8-12 approaching; tighten trail to 7% at $317.84 |
+| GOOGL | $384.54 | −1.36% | $353.25 (HWM $392.50) | HOLD — Cloud backlog $460B, thesis intact |
+| META | $611.05 | +2.03% | $561.36 (HWM $623.73) | HOLD — stable |
+| MSFT | $419.49 | +0.63% | $389.43 (HWM $432.70) | HOLD — stable |
+| NVDA | $217.77 | +5.13% | $212.89 (HWM $236.54) | HOLD — Fox Business bullish; AI momentum continuing; stop 2.2% away, trust trail |
+
+### Candidate Pool Scoring (20-symbol universe; bars API null 6th consecutive session)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AVGO | 5/10 | 2 | 2 | 0 | 0 | 1 | FAIL — bars null; Evercore $582 PT, UBS $490 PT, Q2 June 3 |
+| AMD | 3/10 | 1 | 2 | 0 | 0 | 0 | FAIL — bars null; consensus PT ~$399 ≈ current; no near-term upside |
+| TSM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — bars null; no specific catalyst |
+| JPM | 2/10 | 0 | 1 | 0 | 0 | 1 | FAIL — financials down 1.2% today |
+| GS | 2/10 | 0 | 1 | 0 | 0 | 1 | FAIL — same sector headwind |
+| V | 2/10 | 0 | 1 | 0 | 0 | 1 | FAIL — no catalyst |
+| MA | 2/10 | 0 | 1 | 0 | 0 | 1 | FAIL — no catalyst |
+| XOM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — bars null; oil spike already priced in |
+| CVX | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — bars null; same as XOM |
+| UNH | 1/10 | 0 | 0 | 0 | 0 | 1 | FAIL — XLV worst YTD sector (−2.77%) |
+| JNJ | 1/10 | 0 | 0 | 0 | 0 | 1 | FAIL — same sector |
+| SPY | 3/10 | 0 | 2 | 0 | 0 | 1 | FAIL — ETF, no specific catalyst |
+| QQQ | 3/10 | 0 | 2 | 0 | 0 | 1 | FAIL — ETF, no specific catalyst |
+
+**No candidates scored ≥7. Zero candidates advance to trade ideas.**
+
+### Technical Validation
+- Bars API: NULL for all symbols (6th consecutive session). All technical validation blocked.
+- Computed technicals: N/A — API unavailable.
+- AVGO estimated current ~$414 (from $480.49 PT = 16.02% upside per stockanalysis.com); bars null disqualifies from entry per rules.
+
+### Trade Ideas
+- None. No candidates passed ≥7 scoring threshold.
+- **AVGO watchlist** (would score 8+ if bars restored): Evercore $582 PT, UBS $490 PT, Q2 earnings June 3, AI supply "can't keep up." Entry ~$410-420, stop ~$370-378 (−10%), target ~$480-490 (+16-18%), R:R ~1.8. Unlock when: bars restore AND not >10% above SMA20 AND tech stable.
+
+### Risk Factors
+- **FOMC minutes 1pm ET**: Hawkish surprise could spike rates/VIX; tech growth most vulnerable
+- **NVDA stop proximity**: $212.89 stop only 2.2% below $217.77 PM; trust trailing stop, do not interfere
+- **AAPL tighten threshold approaching**: +12.3% unrealized; tighten trail to 7% when price hits $317.84 intraday
+- **Bars API null** (6th session): Systematic issue blocking all technical validation; no new entries possible
+- **GOOGL in loss** (−1.36%): Cut at −7% = $362.55. Stop $353.25. Cloud thesis intact.
+- **Oil elevated** ($92 WTI): Rate headwind for high-multiple tech; no new energy exposure needed
+- **Financials weak today**: GS/JPM/V/MA all down; avoid sector
+
+### Decision
+**HOLD — no new positions today.**
+1. Bars API null (6th session) → all candidates blocked from technical validation
+2. No candidate scores ≥7/10
+3. FOMC minutes 1pm ET → wait for post-release clarity before any new entries
+4. 0/3 weekly trade slots used — preserve for AVGO when bars restore + June 3 earnings approach
+5. All 5 existing positions thesis-intact; stops in place
