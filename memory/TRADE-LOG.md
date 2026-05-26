@@ -73,7 +73,7 @@ No positions yet. Bot launches tomorrow.
 | AAPL | 28 | $276.38 | $287.91 | +0.14% | +$322.84 (+4.17%) | $262.92 |
 | NVDA | 96 | $207.15 | $212.10 | +2.06% | +$475.18 (+2.39%) | $192.78 |
 
-**Notes:** Day 9 EOD. Steady session — both positions advanced. NVDA gained +2.06%, continuing its recovery with HWM now $214.20 and trailing stop updated to $192.78. AAPL moved modestly +0.14%, maintaining +4.17% unrealized gain with HWM at $292.13 and stop at $262.92. Portfolio equity reaches new high: +$799.94 (+0.80%) vs. starting $100K. No trades today; 1/3 weekly trades used with Friday remaining. Portfolio deployed at only 28.2% vs. 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups from approved universe to close the gap.
+**Notes:** Day 9 EOD. Steady session — both positions advanced. NVDA gained +2.06%, continuing its recovery with HWM now $214.20 and trailing stop updated to $192.78. AAPL moved modestly +0.14%, maintaining +4.17% unrealized gain with HWM at $292.13 and stop at $262.92. Portfolio equity reaches new high: +$799.94 (+0.80%) vs. starting $100K. No trades today; 1/3 weekly trades used with Friday remaining. Portfolio deployed at only 28.2% vs. 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups to close the gap.
 
 ---
 
@@ -224,6 +224,20 @@ No positions yet. Bot launches tomorrow.
 - Stop: 10% trailing | HWM $236.54 | Stop triggered $212.886
 - Exit reason: Trailing stop auto-executed intraday; NVDA had pulled back from $215.33 (holiday close) breaching the GTC trailing stop
 - Order ID: db9a0e69
+
+---
+
+### May 26 — EOD Snapshot (Day 22, Tuesday)
+**Portfolio:** $101,526.04 | **Cash:** $69,292.31 (68.2%) | **Day P&L:** -$210.36 (-0.21%) | **Phase P&L:** +$1,526.04 (+1.53%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $308.01 | -0.26% | +$885.64 (+11.44%) | $280.64 |
+| GOOGL | 20 | $389.84 | $388.38 | +1.41% | -$29.10 (-0.37%) | $353.25 |
+| META | 13 | $598.88 | $611.51 | +0.21% | +$164.14 (+2.11%) | $561.36 |
+| MSFT | 19 | $416.87 | $415.38 | -0.76% | -$28.38 (-0.36%) | $389.43 |
+
+**Notes:** Day 22 EOD. NVDA trailing stop triggered intraday at $212.71 (entry $207.15), locking in +$533.76 (+2.68%) realized gain; position closed automatically. Remaining four positions were mixed — GOOGL bounced +1.41% to $388.38 (HWM $392.50), META edged +0.21%, while AAPL slipped -0.26% (new HWM $311.82 intraday, stop tightened to $280.64) and MSFT -0.76%. Day P&L -$210.36 (-0.21%) driven by AAPL and MSFT intraday declines; NVDA realized gain already reflected in cash balance. Phase P&L pulls back to +$1,526.04 (+1.53%). Portfolio deployment drops sharply to 31.7% with ~$20K NVDA proceeds now in cash — pre-market tomorrow must identify 1–2 high-conviction setups to redeploy toward 80% target. 0/3 new buy slots used this week; all 3 available.
 
 ---
 
