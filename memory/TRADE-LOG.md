@@ -216,6 +216,17 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-26 — SELL NVDA (trailing stop triggered)
+- Shares: 96
+- Exit: $212.71
+- Entry: $207.15
+- Realized P&L: +$533.76 (+2.68%)
+- Stop: 10% trailing | HWM $236.54 | Stop triggered $212.886
+- Exit reason: Trailing stop auto-executed intraday; NVDA had pulled back from $215.33 (holiday close) breaching the GTC trailing stop
+- Order ID: db9a0e69
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
