@@ -241,6 +241,20 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 27 — EOD Snapshot (Day 23, Wednesday)
+**Portfolio:** $101,884.19 | **Cash:** $69,292.29 (68.0%) | **Day P&L:** +$316.07 (+0.31%) | **Phase P&L:** +$1,884.19 (+1.88%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $310.92 | +0.84% | +$967.12 (+12.50%) | $281.93 |
+| GOOGL | 20 | $389.84 | $388.96 | +0.02% | -$17.50 (-0.22%) | $354.49 |
+| META | 13 | $598.88 | $635.19 | +3.73% | +$471.98 (+6.06%) | $574.65 |
+| MSFT | 19 | $416.87 | $413.13 | -0.70% | -$71.13 (-0.90%) | $389.43 |
+
+**Notes:** Day 23 EOD. Good session led by META surging +3.73% to $635.19 — now +6.06% unrealized (HWM $638.50, stop $574.65). AAPL added +0.84% to $310.92, extending its lead to +12.50% unrealized (HWM $313.26, stop $281.93). GOOGL nearly flat +0.02% at $388.96 (-0.22% unrealized). MSFT continued its slide -0.70% to $413.13 (-0.90% unrealized, 4th consecutive down day); approaching -7% cut level at ~$387.69 — monitor closely. Portfolio equity +$316.07 (+0.31%) on the day; Phase P&L advances to +$1,884.19 (+1.88%). No new trades today; week remains 0/3 buy slots used. Deployment at 32.0% — critically below 80% target. Pre-market Thursday must identify 2–3 high-conviction setups to deploy remaining $69K toward the target.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
