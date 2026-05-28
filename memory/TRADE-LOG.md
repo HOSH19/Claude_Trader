@@ -255,6 +255,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-05-28 — BUY AVGO
+- Shares: 19
+- Entry: $416.89
+- Stop: 10% trailing | HWM $416.04 | Current stop $374.44
+- Target: $500.27 (+20%)
+- Thesis: AI infrastructure supercycle; chip sector leadership (XLK #2); BofA top pick; hyperscaler demand tailwind; clean setup at 20d SMA
+- Catalyst: AI chip demand acceleration; SK Hynix/Micron $1T milestone lifts AI infrastructure peers; ongoing hyperscaler capex cycle
+- Sector: Tech (XLK — #2 sector this week, +12.75% YTD)
+- R:R: 2.0:1
+- Order ID: 9ee0a6d1 (buy) | 4d681a00 (trailing stop)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
