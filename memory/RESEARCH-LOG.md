@@ -258,3 +258,12 @@ None evaluated today — midday scan only.
 - If SPX drops >0.5% post-PCE → HOLD, reassess at midday
 - TSM secondary entry if AVGO fills OK and deployment permits (0/3 weekly slots would be 1 after AVGO, room for 1-2 more)
 - JPM watch: provides finance sector diversification; enter next session if tech/PCE confirms
+
+### Midday addendum (2026-05-28)
+- Equity ~$102,250 (positions $40,879 + cash $61,371) — UP from session-start $101,842; no DD halt
+- No cuts: worst position GOOGL -0.18%; all others positive
+- No stop tightens: AAPL +12.59% (approaching +15% threshold at $317.84 — monitor); all others <+15%
+- MSFT bounced +2.97% intraday to $424.92 — thesis intact; 4-day slide reversed
+- All theses intact; no Tavily research triggered
+- AVGO filled at open $416.89; trailing stop active (10%, HWM $428, stop $385.20)
+- Positions: AAPL +12.59% | AVGO +2.43% | GOOGL -0.18% | META +5.28% | MSFT +1.93%
