@@ -128,3 +128,133 @@ Universe-only candidates evaluated (≥7/10 to advance):
 
 ### Candidates
 None evaluated today — midday scan only.
+
+---
+
+## 2026-05-28 (Day 24, Thursday)
+
+### Account Snapshot
+- **Equity:** $101,842.45 | **Cash:** $69,292.29 (68.0%) | **Daytrade count:** 0
+- **Deployment:** 32.0% ($32,550 of $101,842) — critically below 80% target
+- **Positions (4):** AAPL +12.27%, META +5.53%, MSFT -0.16%, GOOGL -0.76%
+- **Week trades:** 0/3 used | **Session-start equity (DD halt @ -10%):** $91,658.21
+- **Open GTC trailing stops:** AAPL ($281.93), GOOGL ($354.49), META ($574.65), MSFT ($389.43)
+
+### Market Context
+- **S&P 500 futures:** 7,528–7,533 (-0.16%) — essentially flat premarket
+- **VIX:** ~16.3–16.7 (low; risk-on backdrop)
+- **WTI crude:** ~$90.64–92.07 (+2.2%); **Brent:** ~$96.33–97.76
+- **Key event today:** PCE Price Index at 8:30 AM EDT (prior 3.2%) — PRIMARY RISK EVENT
+- **Earnings today:** RBC (RY) before open — not in universe; no universe earnings
+- **Market narrative:** S&P has had one of its strongest 8-week runs ever; AI chip supercycle driving tech; Big Tech all beat last week
+
+### Sector ETF Ranking (this week)
+1. **XLF (Financials):** +13.02% — top performing sector
+2. **XLK (Technology):** +12.75%
+3. **XLE (Energy):** +10.22%
+4. XLI (Industrials): +8.56% | XLB (Materials): +6.79% | XLU (Utilities): +6.51%
+5. **XLV (Healthcare):** -2.77% — bottom sector, avoid
+
+### Candidate Scoring Table
+(Universe: 20 symbols only — AAPL MSFT GOOGL AMZN NVDA META TSLA AMD AVGO TSM JPM GS V MA XOM CVX UNH JNJ SPY QQQ)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Notes |
+|--------|-------|----------|--------|-------|--------|-----|-------|
+| AAPL | — | — | — | — | — | — | Already held (+12.27%) |
+| MSFT | — | — | — | — | — | — | Already held (-0.16%) |
+| GOOGL | — | — | — | — | — | — | Already held (-0.76%) |
+| META | — | — | — | — | — | — | Already held (+5.53%) |
+| **AVGO** | **8/10** | 1 | 2 | 2 | 1 | 2 | ✅ PASS — PRIMARY IDEA |
+| **TSM** | **8/10** | 1 | 2 | 2 | 1 | 2 | ✅ PASS — SECONDARY IDEA |
+| **JPM** | **8/10** | 1 | 2 | 2 | 1 | 2 | ✅ PASS — TERTIARY IDEA |
+| GS | 7/10 | 1 | 2 | 1 | 1 | 2 | ✅ PASS — +5% above SMA |
+| NVDA | 8/10 | 1 | 2 | 2 | 1 | 2 | ⚠️ WATCH — same-week stop-out risk |
+| V | <7 | — | — | — | — | — | ❌ DISCARD — 2 tech fails |
+| MA | <7 | — | — | — | — | — | ❌ DISCARD — 2 tech fails |
+| AMD | <7 | — | — | — | — | — | SKIP — likely parabolic extension |
+| TSLA | <7 | — | — | — | — | — | SKIP — no catalyst |
+| AMZN | <7 | — | — | — | — | — | SKIP — no catalyst |
+| XOM/CVX | <7 | 0 | 2 | — | — | — | SKIP — no specific catalyst |
+| UNH/JNJ | <7 | 0 | 0 | — | — | — | SKIP — XLV sector bottom (-2.77%) |
+| SPY/QQQ | ETF | — | — | — | — | — | SKIP |
+
+### Technical Validation
+
+**AVGO** — ✅ 0 fails
+- 20d SMA: $420.38 | Dist: +0.35% (at SMA) | 5d mom: +2.62% (positive) | Vol ratio: 0.95× (passes)
+- Source: Alpaca bars endpoint (bars[-20:] from 2026-04-29)
+
+**TSM** — ✅ 0 fails
+- 20d SMA: $404.47 | Dist: +4.51% (clean) | 5d mom: +7.67% (strong) | Vol ratio: 1.13× (passes)
+- Strong breakout momentum on AI foundry demand
+
+**JPM** — ✅ 0 fails
+- 20d SMA: $304.60 | Dist: -1.75% (below SMA) | 5d mom: +1.21% (positive) | Vol ratio: 1.44× (elevated)
+- Source: Alpaca bars endpoint
+
+**GS** — ✅ 0 fails (but setup score 1)
+- 20d SMA: $948.58 | Dist: +5.05% (slightly extended) | 5d mom: +7.29% | Vol ratio: 1.11×
+
+**V** — ❌ 2 fails (DISCARD)
+- 5d mom: -0.70% (neg) | Vol ratio: 0.74× (low)
+
+**MA** — ❌ 2 fails (DISCARD)
+- 5d mom: -0.93% (neg) | Vol ratio: 0.75× (low)
+
+### Trade Ideas
+
+**#1 — BUY AVGO (Broadcom) — PRIMARY**
+- Catalyst: AI infrastructure supercycle; chip sector leadership (XLK #2); BofA maintained top pick; ongoing demand from hyperscalers
+- Sector: XLK Tech — #2 sector this week (+12.75%)
+- Entry: ~$425 (approx, +0.7% from $421.86 close)
+- Stop: 10% trailing → initial ~$383
+- Target: +20% → ~$506
+- Shares: 19 × $425 = $8,075 (~7.9% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA $420.38, dist +0.35%, 5d mom +2.62%, vol ratio 0.95×
+- Condition: Wait for PCE reaction at 8:30 AM. Enter only if SPX holds flat/positive post-print.
+- Source: wallstreetzen.com (05/28/2026), investing.com/analysis/beyond-nvidia-5-semiconductor-stocks
+
+**#2 — BUY TSM (Taiwan Semiconductor) — SECONDARY**
+- Catalyst: AI chip foundry monopoly; SK Hynix/Micron $1T milestone; AI demand supercycle
+- Sector: XLK Tech — #2 sector this week
+- Entry: ~$425 (approx, +0.5% from $422.73 close)
+- Stop: 10% trailing → initial ~$383
+- Target: +20% → ~$510
+- Shares: 18 × $425 = $7,650 (~7.5% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA $404.47, dist +4.51%, 5d mom +7.67%, vol ratio 1.13×
+- Condition: Enter only if AVGO fills and cash/position limits allow; post-PCE confirmation
+
+**#3 — WATCH JPM (JP Morgan) — TERTIARY/DIVERSIFICATION**
+- Catalyst: Finance sector #1 this week (+13.02%); no specific JPM catalyst today
+- Sector: XLF Finance — #1 sector this week
+- Entry: ~$300 (near current $299.28 close)
+- Stop: 10% trailing → initial ~$270
+- Target: +20% → ~$360
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA $304.60, dist -1.75% (below SMA), 5d mom +1.21%, vol ratio 1.44×
+- Note: Provides sector diversification vs current all-tech portfolio; 4th trade would exceed week limit if AVGO + TSM already done
+
+### Position Monitoring
+- AAPL: +12.27% unrealized; approaching +15% tighten threshold ($317.84 = entry $276.38 × 1.15). Monitor intraday.
+- GOOGL: -0.76%; thesis intact; stop at $354.49 (HWM $393.88). -7% cut at $362.35 — well above.
+- META: +5.53%; stop $574.65; next tighten threshold $688.71 (+15%)
+- MSFT: -0.16%; closely watching; 4 consecutive down days prior. Stop $389.43.
+
+### Risk Factors
+- **PCE at 8:30 AM (CRITICAL):** Prior 3.2%. Hot print (>3.3%) = broad selloff; tech hit hardest. Will not enter any new position before this data clears.
+- **Tech concentration:** All 4 current positions in XLK. Adding AVGO + TSM = 6/6 top positions in tech. Acceptable per sector momentum rule.
+- **GOOGL thesis:** Stock near entry; -7% cut at $362.35. Weak relative performer in portfolio.
+- **NVDA re-entry:** Stopped out May 26. Same-week re-entry = avoid per prior research note.
+- **Deployment gap:** 32% deployed vs 80% target. Need 3 more positions over coming weeks; today's ideas address this.
+
+### Decision
+**TRADE: AVGO (primary), WATCH: TSM/JPM**
+- Execute AVGO at market open **only if PCE (8:30 AM) does not cause broad market selloff**
+- If SPX futures remain flat/positive after PCE print → enter AVGO market order
+- If SPX drops >0.5% post-PCE → HOLD, reassess at midday
+- TSM secondary entry if AVGO fills OK and deployment permits (0/3 weekly slots would be 1 after AVGO, room for 1-2 more)
+- JPM watch: provides finance sector diversification; enter next session if tech/PCE confirms
