@@ -268,6 +268,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 28 — EOD Snapshot (Day 24, Thursday)
+**Portfolio:** $102,381.59 | **Cash:** $61,371.38 (59.9%) | **Day P&L:** +$509.86 (+0.50%) | **Phase P&L:** +$2,381.59 (+2.38%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $312.34 | +0.48% | +$1,006.88 (+13.01%) | $281.93 |
+| AVGO | 19 | $416.89 | $426.20 | +1.03% | +$176.89 (+2.23%) | $386.71 |
+| GOOGL | 20 | $389.84 | $389.96 | +0.29% | +$2.55 (+0.03%) | $354.49 |
+| META | 13 | $598.88 | $634.68 | -0.09% | +$465.35 (+5.98%) | $578.70 |
+| MSFT | 19 | $416.87 | $427.20 | +3.52% | +$196.20 (+2.48%) | $389.43 |
+
+**Notes:** Day 24 EOD (Thursday). Green day — MSFT led with a strong +3.52% bounce (HWM $432.70, stop $389.43). First day for AVGO: entered at $416.89, closed at $426.20 (+1.03% intraday, +2.23% vs entry; HWM $429.68, stop $386.71). AAPL +0.48%, now at +13.01% unrealized gain (HWM $313.26, stop $281.93). META edged -0.09%, holding +5.98% unrealized (HWM $643.00, stop $578.70). GOOGL +0.29%, finally tipping slightly positive (+$2.55 unrealized). Portfolio equity: $102,381.59, +$509.86 (+0.50%) on the day; Phase P&L +$2,381.59 (+2.38%). 1 trade today (AVGO buy); week at 1/3 slots used. Deployment at 40.1% vs 80% target — 2 trade slots remain. Tomorrow is weekly review Friday; identify 1-2 high-conviction setups to accelerate deployment toward 80% target.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
