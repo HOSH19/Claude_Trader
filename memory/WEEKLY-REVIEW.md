@@ -170,3 +170,68 @@ Template for each entry:
 - **Execution discipline**: If a candidate scores ≥7/10 AND bars confirm, pull the trigger — stop over-waiting
 
 ### Overall Grade: C-
+
+---
+
+## Week ending 2026-05-29
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,707.94 (May 22 close) |
+| Ending portfolio | $102,893.31 |
+| Week return | +$1,185.37 (+1.17%) |
+| S&P 500 week | +1.67% (7,464→7,599) |
+| Bot vs S&P | -0.50% |
+| Trades | 2 (W:1 / L:0 / open:5) |
+| Win rate | 100% (1/1 closed) |
+| Best trade | MSFT +7.17% (week) |
+| Worst trade | GOOGL -2.39% unrealized |
+| Profit factor | N/A (no losses) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA | $207.15 (96 sh) | $212.71 | +$533.76 (+2.68%) | GTC trailing stop auto-triggered May 26; HWM $236.54, stop $212.89 |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $311.25 | +$976.36 (+12.62%) | $283.46 (HWM $314.96) |
+| AVGO | $416.89 (19 sh) | $445.02 | +$534.47 (+6.75%) | $403.99 (HWM $448.88) |
+| GOOGL | $389.84 (20 sh) | $380.51 | -$186.50 (-2.39%) | $354.49 (HWM $393.88) |
+| META | $598.88 (13 sh) | $632.15 | +$432.46 (+5.55%) | $578.70 (HWM $643.00) |
+| MSFT | $416.87 (19 sh) | $448.60 | +$602.80 (+7.61%) | $405.30 (HWM $450.33) |
+
+### What Worked
+- NVDA trailing stop executed perfectly — auto-triggered at $212.71 protecting +2.68% realized gain with zero manual intervention
+- AVGO entry (May 28) immediately strong: +6.75% in 2 days on AI infrastructure / hyperscaler demand thesis
+- MSFT surged +7.17% this week on Azure AI momentum — now highest unrealized gain by $; stop tightened to $405.30
+- AAPL compounds steadily: +12.62% unrealized, approaching +15% tighten threshold ($317.84)
+- META holding +5.55%; stop and HWM structure intact
+
+### What Didn't Work
+- Persistent deployment failure (5th consecutive week): 40.1% deployed vs 80% target; $61K+ cash idle all week
+- Bot vs S&P: -0.50% underperformance despite positive absolute return; cumulative drag building
+- GOOGL continues to weaken — 3rd consecutive week negative to flat; -2.39% unrealized, approaching -7% cut ($362.55)
+- Only 1 new position (AVGO) this week with 3 slots available; TSM and JPM candidates identified but not executed
+- All 5 positions remain in XLK tech — zero sector diversification for 5+ weeks
+
+### Key Lessons
+- GTC trailing stops are the single most reliable mechanism in the system — trust them; NVDA executed exactly as designed
+- GOOGL (-2.39%, 3 weeks negative) is dead weight; if it doesn't recover to entry by Tuesday, re-evaluate thesis vs deploying capital elsewhere
+- Deployment paralysis is now the #1 structural risk to beating S&P — idle cash guarantees underperformance in a bull market
+- AAPL tighten window imminent ($317.84); must update stop to 7% trail on break above
+- MSFT $405.30 stop reflects major intraday HWM; protect this gain — do NOT let it give back to $389 stop
+
+### Adjustments for Next Week
+- **Deploy aggressively**: Must open 2–3 positions — JPM (XLF sector #1), TSM (AI foundry), or XOM/CVX (energy diversifier); target 65–75% deployed by EOW
+- **GOOGL**: Cut immediately at $362.55 (-7%); if no positive catalyst by Tuesday, consider proactive exit above stop and reallocate
+- **AAPL**: Tighten trailing stop to 7% when price exceeds $317.84; current $311.25 is close
+- **MSFT**: Monitor against new HWM; stop at $405.30 is healthy; no changes unless new HWM prints
+- **Sector diversification**: All tech portfolio = concentration risk; one JPM or XOM entry reduces single-sector exposure
+
+### Overall Grade: C+
