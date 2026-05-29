@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-05-29 (Day 25, Friday) — Inline Market-Open Research
+
+**Account snapshot:** Equity $102,687.07 | Cash $61,371.38 (59.8%) | Positions: 5 | DT count: 0
+**Session-start equity:** $102,400.86 (May 28 EOD) | **Portfolio DD:** +0.28% — no halt
+**Deployment:** 40.3% ($41,316 of $102,687) | **Week trades:** 1/3 used (AVGO May 28)
+
+### Market Context
+- **S&P 500 futures:** Edging higher on tentative US-Iran deal (Strait of Hormuz, nuclear talks)
+- **MAGS ETF:** -0.39% premarket — tech under mild pressure
+- **VIX:** ~16.3 (low, risk-on)
+- **SPX close May 28:** 7,561 (+0.55%)
+- **Sector tone:** Dell +35% (Pentagon contract) — not universe. Broad market cautiously positive.
+
+### Candidate Screening (watchlist from May 28 research)
+
+| Ticker | Bid | Ask | Spread | Verdict |
+|--------|-----|-----|--------|---------|
+| TSM | $420 | $435 | $15 (3.5%) | ❌ WIDE SPREAD — SKIP |
+| JPM | $281.58 | $311.97 | $30.39 (10.7%) | ❌ HALTED/WIDE — SKIP |
+
+### Position Check
+| Ticker | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|-------|---------|-----------|------|-----|--------|
+| AAPL | $276.38 | $314.23 | +13.70% | $283.28 | $314.76 | ✅ Approaching +15% tighten ($317.84) |
+| AVGO | $416.89 | $438.27 | +5.13% | $395.10 | $439.00 | ✅ |
+| GOOGL | $389.84 | $382.75 | -1.82% | $354.49 | $393.88 | ⚠️ Monitor; -7% cut at $362.55 |
+| META | $598.88 | $631.68 | +5.48% | $578.70 | $643.00 | ✅ |
+| MSFT | $416.87 | $438.46 | +5.18% | $394.80 | $438.67 | ✅ Near HWM |
+
+### Decision
+**NO TRADES** — both candidates (TSM, JPM) disqualified by wide/halted spreads at market open. All existing positions healthy. AAPL approaching +15% tighten threshold — trailing stop will auto-adjust; monitor intraday.
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
