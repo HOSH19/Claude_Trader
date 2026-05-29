@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-05-29 (Day 25, Friday) — Midday Scan
+
+**Session-start equity:** $102,381.59 (May 28 EOD) | **DD halt threshold:** $92,143.43 (-10%)
+
+### Account Snapshot (midday)
+- **Equity (est.):** ~$102,612 | **Cash:** $61,371.38 | **Positions:** 5
+- **Portfolio DD:** +0.23% from session-start — **no halt**
+
+### Position Status
+| Ticker | Entry | Current | Unrealized | Intraday | Stop | HWM | Status |
+|--------|-------|---------|------------|---------|------|-----|--------|
+| AAPL | $276.38 | $310.72 | +12.43% | -0.57% | $283.46 | $314.96 | ✅ Hold |
+| AVGO | $416.89 | $439.27 | +5.37% | +2.97% | $403.72 | $448.58 | ✅ Hold |
+| GOOGL | $389.84 | $382.25 | -1.95% | -2.02% | $354.49 | $393.88 | ⚠️ Watch |
+| META | $598.88 | $625.16 | +4.39% | -1.60% | $578.70 | $643.00 | ✅ Hold |
+| MSFT | $416.87 | $443.28 | +6.33% | +3.82% | $401.08 | $445.64 | ✅ Hold |
+
+### Midday Decisions
+- **No cuts** — no position at -7% threshold
+- **No stop tightening** — no position at +15% (AAPL nearest at +12.43%; threshold $317.84)
+- **No thesis breaks** — GOOGL underperforming but tech thesis intact; -7% cut level = $362.35 (current $382.25)
+- **MSFT strong** — +3.82% intraday, new HWM $445.64; stop auto-tracking at $401.08
+- **AVGO strong** — +2.97% intraday, new HWM $448.58; stop auto-tracking at $403.72
+- **GOOGL watch** — consistent laggard; cut at $362.35 if breach; thesis hold for now
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
