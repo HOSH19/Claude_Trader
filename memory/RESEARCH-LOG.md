@@ -258,3 +258,119 @@ None evaluated today — midday scan only.
 - If SPX drops >0.5% post-PCE → HOLD, reassess at midday
 - TSM secondary entry if AVGO fills OK and deployment permits (0/3 weekly slots would be 1 after AVGO, room for 1-2 more)
 - JPM watch: provides finance sector diversification; enter next session if tech/PCE confirms
+
+---
+
+## 2026-05-29 (Day 25, Friday)
+
+### Account Snapshot
+- **Equity:** $102,438.25 | **Cash:** $61,371.38 (59.9%) | **Deployed:** $41,066.87 (40.1%)
+- **DT Count:** 0 | **Week trades:** 1/3 (AVGO bought May 28) | **Phase P&L:** +$2,438.25 (+2.44%)
+- Open positions: AAPL (+12.56%), AVGO (+3.67%), GOOGL (-0.57%), META (+5.58%), MSFT (+3.18%)
+
+### Market Context
+- **Oil:** WTI ~$89.50 | Brent ~$93.71 (slight declining trend; Iran deal risk could pressure energy)
+- **SPX futures:** +0.47% (~7,584) | **NASDAQ futures:** +0.75% (+225 pts)
+- **VIX:** ~15.90 (declining from 17.01 yesterday — calm; fear subsiding)
+- **Econ today:** No major releases (PCE + Q1 GDP second estimate released yesterday May 28; core inflation 2.44% — in-line with expectations, no shock)
+- **Earnings today:** 12 reports; none from our 20-symbol universe
+- **Analyst moves:** AMD downgraded to Hold/Sell (stretched valuation +20% above SMA); AVGO/NVDA remain BofA top picks for 2026
+- Sources: cnn.com/markets/premarkets, ycharts.com/indicators/vix_volatility_index, finance.yahoo.com/news/nvidia-broadcom-lead-bank-americas
+
+### Sector ETF Ranking (Week)
+1. **XLK Technology** — leading this week; AI/semi momentum intact
+2. **XLF Financials** — strong YTD (+13.02%); finance stocks pulling back to SMA = setup opportunity
+3. **XLE Energy** — noted as weekly leader (but individual XOM/CVX in 5d downtrend; oil declining)
+- Lagging: XLV Healthcare (YTD -2.77%)
+
+### Candidate Scoring (20-Symbol Universe — excluding held positions)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Tech Fails | Decision |
+|--------|-------|----------|--------|-------|--------|-----|------------|----------|
+| AMZN | **8/10** | 2 | 2 | 2 | 0 | 2 | 0 | ✅ PASS |
+| JPM | **8/10** | 1 | 2 | 2 | 1 | 2 | 1 | ✅ PASS |
+| GS | **7/10** | 1 | 2 | 1 | 1 | 2 | 0 | ✅ PASS |
+| V | **7/10** | 0 | 2 | 2 | 1 | 2 | 1 | ✅ PASS (no catalyst — SKIP) |
+| MA | **7/10** | 0 | 2 | 2 | 1 | 2 | 1 | ✅ PASS (no catalyst — SKIP) |
+| NVDA | **7/10** | 1 | 2 | 2 | 0 | 2 | 1 | ✅ PASS (same-week stop — WATCH) |
+| TSM | 6/10 | 1 | 2 | 1 | 0 | 2 | 0 | ❌ FAIL (<7) |
+| AMD | 4/10 | 0 | 2 | 0 | 0 | 2 | 2 | ❌ FAIL (<7 + downgrade) |
+| XOM | 5/10 | 0 | 1 | 2 | 0 | 2 | 1 | ❌ FAIL (<7) |
+| CVX | 5/10 | 0 | 1 | 2 | 0 | 2 | 1 | ❌ FAIL (<7) |
+| UNH | 4/10 | 0 | 0 | 2 | 0 | 2 | 1 | ❌ FAIL (<7) |
+
+*V/MA: 7/10 but zero-catalyst scores — skipped per discipline. NVDA: same-week re-entry restriction (stopped May 26).*
+
+### Technical Validation
+
+**AMZN** — ✅ 0 fails
+- Last close: $274.00 | 20d SMA: $268.46 | Dist: +2.06% (clean setup) | 5d mom: +3.39% ✅ | Vol ratio: 0.97x ✅ (≥0.8)
+- Source: Alpaca bars (start=2026-03-20 to 2026-05-28)
+
+**JPM** — ✅ 1 fail (passes — need 2 to discard)
+- Last close: $296.73 | 20d SMA: $303.97 | Dist: -2.38% (below SMA, pullback setup) | 5d mom: -1.74% ❌ | Vol ratio: 1.18x ✅
+- Source: Alpaca bars (start=2026-03-20 to 2026-05-28)
+
+**GS** — ✅ 0 fails
+- Last close: $1,008.37 | 20d SMA: $953.72 | Dist: +5.73% (5-10% extended) | 5d mom: +2.67% ✅ | Vol ratio: 1.13x ✅
+- Note: High share price (~$1,008); position ≤8% = max ~8 shares; slightly extended but within tolerance
+- Source: Alpaca bars (start=2026-03-20 to 2026-05-28)
+
+**NVDA (watch)** — ✅ 1 fail
+- Last close: $214.25 | 20d SMA: $214.88 | Dist: -0.29% (at SMA) | 5d mom: -4.13% ❌ | Vol ratio: 0.88x ✅
+- Restriction: Stopped out May 26 (same week) → watch only; earliest re-entry Jun 2
+
+### Trade Ideas
+
+**#1 — BUY AMZN (Amazon) — PRIMARY**
+- Catalyst: Q1 FY2026 earnings beat (EPS $2.78 vs $1.64 est, Rev $181.5B vs $177.3B); AWS/AI cloud growth; ongoing hyperscaler capex cycle
+- Sector: XLK Tech — top weekly sector
+- Entry: ~$274 (market open, confirm SPX holds +)
+- Stop: 10% trailing → initial ~$246.60
+- Target: +20% → ~$328.80
+- Shares: ~29 × $274 = $7,946 (7.8% of equity — within 8% limit)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 0 | R:R: 2
+- Technicals: SMA $268.46, dist +2.06%, 5d mom +3.39%, vol ratio 0.97×
+- Source: cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta
+
+**#2 — BUY JPM (JP Morgan) — SECONDARY (sector diversification)**
+- Catalyst: Finance sector #2 YTD (+13.02%); buying pullback to below 20d SMA; elevated institutional volume
+- Sector: XLF Finance — #2 weekly sector
+- Entry: ~$297 (current close level)
+- Stop: 10% trailing → initial ~$267.30
+- Target: +20% → ~$356.40
+- Shares: ~27 × $297 = $8,019 (7.8% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA $303.97, dist -2.38%, 5d mom -1.74% (negative — 1 fail), vol ratio 1.18×
+- Note: 5d momentum negative caution. Entering a pullback at SMA. Condition: SPX +0.3%+ at open.
+
+**#3 — WATCH GS (Goldman Sachs) — TERTIARY (if JPM/AMZN fill)**
+- Score: 7/10 | 5.73% above SMA | Strong finance sector momentum | $1,008/share → only ~8 shares ≤ 8%
+- Note: We'd exceed weekly 3-trade limit if adding after AMZN + JPM. Queue for next week.
+
+### Position Monitoring
+- **AAPL:** +12.56% unrealized. 15% tighten threshold = entry $276.38 × 1.15 = **$317.84** — watch intraday; stop tighten to 7% trail at hit. HWM $313.26, stop $281.93.
+- **AVGO:** +3.67% unrealized; HWM $429.68, stop $386.71. First full day — holding.
+- **GOOGL:** -0.57% unrealized. Thesis intact (AI cloud strong). Stop HWM $393.88, stop $354.49. -7% cut = $362.35 — well above current $390.13.
+- **META:** +5.58% unrealized; 15% threshold $688.72. HWM $643.00, stop $578.70.
+- **MSFT:** +2.43% unrealized; HWM $432.70, stop $389.43. Strong +3.52% bounce yesterday.
+
+### Risk Factors
+- **Deployment gap:** 40.1% vs 80% target. AMZN + JPM would bring to ~56% — still below target but meaningful progress.
+- **Weekly trade limit:** 1 used (AVGO). AMZN + JPM = 3/3 total. At cap after today.
+- **Tech concentration:** Currently 5/5 tech; AMZN adds tech #6. JPM adds first finance position — helps diversify.
+- **JPM 5d momentum negative:** Buying a pullback; risk of continued drift before reversal.
+- **Iran deal:** Potential oil selloff — minimal direct impact (no XOM/CVX positions).
+- **AMD downgrade:** Not held; confirms avoiding AMD was correct.
+- **NVDA re-entry:** Available next week (Jun 2+); near-SMA setup looks attractive for next week.
+
+### Decision
+**TRADE: AMZN (primary) + JPM (secondary)**
+- AMZN: Enter market order at open if SPX futures hold ≥0% at market open
+- JPM: Enter market order at open if SPX +0.3%+ at open (finance sector needs positive breadth)
+- Both use 10% GTC trailing stops
+- If only 1 slot available (fill issues): priority AMZN > JPM
+- Week: 1/3 → 3/3 after both trades; no new trades next Mon–Fri until new week resets
+- GS and NVDA: Queue for next week
