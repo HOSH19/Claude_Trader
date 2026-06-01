@@ -395,3 +395,29 @@ None evaluated today — midday scan only.
 - NVDA: Conditional on 10am ISM PMI data. If ISM ≥ 53 and SPX holds flat/green → enter market order after 10:15am.
 - TSM: Watch list. Enter June 4 if AVGO beats earnings June 3.
 - If ISM disappoints (<50): HOLD all new entries; reassess at midday routine.
+
+### Afternoon Addendum (Midday Scan 2026-06-01)
+
+**Positions (midday live):**
+| Ticker | Current | Unrlzd % | Stop | Today |
+|--------|---------|----------|------|-------|
+| AAPL | $305.74 | +10.62% | $283.46 (HWM $314.96) | -2.03% |
+| AVGO | $461.63 | +10.73% | $417.26 (HWM $463.62) | +3.33% |
+| GOOGL | $375.91 | -3.57% | $354.49 (HWM $393.88) | -1.17% |
+| META | $611.36 | +2.08% | $578.70 (HWM $643.00) | -3.34% |
+| MSFT | $461.37 | +10.67% | $419.69 (HWM $466.32) | +2.47% |
+
+**Portfolio DD check:** Current equity ~$102,935 vs session-start $103,366 = -0.42%. No halt.
+
+**META thesis check (⚠️ WATCH):**
+- Q1 2026: Revenue $56.31B +33% YoY (beat), EPS strong, but capex guidance hiked to $125-145B (vs $115-135B prior). Daily active users declined 5% QoQ to 3.56B — first sequential decline in company history (attributed to Iran war, Russia WhatsApp ban). JPM downgraded post-print.
+- Thesis strained but NOT broken: ad impressions +19%, price +12% — core monetization intact. Same capex-fear narrative that hit MSFT in May (MSFT recovered to +10.67%). User decline is exogenous (geopolitical), not structural.
+- Action: HOLD. Stop at $578.70 provides protection. Cut level manual -7% = $556.96.
+- Source: finance.yahoo.com/markets/stocks/articles/meta-stock-loses-175-billion, thenextweb.com/news/meta-q1-2026-user-decline-ai-capex
+
+**GOOGL thesis check (⚠️ MONITOR):**
+- Continuing weakness; -11% over 30 days per TIKR. Capex $175-185B for 2026 (up from $91B). Free cash flow margin compressed 21% → 9.2%. Search market share <85% projected.
+- Thesis intact: Google Cloud $462B backlog, AI monetization ongoing. Cut level $362.35 still $13.56 below current $375.91.
+- Action: HOLD. Will cut at $362.35 per rule.
+
+**Midday verdict:** No cuts, no stop tightenings. All positions within rules.
