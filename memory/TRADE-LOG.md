@@ -298,6 +298,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jun 01 — EOD Snapshot (Day 26, Monday)
+**Portfolio:** $102,784.08 | **Cash:** $61,371.38 (59.7%) | **Day P&L:** -$197.60 (-0.19%) | **Phase P&L:** +$2,784.08 (+2.78%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $306.35 | -1.83% | +$839.16 (+10.84%) | $283.46 |
+| AVGO | 19 | $416.89 | $461.03 | +3.19% | +$838.66 (+10.59%) | $419.45 |
+| GOOGL | 20 | $389.84 | $376.70 | -0.96% | -$262.70 (-3.37%) | $354.49 |
+| META | 13 | $598.88 | $599.99 | -5.14% | +$14.38 (+0.19%) | $578.70 |
+| MSFT | 19 | $416.87 | $460.21 | +2.21% | +$823.39 (+10.40%) | $419.69 |
+
+**Notes:** Day 26 EOD (Monday). Mixed session — META dropped sharply -5.14% to $599.99 (HWM $643.00, stop $578.70; only ~3.5% above stop — monitor closely). AVGO and MSFT offset the weakness: AVGO +3.19% to $461.03 (new HWM $466.05, stop $419.45); MSFT +2.21% to $460.21 (new HWM $466.32, stop $419.69). AAPL pulled back -1.83% to $306.35, still +10.84% unrealized (HWM $314.96, stop $283.46). GOOGL continued drifting -0.96% to $376.70, now -3.37% unrealized (cut trigger -7% = ~$362.55 — watch). Portfolio equity -$197.60 (-0.19%) on the day; Phase P&L +$2,784.08 (+2.78%). No trades today; week opens fresh with 3/3 buy slots and $61K cash. Deployment 40.3% vs 80% target — pre-market Tuesday must identify 2-3 high-conviction setups.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
