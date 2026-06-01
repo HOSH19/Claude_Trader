@@ -258,3 +258,140 @@ None evaluated today — midday scan only.
 - If SPX drops >0.5% post-PCE → HOLD, reassess at midday
 - TSM secondary entry if AVGO fills OK and deployment permits (0/3 weekly slots would be 1 after AVGO, room for 1-2 more)
 - JPM watch: provides finance sector diversification; enter next session if tech/PCE confirms
+
+---
+
+## 2026-06-01 (Day 26, Monday)
+
+### Account Snapshot
+- **Equity:** $103,366 | **Cash:** $61,371.38 | **Deployment:** 40.6% (vs 80% target)
+- **Long MV:** $41,994.62 | **DT count:** 0 | **Week trades:** 0/3 slots used
+- **Phase P&L:** ~+$3,366 (+3.37%) | **vs last session:** +$450 premarket gain
+
+### Open Positions (premarket)
+| Ticker | Entry | Current | Unrealized | Stop (HWM) | Notes |
+|--------|-------|---------|------------|------------|-------|
+| AAPL | $276.38 | $309.69 | +12.05% | $283.46 (HWM $314.96) | Near +15% tighten at $317.84 |
+| AVGO | $416.89 | $458.42 | +9.96% | $403.99 (HWM $448.88→$458.42) | **EARNINGS JUNE 3 AH** |
+| GOOGL | $389.84 | $377.37 | -3.20% | $354.49 (HWM $393.88) | Watch cut at $362.35 |
+| META | $598.88 | $632.64 | +5.64% | $578.70 (HWM $643.00) | Healthy |
+| MSFT | $416.87 | $465.50 | +11.67% | $405.30 (HWM $450.33→$465.50) | Near +15% tighten at $479.40 |
+
+*Note: AVGO and MSFT HWMs will auto-update when market opens; stops will trail higher.*
+
+### Market Context
+- **Oil:** WTI $89.71 | Brent $93.64 (elevated; Strait of Hormuz supply risk cited)
+  — Source: markets.businessinsider.com (6/1/26)
+- **SPX Futures:** +0.20% (+21pts to 7,616.75); AI-themed rally extending to ATH
+  — Source: bloomberg.com/markets/stocks/futures, barchart.com/futures/quotes/ESM26
+- **VIX:** 15.92 (declining trend: 16.29 May → 15.92 Jun 1; benign environment)
+  — Source: investing.com/indices/volatility-s-p-500-historical-data
+- **Catalysts:** AI rally self-reinforcing (Citadel: "pain trade higher"); Dell AI-server outlook; MSFT Pentagon $9.7B software deal driving cloud optimism; SPX at all-time highs
+  — Source: atranicapital.substack.com/p/week-22-market-update-for-may-25, schwabnetwork.com/articles/top-economic-data-to-watch-week-of-june-1-2026
+- **AVGO Earnings June 3 AH (CRITICAL):** Q2 FY2026 EPS est. $2.40, revenue ~$22.1-22.5B (+47-50% YoY). AI chip revenue Q1 was $8.4B (+106% YoY); analysts expect +30% QoQ for Q2. Has beaten estimates only 1/7 quarters — binary event for entire AI chip sector.
+  — Source: perplexity.ai/finance/AVGO/earnings, marketbeat.com/earnings/reports/2026-6-3-broadcom-inc-stock
+- **GOOGL:** Google Cloud $462B customer backlog (near-doubled QoQ); ex-div June 8 at $0.22. Thesis intact despite recent price weakness. Potential AI chip news: "Alphabet good news, bad for Nvidia" article (5/31) — Google developing own AI chips reducing NVDA dependency.
+  — Source: fool.com/investing/2026/05/25/prediction-alphabet-stock-is-buy-before-june-2026
+
+### Economic Calendar Today
+- **9:45 AM:** S&P Global Manufacturing PMI (Final, May)
+- **10:00 AM:** ISM Manufacturing PMI (May) — consensus ~54.5
+- **10:00 AM:** ISM Manufacturing Employment
+- **10:00 AM:** Construction Spending MoM
+- No FOMC, no jobs data today
+— Source: x.com/marketsday/status/2060571281574301885, schwabnetwork.com/articles/top-economic-data-to-watch-week-of-june-1-2026
+
+### Sector ETF Ranking (week ending May 30)
+1. **XLK** Tech — AI momentum driving SPX to ATH; MSFT +5.19%, AVGO +4.52% Friday
+2. **XLF** Finance — Strong recent performance; JPM/GS elevated; finance sector top third YTD
+3. **XLE** Energy — Oil elevated ($89-93); geopolitical risk premium supportive
+— Source: barchart.com/etfs-funds/quotes/XLU/performance, schwabnetwork.com/articles/top-economic-data-to-watch-week-of-june-1-2026
+
+### Candidate Scoring (20-symbol universe only)
+
+**Pre-screened: Already held (AAPL, AVGO, GOOGL, META, MSFT). No re-score needed.**
+
+| TICKER | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| NVDA | 9/10 | 1 | 2 | 2 | 2 | 2 | ✅ Pass |
+| JPM | 9/10 | 1 | 2 | 2 | 2 | 2 | ✅ Pass |
+| V | 8/10 | 0 | 2 | 2 | 2 | 2 | ❌ No catalyst |
+| MA | 8/10 | 0 | 2 | 2 | 2 | 2 | ❌ No catalyst |
+| GS | 7/10 | 1 | 2 | 1 | 1 | 2 | ✅ Pass (backup) |
+| TSM | 7/10 | 1 | 2 | 2 | 0 | 2 | ✅ Pass (hold for post-AVGO) |
+| AMD | DISCARD | — | — | — | — | — | ❌ 2 tech fails |
+| AMZN, XOM, CVX, UNH, JNJ, SPY, QQQ | <7 | — | — | — | — | — | Below threshold |
+
+*V/MA disqualified: catalyst score 0 fails buy-side gate (specific catalyst required).*
+*AMD discard: +17.27% above SMA (extended) AND vol ratio 0.77x (low). 2 fails.*
+
+### Technical Validation
+
+**NVDA** — ✅ 1 fail (passes ≥2-fail discard threshold)
+- Last: $211.14 | SMA20: $215.46 | Dist: -2.00% (below SMA) | 5d mom: -3.81% (**FAIL**) | Vol: 1.74x ✅
+- Interpretation: At SMA support; high volume = potential institutional accumulation. Negative 5d momentum reflects post-NVDA-stop-out consolidation. AVGO earnings (June 3) as AI chip ecosystem catalyst is the entry trigger.
+
+**JPM** — ✅ 1 fail (passes ≥2-fail discard threshold)
+- Last: $299.31 | SMA20: $303.27 | Dist: -1.31% (below SMA) | 5d mom: -1.22% (**FAIL**) | Vol: 1.63x ✅
+- Interpretation: Just below SMA support; high volume. Mildly negative 5d momentum. Finance sector thesis intact. ISM PMI at 10am provides near-term catalyst (expansion reading supports financials).
+
+**TSM** — ✅ 0 fails
+- Last: $418.45 | SMA20: $407.15 | Dist: +2.78% (at SMA) | 5d mom: +2.78% ✅ | Vol: 0.87x (below avg)
+- Interpretation: Clean setup, positive momentum. Low volume is the only weakness. Hold for post-AVGO confirmation.
+
+**GS** — ✅ 0 fails (backup)
+- Last: $1,025.56 | SMA20: $958.81 | Dist: +6.96% (slightly extended) | 5d mom: +3.78% ✅ | Vol: 1.07x
+- Backup option if finance sector shows sustained momentum. No entry today.
+
+### Trade Ideas
+
+**#1 — JPM (JP Morgan) — PRIMARY ENTRY**
+- Catalyst: ISM Manufacturing PMI at 10am (scheduled economic event); Finance sector #1-#2 this week; portfolio diversification (5/5 positions currently in tech — adding finance reduces concentration risk)
+- Sector: XLF Finance — top third YTD, strong recent momentum
+- Entry: ~$299 (near last close $299.31); wait for ISM PMI confirmation at 10:15 AM
+- Stop: 10% trailing → initial ~$269
+- Target: +20% → ~$359
+- Shares: 27 × $299 = $8,073 (~7.8% of equity) — within 8% limit
+- R:R: 2.0:1
+- Score: 9/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 2 | R:R: 2
+- Technicals: SMA20 $303.27, dist -1.31%, 5d mom -1.22% (1 fail), vol ratio 1.63x
+
+**#2 — NVDA (Nvidia) — CONDITIONAL ENTRY**
+- Catalyst: AVGO earnings June 3 AH as AI chip ecosystem catalyst; AI demand supercycle; at SMA support with high volume (institutional accumulation signal)
+- Sector: XLK Tech — #1 sector YTD
+- Entry: ~$212 (near last close $211.14); enter only if market opens green AND ISM PMI ≥ 53
+- Stop: 10% trailing → initial ~$191
+- Target: +20% → ~$253
+- Shares: 38 × $212 = $8,056 (~7.8% of equity)
+- R:R: 2.0:1
+- Score: 9/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 2 | R:R: 2
+- Technicals: SMA20 $215.46, dist -2.00%, 5d mom -3.81% (1 fail), vol ratio 1.74x
+- Risk: 5d momentum negative; AVGO binary earnings event June 3; "Alphabet good news, bad for Nvidia" chip competition article
+
+**#3 — TSM (Taiwan Semiconductor) — WAIT / POST-AVGO**
+- Thesis: AI foundry monopoly; positive 5d momentum; clean setup
+- Action: Hold entry until June 3 AVGO earnings reaction. If AVGO beats → enter TSM at open June 4 as AI foundry confirmation.
+- Score: 7/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 0 | R:R: 2
+- Technicals: SMA20 $407.15, dist +2.78%, 5d mom +2.78%, vol ratio 0.87x
+
+### Position Monitoring
+- **AAPL:** +12.05% unrealized. Tighten trail to 7% if touches $317.84 (+15% from entry). HWM will auto-update.
+- **AVGO:** +9.96% unrealized. **EARNINGS JUNE 3 AH — hold with trailing stop.** Do NOT add chips exposure until post-earnings. Stop will auto-trail to ~$412 when market opens.
+- **GOOGL:** -3.20% unrealized. Cut level $362.35. Thesis intact (Google Cloud backlog). GOOGL may face internal chip competition headwinds from Google's own AI silicon. Watch carefully.
+- **META:** +5.64% unrealized. No action needed.
+- **MSFT:** +11.67% unrealized. Pentagon software deal + AI cloud monetization thesis strong. Tighten trail to 7% if touches $479.40 (+15%). Stop will auto-trail to ~$419.
+
+### Risk Factors
+- **AVGO earnings June 3 AH (HIGH):** Binary event for entire AI chip sector. Has beaten only 1/7 quarters. Existing AVGO position protected by trailing stop; do NOT add chip exposure before June 3.
+- **Tech concentration (MEDIUM):** 5/5 open positions in tech. JPM entry reduces this.
+- **ISM PMI at 10am (MEDIUM):** Hot print (>56) could spike rates/VIX; cold print (<50) signals contraction. Both scenarios temporarily negative for equities.
+- **GOOGL thesis (LOW-MEDIUM):** Weakest performer in portfolio at -3.20%. Google's own chip development may reduce NVDA/chip sector appetite. Monitor cut level $362.35.
+- **Oil/Hormuz (LOW):** WTI $89.71. Strait of Hormuz supply risk mentioned; not immediate. Monitor CVX/XOM if energy escalates.
+- **Deployment gap (ONGOING):** 40.6% deployed vs 80% target. Adding JPM + NVDA = ~$16K more = ~56% total. Still below target; need 1-2 more positions over the next 1-2 weeks.
+
+### Decision
+**TRADE: JPM (execute at open, finance diversification), NVDA (conditional — enter only if ISM PMI ≥ 53 and market opens green). Reserve 1 slot for post-AVGO June 3 confirmation.**
+- JPM: Execute market order at open. No conditions — provides critical non-tech diversification.
+- NVDA: Conditional on 10am ISM PMI data. If ISM ≥ 53 and SPX holds flat/green → enter market order after 10:15am.
+- TSM: Watch list. Enter June 4 if AVGO beats earnings June 3.
+- If ISM disappoints (<50): HOLD all new entries; reassess at midday routine.
