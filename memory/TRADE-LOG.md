@@ -313,6 +313,25 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-02 — SELL GOOGL (manual cut, -7% rule)
+- Shares: 20
+- Exit: $361.906 (avg fill)
+- Entry: $389.835
+- Realized P&L: -$558.58 (-7.16%)
+- Exit reason: Unrealized P&L breached -7% manual cut threshold; -7.27% at time of decision; trailing stop ($354.49) had not triggered
+- Thesis broken: Weak relative performer since entry; Google internal AI chip development headwind reducing sector correlation; Iran Hormuz closure creating energy risk-off
+- Order ID: 2447d4da (sell market, filled 20 @ $361.906)
+- Action: GTC trailing stop (84e42181) cancelled before fill
+
+### 2026-06-02 — AVGO stop tightened to 7% trail
+- Position: 19 shares | Entry $416.89 | Current ~$488
+- Unrealized gain at action: +17.1% (threshold: tighten at +15%)
+- Old stop: 10% trail | HWM $488.82 | Stop $439.94
+- New stop: 7% trail | Order ID: c8183d22 | Stop $452.26 (HWM $486.31 at placement)
+- Rule applied: "Tighten trail to 7% at +15%"
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 

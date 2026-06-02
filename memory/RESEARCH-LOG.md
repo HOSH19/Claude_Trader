@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-06-02 (Day 27, Tuesday) — Inline at Market Open
+
+**Account snapshot:** Equity $102,756 | Cash $68,610 (after GOOGL cut) | Positions: 4 | DT count: 0/3
+**Session-start equity:** $102,770.88 (Jun 1 EOD) | **Portfolio DD:** +0.0% — no halt
+
+### Market Context (inline)
+- **Iran closes Strait of Hormuz** — oil surges +7% to $97+ (WTI); geopolitical risk spike
+- **JPM shares plunging** — consumer banking chief guided 2026 expenses to ~$105B (negative catalyst)
+- **S&P 500 ~7,588** (+0.11%); market largely holding despite geopolitical risk
+
+### Candidate Review
+
+| Ticker | Score | Notes | Decision |
+|--------|-------|-------|----------|
+| JPM | DISQUALIFIED | Negative catalyst: 2026 expense guidance spike, stock dropping | ❌ DO NOT ENTER |
+| XOM | SKIP | Bid/ask spread ~9.9% ($141/$156) — wide/halted per rules | ❌ |
+| CVX | SKIP | Bid/ask spread ~4% ($187/$194) — wide per rules | ❌ |
+| NVDA | SKIP | Price $226 vs planned entry $212 — setup deteriorated (+7% from research price; >5% above SMA) | ❌ |
+| GOOGL | MANDATORY CUT | -7.27% unrealized, breaches -7% rule → sold at market | ✅ EXECUTED |
+
+### Actions
+- **SELL GOOGL 20 @ $361.906** (mandatory -7% cut) — realized -$558.58 (-7.16%)
+- **AVGO stop tightened** from 10% to 7% trail (+17.1% gain, threshold +15%)
+- **No new buys** — JPM negative catalyst, XOM/CVX wide spread, NVDA overextended
+
+### Decision
+No new long entries today. Geopolitical risk (Hormuz) warrants caution. Monitor AVGO into June 3 AH earnings.
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
