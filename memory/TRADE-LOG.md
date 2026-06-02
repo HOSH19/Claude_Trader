@@ -313,6 +313,29 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-02 — STOP OUT GOOGL
+- Shares: 20
+- Exit: ~$361.91 (10% trailing stop triggered; stop was $354.49, HWM $389.84)
+- Entry: $389.84
+- Realized P&L: -$558.60 (-7.16%)
+- Notes: GOOGL trended below stop trigger; stop filled at market ~$361.91. Exited per strategy rules.
+
+---
+
+### Jun 02 — EOD Snapshot (Day 27, Tuesday)
+**Portfolio:** $102,744.77 | **Cash:** $68,609.50 (66.8%) | **Day P&L:** -$39.31 (-0.04%) | **Phase P&L:** +$2,744.77 (+2.74%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $315.01 | +2.84% | +$1,081.64 (+13.98%) | $283.91 |
+| AVGO | 19 | $416.89 | $481.95 | +4.78% | +$1,236.15 (+15.61%) | $452.48 |
+| META | 13 | $598.88 | $598.25 | -0.37% | -$8.24 (-0.11%) | $578.70 |
+| MSFT | 19 | $416.87 | $441.09 | -4.22% | +$460.08 (+5.81%) | $419.69 |
+
+**Notes:** Day 27 EOD (Tuesday). GOOGL trailing stop triggered today (~$361.91 fill, -7.2% from entry, -$558.60 realized) — exits cleanly per rules after persistent underperformance. AAPL surged +2.84% to $315.01 (+13.98% unrealized, HWM $315.45, stop $283.91). AVGO extended its rally +4.78% to $481.95 (+15.61% unrealized) — stop already tightened to 7% trailing (HWM $486.54, stop $452.48); approaching +20% trigger at ~$500.27. MSFT gave back -4.22% to $441.09, still +5.81% unrealized (HWM $466.32, stop $419.69). META -0.37% to $598.25, barely negative (-0.11% unrealized); 10% trailing stop at $578.70 (HWM $643.00). Portfolio equity barely changed (-$39.31, -0.04%) as AAPL/AVGO gains offset MSFT/GOOGL drag. Phase P&L +$2,744.77 (+2.74%). 0 new buy trades; week at 0/3 slots. Down to 4 positions; deployment at 33.2% — 3 buy slots and $68K+ cash available Wednesday; pre-market must identify 2-3 high-conviction setups urgently.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
