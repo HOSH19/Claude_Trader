@@ -2,6 +2,34 @@
 
 ---
 
+## 2026-06-02 — Midday Addendum (Day 27, Tuesday)
+
+**Account snapshot (midday):** Equity $102,852 | Cash $68,609.50 | Positions: 4
+**Session-start equity (Jun 01 EOD):** $102,784.08 | DD: +0.07% — no halt
+
+### Actions Confirmed (market-open routine)
+- **GOOGL CUT at -7%:** Sold 20 shares ~$361.91; P&L -$558.68 (-7.17%). Trigger: entry $389.84 × 0.93 = $362.35. Confirmed by cash delta.
+- **AVGO tightened:** Stop 10% → 7% trail. HWM $486.54 (+16.7% from entry). New stop $452.48. Order ID: c8183d22.
+
+### Midday Position Scan
+| Ticker | Entry | Current | Unrealized | Stop | Notes |
+|--------|-------|---------|------------|------|-------|
+| AAPL | $276.38 | $314.66 | +13.85% | $283.46 (10%) | Approaching +15% tighten at $317.84 |
+| AVGO | $416.89 | $479.25 | +14.96% | $452.48 (7%, HWM $486.54) | **EARNINGS JUN 3 AH** — hold |
+| META | $598.88 | $606.79 | +1.32% | $578.70 (10%, HWM $643) | Stable |
+| MSFT | $416.87 | $444.24 | +6.57% | $419.69 (10%, HWM $466.32) | -3.54% today; routine pullback |
+
+### Midday Verdict
+- **DD halt:** No. Equity +0.07%.
+- **Cuts:** None needed. All positions positive.
+- **Tightens:** No action. AVGO already done; AAPL/META/MSFT below thresholds.
+- **MSFT thesis:** Build conference this week — positive AI/dev catalyst. -3.54% pullback from $460 highs is routine. Thesis intact. Stop $419.69 gives 5.5% cushion.
+- **AVGO earnings:** Jun 3 AH. Est. EPS $2.32 vs Q1 $2.05; AI chip revenue guide $10.7B (+140% YoY). Hold with 7% stop protection.
+- **JPM/NVDA:** Not executed from Jun 01 plan. 3/3 weekly buy slots remain open.
+- **Deployment:** 33.3% ($34,243 of $102,852) — 3 slots and ~$68K cash available for pre-market tomorrow.
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3

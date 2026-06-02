@@ -313,6 +313,23 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-02 — SELL GOOGL (cut at -7%)
+- Shares: 20
+- Exit: ~$361.91
+- Entry: $389.84
+- Realized P&L: -$558.68 (-7.17%)
+- Exit reason: Cut at -7% per rule; intraday decline reached -7% trigger ($362.35); confirmed by cash delta ($68,609.50 − $61,371.38 = $7,238.12 / 20 = $361.91/share)
+- Notes: GOOGL had been drifting lower since entry; thesis (Google Cloud backlog) intact but price action failed; GTC trailing stop was $354.49, manual cut rule triggered first
+
+---
+
+### 2026-06-02 — STOP TIGHTENED: AVGO 10% → 7%
+- AVGO HWM hit $486.54 (+16.7% from entry $416.89), crossing the +15% tighten threshold ($479.42)
+- Old stop: ~$419.45 (10% trail) | New stop: $452.48 (7% trail, HWM $486.54)
+- New order ID: c8183d22
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
