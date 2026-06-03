@@ -395,3 +395,38 @@ None evaluated today — midday scan only.
 - NVDA: Conditional on 10am ISM PMI data. If ISM ≥ 53 and SPX holds flat/green → enter market order after 10:15am.
 - TSM: Watch list. Enter June 4 if AVGO beats earnings June 3.
 - If ISM disappoints (<50): HOLD all new entries; reassess at midday routine.
+
+---
+
+## 2026-06-03 — Midday Addendum
+
+**Account snapshot:** Equity $102,596.69 | Cash $68,609.49 | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $102,481.59 | **DD:** +0.11% — no halt
+
+### Positions (midday)
+| Ticker | Entry | Current | Unrealized | Stop | HWM |
+|--------|-------|---------|-----------|------|-----|
+| AAPL | $276.38 | $309.96 | +12.15% | $285.24 (10% trail) | $316.93 |
+| AVGO | $416.89 | $484.97 | +16.33% | $455.91 (7% trail) | $490.23 |
+| META | $598.88 | $618.42 | +3.26% | $578.70 (10% trail) | $643.00 |
+| MSFT | $416.87 | $424.82 | +1.91% | $419.69 (10% trail) | $466.32 |
+
+### Checks
+- **DD halt:** No — equity +$115 (+0.11%) from session start
+- **Cut losers (-7%):** None — all positions profitable
+- **Tighten stops:** AVGO at +16.33% already has 7% trail (tightened prior session). No new tightenings (AAPL +12.15% not yet at +15% trigger $317.84).
+- **Thesis checks:** All intact
+
+### MSFT Watch — Majorana 2 / AI EO Selloff
+- Down -3.74% intraday to $424.82 vs trailing stop $419.69 (only $5.13 / 1.2% above stop)
+- Cause: Majorana 2 quantum chip announcement treated as long-term (not near-term) catalyst + Trump voluntary AI executive order (no mandatory impact)
+- Core thesis intact: Azure +40% YoY, enterprise AI monetization, Q3 beat. No thesis break.
+- Action: Hold. Stop will auto-execute if breached. Do NOT manually cut — thesis intact.
+- Source: tipranks.com via cnn.com (MSFT drops 4% on Majorana 2 long-term quantum catalyst)
+
+### AVGO Earnings Tonight (AH)
+- Consensus: EPS $2.40 (vs Q1 actual $2.05), Revenue $22B guided / $22.04B est (+47% YoY)
+- XPU revenues expected to continue 140%+ YoY momentum from Q1
+- Position protected by 7% trailing stop (HWM $490.23, stop $455.91)
+- If beat: TSM entry at open June 4 per research plan
+- Source: finance.yahoo.com (AVGO Set to Report Q2 Earnings), marketbeat.com
