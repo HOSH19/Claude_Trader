@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-06-03 (Day 28, Wednesday) — INLINE (market-open)
+
+**Account snapshot:** Equity $102,950.83 | Cash $68,609.49 (66.6%) | Positions: 4 | DT count: 0
+**Session-start equity:** $102,744.77 (yesterday EOD) | **DD halt level:** $92,655.75 (-10%)
+**Portfolio DD:** +0.20% — no halt | **Week trades:** 0/3 used
+
+### Open Positions (live)
+| Ticker | Entry | Current | Unrealized | Stop (HWM) | Notes |
+|--------|-------|---------|------------|------------|-------|
+| AAPL | $276.38 | $316.57 | +14.55% | $284.94 / 10% trail (HWM $316.60) | ⚠️ $1.27 from +15% tighten at $317.84 |
+| AVGO | $416.89 | $485.95 | +16.57% | $455.91 / 7% trail (HWM $490.23) | ⚠️ EARNINGS TONIGHT AH |
+| META | $598.88 | $607.54 | +1.45% | $578.70 / 10% trail (HWM $643.00) | OK |
+| MSFT | $416.87 | $437.77 | +5.01% | $419.69 / 10% trail (HWM $466.32) | OK |
+
+### Candidate Evaluation (inline, 20-symbol universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Decision |
+|--------|-------|----------|--------|-------|--------|-----|----------|
+| NVDA | — | — | — | — | — | — | ❌ HOLD — AVGO binary risk tonight; no AI chips |
+| TSM | — | — | — | — | — | — | ❌ HOLD — wait for post-AVGO reaction |
+| JPM | — | — | — | — | — | — | ❌ SKIP — quote spread $282.91/$305.48 (halted/bad) |
+| GS/V/MA | <7 | — | — | — | — | — | SKIP — no specific catalysts |
+| XOM/CVX | <7 | — | — | — | — | — | SKIP — no catalyst |
+
+### Key Risk: AVGO Earnings June 3 AH
+- Q2 FY2026 EPS est. $2.40, revenue ~$22.1-22.5B (+47-50% YoY)
+- AI chip revenue Q1: $8.4B (+106% YoY) — bar is high
+- Binary event for AI chip sector; has beaten only 1/7 quarters historically
+- Existing AVGO position protected by 7% trailing stop at $455.91
+- Do NOT add NVDA, TSM, or any AI chip plays until post-AVGO reaction
+
+### Position Monitoring Notes
+- **AAPL:** $317.84 = +15% tighten trigger. Within $1.27. Midday to tighten stop to 7% if hit.
+- **AVGO:** $500.27 = +20% tighten trigger (5%). At $486, ~$14 away. Stop already at 7%. Watch tonight.
+- **META:** Stop only $578.70 vs $607 price — 4.7% above stop. If META weakens, monitor.
+- **MSFT:** Healthy buffer; HWM $466.32, stop $419.69.
+
+### Decision
+**NO TRADES — AVGO binary earnings risk tonight prohibits new AI chip adds (NVDA/TSM).
+JPM quote shows halted/wide spread. All existing GTC stops intact. Hold.**
+**Watchlist for next session (post-AVGO):** TSM primary, JPM secondary (if spread normalizes).
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
