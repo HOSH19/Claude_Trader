@@ -395,3 +395,137 @@ None evaluated today — midday scan only.
 - NVDA: Conditional on 10am ISM PMI data. If ISM ≥ 53 and SPX holds flat/green → enter market order after 10:15am.
 - TSM: Watch list. Enter June 4 if AVGO beats earnings June 3.
 - If ISM disappoints (<50): HOLD all new entries; reassess at midday routine.
+
+---
+
+## 2026-06-03 (Day 28, Wednesday)
+
+**Account snapshot:** Equity $102,898.51 | Cash $68,609.49 (66.7%) | Positions: 4 | DT count: 0/3
+**Session-start equity:** $102,898.51 (premarket)
+**Portfolio DD halt level:** $92,608.66 (−10% from session-start)
+**Deployment:** $34,289.02 / $102,898.51 = 33.3% (target 80%) — 3 buy slots remain
+
+### Open Positions
+| Ticker | Shares | Entry | Premarket | Unrealized | Stop | HWM |
+|--------|--------|-------|-----------|------------|------|-----|
+| AAPL | 28 | $276.38 | $314.73 | +$1,073.80 (+13.88%) | $283.91 (10% trail) | $315.45 |
+| AVGO | 19 | $416.89 | $493.01 | +$1,446.28 (+18.26%) | $452.48 (7% trail) | $493.01 |
+| META | 13 | $598.88 | $599.95 | +$13.87 (+0.18%) | $578.70 (10% trail) | $643.00 |
+| MSFT | 19 | $416.87 | $437.15 | +$385.25 (+4.86%) | $419.69 (10% trail) | $466.32 |
+
+### Market Context
+- **WTI crude:** ~$92–96/bbl (+3–5%) — Mideast tensions; U.S.-Iran ceasefire holding but fragile. [oilprice.com; eia.gov]
+- **SPX futures:** ~7,621–7,682; down ~−0.14% to −0.83% premarket — cautious open expected. [marketwatch.com; barchart.com]
+- **VIX:** 16.05 (up from 15.77 close Jun 2) — low-moderate fear, manageable. [ycharts.com]
+- **Today's economic events:**
+  - 8:15 AM — ADP Employment (May) consensus: 110K
+  - 9:00 AM — ISM Services PMI (Business Activity, Employment, PMI SA, Price) [thomsoninvestmentgroup.com]
+  - AH — **AVGO Q2 FY2026 earnings** (consensus EPS $2.32, rev $22.1B) — MAJOR binary event [zacks.com; marketbeat.com]
+- **No CPI/PPI today.** FOMC decision June 10. CPI June 15.
+
+### Position Monitoring Alerts
+- **AAPL:** $314.73 premarket vs +15% trigger at $317.84. Only $3.11 away — tighten trail to 7% when $317.84 prints.
+- **AVGO:** $493.01 premarket vs +20% trigger at $500.27. EARNINGS TONIGHT AH — do NOT tighten stop pre-earnings; let stop auto-trail. Binary event.
+- **MSFT:** FTC investigating cloud/AI/software bundling (−4.17% yesterday). Thesis partially impaired. Stop $419.69 only 4% below current $437.15 — monitor closely. No manual action yet.
+- **META:** Flat; HWM $643 far above. No action.
+
+### Sector ETF Rankings (week of Jun 3)
+1. **XLK (Tech)** — AI supercycle + NVDA/AVGO momentum; top third YTD
+2. **XLE (Energy)** — WTI +3–5% today on Iran tensions; surging premarket
+3. **XLF (Finance)** — Strong YTD; ISM Services + ADP catalysts today
+
+### Candidate Scoring (full universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| NVDA | 8/10 | 1 | 2 | 2 | 1 | 2 | ✅ Pass |
+| JPM | 8/10 | 1 | 2 | 2 | 1 | 2 | ✅ Pass |
+| CVX | 8/10 | 2 | 2 | 2 | 0 | 2 | ✅ Pass |
+| TSM | 6/10 | 1 | 2 | 1 | 0 | 2 | ❌ Below threshold |
+| GS | 6/10 | 1 | 2 | 1 | 1 | 1 | ❌ Below threshold |
+| XOM | DISCARD | — | — | — | — | — | ❌ 2 tech fails |
+| AMZN | 4/10 | 0 | 2 | 1 | 1 | 1 | ❌ No catalyst |
+| AMD | 5/10 | 1 | 2 | 0 | 1 | 1 | ❌ Below threshold |
+| V | 5/10 | 0 | 2 | 1 | 1 | 1 | ❌ No catalyst |
+| MA | 5/10 | 0 | 2 | 1 | 1 | 1 | ❌ No catalyst |
+| QQQ | 5/10 | 0 | 2 | 1 | 1 | 1 | ❌ ETF, no catalyst |
+| TSLA | 3/10 | 0 | 1 | 1 | 1 | 1 | ❌ No catalyst |
+| UNH | 2/10 | 0 | 0 | 1 | 1 | 1 | ❌ Healthcare bottom |
+| JNJ | 2/10 | 0 | 0 | 1 | 1 | 1 | ❌ Healthcare bottom |
+| SPY | 4/10 | 0 | 2 | 1 | 1 | 0 | ❌ ETF, broad |
+| AAPL | — | — | — | — | — | — | Already held |
+| MSFT | — | — | — | — | — | — | Already held |
+| META | — | — | — | — | — | — | Already held |
+| AVGO | — | — | — | — | — | — | Already held, earnings AH |
+| GOOGL | — | — | — | — | — | — | Recent stop-out |
+
+*V/MA: catalyst score 0 also fails buy-side gate (specific catalyst required).*
+*XOM discard: vol ratio 0.45x AND 5d momentum −0.06% = 2 fails.*
+*TSM: 6/10 — wait for post-AVGO entry June 4 if AVGO beats.*
+
+### Technical Validation (≥7 scorers only)
+
+**NVDA** — ✅ 0 fails
+- Last: $222.82 | SMA20: $217.98 | Dist: +2.22% ✅ | 5d mom: +3.74% ✅ | Vol ratio: 1.49x ✅
+- Notes: Strong uptrend, volume elevated. AVGO earnings tonight creates binary AI-sector risk — conditional entry only.
+
+**JPM** — ✅ 1 fail
+- Last: $300.99 | SMA20: $302.15 | Dist: −0.38% ✅ | 5d mom: −1.90% ❌ | Vol ratio: 1.29x ✅
+- Notes: At SMA support, vol solid. Mild negative momentum from May 26 high; bounce candidate on ADP/ISM Services.
+
+**CVX** — ✅ 1 fail
+- Last: $187.65 | SMA20: $187.48 | Dist: +0.09% ✅ | 5d mom: +1.62% ✅ | Vol ratio: 0.71x ❌
+- Notes: Exactly at SMA; positive 5d momentum into today's oil catalyst. Volume was quiet June 2 — today's oil surge should drive much higher vol. Entry near SMA is clean.
+
+### Trade Ideas
+
+**#1 — JPM (JP Morgan) — PRIMARY ENTRY**
+- Catalyst: ADP Employment 8:15am + ISM Services PMI 9:00am (scheduled events); finance sector diversification reduces 4/4 tech concentration
+- Sector: XLF — top third YTD, ISM expansion reading supports financials
+- Entry: ~$301 (near close, wait for 9:15am ISM confirmation)
+- Stop: 10% trailing → initial ~$270.90
+- Target: +20% → ~$361.20
+- Shares: 25 × $301 = $7,525 (~7.3% of equity) — within 8% limit
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA20 $302.15, dist −0.38%, 5d mom −1.90% (1 fail), vol 1.29x
+
+**#2 — CVX (Chevron) — PRIMARY ENTRY**
+- Catalyst: WTI crude +3–5% confirmed premarket; Iran-Mideast tension keeping oil elevated; XLE sector surging
+- Sector: XLE Energy — confirmed catalyst day
+- Entry: ~$189–192 (likely gap up with oil; confirm at SMA still valid <5% above SMA20 $187.48)
+- Stop: 10% trailing → initial ~$171
+- Target: +20% from entry
+- Shares: 40 × $190 = $7,600 (~7.4% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 0 | R:R: 2
+- Technicals: SMA20 $187.48, dist +0.09%, 5d mom +1.62% (1 fail — vol), vol 0.71x (yesterday quiet; oil gap should drive vol today)
+- Risk: If CVX gaps >5% above SMA (~$197+), skip entry (setup extended)
+
+**#3 — NVDA (Nvidia) — CONDITIONAL**
+- Catalyst: AVGO Q2 earnings AH tonight as AI chip ecosystem signal; sustained AI demand
+- Sector: XLK Tech — top third YTD
+- Entry: ~$223 (near close); ONLY if ISM Services PMI ≥ 53 AND market opens green by 9:30am
+- Stop: 10% trailing → initial ~$200.70
+- Target: +20% → ~$267.60
+- Shares: 33 × $223 = $7,359 (~7.2% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA20 $217.98, dist +2.22%, 5d mom +3.74% (0 fails), vol 1.49x
+- HIGH RISK: AVGO has beaten only ~1/7 recent quarters; entering NVDA today = pre-earnings binary exposure. Strongly prefer deferring to Thursday post-AVGO reaction.
+
+### Risk Factors
+- **AVGO binary event AH (CRITICAL):** Beats → AI sector surges, AVGO trails up, NVDA entry valid. Miss → AI sector gaps down, AVGO stop may trigger at $452.48, do NOT add chip exposure. All AI/tech positions at risk tonight.
+- **SPX futures slightly negative (MEDIUM):** Cautious open; ADP/ISM data at 8:15–9:00am will set direction. Hot ADP (>150K) or strong ISM (>55) → tech rotates down temporarily; cold ADP (<80K) → risk-off.
+- **MSFT FTC probe (MEDIUM):** Cloud bundling investigation could persist as regulatory headwind. Stop at $419.69 only 4% below current $437.15 — if thesis further impaired, manual cut at −7% from entry ($387.69). Do NOT add.
+- **CVX gap-up risk (LOW-MEDIUM):** Oil up 3–5% today; if CVX opens >$197 (>5% above SMA), setup score drops to 1 → skip entry.
+- **Iran ceasefire fragility (LOW):** WSJ notes ceasefire "holding despite heavy fire overnight" — escalation could spike VIX and rotate market to risk-off, paradoxically supporting energy but hitting tech.
+- **Deployment gap (ONGOING):** 33.3% vs 80% target. Adding JPM + CVX + NVDA = ~$22.5K more = ~55% total. Still below target; need 2-3 more positions next week.
+
+### Decision
+**TRADE: JPM (unconditional at open), CVX (at open if gap <5% above SMA), NVDA (conditional — ISM Services ≥53 AND market green; else defer to post-AVGO Thursday).**
+- JPM: Execute market order at open. Non-tech diversification, ADP/ISM catalyst window.
+- CVX: Execute at open if CVX opens below $197 (< 5% above SMA). Pure oil play.
+- NVDA: Conditional. If ISM ≥ 53 and SPX opens flat/green → enter after 9:15am. If AVGO misses tonight, stop will likely trigger on NVDA — acceptable since position is within 8% limit. Strong preference to defer until post-AVGO Thursday.
+- TSM: Watch list. If AVGO beats tonight → enter TSM at open June 4 as AI foundry confirmation.
+- All 3 weekly buy slots would be used if all trigger. Hold remaining slot for post-AVGO if NVDA deferred.
