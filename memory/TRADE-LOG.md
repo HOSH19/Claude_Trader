@@ -336,6 +336,20 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jun 03 — EOD Snapshot (Day 28, Wednesday)
+**Portfolio:** $102,622.42 | **Cash:** $68,609.49 (66.9%) | **Day P&L:** -$122.35 (-0.12%) | **Phase P&L:** +$2,622.42 (+2.62%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $310.02 | -1.64% | +$941.86 (+12.17%) | $285.24 |
+| AVGO | 19 | $416.89 | $480.50 | -0.22% | +$1,208.59 (+15.26%) | $455.91 |
+| META | 13 | $598.88 | $621.25 | +3.95% | +$290.76 (+3.74%) | $578.70 |
+| MSFT | 19 | $416.87 | $427.65 | -3.10% | +$204.75 (+2.59%) | $419.69 |
+
+**Notes:** Day 28 EOD (Wednesday). Mixed session — META surged +3.95% to $621.25, recovering from recent weakness (+3.74% unrealized; HWM $643.00, stop $578.70). AAPL pulled back -1.64% to $310.02, still +12.17% unrealized (HWM $316.93, stop $285.24). AVGO slipped -0.22% to $480.50, +15.26% unrealized on tightened 7% trailing stop (HWM $490.23, stop $455.91); approaching +20% target at ~$500.27 — next trigger tightens to 5% trail. MSFT dropped -3.10% to $427.65 (+2.59% unrealized); stop $419.69 (HWM $466.32) leaves only ~$7.96 / 1.86% buffer — stop-out risk elevated, monitor at open. No trades today; week at 0/3 buy slots. Day P&L -$122.35 (-0.12%); Phase P&L +$2,622.42 (+2.62%). Deployment at 33.1% vs 80% target — 3 buy slots and $68K+ cash available Thursday; pre-market must identify 2-3 high-conviction setups urgently.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
