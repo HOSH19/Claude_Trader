@@ -357,6 +357,19 @@ No positions yet. Bot launches tomorrow.
 - Realized P&L: ~-$132 (-1.66%)
 - Notes: AVGO reported Q3 guidance disappointment despite narrow beat (EPS $2.47 vs $2.39 est, rev $22.19B vs $22.13B est). Stock gapped -13.97% AH to ~$412.28 — well below stop $455.91. Filled at market open ~$409.95 (gap-fill). Small realized loss; 7% trailing stop absorbed most upside captured from $416.89 entry. Exited per strategy rules (trailing stop execution). TSM conditional entry canceled (negative stock reaction).
 
+### Jun 04 — EOD Snapshot (Day 29, Thursday)
+**Portfolio:** $101,392.27 | **Cash:** $76,398.53 (75.3%) | **Day P&L:** -$1,228.07 (-1.20%) | **Phase P&L:** +$1,392.27 (+1.39%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $311.23 | +0.31% | +$975.80 (+12.61%) | $285.24 |
+| META | 13 | $598.88 | $627.30 | +0.69% | +$369.41 (+4.75%) | $578.70 |
+| MSFT | 19 | $416.87 | $427.60 | +0.06% | +$203.80 (+2.57%) | $419.69 |
+
+**Notes:** Day 29 EOD (Thursday). AVGO trailing stop triggered at open (~$409.95 fill) after Q3 guidance disappointed and stock gapped -14% AH; realized -$132 (-1.66%) — small loss given 7% trail absorbed most of the $416→$490 run. AVGO stop-out drove the -1.20% day loss; remaining 3 positions green: META +0.69% to $627.30 (+4.75% unrealized; HWM $643.00, stop $578.70), AAPL +0.31% to $311.23 (+12.61% unrealized; HWM $316.93, stop $285.24), MSFT flat +0.06% to $427.60 (+2.57% unrealized; HWM $466.32, stop $419.69 — only $7.91 / 1.85% buffer, stop-out risk remains elevated). Down to 3 positions; deployment 24.7% vs 80% target — critically underdeployed. Week at 0/3 buy slots (stop-outs don't count). Tomorrow is Friday: weekly review + pre-market must urgently identify 2-3 high-conviction setups to deploy $50K+. Phase P&L slips to +$1,392.27 (+1.39%).
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
