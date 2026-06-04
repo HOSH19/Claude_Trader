@@ -350,6 +350,13 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-04 — STOP OUT AVGO
+- Shares: 19
+- Exit: ~$409.95 (trailing stop triggered; stop was $455.91 / 7% trail, HWM $490.23)
+- Entry: $416.89
+- Realized P&L: ~-$132 (-1.66%)
+- Notes: AVGO reported Q3 guidance disappointment despite narrow beat (EPS $2.47 vs $2.39 est, rev $22.19B vs $22.13B est). Stock gapped -13.97% AH to ~$412.28 — well below stop $455.91. Filled at market open ~$409.95 (gap-fill). Small realized loss; 7% trailing stop absorbed most upside captured from $416.89 entry. Exited per strategy rules (trailing stop execution). TSM conditional entry canceled (negative stock reaction).
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
