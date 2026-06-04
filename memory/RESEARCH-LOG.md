@@ -429,4 +429,98 @@ None evaluated today — midday scan only.
 - XPU revenues expected to continue 140%+ YoY momentum from Q1
 - Position protected by 7% trailing stop (HWM $490.23, stop $455.91)
 - If beat: TSM entry at open June 4 per research plan
+
+---
+
+## 2026-06-04 — Pre-Market Research (Day 29, Thursday)
+
+### Account Snapshot
+- **Equity:** $101,404.15 | **Cash:** $68,609.49 | **DT count:** 0
+- **Last equity:** $102,620.34 | **Session DD:** -1.19% (no halt — threshold is -10%)
+- **Positions:** 4 (AAPL, AVGO, META, MSFT) — AVGO stop expected to fill at open
+- **Week buys:** 0/3
+
+### CRITICAL — AVGO Gap-Down
+- AVGO earnings June 3 AH: Beat EPS ($2.47 vs $2.39 est), Beat revenue ($22.19B vs $22.13B est)
+- **Stock reaction: -13.97% overnight to $412.28** (guidance disappointment — Q3 revenue ~$29.4B underwhelmed)
+- Trailing stop at $455.91 (7% from HWM $490.23) will fill at open (~$412 expected gap fill)
+- Expected realized P&L: ~-$93 (-1.1% on position) — stop protects vs deeper loss
+- TSM conditional entry ("if AVGO beats, enter at open June 4") → **CANCELED** (stock reaction negative)
+
+### Market Context
+- **SPX futures:** 7535.25, -36.50 (-0.50%) — market opens slightly red
+- **VIX:** 16.06 (+1.84% from yesterday) — mild fear elevation
+- **WTI:** ~$95.13/barrel | **Brent:** ~$96.84/barrel — elevated (geopolitical Hormuz risk, Iran tensions per CNBC)
+- **Economic:** Productivity SAAR Q/Q (Final) at 7:30am; Initial Jobless Claims 8:30am — neither major mover
+- **BMO Earnings:** CIEN, BF.A (not in universe)
+- **Sector rotation note:** MarketWatch: "software stocks slump, bifurcation of AI trade" — NVDA entering PC market seen as bullish; software (MSFT periphery) weaker
+
+### Sector ETF Ranking (Week)
+All sectors positive this week per Tavily. Ranking:
+1. **XLK Technology** — AI supercycle, NVDA PC chip entry, AAPL WWDC approaching
+2. **XLE Energy** — WTI ~$95 sustained; Iran/Hormuz tail risk bid
+3. **XLF Financial Services** — stable; JPMorgan Magnificent Seven commentary positive
+- Source: seekingalpha.com, finance.yahoo.com sector comparison
+
+### Position Monitoring
+| Ticker | Entry | Pre-Mkt | Unrealized | Stop | Buffer | Status |
+|--------|-------|---------|-----------|------|--------|--------|
+| AAPL | $276.38 | $312.50 | +13.07% | $285.24 (10% trail, HWM $316.93) | 9.56% | Hold; +15% trigger = $317.84 |
+| AVGO | $416.89 | $412.28 | -1.11% | $455.91 (7% trail, HWM $490.23) | N/A — GAP BELOW STOP | **STOP TRIGGERS AT OPEN** |
+| META | $598.88 | $617.98 | +3.19% | $578.70 (10% trail, HWM $643.00) | 6.60% | Hold; AI ad thesis intact |
+| MSFT | $416.87 | $430.40 (~$437 Tavily) | +3.25% | $419.69 (10% trail, HWM $466.32) | ~2.5-4.2% | WATCH — stop buffer thin |
+
+### Candidate Scoring (Universe Only)
+Bars data unavailable (Alpaca data endpoint returned null pre-market); technicals estimated from prior research logs + Tavily. All 20 symbols assessed:
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **AAPL** | **9/10** | 2 | 2 | 2 | 1 | 2 | AT 8% CAP — no new entry |
+| **NVDA** | **9/10** | 2 | 2 | 2 | 1 | 2 | CONDITIONAL entry |
+| TSM | 6/10 | 1 | 2 | 0 | 1 | 2 | FAIL — extended >10% above SMA20 (~$407, price ~$449) |
+| META | 6/10 | 1 | 2 | 1 | 1 | 1 | HOLD existing; no new catalyst for fresh entry |
+| MSFT | 7/10 | 1 | 2 | 2 | 1 | 1 | HOLD existing; stop thin |
+| JPM | 5/10 | 1 | 1 | 1 | 1 | 1 | FAIL |
+| AVGO | N/A | — | — | — | — | — | STOP-OUT at open; no re-entry same day |
+| GOOGL | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL — recently stopped out, thesis broken |
+| All others (AMZN, AMD, TSLA, GS, V, MA, XOM, CVX, UNH, JNJ, SPY, QQQ) | ≤5/10 | — | — | — | — | — | No actionable catalyst |
+
+### Technical Validation — NVDA (Score 9/10)
+*Note: Bars null; estimated from prior research (Jun 2 SMA20 = $215.46) + Tavily closing price $209.25 Jun 3*
+- **SMA20 (est):** ~$213 (declining with recent pullback)
+- **Distance from SMA20:** (209.25 - 213) / 213 = **-1.76%** — below SMA20 ✓
+- **5-day momentum:** ~$212 (May 28) → $209.25 (Jun 3) = **-1.3%** → NEGATIVE (1 fail)
+- **Volume ratio:** N/A (bars unavailable)
+- **Result:** 1 fail — does NOT disqualify (threshold: 2+ fails)
+- **Catalyst divergence note:** AVGO custom ASICs (XPU) compete with NVDA; AVGO guidance miss could redirect hyperscaler spend *back* to NVDA GPUs. BofA names NVDA top June pick; foundry expansion upgrades cycle. PC processor entry = new TAM.
+
+### Trade Ideas
+
+**#1 — NVDA (Nvidia) — CONDITIONAL ENTRY**
+- Catalyst: BofA June top pick; NVDA enters PC processor market (new TAM); AVGO guidance miss may redirect hyperscaler GPU spend to NVDA; foundry capacity upgrades (heygotrade.com, cnbc.com/2026/05/30)
+- Sector: XLK Tech — #1 YTD
+- Condition: Enter only if (a) SPX flat/green by 9:45am AND (b) NVDA holds > $207 at 9:45am
+- Entry: ~$210 (market order post-condition check)
+- Stop: 10% trailing → initial ~$189
+- Target: +20% → ~$252
+- Shares: 38 × $210 = $7,980 (~7.87% of equity — within 8% cap)
+- R:R: 2.0:1 ($42 reward / $21 risk)
+- Score: 9/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Technicals: SMA20 ~$213, dist -1.76% (below SMA20 ✓), 5d mom -1.3% (1 fail), vol N/A
+
+### Risk Factors
+1. **AVGO gap-down sentiment (HIGH):** Chip sector negative AH. NVDA may open red on AVGO sympathy selling. Wait for market open confirmation before NVDA entry.
+2. **SPX futures red -0.50% (MEDIUM):** Potential opening weakness; could chain-stop MSFT.
+3. **MSFT stop buffer thin (MEDIUM):** Buffer 2.49-4.24% depending on data source. Red open could test stop $419.69. Let stop auto-execute if triggered — thesis unbroken but stop overrides.
+4. **Deployment gap (ONGOING):** Post-AVGO exit = only 3 positions, ~24.6% deployed. Urgently need 2-3 new positions but must not chase a red open.
+5. **AAPL at 8% cap:** Position $8,750 = 8.63% equity. Already max-weight; cannot add regardless of WWDC catalyst.
+6. **Energy/Hormuz (LOW):** WTI $95 with Iran tensions. XOM/CVX not in current portfolio but monitor energy as hedging sector.
+
+### Decision
+**CONDITIONAL TRADE: NVDA (execute at market-open routine if conditions met)**
+- If SPX ≥ 0% and NVDA > $207 at 9:45am → BUY NVDA market order (38 shares, ~$7,980)
+- If either condition fails → HOLD; reassess at midday
+- Rationale: AVGO chip selloff is near-term headwind; NVDA fundamentals diverge (GPU demand, PC TAM, BofA top pick); only enter on market confirmation
+- After AVGO exit: 3 positions, $76K+ cash, 3 buy slots — NVDA is highest-conviction new entry
+- Sources: heygotrade.com, cnbc.com/2026/05/30, finance.yahoo.com (AVGO earnings), marketcameleon.com (TSM premarket), investing.com (MSFT premarket), ycharts.com (VIX), wsj.com (SPX futures)
 - Source: finance.yahoo.com (AVGO Set to Report Q2 Earnings), marketbeat.com
