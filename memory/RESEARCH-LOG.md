@@ -523,3 +523,34 @@ Bars data unavailable (Alpaca data endpoint returned null pre-market); technical
 - Rationale: AVGO chip selloff is near-term headwind; NVDA fundamentals diverge (GPU demand, PC TAM, BofA top pick); only enter on market confirmation
 - After AVGO exit: 3 positions, $76K+ cash, 3 buy slots — NVDA is highest-conviction new entry
 - Sources: heygotrade.com, cnbc.com/2026/05/30, finance.yahoo.com (AVGO earnings), marketcameleon.com (TSM premarket), investing.com (MSFT premarket), ycharts.com (VIX), wsj.com (SPX futures)
+
+---
+
+## 2026-06-04 — Midday Addendum
+
+**Account snapshot:** Equity $101,407.71 | Cash $76,398.53 | Positions: 3 | DT count: 0
+**Session-start equity (last_equity):** $102,620.34 | **DD:** -1.18% — no halt
+
+### AVGO Stop-Out (logged in TRADE-LOG)
+- Trailing stop $455.91 (7% trail, HWM $490.23) triggered at open; gap-down -13.97% AH
+- Exit ~$409.95/share | Realized P&L: ~-$132 (-1.66%) | AVGO order cleared
+
+### Positions (midday)
+| Ticker | Entry | Current | Unrealized | Stop | HWM |
+|--------|-------|---------|-----------|------|-----|
+| AAPL | $276.38 | $311.14 | +12.58% | $285.24 (10% trail) | $316.93 |
+| META | $598.88 | $629.93 | +5.18% | $578.70 (10% trail) | $643.00 |
+| MSFT | $416.87 | $426.77 | +2.37% | $419.69 (10% trail) | $466.32 |
+
+### Checks
+- **DD halt:** No — -1.18% from last close
+- **Cut losers (-7%):** None — all positions profitable
+- **Tighten stops:** None — AAPL +12.58% (trigger $317.84), META +5.18%, MSFT +2.37%
+- **Thesis checks:** All intact
+
+### MSFT Watch
+- Stop $419.69 (HWM $466.32), current $426.77 — only $7.08 (1.66%) buffer above stop
+- Tavily: No new negative catalyst. Copilot 20M paid seats confirms Azure AI thesis. Hold; auto-stop will execute if breached.
+
+### NVDA Status
+- Pre-market conditional (SPX ≥ 0% and NVDA > $207 at 9:45am) — market opened -0.50%; market-open routine status unknown. Conditions likely not met. Remain at 3 positions, 24.6% deployed.
