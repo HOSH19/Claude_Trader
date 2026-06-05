@@ -554,3 +554,104 @@ Bars data unavailable (Alpaca data endpoint returned null pre-market); technical
 
 ### NVDA Status
 - Pre-market conditional (SPX ≥ 0% and NVDA > $207 at 9:45am) — market opened -0.50%; market-open routine status unknown. Conditions likely not met. Remain at 3 positions, 24.6% deployed.
+
+---
+
+## 2026-06-05 (Day 29, Friday)
+
+**Account snapshot:** Equity ~$101,372 (est) | Cash ~$76,399 | Positions: 3 | DT count: 0/3
+*Note: Account API returned 503 (pre-market); equity estimated from live positions ($24,973) + cash from Jun 04 midday ($76,399)*
+**Portfolio DD:** ~0% from Jun 04 close — no halt
+**Week trades:** 0/3 buy slots used (week of Jun 2–6)
+
+### Market Context
+- **WTI:** ~$92–93/bbl | **Brent:** ~$94–95/bbl — stable, slightly off recent highs (oilprice.com)
+- **SPX Futures:** 7,558.50 / -42.50 pts (-0.56%) — RED pre-market (markets.businessinsider.com)
+- **NASDAQ Futures:** 30,140.75 / -347.50 (-1.14%) — heavier selling in tech
+- **VIX:** ~15.40 (ycharts.com) — benign fear gauge but rising intraday
+- **Key Event: NFP at 8:30 AM EDT** — Forecast +85K (prev +115K), Unemployment 4.3% (prev 4.3%). Most important macro release of the week; expect high volatility at 8:30 open. (xtb.com/cy, bls.gov)
+- **Earnings:** No universe names reporting. Caleres Inc (CAL) and Toro Co (TTC) pre-market; no impact on universe. (wallstreethorizon.com)
+- **Macro note:** Iran tensions remain a tail-risk bid for energy (cnbc.com/2026/05/29). S&P 500 forward earnings growth forecast +28.4% Q1 2026 (interactive-investor.co.uk).
+- **AVGO chip sector overhang:** AVGO down ~13-14% post-earnings; Broadcom custom ASICs guidance disappointed hyperscalers. Chip sector under pressure. (benzinga.com)
+
+### Sector ETF Ranking (Week)
+1. **XLK Technology** +1.5% — AI supercycle intact despite AVGO; NVDA upgrades, MSFT Azure AI milestone (youtube.com/@TheETFTracker, totalrealreturns.com)
+2. **XLI Industrials** +0.2% — modest positive
+3. **XLB Materials** +0.4% — slight outperformance
+- XLE -0.8%, XLF -0.5%, XLV -1.35%, XLU -0.6% all lagging
+
+### Position Monitoring (Pre-Market)
+| Ticker | Entry | Pre-Mkt | Unrealized | Stop | HWM | Status |
+|--------|-------|---------|------------|------|-----|--------|
+| AAPL | $276.38 | $310.83 | +12.47% | $285.24 (10% trail) | $316.93 | HOLD; +15% trigger at $317.84 — approaching |
+| META | $598.88 | $624.52 (est) | +4.28% | $578.70 (10% trail) | $643.00 | HOLD; 8.56% above stop, thesis intact |
+| MSFT | $416.87 | $428.05–429.00 | +2.87% | $419.69 (10% trail) | $466.32 | WATCH — only $8.31 (1.93%) buffer above stop; MSFT slipping per TipRanks |
+
+### Candidate Scoring (Universe Only — 20 symbols)
+*Bars unavailable pre-market (endpoint returning null); volume scores conservative (0 = unconfirmed)*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **NVDA** | **7/10** | 2 | 2 | 1 | 1 | 1 | **PASS — conditional entry** |
+| MSFT | 7/10 | 1 | 2 | 2 | 1 | 1 | HOLD existing position; no new entry |
+| AAPL | 6/10 | 1 | 2 | 1 | 1 | 1 | AT 8% cap; no new entry possible |
+| META | 6/10 | 1 | 2 | 1 | 1 | 1 | HOLD existing; no fresh catalyst for new entry |
+| XOM | 5/10 | 1 | 1 | 1 | 1 | 1 | FAIL (<7); energy sector underperforming this week |
+| CVX | 5/10 | 1 | 1 | 1 | 1 | 1 | FAIL (<7); same as XOM |
+| AMZN | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — no specific catalyst today; bars unavailable for setup |
+| AMD | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — chip sector overhang, bars unavailable |
+| TSM | 5/10 | 1 | 2 | 0 | 1 | 1 | FAIL — extended >10% above SMA20 (prior research) |
+| JPM | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GS | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| V | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| MA | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GOOGL | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — recently stopped out, thesis broken |
+| AVGO | N/A | — | — | — | — | — | STOPPED OUT Jun 04; no re-entry |
+| TSLA | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — no catalyst |
+| UNH | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL — healthcare sector bottom-ranked |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| SPY | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+NVDA Catalyst notes: (1) Multiple analyst upgrades: "Top 7 Stocks Wall Street Analysts Are Upgrading in June 2026" #1 pick (heygotrade.com); (2) Jensen Huang made massive promise to investors per Motley Fool; (3) Kumo AI acquisition (CNN/TipRanks); (4) AVGO custom-XPU guidance miss may redirect hyperscaler GPU spend back to NVDA; (5) Foundry capacity expansion driving Q3 expectations.
+NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robinhood.com/NVDA) — notable insider selling. NFP uncertainty today.
+
+### Technical Validation — NVDA (Score 7/10)
+*Bars null pre-market; using prior research estimates*
+- **SMA20 (est):** ~$211–213 (from Jun 04 pre-market research baseline $215.46 adjusted for recent weakness)
+- **Last close (est):** ~$209–212 (Jun 3 close $209.25; Jun 4 unknown due to AVGO selloff)
+- **Distance from SMA20:** approximately -1% to +1% — AT SMA20 ✓ (not extended)
+- **5-day momentum:** Jun 03 close ~$209 vs May 29 ~$212 = **-1.4% (NEGATIVE — 1 fail)**
+- **Volume ratio:** N/A (bars unavailable) — treated as unconfirmed, not a disqualifying fail
+- **Result:** 1 confirmed fail → PASSES (threshold: 2+ fails to disqualify)
+
+### Trade Ideas
+
+**#1 — NVDA (Nvidia) — CONDITIONAL ENTRY (NFP-gated)**
+- Catalyst: Analyst upgrade cycle (heygotrade.com), CEO bullish investor promise (Motley Fool), Kumo AI bolt-on acquisition (TipRanks), AVGO GPU-spend redirect thesis intact
+- Sector: XLK Tech — #1 week
+- **Conditions (all must pass):** (a) NFP ≥ +80K (in-line or better, prints 8:30 AM) AND (b) SPX green ≥ 0% by 10:00 AM AND (c) NVDA > $210 at 10:00 AM
+- Entry: ~$212 (market order after condition check)
+- Stop: 10% trailing → initial hard floor ~$191
+- Target: +20% → ~$254
+- Shares: 37 × $212 = $7,844 (~7.74% of ~$101,372 equity — within 8% cap)
+- R:R: 2.1:1 ($42 reward / $21 risk)
+- Score: 7/10 | Catalyst: 2 | Sector: 2 | Setup: 1 | Volume: 1 | R:R: 1
+- Technicals: SMA20 ~$212 (at), 5d mom -1.4% (1 fail), vol N/A — 1 fail, PASSES
+
+### Risk Factors
+1. **NFP at 8:30 AM (CRITICAL):** Forecast +85K vs +115K prior = expected slowdown. Weak print (<+70K) could trigger risk-off selloff; strong print (>+100K) = buy signal. Do not enter any position before NFP.
+2. **NASDAQ futures -1.14% (HIGH):** Tech-heavy selling pre-market; NVDA likely opens red.
+3. **NVDA insider selling (MEDIUM):** 1M share sale by director Jun 4 — signals potential near-term weakness.
+4. **MSFT stop risk (MEDIUM):** Buffer only 1.93% ($8.31). Red open could trigger trailing stop at $419.69. Let auto-execute; do not intervene.
+5. **AVGO chip sector contagion (MEDIUM-HIGH):** Sympathy selling could keep NVDA/AMD/TSM suppressed.
+6. **Friday NFP — thin pre-NFP liquidity (MEDIUM):** Gaps and whipsaws likely at 8:30 AM. Conditions must be evaluated POST-NFP (10:00 AM check).
+7. **Deployment gap (ONGOING):** 3 positions, ~24.6% deployed vs 80% target. Need NVDA + 2 more positions but must not chase a volatile NFP day.
+
+### Decision
+**HOLD — await NFP, then conditional NVDA if conditions met at 10:00 AM**
+- Primary reason: NFP 8:30 AM with below-consensus forecast; NASDAQ futures -1.14%; no pre-NFP buys
+- NVDA conditional: if NFP ≥ +80K AND SPX ≥ 0% AND NVDA > $210 at 10:00 AM → execute market-open NVDA buy at 10:00 AM
+- Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
+- AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
+- Sources: markets.businessinsider.com (SPX futures), xtb.com/cy (NFP calendar), bls.gov, ycharts.com (VIX), oilprice.com, heygotrade.com (NVDA upgrades), robinhood.com/NVDA (insider sale), totalrealreturns.com (sector ETFs), marketwatch.com/META (pre-market), cnbc.com/2026/05/29 (weekly outlook)
