@@ -357,6 +357,19 @@ No positions yet. Bot launches tomorrow.
 - Realized P&L: ~-$132 (-1.66%)
 - Notes: AVGO reported Q3 guidance disappointment despite narrow beat (EPS $2.47 vs $2.39 est, rev $22.19B vs $22.13B est). Stock gapped -13.97% AH to ~$412.28 — well below stop $455.91. Filled at market open ~$409.95 (gap-fill). Small realized loss; 7% trailing stop absorbed most upside captured from $416.89 entry. Exited per strategy rules (trailing stop execution). TSM conditional entry canceled (negative stock reaction).
 
+---
+
+### 2026-06-05 — BUY NVDA
+- Shares: 37
+- Entry: $213.59
+- Stop: 10% trailing | HWM $213.25 | Current stop $191.92
+- Target: $256.31 (+20%)
+- Thesis: Re-entry at SMA support post-AVGO selloff; AVGO guidance miss redirects hyperscaler GPU spend back to NVDA; analyst upgrade cycle; NFP 85K in-line → stable macro
+- Catalyst: BofA/analyst upgrades (heygotrade.com #1 June pick); Kumo AI acquisition; AVGO custom-ASIC disappointment = NVDA GPU demand tailwind; NFP 85K met threshold (≥80K gate passed)
+- Sector: Tech (XLK — #1 sector YTD)
+- R:R: 2.0:1
+- Order ID: f39a2f20 (buy) | cc08a04d (trailing stop)
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
