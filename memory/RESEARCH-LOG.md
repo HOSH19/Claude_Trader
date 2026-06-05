@@ -655,3 +655,9 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
 - AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
 - Sources: markets.businessinsider.com (SPX futures), xtb.com/cy (NFP calendar), bls.gov, ycharts.com (VIX), oilprice.com, heygotrade.com (NVDA upgrades), robinhood.com/NVDA (insider sale), totalrealreturns.com (sector ETFs), marketwatch.com/META (pre-market), cnbc.com/2026/05/29 (weekly outlook)
+
+### Afternoon Addendum (Midday Scan)
+**Positions:** AAPL $309.87 (+12.12%) | META $610.11 (+1.88%) | NVDA $207.95 (-2.64% from entry $213.59)
+**MSFT:** Stopped out intraday at $419.69 (thin buffer triggered); cash recouped.
+**NVDA thesis check:** Down -4.9% intraday. Tavily research confirms cause = AVGO chip-sector contagion (sympathy selling); CNBC noting "buying opportunity." Analyst upgrade cycle and hyperscaler GPU-spend redirect thesis remain intact. No thesis break.
+**Actions:** No cuts (all positions above -7%). No stop tightening (none at +15%). Thesis intact across all 3 positions. All within rules.
