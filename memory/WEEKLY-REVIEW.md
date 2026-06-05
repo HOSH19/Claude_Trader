@@ -235,3 +235,69 @@ Template for each entry:
 - **Sector diversification**: All tech portfolio = concentration risk; one JPM or XOM entry reduces single-sector exposure
 
 ### Overall Grade: C+
+
+---
+
+## Week ending 2026-06-05
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $102,915.38 (May 29 close) |
+| Ending portfolio | $100,330.81 |
+| Week return | -$2,584.57 (-2.51%) |
+| S&P 500 week | -1.82% (7,599→7,461) |
+| Bot vs S&P | -0.69% |
+| Trades | 4 (W:1 / L:2 / open:3) |
+| Win rate | 33% (1/3 closed) |
+| Best trade | MSFT +$53.58 (+0.68%) |
+| Worst trade | GOOGL -$558.60 (-7.16%) |
+| Profit factor | 0.08 |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GOOGL | $389.84 (20 sh) | ~$361.91 | -$558.60 (-7.16%) | Trailing stop auto-triggered Jun 02; 3 weeks persistent weakness |
+| AVGO | $416.89 (19 sh) | ~$409.95 | ~-$132.00 (-1.66%) | Earnings gap-down Jun 04 AH (-13.97%); 7% trail limited vs entry price breach |
+| MSFT | $416.87 (19 sh) | ~$419.69 | ~+$53.58 (+0.68%) | Trailing stop triggered Jun 05 on NASDAQ selloff; tiny gain |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $307.22 | +$863.52 (+11.16%) | $285.24 (HWM $316.93) |
+| META | $598.88 (13 sh) | $590.90 | -$103.79 (-1.33%) | $578.70 (HWM $643.00) |
+| NVDA | $213.59 (37 sh) | $204.94 | -$320.11 (-4.05%) | $192.59 (HWM $213.98) |
+
+### What Worked
+- GTC trailing stops executed correctly on all 3 closes — automated system protected capital without manual intervention
+- 7% tightened stop on AVGO (from +15.61%) — while earnings gap broke through entry price anyway, the tighten reflected correct discipline
+- NVDA re-entry thesis well-reasoned: AVGO-spend redirect, analyst upgrades, NFP gate (+85K passed ≥+80K threshold)
+- NFP-gated NVDA entry (waited for print + 10am conditions) avoided pre-NFP whipsaw
+- S&P 500 also sold off -1.82% this week; relative underperformance contained to only -0.69%
+
+### What Didn't Work
+- Three stop-outs in two trading sessions (Jun 02–05): GOOGL, AVGO, MSFT all exited; phase P&L collapsed from +$2,915 to +$331
+- AVGO earnings gap risk known in advance (Jun 01 research flagged binary event explicitly); trailing stop cannot protect a +15.61% position against a -14% gap that breaks entry price
+- NVDA re-entry on Jun 05 immediately -4.05%: entered on volatile NFP Friday into -1.14% NASDAQ — conditions technically met but intraday trend hostile
+- META only 2.0% above stop ($578.70) heading into Monday; 4th potential stop-out risk
+- Deployment collapsed back to 23.8% after exits — 6th consecutive week below 80% target
+
+### Key Lessons
+- Trailing stops protect against gradual drawdowns but NOT earnings gap risk: AVGO gapped -14%, blew through the 7% tightened stop ($455.91) and the entry price ($416.89), resulting in a loss despite being a +15.61% winner at peak
+- Earnings pre-action needed for big winners: a position >+10% unrealized held into earnings should be partially exited (50%) 1 session before the report; trailing stop handles the remaining 50%
+- Friday macro-day (NFP/FOMC) entries face immediate adverse price action — NVDA on NFP Friday opened into the selloff; consider avoiding new entries on NFP/FOMC Fridays
+- Phase P&L +$330.81 (+0.33%) after 6 weeks is near breakeven; chronic underdeployment (avg ~40% vs 80% target) is the compounding drag that prevents recovery
+- Stops working perfectly is necessary but not sufficient — win rate 33%, profit factor 0.08 signals entry/hold quality is the structural problem
+
+### Adjustments for Next Week
+- **META**: Stop $578.70 only 2.0% away; do not move stop; let auto-execute if triggered Monday — 4th stop-out is possible but acceptable per rules
+- **NVDA**: -4.05% unrealized at $204.94, stop $192.59 (9.5% cushion); thesis intact; -7% manual cut at $198.64 — monitor closely on open
+- **AAPL**: +11.16% unrealized, stop $285.24; approaching +15% tighten at $317.84; tighten to 7% on break above
+- **Earnings pre-action rule (provisional)**: For positions with unrealized >+10%, exit 50% one session before earnings; keep trailing stop on remainder — evaluate for 2 more earnings events before formalizing
+- **New positions**: 3 positions, 23.8% deployed, 3 buy slots — MUST open 2 entries by Wednesday; scout JPM (XLF diversifier), AMZN (AI/cloud), or TSLA (confirmed catalyst required); target 55%+ deployed by EOW
+- **No new entries on NFP/FOMC Fridays**: evaluate entries on the following Monday when dust settles
+
+### Overall Grade: D
