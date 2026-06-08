@@ -111,6 +111,39 @@ Bottom: XLV Healthcare (-1.35% YTD), XLF Financials (-0.5% wk), XLU Utilities fl
 
 ---
 
+## 2026-06-08 — Midday Addendum
+
+**Account snapshot:** Equity $100,549.72 | Cash $76,464.15 | Positions: 3 | DT count: 0
+**Session-start equity:** $100,491.70 | **DD:** +0.06% — no halt
+
+### Positions (midday)
+| Ticker | Entry | Current | Unrealized | Stop | HWM | Buffer |
+|--------|-------|---------|------------|------|-----|--------|
+| AAPL | $276.38 | $313.05 | +$1,026.76 (+13.27%) | $285.24 (10% trail) | $316.93 | 9.5% above stop |
+| META | $598.88 | $585.85 | -$169.44 (-2.18%) | $578.70 (10% trail) | $643.00 | **1.22% above stop — WATCH** |
+| NVDA | $213.59 | $208.19 | -$199.94 (-2.53%) | $192.59 (10% trail) | $213.98 | 7.9% above stop |
+
+### Checks
+- **DD halt:** No — equity +$58 (+0.06%) from session start
+- **Cut losers (-7%):** None — no position at -7%
+- **Tighten stops:** None — AAPL +13.27% (trigger $317.84 not hit, HWM $316.93); META/NVDA underwater
+- **Thesis checks:** All intact — no manual cuts required
+
+### META Watch (Intraday)
+- Current $585.85 vs stop $578.70 — only $7.15 (1.22%) buffer; stop-out risk elevated
+- Tavily check: No thesis-breaking news. Analysts still bullish on AI monetization; "Meta is a strong AI monetization leader" per tikr.com. Prediction market 76% probability META ≤ $610 at close today.
+- Action: HOLD — thesis intact; trailing stop auto-executes if breached. Do NOT manually cut at -2.18%.
+
+### MSFT Conditional Entry Status
+- Pre-market research set conditional entry (SPX ≥ 0%, MSFT > $415, no geopolitical escalation)
+- MSFT not in current positions — conditions likely failed or market-open routine did not execute
+- No retroactive buy from midday routine
+
+### Decision
+**No action** — all positions within rules; stops intact; META monitored
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
