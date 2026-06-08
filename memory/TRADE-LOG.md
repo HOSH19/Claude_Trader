@@ -383,6 +383,19 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Day 30 EOD (Friday). Rough finish to the week — tech sold off broadly, dragging all 3 positions lower. META -5.91% to $590.50 (stop $578.70, HWM $643.00) — only $11.80 / 2.0% above stop; stop-out risk HIGH into Monday open. NVDA entered today at $213.59 on AVGO-thesis (hyperscaler GPU demand redirect) but immediately fell -6.44% to $204.58 (-4.22% unrealized, stop $192.59, HWM $213.98); 5.9% cushion above stop. AAPL -1.27% to $307.27, holding best (+11.18% unrealized, stop $285.24, HWM $316.93). MSFT no longer in positions — likely trailing stop $419.69 triggered Jun 04/05 (no explicit stop-out entry recorded; unrealized loss was small). Phase P&L compressed to +$313.69 (+0.31%) from +$2,622 peak on Jun 03; 3 stop-outs in 2 weeks have been costly. Cash 76.2%, deployment only 23.8% vs 80% target; 2 buy slots remain for next week — urgent to identify 2 high-conviction setups for pre-market Monday.
 
+### Jun 08 — EOD Snapshot (Day 31, Monday)
+**Portfolio:** $100,252.10 | **Cash:** $76,464.15 (76.3%) | **Day P&L:** -$115.27 (-0.11%) | **Phase P&L:** +$252.10 (+0.25%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $301.85 | -1.79% | +$713.16 (+9.22%) | $285.66 |
+| META | 13 | $598.88 | $585.65 | -1.24% | -$171.98 (-2.21%) | $578.70 |
+| NVDA | 37 | $213.59 | $208.72 | +1.77% | -$180.25 (-2.28%) | $192.59 |
+
+**Notes:** Day 31 EOD (Monday). Broad tech weakness on reopening — AAPL -1.79% to $301.85 (HWM $317.40, stop $285.66, +9.22% unrealized). META -1.24% to $585.65, now -2.21% unrealized with stop $578.70 (HWM $643.00); only $6.95 / 1.19% above stop — stop-out risk HIGH into Tuesday open. NVDA recovered +1.77% to $208.72 after Friday's selloff, still -2.28% unrealized (HWM $213.98, stop $192.59, ~7.73% cushion). No trades today; week opens 0/3 buy slots used. Cash 76.3%, deployment 23.7% vs 80% target — must identify 2-3 high-conviction setups for pre-market Tuesday urgently.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
