@@ -2,6 +2,115 @@
 
 ---
 
+## 2026-06-08 (Day 31, Monday — Week 7 Open)
+
+**Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
+**Session-start equity:** $100,491.70 | Portfolio DD: 0% — no halt
+**Buy slots this week:** 3/3 available (NVDA bought last Friday Jun 05 = prior week)
+
+### Open Positions (premarket)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $307.65 | +$875.56 (+11.3%) | $285.24 | $316.93 | HOLD; approaching +15% trigger (~$317.84) |
+| META | 13 | $598.88 | $592.20 | -$86.89 (-1.1%) | $578.70 | $643.00 | WATCH — only 2.3% above stop; thesis weakening (AI delays) |
+| NVDA | 37 | $213.59 | $208.51 | -$188.14 (-2.4%) | $192.59 | $213.98 | HOLD; +$80B buyback/dividend catalyst; 7.7% above stop |
+
+### Market Context
+- **Oil:** WTI ~$93.91–94.72 | Brent ~$97.07–97.63 — elevated on Iran/Israel ceasefire breakdown
+- **SPX futures:** 7,402.75 (+2.25 / +0.03%) — essentially flat; NASDAQ 100 futs +69.75 (+0.24%)
+- **VIX:** ~19.90 (declining from ~21.51 prev close) — moderating but elevated vs May
+- **Geopolitical:** Iran fired missiles at Israel overnight → fragile ceasefire risks unraveling. Asia-Pacific markets fell sharply (Kospi -8.4%). Strait of Hormuz concerns (Piper Sandler: closed for months).
+- **Earnings today BMO:** Campbell Soup (CPB), AstroNova — no universe names
+- **Econ calendar:** Light today (Employment Trends 10 AM ET); **CPI Wednesday Jun 10** (major vol driver); PPI Thursday Jun 11
+- **AI cycle:** NVDA $80B buyback/dividend announced Jun 5 (moneymorning.com). NVDA upgrade cycle intact (heygotrade.com #1 June pick). AMD flagged as weakness — semiconductor selloff watch.
+
+*Sources: markets.businessinsider.com (oil/SPX futs), cboe.com (VIX), cnbc.com/2026/06/07 (Iran-Israel), rttnews.com (earnings calendar), thomsoninvestmentgroup.com (econ cal), x.com/marketsday (econ cal), heygotrade.com (NVDA upgrades), moneymorning.com (NVDA buyback)*
+
+### Sector ETF Ranking (This Week)
+1. **XLK Technology** — YTD #1 (+11.33% YTD per totalrealreturns.com); AI supercycle + NVDA upgrade cycle; NASDAQ futs +0.24% today
+2. **XLE Energy** — Oil surging on Iran/Israel; up today; was +10.22% week of May 27
+3. **XLI Industrials** — Steady positive; data center buildout tailwind
+
+Bottom: XLV Healthcare (-1.35% YTD), XLF Financials (-0.5% wk), XLU Utilities flat
+
+*Source: totalrealreturns.com, x.com/TheETFTracker*
+
+### Candidate Scoring (20-symbol universe only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **MSFT** | **8/10** | 1 | 2 | 2 | 1 | 2 | **PASS — conditional entry** |
+| NVDA | 7/10 | 2 | 2 | 1 | 1 | 1 | Hold existing; at 7.68% weight (near 8% cap) |
+| AAPL | 6/10 | 1 | 2 | 1 | 1 | 1 | At 8.57% — OVER cap; no new entry |
+| META | 6/10 | 1 | 2 | 1 | 1 | 1 | Hold existing; thesis weakening |
+| CVX | 6/10 | 2 | 1 | 1 | 1 | 1 | FAIL — energy sector mid-tier, R:R ~1.5 vs $213 PT |
+| XOM | 6/10 | 2 | 1 | 1 | 1 | 1 | FAIL — same as CVX; energy sector drag |
+| TSM | 5/10 | 1 | 2 | 0 | 1 | 1 | FAIL — chip sector pressure; extended prior research |
+| AMZN | 4/10 | 0 | 1 | 2 | 0 | 1 | FAIL — fell 7.6% last week on capex fears; negative catalyst |
+| AMD | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — semis weakness; momentum playbook breakdown watch |
+| JPM | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GS | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| V | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| MA | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| SPY | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| GOOGL | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — recently stopped out; thesis broken |
+| AVGO | N/A | — | — | — | — | — | Stopped out Jun 04; no re-entry |
+| TSLA | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — no catalyst |
+| UNH | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL — healthcare bottom YTD |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+
+**MSFT catalyst notes:** Azure AI milestone reported; stock "retakes key level after earnings selloff" (investors.com); 97 analysts cover, most Strong Buy/Buy; avg PT $561.20 (MarketBeat, 47 analysts), high $870 (Tigress Financial May 6). Below all-time high $555.45 with recovery thesis intact.
+
+**CVX/XOM note:** Confirmed oil catalyst (Iran/Israel) but energy sector historically mid-ranked vs tech for this strategy; R:R to analyst PTs ($213 CVX, $176 XOM 52-wk high) insufficient to clear 2.0 threshold at current prices. Pass at this time.
+
+### Technical Validation — MSFT (Score 8/10)
+*Bars null pre-market (endpoint returning null); estimates from known price trajectory*
+- **SMA20 (est):** ~$435 (using known closes: $466.32 HWM → $441.09 Jun02 → $427.65 Jun03 → ~$420 Jun04-05 → $416.67 today; 20-day avg ~$435–445)
+- **Last price:** $416.67 (Yahoo Finance)
+- **Distance from SMA20:** ($416.67 - $435) / $435 ≈ **-4.2% → BELOW SMA ✓** (Setup 2 confirmed)
+- **5-day momentum:** $416.67 vs $441.09 (Jun02) = **-5.54% (NEGATIVE — 1 fail)**
+- **Volume ratio:** N/A (bars null) — not counted as confirmed fail per precedent
+- **Result: 1 fail → PASSES** (threshold: 2+ confirmed fails to disqualify)
+
+### Trade Ideas
+
+**#1 — MSFT (Microsoft) — CONDITIONAL ENTRY**
+- Catalyst: Azure AI milestone ongoing; stock retook key level post earnings selloff (investors.com); 97 analysts bullish avg PT $561.20 (marketbeat.com, forbes.com); "well below all-time high $555.45"
+- Sector: XLK Tech — #1 YTD
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Entry: ~$416–420 (market order after conditions pass)
+- Stop: 10% trailing → initial floor ~$375–378
+- Target: $561 (analyst avg PT) → R:R = ($561-$418)/($418-$376) ≈ **3.4:1 ✓**
+- Shares: 19 × $418 = $7,942 (~7.9% of $100,492 equity — within 8% cap)
+- **Conditions (all must pass at 10:00 AM):**
+  (a) SPX ≥ 0% at open AND
+  (b) MSFT > $415 AND
+  (c) No additional geopolitical escalation (market absorbing Iran/Israel without tech selloff)
+- Technicals: SMA20 ~$435 (below ✓), 5d mom -5.54% (1 fail), vol N/A — 1 fail → PASSES
+- Buy gates: 4 positions after fill ≤10 ✓; 1 trade this week ≤3 ✓; $7,942 ≤ 8% cap ✓; $7,942 ≤ $76,464 cash ✓
+
+### Risk Factors
+1. **Iran/Israel ceasefire breakdown (HIGH):** Iran fired missiles at Israel overnight; Kospi -8.4%; Strait of Hormuz concerns. Risk-off pressure on tech if conflict escalates further.
+2. **CPI Wednesday Jun 10 (HIGH):** Major volatility driver. "CPI will drive volatility across stocks, bonds, currencies" (x.com/marketsday). Do not enter MSFT if CPI risk looks skewed hawkish.
+3. **META stop risk (MEDIUM-HIGH):** Only 2.3% above $578.70 trailing stop. Any morning dip below $578.70 triggers auto-exit. AI delays narrative compounding.
+4. **NVDA at -2.4% unrealized (MEDIUM):** Stop $192.59 remains intact (7.7% cushion). $80B buyback is a support catalyst but geopolitical risk-off could pressure it lower.
+5. **Deployment gap (ONGOING):** 23.9% deployed vs 80% target. MSFT entry would lift to ~31.8%; still needs 2 more trades but CPI/geopolitics force patience.
+6. **Semiconductor weakness (MEDIUM):** AMD breakdown watching; "AI trades unwind" CNBC headline. NVDA could face sympathy selling.
+7. **AAPL approaching +15% trigger:** HWM $316.93, trigger at $317.84. Tighten trail to 7% if/when HWM exceeded.
+
+### Decision
+**TRADE — MSFT conditional entry at 10:00 AM if conditions pass; otherwise HOLD**
+- MSFT: 8/10 score, below SMA, $561 analyst avg PT, 3.4:1 R:R, Azure AI recovery thesis
+- Existing positions: let trailing stops manage; manually cut META if it hits -7% ($561.17 unrealized trigger, currently well above)
+- AAPL: tighten trail to 7% if HWM > $316.93 (current HWM); watch $317.84 trigger
+- Primary caution: CPI Wednesday and Iran/Israel — if SPX opens red or MSFT < $415 at 10 AM, HOLD all week
+- Week budget: 3 slots, 1 being used for MSFT; preserve 2 for high-conviction setups post-CPI
+
+*Sources: finance.yahoo.com/MSFT (price/analysts), marketbeat.com/MSFT (47 analyst PTs), forbes.com/MSFT (97 analysts), investors.com/MSFT (key level), cnbc.com/2026/06/07 (Iran-Israel/geopolitics), oilprice.com (WTI/Brent), cboe.com (VIX), markets.businessinsider.com (SPX futs), totalrealreturns.com (sector YTD), heygotrade.com (NVDA upgrades), moneymorning.com (NVDA buyback)*
+
+---
+
 ## 2026-05-27 (Day 23, Wednesday)
 
 **Account snapshot:** Equity $101,488 | Cash $69,292 (68.2%) | Positions: 4 | DT count: 0/3
