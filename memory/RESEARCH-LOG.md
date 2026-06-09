@@ -2,6 +2,120 @@
 
 ---
 
+## 2026-06-09 (Day 32, Tuesday — Week 7)
+
+**Account snapshot:** Equity $100,372.40 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
+**Session-start equity:** $100,372.40 | Portfolio DD: 0% — no halt
+**Buy slots this week:** 3/3 available (no trades since NVDA Jun 05 = prior week)
+
+### Open Positions (premarket)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $301.03 | +$690.23 (+8.9%) | $285.66 | $317.40 | HOLD; +15% tighten trigger at $317.84; WWDC catalyst live |
+| META | 13 | $598.88 | $593.00 | -$76.49 (-1.0%) | $578.70 | $643.00 | WATCH — 2.4% above stop; 5d momentum -2.4%; stop-out risk elevated |
+| NVDA | 37 | $213.59 | $210.01 | -$132.52 (-1.7%) | $192.59 | $213.98 | HOLD; chip sector rebounding (+1.4% NASDAQ futs); 8.3% stop buffer |
+
+### Market Context
+- **Oil:** WTI $93.55 | Brent $96.11 — elevated, Iran/Israel geopolitical bid
+- **SPX futures:** +0.71% (+22.25 pts to 7,438.25); NASDAQ 100 futs +1.40% — GREEN rebound from Friday's selloff
+- **VIX:** 18.29 (declining from 18.92 Jun 8 close) — moderating; benign
+- **Iran/Israel:** Both sides resumed air strikes Jun 8 despite US demand to halt. Netanyahu halted but warned of further action. Fragile ceasefire; market shrugging it off per green futures.
+- **AAPL WWDC 2026 (KEY CATALYST):** Kicked off Jun 8 — Siri AI enhancements, iOS 27, Apple Intelligence improvements (TechCrunch, Bloomberg). Multi-day developer event. Strong AAPL-specific catalyst through the week.
+- **CPI TOMORROW — MAJOR RISK:** May 2026 CPI releases Wed Jun 10, 8:30 AM ET. Core CPI consensus +0.3% MoM; YoY +2.6% (up from +2.4%). April CPI was +0.6% MoM — inflation elevated. Today's entries take on overnight CPI risk.
+- **Economic calendar today:** NFIB optimism index 6:00 AM; US trade balance 8:30 AM. Neither a major mover.
+- **BMO earnings:** Casey's (CASY), VinFast (VFS) — not in universe. No universe earnings.
+- **Chip stocks:** "Asian Stocks Rebound After AI Selloff" headline — NVDA/AMD sector recovering today.
+- **MSFT:** Mayo Clinic Copilot healthcare deal (bullish thesis confirmation); analyst $600 PT target (Forbes); "below all-time high" thesis intact. Reid Hoffman exits board (neutral).
+
+*Sources: markets.businessinsider.com (WTI/SPX futs), marketwatch.com (VIX/SPX), cboe.com (VIX Jun 8 $18.92), bls.gov (CPI Jun 10), x.com/marketsday (econ cal), TechCrunch (WWDC), Bloomberg (WWDC), YouTube/Bloomberg (chip rebound Asia), TIME/CNBC/Al Jazeera (Iran-Israel), Forbes/MarketWatch (MSFT $600 target), barchart.com (NASDAQ futs)*
+
+### Sector ETF Ranking (This Week)
+1. **XLK Technology** — YTD #1 (+10.68% YTD per totalrealreturns.com); AI supercycle, WWDC catalyst, chip rebound
+2. **XLE Energy** — WTI $93-96 elevated; Iran/Hormuz geopolitical bid (+16.67% YTD)
+3. **XLI Industrials** — Steady positive
+
+Bottom: XLV Healthcare (-1.35% YTD), XLF Financials (no specific catalyst), XLU mixed
+
+*Source: totalrealreturns.com, annacoulling.com (sector ETF review Jun 2026)*
+
+### Candidate Scoring (20-symbol universe only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **MSFT** | **8/10** | 1 | 2 | 2 | 1 | 2 | ✅ PASS — primary new entry |
+| AAPL | — | — | — | — | — | — | AT 8% cap; no new entry (WWDC supports hold) |
+| NVDA | — | — | — | — | — | — | HOLD existing; 7.7% weight (~$7,770) |
+| META | — | — | — | — | — | — | HOLD existing; tight stop watch |
+| AMZN | 5/10 | 1 | 2 | 1 | 1 | 0 | FAIL — no confirmed catalyst today; R:R <1.5 |
+| TSM | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL — chip overhang from AVGO, vol low |
+| XOM | 5/10 | 1 | 1 | 1 | 1 | 1 | FAIL — energy sector mid-tier vs tech |
+| CVX | 5/10 | 1 | 1 | 1 | 1 | 1 | FAIL — same |
+| JPM | 4/10 | 1 | 1 | 1 | 1 | 0 | FAIL — no catalyst, R:R poor |
+| GS | 4/10 | 1 | 1 | 1 | 1 | 0 | FAIL |
+| V | 3/10 | 0 | 2 | 1 | 1 | 0 | FAIL — no catalyst |
+| MA | 3/10 | 0 | 2 | 1 | 1 | 0 | FAIL — no catalyst |
+| AMD | 3/10 | 1 | 2 | 0 | 0 | 0 | FAIL — chip overhang, extended |
+| GOOGL | 2/10 | 0 | 1 | 1 | 0 | 0 | FAIL — stopped out, thesis broken |
+| AVGO | N/A | — | — | — | — | — | Stopped out Jun 04; no re-entry |
+| TSLA | 2/10 | 0 | 1 | 0 | 0 | 1 | FAIL — no catalyst |
+| UNH | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — healthcare bottom YTD |
+| JNJ | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL |
+| SPY | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**MSFT catalyst notes:** Mayo Clinic/Microsoft Copilot healthcare deal (TipRanks "huge healthcare win"); analyst $600 price target consensus (Forbes Jun 2026); Azure AI recovery thesis intact; 97+ analysts covering, mostly Strong Buy/Buy. "Below all-time high $555.45" — recovery play.
+
+### Technical Validation — MSFT (Score 8/10)
+*Bars null pre-market (endpoint returning null); estimated from trade log price history*
+- **Last close (Jun 8 est):** ~$416.67 (from Jun 08 research log)
+- **SMA20 (est):** ~$425 (reconstructed from trade log: May 13–Jun 08 closes avg; range $413–$460)
+- **Distance from SMA20:** ($416.67 - $425) / $425 ≈ **-1.96% → BELOW SMA ✓**
+- **5-day momentum:** Jun 08 ($416.67) vs Jun 01 ($460.21) = **-9.45% (NEGATIVE — 1 fail)**
+- **Volume ratio:** N/A (bars null) — not counted as confirmed fail per precedent
+- **Result: 1 fail → PASSES** (threshold: 2+ confirmed fails to disqualify)
+
+### Trade Ideas
+
+**#1 — MSFT (Microsoft) — CONDITIONAL ENTRY**
+- Catalyst: Mayo Clinic Copilot deal (confirmed healthcare monetization); analyst $600 PT (Forbes, MarketWatch); Azure AI monetization thesis; WWDC/AI week narrative; below SMA20 recovery setup
+- Sector: XLK Tech — #1 YTD
+- Score: 8/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 2
+- Entry: ~$416–425 (market order after conditions pass at 10:00 AM)
+- Stop: 10% trailing → initial floor ~$376–383
+- Target: $600 (analyst avg PT) → R:R = ($600-$421)/($421-$379) ≈ **4.3:1 ✓**
+- Shares: 18 × $420 = $7,560 (7.53% of $100,372 equity — within 8% cap ✓)
+- **Conditions (all must pass at 10:00 AM):**
+  (a) SPX ≥ 0% at open AND
+  (b) MSFT > $415 AND
+  (c) CPI consensus not hawkishly revised pre-market
+- Technicals: SMA20 ~$425 (below ✓), 5d mom -9.45% (1 fail), vol N/A — 1 fail → PASSES
+- Buy gates: 4 positions after fill ≤10 ✓; 1 trade this week ≤3 ✓; $7,560 ≤ 8% ✓; $7,560 ≤ $76,464 cash ✓
+
+### Position Monitoring
+- **AAPL:** WWDC catalyst positive for existing +8.9% unrealized position. HWM $317.40 — tighten stop to 7% if price touches $317.84. Stop $285.66 intact (10% trail).
+- **META:** Only 2.4% above stop $578.70 (current $593). 5d momentum -2.43%, below SMA. Any morning weakness could trigger auto-stop. Let stop auto-execute; do not intervene — thesis weakened.
+- **NVDA:** Chip sector rebounding (+1.4% NASDAQ). Stop $192.59 (HWM $213.98), 8.3% cushion. Hold.
+
+### Risk Factors
+1. **CPI tomorrow June 10 (HIGH):** May CPI due 8:30 AM — core +0.3% consensus, but April was +0.6%. Hot print above +0.4% = broad selloff. Entering MSFT today means overnight CPI exposure. Mitigant: conditions include SPX green check; if CPI fears spike pre-market, conditions fail and no entry.
+2. **META stop-out risk (MEDIUM-HIGH):** 2.4% buffer on $578.70 stop. Intraday dip could trigger. Reduces portfolio from 3 → 2 positions if hit.
+3. **Iran/Israel resumed strikes (MEDIUM):** Ceasefire fragile; oil elevated; risk-off could return if escalation. Markets shrugging off for now per green futures.
+4. **NVDA at -1.7% unrealized (LOW):** BofA top pick, chip rebound today, $80B buyback support. Stop 8.3% away.
+5. **Deployment gap (ONGOING):** 23.8% deployed vs 80% target. MSFT entry would lift to ~31.4%. Remains far from target — plan further entries in Weeks 7-8.
+6. **AAPL approaching +15% trigger:** HWM $317.40, trigger at $317.84. If breached intraday, tighten trail to 7% per strategy rules.
+
+### Decision
+**CONDITIONAL TRADE — MSFT at 10:00 AM if conditions pass; otherwise HOLD**
+- MSFT: 8/10 score, 4.3:1 R:R, below SMA20, healthcare catalyst, $600 analyst PT, recovery thesis intact
+- CPI tomorrow is the primary risk — entry conditions include SPX green gate which provides protection
+- Patience > activity: if SPX red or MSFT < $415 at 10 AM → HOLD and reassess post-CPI (Jun 10 PM)
+- Existing positions: let trailing stops manage; AAPL tighten to 7% trail if $317.84 touched; META monitor stop closely
+- Week budget: 3 slots, 1 being used for MSFT; preserve 2 for post-CPI confirmation setups
+
+*Sources: barchart.com (NASDAQ/SPX futs), marketwatch.com/VIX, cboe.com (VIX Jun 8), bls.gov (CPI schedule), x.com/marketsday (econ cal), TechCrunch/techcrunch.com (WWDC 2026), Bloomberg/bloomberg.com (WWDC takeaways), TIME/time.com (Iran-Israel), CNBC/cnbc.com (Iran-Israel), Al Jazeera (Iran-Israel), Forbes/forbes.com (MSFT $600 PT), TipRanks via robinhood.com (MSFT Mayo Clinic), annacoulling.com (sector ETFs), totalrealreturns.com (XLK/sector YTD), cnbc.com/2026/05/30 (BofA NVDA/AAPL June picks)*
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
