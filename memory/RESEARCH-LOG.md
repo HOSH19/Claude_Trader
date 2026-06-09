@@ -2,6 +2,57 @@
 
 ---
 
+## 2026-06-09 (Day 32, Tuesday — Week 7)
+
+**Account snapshot:** Equity $100,266.46 | Cash $76,464.15 (76.2%) | Positions: 3 | DT count: 0
+**Session-start equity:** $100,237.02 | Portfolio DD: +0.03% — no halt
+**Buy slots this week:** 3/3 available
+
+### Open Positions (live)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | ~$300 | +8.5% | $285.66 | $317.40 | HOLD; +15% tighten trigger = $317.84 (HWM within $0.44) |
+| META | 13 | $598.88 | $589.10 | -1.63% | $578.70 | $643.00 | HIGH ALERT — 1.8% above stop; AI funding fears; Annual Mtg today |
+| NVDA | 37 | $213.59 | $210.05 | -1.66% | $192.59 | $213.98 | HOLD; 8.3% above stop; BofA June top pick intact |
+
+### Market Context
+- **SPX Futures:** +0.46% | **NASDAQ Futures:** +0.69% — GREEN; AI trade rebounding (barchart.com)
+- **VIX:** 18.17 — moderately elevated
+- **WWDC 2026:** Apple kicked off WWDC Jun 8; TD Cowen PT↑$350, Erik Woodring PT↑$360; BofA June top pick (cnbc.com)
+- **MSFT:** ~$411–412 (sinking in June per Motley Fool); "Surged 10.4% in May, sinking in June" (fool.com Jun 8); stock slipped despite Xbox Showcase; AI independence thesis intact but stock under technical pressure
+- **META:** "Falls on AI Funding Fears Despite $56.3B Revenue Surge" (fxleaders.com today); $145B capex bet creating investor skepticism; Annual Meeting shareholder accountability vote today
+- **NVDA:** BofA/CNBC June top pick confirmed (May 30); compute scarcity narrative emerging (CLSA: "AI boom hitting compute wall") — watch
+- **CPI TOMORROW Jun 10, 8:30 AM:** Prior 3.8%, forecasted 4.2% (investing.com) — potential inflationary surprise; HIGH volatility risk
+- **Sector:** XLK Tech #1 YTD; AI rebound ongoing
+
+*Sources: barchart.com (futures), investing.com (VIX/CPI), fool.com (MSFT), fxleaders.com (META), cnbc.com (futures/AAPL), robinhood.com/AAPL (WWDC analyst PTs), bls.gov (CPI schedule)*
+
+### Candidate Scoring (Universe Only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AAPL | — | — | — | — | — | — | AT 8.3% of equity — over cap; no new entry |
+| META | — | — | — | — | — | — | HOLD existing; stop managing risk |
+| NVDA | — | — | — | — | — | — | HOLD existing; BofA top pick intact |
+| **MSFT** | **8/10** | 1 | 2 | 2 | 1 | 2 | ❌ FAIL condition — price ~$411 < $415 threshold |
+| All others | <7 | — | — | — | — | — | No qualifying catalyst; CPI overhang |
+
+### Trade Ideas
+**None today** — MSFT entry condition fails (< $415); CPI tomorrow is a HIGH-risk event (potential 3.8%→4.2% print); preserve 3 buy slots for post-CPI opportunities Wednesday.
+
+### Decision
+**NO TRADE — HOLD all existing positions**
+- MSFT: ~$411–412 fails the >$415 entry gate from Jun 08 research. Wide Alpaca quote spread ($406.80/$429.47) also signals unusual market structure — skip.
+- CPI Jun 10 at 8:30 AM: potential hawkish surprise (4.2% vs 3.8%); entering positions today risks overnight gap risk.
+- META: Stop at $578.70 (HWM $643.00); let trailing stop auto-execute if breached. Thesis weakening but not broken — ad revenue core intact; no manual cut unless price gaps below $578.70 or thesis breaks.
+- AAPL: WWDC catalyst ongoing; HWM $317.40 approaching +15% tighten trigger at $317.84. If AAPL trades to $317.84 intraday, tighten trailing stop to 7%.
+- NVDA: Hold; 8.3% above stop.
+- Post-CPI (Wed Jun 10 10 AM+): re-evaluate MSFT and 1–2 other setups if CPI print is in-line or cooler.
+
+*Sources: barchart.com, fool.com (MSFT Jun 8), fxleaders.com (META Jun 9), investing.com/economic-calendar/cpi-733 (CPI forecast), robinhood.com/AAPL (analyst upgrades), cnbc.com*
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
