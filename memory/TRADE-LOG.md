@@ -383,6 +383,19 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Day 30 EOD (Friday). Rough finish to the week — tech sold off broadly, dragging all 3 positions lower. META -5.91% to $590.50 (stop $578.70, HWM $643.00) — only $11.80 / 2.0% above stop; stop-out risk HIGH into Monday open. NVDA entered today at $213.59 on AVGO-thesis (hyperscaler GPU demand redirect) but immediately fell -6.44% to $204.58 (-4.22% unrealized, stop $192.59, HWM $213.98); 5.9% cushion above stop. AAPL -1.27% to $307.27, holding best (+11.18% unrealized, stop $285.24, HWM $316.93). MSFT no longer in positions — likely trailing stop $419.69 triggered Jun 04/05 (no explicit stop-out entry recorded; unrealized loss was small). Phase P&L compressed to +$313.69 (+0.31%) from +$2,622 peak on Jun 03; 3 stop-outs in 2 weeks have been costly. Cash 76.2%, deployment only 23.8% vs 80% target; 2 buy slots remain for next week — urgent to identify 2 high-conviction setups for pre-market Monday.
 
+### Jun 09 — EOD Snapshot (Day 32, Tuesday)
+**Portfolio:** $99,939.74 | **Cash:** $76,464.15 (76.5%) | **Day P&L:** -$297.28 (-0.30%) | **Phase P&L:** -$60.26 (-0.06%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $290.95 | -3.51% | +$408.02 (+5.27%) | $285.66 |
+| META | 13 | $598.88 | $585.16 | -0.04% | -$178.41 (-2.29%) | $578.70 |
+| NVDA | 37 | $213.59 | $208.67 | +0.01% | -$182.30 (-2.31%) | $192.59 |
+
+**Notes:** Day 32 EOD (Tuesday). Broad tech weakness continued — AAPL sold off -3.51% to $290.95 (+5.27% unrealized, HWM $317.40, stop $285.66), now only 1.8% above its 10% trailing stop; stop-out risk is HIGH at Wednesday open. META essentially flat -0.04% to $585.16 (-2.29% unrealized, HWM $643.00, stop $578.70), just 1.1% above stop — CRITICAL watch. NVDA held nearly flat +0.01% to $208.67 (-2.31% unrealized, stop $192.59), cushion 7.7% — safest of the three. No trades today or this week (0/3 buy slots used). Portfolio slipped below par to $99,939.74; Phase P&L turned slightly negative at -$60.26 (-0.06%). Deployment 23.5% vs 80% target — 3 buy slots available but AAPL and META stop-outs are imminent; pre-market Wednesday must have replacement setups ready before stops trigger.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
