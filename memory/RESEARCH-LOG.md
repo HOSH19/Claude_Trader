@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-06-09 — Midday Addendum (Day 32, Tuesday)
+
+**Account snapshot:** Equity $99,698.33 | Cash $76,464.15 (76.7%) | Positions: 3 | DT count: 0
+**Session-start equity (last_equity):** $100,237.02 | **DD:** -0.54% — no halt
+
+### Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Buffer |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $289.98 | +$380.80 (+4.92%) | $285.66 (10% trail) | $317.40 | $4.32 / 1.49% — THIN |
+| META | 13 | $598.88 | $584.87 | -$182.17 (-2.34%) | $578.70 (10% trail) | $643.00 | $6.17 / 1.05% — VERY THIN |
+| NVDA | 37 | $213.59 | $203.06 | -$389.67 (-4.93%) | $192.59 (10% trail) | $213.98 | $10.47 / 5.15% |
+
+### Checks
+- **DD halt:** No — -0.54% from session-start
+- **Cut losers (-7%):** None — no position at or below -7%
+- **Tighten stops:** None — no position at or above +15%
+- **Thesis checks:**
+  - AAPL: "Siri AI debut fails to win over investors" (CNBC Jun 08) — WWDC catalyst played out negatively; stock -3.84% intraday, only 1.49% above stop $285.66. Thesis weakened. GTC trailing stop will auto-execute if breached; no manual cut (saving ~$80 vs stop price not meaningful).
+  - META: Stock offering dilution risk (FT Jun 05, tens of billions for AI); massive capex $125-145B weighing on sentiment; legal pressure ongoing. Thesis weakening. Only 1.05% above stop. GTC trailing stop will auto-execute. No manual cut.
+  - NVDA: D-Matrix competitor "10x faster chip" claim (CNBC Jun 09); Dalio AI bubble warning; NVDA courting Korea AI heavyweights (positive). Core thesis intact (GPU demand, $80B buyback, analyst upgrade cycle). HOLD.
+- **Intraday research:** Ran Tavily on META and NVDA. No new unexpected catalyst warranting immediate exit beyond ongoing thesis deterioration already noted Jun 08.
+
+### Actions Taken
+None. All GTC trailing stops active and in place.
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
