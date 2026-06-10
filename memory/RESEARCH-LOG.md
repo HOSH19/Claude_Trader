@@ -766,3 +766,133 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
 - AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
 - Sources: markets.businessinsider.com (SPX futures), xtb.com/cy (NFP calendar), bls.gov, ycharts.com (VIX), oilprice.com, heygotrade.com (NVDA upgrades), robinhood.com/NVDA (insider sale), totalrealreturns.com (sector ETFs), marketwatch.com/META (pre-market), cnbc.com/2026/05/29 (weekly outlook)
+
+---
+
+## 2026-06-10 (Day 33, Wednesday — CPI Day)
+
+**Account snapshot:** Equity $99,751.32 | Cash $76,464.15 (76.6%) | Positions: 3 | DT count: 0
+**Session-start equity:** $99,751.32 | Portfolio DD: 0% — no halt
+**Buy slots this week:** 3/3 available (new week)
+
+### Open Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $290.97 | +$408.41 (+5.28%) | $285.66 | $317.40 | HIGH STOP RISK — 1.82% buffer; WWDC disappointment weakened thesis |
+| META | 13 | $598.88 | $582.70 | -$210.39 (-2.70%) | $578.70 | $643.00 | CRITICAL — 0.69% buffer; equity offering overhang; auto-stop imminent |
+| NVDA | 37 | $213.59 | $204.46 | -$337.87 (-4.28%) | $192.59 | $213.98 | HOLD — 5.81% buffer; AAPL/Siri partnership positive catalyst |
+
+### Market Context
+- **Oil:** WTI ~$87.79-88.79 | Brent ~$91.21-92.10 — elevated; energy shock reigniting inflation
+- **SPX futures:** ~$7,353.75 (prev close $7,392.75) = -0.53% pre-CPI; day range 7,319-7,393
+- **VIX:** ~16-19 (TradingEconomics 16.06; Yahoo Finance 19.87; barchart VIM26 19.20) — elevated
+- **CPI TODAY 8:30 AM — MAY CPI RELEASE (CRITICAL):** Forecast 4.2% YoY (up from 3.8% Apr); core CPI 2.9%. Highest since Apr 2023. Energy shock main driver (energy inflation +17.9% as of Apr). BLS confirmed release. (cbsnews.com, bls.gov, morningstar.com)
+- **Earnings today BMO:** IDEXY, CHWY, CRMT — none in universe. Oracle (ORCL) after close — not in universe.
+- **Analyst upgrades:** NVDA and MSFT upgraded today; Micron most upgraded of 2026 overall. (investing.com, finance.yahoo.com)
+- **WWDC Jun 9 impact:** Apple AI updates disappointed (-3.51% AAPL). Alphabet (GOOGL) boosted — CNBC "WWDC splits the Mag 7 trade: Apple pressured near term, Alphabet boosted by AI demand." NVDA secured tie-up for Apple Siri AI ("iPhone-maker admits defeat in Siri AI race" — TipRanks via cnn.com).
+- **META overhang:** FT report Jun 5 — Meta weighing tens of billions in new equity raise to fund AI. NSO lawsuit resumed. AI delays flagged. BofA maintained Buy.
+
+*Sources: tradingeconomics.com (Brent), cnbc.com/quotes/@SP.1 (SPX futs), barchart.com (VIX), cbsnews.com (CPI forecast), bls.gov (CPI schedule), digrin.com (earnings calendar), investing.com (upgrades), cnbc.com/2026/06/09 (WWDC), cnn.com/markets/stocks/NVDA (Siri tie-up), cnn.com/markets/stocks/META (equity raise)*
+
+### Sector ETF Ranking (This Week)
+1. **XLK Technology** — YTD #1 (+11.33% YTD); AI supercycle; WWDC Alphabet boost (totalrealreturns.com, annacoulling.com)
+2. **XLE Energy** — oil elevated $87-92; strong demand; CVX +0.97% pre-market (tickeron.com)
+3. **XLI Industrials** — modest +0.2% week (annacoulling.com sector review)
+- Lagging: XLF (-0.5%), XLV (-1.35% YTD negative), XLU (-0.6%), XLB
+
+### Candidate Scoring (Universe Only — 20 symbols)
+*Bars null pre-market (endpoint returning null); volume scores conservative. Technical estimates used.*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **GOOGL** | **8/10** | 2 | 2 | 2 | 1 | 1 | **PASS — CPI-gated; #1 idea** |
+| **MSFT** | **8/10** | 2 | 2 | 2 | 1 | 1 | **PASS — CPI-gated; #2 idea** |
+| NVDA | 7/10 | 2 | 2 | 2 | 0 | 1 | Already held ~7.58% equity; no room to add |
+| AAPL | 5/10 | 1 | 2 | 2 | 0 | 0 | Held at 8% cap; WWDC thesis weakened; no new entry |
+| META | 4/10 | 0 | 2 | 1 | 0 | 1 | Equity offering = negative catalyst; near stop; no new entry |
+| XOM | 5/10 | 1 | 2 | 1 | 1 | 0 | FAIL — R:R insufficient; energy rally mature |
+| CVX | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL — volume weak; bars null |
+| AMZN | 3/10 | 0 | 2 | 0 | 0 | 1 | FAIL — no specific catalyst |
+| AMD | 3/10 | 0 | 2 | 0 | 0 | 1 | FAIL — semi overhang post-AVGO |
+| AVGO | N/A | — | — | — | — | — | Stopped out Jun 04; no re-entry |
+| TSM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — extended >10% above SMA est |
+| JPM | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — financials lagging |
+| GS | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL |
+| V | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL |
+| MA | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL |
+| TSLA | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — no catalyst |
+| UNH | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL — healthcare bottom sector |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| SPY | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**Scoring notes:**
+- GOOGL Catalyst 2: WWDC Apple AI defeat = confirmed catalyst → Alphabet AI demand boost (CNBC); Alphabet market cap surpassed Apple ($3.94T vs $3.84T — intellectia.ai)
+- MSFT Catalyst 2: Analyst upgrade today per investing.com; consensus PT $565.62; Azure AI reacceleration thesis
+- NVDA Catalyst 2: Apple/Siri partnership (TipRanks via cnn.com); UBS "gap remains wide" over AMD; still multiple analyst upgrades outstanding
+
+### Technical Validation
+
+**GOOGL (Score 8/10):**
+- Bars null; using estimates from Robinhood (range $357.31–$372.06 as of Jun 9)
+- Last price (premarket): ~$360.71 (robinhood.com)
+- SMA20 (est): ~$362 (stock range-bound $357-372 throughout Jun; near midpoint)
+- Distance from SMA20: ~0% (AT SMA20 ✓)
+- 5-day momentum: Jun 9 $360.71 vs Jun 2 est ~$355-358 = approx +0.8% POSITIVE ✓
+- Volume: bars null — unconfirmed, not a disqualifying fail
+- **Result: 0 confirmed fails → PASSES tech check**
+
+**MSFT (Score 8/10):**
+- Bars null; price estimated ~$400 from market cap ~$3T / 7.47B shares
+- SMA20 (est): ~$425-435 (was $427.65 on Jun 3, likely declining with recent weakness; avg of 20 days)
+- Distance from SMA20: ~$400 vs $430 est = -7% BELOW SMA20 ✓
+- 5-day momentum: Jun 9 est ~$400 vs Jun 2 known $427.65 = -6.5% NEGATIVE (1 fail)
+- Volume: bars null — unconfirmed
+- **Result: 1 confirmed fail → PASSES tech check (threshold: 2+ fails to disqualify)**
+
+### Trade Ideas (≥7 scorers passing tech check)
+
+**#1 — GOOGL — CONDITIONAL ENTRY (post-CPI)**
+- Catalyst: WWDC Jun 9 — Apple's Siri AI failure explicitly benefits Alphabet; Google Cloud AI demand boost; Alphabet MC surpassed Apple's (intellectia.ai); confirmed by CNBC, TipRanks
+- Sector: XLK Tech — #1 week, #1 YTD
+- Entry conditions (ALL must pass): (a) CPI ≤ 4.0% at 8:30 AM AND (b) SPX ≥ 0% by 10:00 AM AND (c) GOOGL > $358 at 10:00 AM
+- Entry: ~$362 (market order 10:00 AM if conditions met)
+- Stop: 10% trailing → initial floor ~$325.80
+- Target: +20% → ~$434.40
+- Shares: 22 × $362 = $7,964 (~7.98% of equity — at 8% cap)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1
+- Technicals: SMA20 ~$362 (at), 5d mom +0.8% ✓, vol N/A — 0 fails, PASSES
+
+**#2 — MSFT — CONDITIONAL ENTRY (post-CPI, only if CPI very cool ≤ 3.9%)**
+- Catalyst: Analyst upgrade today; Azure AI reacceleration; near multi-year lows; consensus PT $565 (+41% upside)
+- Sector: XLK Tech — #1 week, #1 YTD
+- Entry conditions (ALL must pass): (a) CPI ≤ 3.9% at 8:30 AM AND (b) SPX ≥ +0.5% by 10:00 AM AND (c) MSFT > $400 at 10:00 AM
+- Entry: ~$403 (market order 10:00 AM if conditions met; higher CPI bar due to prior stop-out)
+- Stop: 10% trailing → initial floor ~$362.70
+- Target: +20% → ~$483.60
+- Shares: 19 × $403 = $7,657 (~7.68% of equity)
+- R:R: 2.0:1
+- Score: 8/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1
+- Technicals: SMA20 ~$430 est (below), 5d mom -6.5% (1 fail), vol N/A — 1 fail, PASSES
+- Note: MSFT previously stopped out (Jun 4-5 at ~$419.69). Require stronger CPI signal.
+
+### Risk Factors
+1. **CPI at 8:30 AM (CRITICAL):** Forecast 4.2% — highest in 3 years; energy shock driving. Hot print → rate hike fears → broad selloff. Do NOT enter any position before 8:30 AM.
+2. **META stop-out imminent (CRITICAL):** Buffer 0.69% ($582.70 vs stop $578.70). Any red open triggers auto-stop. Equity offering overhang = thesis break. Let auto-execute; accept realized loss ~-$210.
+3. **AAPL stop risk (HIGH):** Buffer 1.82% ($290.97 vs stop $285.66). WWDC catalyst largely exhausted. Foldable iPhone remains future thesis. Let stop run.
+4. **SPX futures -0.53% pre-CPI:** Market already pricing in some risk. Selloff risk elevated on hot print.
+5. **NVDA pre-market -1.79%:** Despite positive Apple/Siri catalyst, broader tech selling weighing. Stop $192.59 cushion 5.81% adequate.
+6. **Multiple prior tech stop-outs in June:** MSFT, GOOGL, AVGO, now possibly AAPL/META — pattern signals sector choppiness; new entries must have high-conviction catalyst.
+7. **Deployment gap (ONGOING):** 23.3% deployed vs 80% target. 3 buy slots available but CPI must clear first.
+
+### Decision
+**HOLD — await CPI at 8:30 AM; conditional buys post-data only**
+- No buys before 8:30 AM CPI
+- CPI ≤ 4.0%: evaluate GOOGL at 10:00 AM (buy if SPX ≥ 0% AND GOOGL > $358)
+- CPI 4.0-4.2% (in-line): HOLD; do not chase bounce
+- CPI > 4.2% (hot): HOLD; expect risk-off; let stops auto-execute
+- META: thesis broken (equity offering dilution); stop $578.70 will likely auto-execute today. Do not intervene.
+- AAPL: partial thesis break (WWDC disappointed); stop $285.66 at risk. Let auto-execute.
+- NVDA: HOLD — Apple Siri partnership is fresh positive; adequate stop cushion.
+- Sources: cbsnews.com (CPI forecast), bls.gov (schedule), cnbc.com/2026/06/09 (WWDC GOOGL boost), robinhood.com/GOOGL (price $360.71), tickeron.com/CVX (CVX price), cnn.com/markets/stocks/NVDA (Siri partnership), cnn.com/markets/stocks/META (equity raise), markets.businessinsider.com (oil), forbes.com (MSFT outlook)
