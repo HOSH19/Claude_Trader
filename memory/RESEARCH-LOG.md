@@ -109,6 +109,21 @@ Bottom: XLV Healthcare (-1.35% YTD), XLF Financials (-0.5% wk), XLU Utilities fl
 
 *Sources: finance.yahoo.com/MSFT (price/analysts), marketbeat.com/MSFT (47 analyst PTs), forbes.com/MSFT (97 analysts), investors.com/MSFT (key level), cnbc.com/2026/06/07 (Iran-Israel/geopolitics), oilprice.com (WTI/Brent), cboe.com (VIX), markets.businessinsider.com (SPX futs), totalrealreturns.com (sector YTD), heygotrade.com (NVDA upgrades), moneymorning.com (NVDA buyback)*
 
+### Midday Addendum — 2026-06-10 (CPI Day)
+
+**CPI May 2026:** +4.2% YoY, +0.5% MoM — 3rd consecutive acceleration, driven by energy (+23.5% YoY, Iran war). Core CPI +2.9% YoY (contained). Market reacted with concern; broad tech sell-off.
+
+**Portfolio update (midday Jun 10):**
+- META trailing stop triggered ~$578.62 (was $578.70); 13 shares exited. Realized P&L: ~-$263 (-3.39%). Cash now $83,986.
+- AAPL: $292.56 (+5.85% unrealized), stop $285.66 (2.4% buffer). WWDC (Jun 9) headline "Apple pressured near term" per CNBC. No manual cut — above -7%.
+- NVDA: $203.29 (-4.82% unrealized), stop $192.59 (5.3% buffer). Today's decline is CPI/macro-driven; no company-specific negative news. $6T club projection intact (247wallst.com). Hold.
+- Equity: $99,670.74 | Cash: $83,986.21 (84.3%) | 2 positions open
+- DD check: -0.23% from yesterday close — no halt
+
+**No manual cuts or stop tightenings taken. All 3 weekly buy slots available but CPI hot print + WWDC pressure warrant caution; hold cash until conditions improve.**
+
+*Sources: nytimes.com/live/2026/06/10 (CPI report), usatoday.com (May inflation), cnbc.com (WWDC/AAPL), 247wallst.com/nvda (NVDA $6T projection), macrotrends.net/NVDA (52-wk data)*
+
 ---
 
 ## 2026-05-27 (Day 23, Wednesday)

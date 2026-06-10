@@ -396,6 +396,15 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-10 — STOP OUT META (trailing stop triggered)
+- Shares: 13
+- Exit: ~$578.62 (10% trailing stop auto-executed; stop was $578.70, HWM $643.00)
+- Entry: $598.88
+- Realized P&L: ~-$263 (-3.39%)
+- Notes: META dipped below $578.70 trailing stop at open (Jun 10). Stop filled at market ~$578.62. Triggered by CPI hot print (4.2% YoY) + ongoing AI-delays narrative that weakened META thesis. Exited per strategy rules (trailing stop execution). 2 positions remaining: AAPL, NVDA.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
