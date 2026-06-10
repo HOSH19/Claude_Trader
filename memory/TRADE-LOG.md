@@ -396,6 +396,27 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-10 — STOP OUT META
+- Shares: 13
+- Exit: ~$578.70 (10% trailing stop triggered; HWM $643.00)
+- Entry: $598.88
+- Realized P&L: ~-$262 (-1.40%)
+- Notes: META drifted below trailing stop $578.70 — stop-out confirmed (no position or GTC order remaining; cash balance +$7,522 vs yesterday). Stop absorbed losses from HWM $643.00. Sector (Tech/XLK) now 3 consecutive stop-outs (MSFT, AVGO, META).
+
+---
+
+### Jun 10 — EOD Snapshot (Day 33, Wednesday)
+**Portfolio:** $99,544.72 | **Cash:** $83,986.21 (84.4%) | **Day P&L:** -$395.02 (-0.40%) | **Phase P&L:** -$455.28 (-0.46%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $291.60 | +0.36% | +$426.16 (+5.51%) | $285.66 |
+| NVDA | 37 | $213.59 | $199.83 | -4.02% | -$509.18 (-6.44%) | $192.59 |
+
+**Notes:** Day 33 EOD (Wednesday). META trailing stop ($578.70) triggered during session — stopped out near stop price, realizing ~-$262 loss; cash increased ~$7,522 confirming execution. Now 2 positions only. AAPL recovered modestly +0.36% to $291.60 (+5.51% unrealized, HWM $317.40, stop $285.66). NVDA continued falling -4.02% to $199.83 (-6.44% unrealized, stop $192.59, HWM $213.98) — critically close to -7% manual cut threshold at $198.64; only $1.19 buffer. If NVDA opens weak Thursday, manual cut required. Deployment 15.6% vs 80% target; cash $83,986 with 3 buy slots available this week. Tech sector struggling — 3 stop-outs in recent weeks; strongly consider non-tech entries (Finance JPM/GS, Energy XOM/CVX) for next buys.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
