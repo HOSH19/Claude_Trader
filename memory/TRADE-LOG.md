@@ -417,6 +417,18 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jun 11 — EOD Snapshot (Day 34, Thursday)
+**Portfolio:** $99,845.78 | **Cash:** $83,986.19 (84.1%) | **Day P&L:** +$279.81 (+0.28%) | **Phase P&L:** -$154.22 (-0.15%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $295.92 | +1.49% | +$546.99 (+7.07%) | $285.66 |
+| NVDA | 37 | $213.59 | $204.70 | +2.14% | -$328.93 (-4.16%) | $192.59 |
+
+**Notes:** Day 34 EOD (Thursday). Both positions bounced — AAPL recovered +1.49% to $295.92 (+7.07% unrealized, HWM $317.40, stop $285.66), and NVDA rebounded +2.14% to $204.70 (-4.16% unrealized, stop $192.59, HWM $213.98). NVDA now 3.1% above the -7% manual cut threshold ($198.64) and 6.3% above trailing stop ($192.59) — pressure eased but position still underwater. No trades today or this week (0/3 buy slots used). Portfolio gained +$279.81 on the day, lifting equity to $99,845.78; Phase P&L -$154.22 (-0.15%). Deployment critically low at 15.9% vs 80% target with $83,986 cash and 3 buy slots available — pre-market Friday must identify 2-3 high-conviction setups, strongly favoring non-tech sectors (Finance: JPM/GS; Energy: XOM/CVX) to diversify from tech concentration.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
