@@ -2,6 +2,54 @@
 
 ---
 
+## 2026-06-11 (Day 34, Thursday — Week 7)
+
+**Account snapshot:** Equity $99,607.75 | Cash $83,986.19 (84.4%) | Positions: 2 | DT count: 0
+**Session-start equity:** $99,565.97 (last_equity) | Portfolio DD: +0.04% — no halt
+**Buy slots this week:** 0/3 used (week of Jun 09–13)
+
+### Open Positions (market open)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $291.45 | +$421.96 (+5.45%) | $285.66 | $317.40 | HOLD |
+| NVDA | 37 | $213.59 | $201.65 | -$441.88 (-5.59%) | $192.59 | $213.98 | WATCH — -7% cut at $198.64; up +0.61% today vs yesterday |
+
+### Market Context
+- **SPX:** 7,292.57 (-119.66, -1.62%) — broad market selloff
+- **Oracle (ORCL):** -14% at open — Q2 earnings: EPS $2.47 beat, but guidance disappointed; "AI bubble fears intensify" (MarketWatch)
+- **AI Sentiment:** Oracle miss triggers broad AI-sector selloff; NVDA fell ~1.3-1.5% per Investing.com but holding slightly above yesterday close (+0.61% from $199.83)
+- **VIX:** Elevated; market narrative "Dow Jones close to breaking on AI fears, Trump" (IBD)
+- **Iran/Israel:** US Futures rebounded from 1-month low after Iran strikes concluded (tradingeconomics.com)
+- **PPI Tomorrow (Jun 12):** Major macro event — do not add exposure ahead of this data
+
+### Sector ETF Ranking
+1. **XLK Tech** — Under AI-fear pressure today; ORCL -14% weighs on sector
+2. **XLE Energy** — Iran/Hormuz tail risk; WTI elevated (~$92–95)
+3. **XLF Finance** — Relative stability vs tech today
+
+Bottom: XLV Healthcare, XLK intraday drag
+
+### Candidate Scoring (20-symbol universe)
+| Ticker | Score | Status |
+|--------|-------|--------|
+| All | — | NO TRADES — market red -1.62%; AI sector under bubble-fear pressure; PPI tomorrow |
+
+### Position Monitoring
+- **AAPL:** $291.45 (+5.45% unrealized). Stop $285.66 (HWM $317.40). Buffer $5.79 / 2.0% — WATCH (market down). Tighten trail to 7% at $317.84 (+15%).
+- **NVDA:** $201.65 (-5.59% unrealized). Stop $192.59. -7% cut trigger: $198.64. Currently $3.01 above cut trigger. Up +0.61% vs yesterday. Oracle-driven AI selloff weighing on thesis; monitor intraday.
+  - **Thesis check:** Oracle miss raises AI ROI concerns (NVDA is an Oracle supplier). However, Oracle's over-leverage issue ≠ total GPU demand collapse; NVDA BofA upgrade/buyback thesis partially intact. Do NOT manually cut above $198.64; let stop manage downside.
+
+### Decision
+**NO TRADES — HOLD**
+- Market red (-1.62%); AI bubble fears; Oracle -14% dragging sector
+- PPI Thursday Jun 12 — major macro; no entry before data clears
+- 3 buy slots and $84K cash available for Friday/next week if market stabilizes
+- Preferred next entries (post-PPI): JPM/GS (Finance sector, non-tech diversification); any NVDA recovery setup if AI fear fades
+
+*Sources: tradingeconomics.com (SPX -1.62%), investing.com/news (NVDA/AI stocks fall after Oracle), marketwatch.com (Oracle AI bubble fears), cnn.com/markets/stocks/NVDA (news feed), Alpaca account/positions/quotes*
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
