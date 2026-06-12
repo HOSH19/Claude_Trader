@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-12 (Day 35, Friday — Midday Scan)
+
+**Account snapshot:** Equity $99,735.04 | Cash $83,986.19 (84.2%) | Positions: 2 | DT count: 0
+**Session-start equity:** $99,844.02 (last_equity) | Portfolio DD: -0.11% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $291.36 | +$419.44 (+5.42%) | $285.66 | $317.40 | HOLD; HWM $317.40 just below +15% trigger $317.84 |
+| NVDA | 37 | $213.59 | $205.18 | -$311.23 (-3.94%) | $192.59 | $213.98 | HOLD; -7% cut at $198.64, current $6.54 above |
+
+### Midday Scan Results
+- DD halt: -0.11% — no halt
+- Cuts: none (NVDA -3.94%, AAPL +5.42% — both within rules)
+- Stop tighten: none (AAPL HWM $317.40 < $317.84 trigger; NVDA far from +15%)
+- Thesis: intact for both positions
+- Intraday research: skipped (no sharp moves without cause)
+- Action: ✅ All clear
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
