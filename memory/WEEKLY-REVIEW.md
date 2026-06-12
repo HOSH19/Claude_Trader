@@ -238,6 +238,69 @@ Template for each entry:
 
 ---
 
+## Week ending 2026-06-12
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,330.81 (Jun 05 close) |
+| Ending portfolio | $99,737.75 |
+| Week return | -$593.06 (-0.59%) |
+| S&P 500 week | -0.58% (7,461→7,417.93) |
+| Bot vs S&P | -0.01% |
+| Trades | 1 (W:0 / L:1 / open:2) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | AAPL +5.38% unrealized (open) |
+| Worst trade | META -$262 (-1.40%) |
+| Profit factor | 0 (no winners) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| META | $598.88 (13 sh) | $578.70 | -$262 (-1.40%) | Trailing stop auto-triggered Jun 10; HWM $643.00, stop $578.70; 4th consecutive XLK stop-out |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $291.24 | +$416.08 (+5.38%) | $285.66 (10% trail, HWM $317.40) ⚠️ 1.9% above stop |
+| NVDA | $213.59 (37 sh) | $205.32 | -$306.05 (-3.87%) | $192.59 (10% trail, HWM $213.98) |
+
+### What Worked
+- META trailing stop executed correctly at $578.70 — automated, no manual intervention
+- NVDA rebounded +2.14% Thursday (Jun 11) preventing the -7% manual cut at $198.64 from triggering
+- No new buys despite pressure — correct given tech sector weakness and AAPL/META stop risk at week start
+- Phase P&L loss contained: -$593 this week vs -$2,584 loss last week (smaller absolute damage)
+- Slightly matched S&P performance (-0.59% vs S&P -0.58%); no significant relative underperformance
+
+### What Didn't Work
+- META: 4th consecutive XLK stop-out (GOOGL→AVGO→MSFT→META); strategy rule "exit sector after 2 consecutive fails" violated again — AAPL and NVDA still held in same sector
+- Phase P&L turned negative for first time since inception: -$262.25 (-0.26%) — psychological threshold crossed
+- Deployment collapsed to 15.8% — record low, 7th consecutive week below 80% target; $84K idle
+- AAPL approaching stop: HWM $317.40, current $291.24 = -8.2% from HWM, only 1.9% above stop $285.66; 5th stop-out possible Monday
+- 0 new positions opened all week: 3 buy slots unused, MSFT scored 8/10 on Jun 08 but no execution
+
+### Key Lessons
+- "Exit sector after 2 consecutive failed trades" rule has been violated for 6+ weeks; GOOGL + AVGO were 2 consecutive XLK losses — should have prompted exit of remaining XLK positions; held AAPL and NVDA in violation; rule must be enforced next week
+- AAPL (the portfolio's best performer) is now dangerously close to its trailing stop (1.9% buffer); holding ≥+5% unrealized gain that could disappear in a single down session — let the stop work, do not move it
+- With phase P&L negative and 15.8% deployment, any recovery requires both deploying aggressively AND the market cooperating; paralysis is compounding the underperformance
+- The bot is 7 weeks in with -0.26% cumulative return while S&P is up ~-5% YTD from Jun 05 (7,461 vs ~7,862 at year start) — the benchmark gap is widening; chronic underdeployment is the root cause
+- NVDA re-entry (Jun 05) has not recovered; at -3.87% unrealized with limited thesis momentum; should not add to position; cut at -7% ($198.64) is the hard rule
+
+### Adjustments for Next Week
+- **Sector rule enforcement**: 4 consecutive XLK stop-outs = clear sector failure signal; if AAPL stops out, do NOT immediately re-enter tech; scout JPM (XLF) or XOM/CVX (XLE) for diversification
+- **AAPL**: Stop at $285.66 (1.9% buffer); let auto-execute if triggered Monday; do NOT move stop; if stopped, accept and reallocate to non-tech
+- **NVDA**: -3.87% unrealized, stop $192.59 (6.2% cushion); -7% manual cut at $198.64; thesis intact but marginal; no new adds
+- **Deploy aggressively into non-tech**: 3 buy slots, $84K cash — must open 2 positions by Wednesday; JPM (XLF sector diversifier, scored 8-9/10 multiple sessions), XOM (energy hedge) are highest-priority non-tech candidates
+- **NFP/FOMC Fridays**: continue avoiding new entries on macro event Fridays; use Monday follow-through instead
+- **Target**: 45-55% deployed by EOW — from 15.8%; requires 3+ new positions; no more patience paralysis
+
+### Overall Grade: D
+
+---
+
 ## Week ending 2026-06-05
 
 ### Stats
