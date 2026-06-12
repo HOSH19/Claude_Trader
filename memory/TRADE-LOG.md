@@ -429,6 +429,18 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jun 12 — EOD Snapshot (Day 35, Friday)
+**Portfolio:** $99,735.94 | **Cash:** $83,986.19 (84.2%) | **Day P&L:** -$108.08 (-0.11%) | **Phase P&L:** -$264.06 (-0.26%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $291.40 | -1.43% | +$420.56 (+5.44%) | $285.66 |
+| NVDA | 37 | $213.59 | $205.15 | +0.14% | -$312.35 (-3.95%) | $192.59 |
+
+**Notes:** Day 35 EOD (Friday). Quiet end to a rough week — AAPL slipped -1.43% to $291.40 (+5.44% unrealized, HWM $317.40, stop $285.66) with only ~2.0% cushion above trailing stop; stop-out risk HIGH into Monday open. NVDA ticked up slightly +0.14% to $205.15 (-3.95% unrealized, stop $192.59, HWM $213.98), 6.1% above stop — safer but still underwater. No trades this entire week (0/3 buy slots used). Phase P&L -$264.06 (-0.26%); deployment 15.8% vs 80% target. Heading into the weekend with $83,986 cash and 3 buy slots — Monday pre-market must identify 2-3 high-conviction non-tech setups (Finance JPM/GS, Energy XOM/CVX) before AAPL stop potentially triggers. Watch AAPL closely at open.
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
