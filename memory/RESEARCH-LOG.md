@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-12 (Day 35, Friday — Midday Scan)
+
+**Account snapshot:** Equity $99,735.04 | Cash $83,986.19 (84.2%) | Positions: 2 | DT count: 0
+**Session-start equity:** $99,844.02 (last_equity) | Portfolio DD: -0.11% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $291.36 | +$419.44 (+5.42%) | $285.66 | $317.40 | HOLD; HWM $317.40 just below +15% trigger $317.84 |
+| NVDA | 37 | $213.59 | $205.18 | -$311.23 (-3.94%) | $192.59 | $213.98 | HOLD; -7% cut at $198.64, current $6.54 above |
+
+### Midday Scan Results
+- DD halt: -0.11% — no halt
+- Cuts: none (NVDA -3.94%, AAPL +5.42% — both within rules)
+- Stop tighten: none (AAPL HWM $317.40 < $317.84 trigger; NVDA far from +15%)
+- Thesis: intact for both positions
+- Intraday research: skipped (no sharp moves without cause)
+- Action: ✅ All clear
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
@@ -10,7 +31,7 @@
 
 ### Open Positions (premarket)
 | Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
-|--------|--------|-------|---------|------------|------|-----|--------|
+|--------|--------|-------|---------|------------|------|-----|---------|
 | AAPL | 28 | $276.38 | $307.65 | +$875.56 (+11.3%) | $285.24 | $316.93 | HOLD; approaching +15% trigger (~$317.84) |
 | META | 13 | $598.88 | $592.20 | -$86.89 (-1.1%) | $578.70 | $643.00 | WATCH — only 2.3% above stop; thesis weakening (AI delays) |
 | NVDA | 37 | $213.59 | $208.51 | -$188.14 (-2.4%) | $192.59 | $213.98 | HOLD; +$80B buyback/dividend catalyst; 7.7% above stop |
@@ -381,7 +402,7 @@ None evaluated today — midday scan only.
 
 ### Open Positions (premarket)
 | Ticker | Entry | Current | Unrealized | Stop (HWM) | Notes |
-|--------|-------|---------|------------|------------|-------|
+|--------|-------|---------|------------|------------|---------|
 | AAPL | $276.38 | $309.69 | +12.05% | $283.46 (HWM $314.96) | Near +15% tighten at $317.84 |
 | AVGO | $416.89 | $458.42 | +9.96% | $403.99 (HWM $448.88→$458.42) | **EARNINGS JUNE 3 AH** |
 | GOOGL | $389.84 | $377.37 | -3.20% | $354.49 (HWM $393.88) | Watch cut at $362.35 |
@@ -631,7 +652,7 @@ Bars data unavailable (Alpaca data endpoint returned null pre-market); technical
 **CONDITIONAL TRADE: NVDA (execute at market-open routine if conditions met)**
 - If SPX ≥ 0% and NVDA > $207 at 9:45am → BUY NVDA market order (38 shares, ~$7,980)
 - If either condition fails → HOLD; reassess at midday
-- Rationale: AVGO chip selloff is near-term headwind; NVDA fundamentals diverge (GPU demand, PC TAM, BofA top pick); only enter on market confirmation
+- Rationale: AVBO chip selloff is near-term headwind; NVDA fundamentals diverge (GPU demand, PC TAM, BofA top pick); only enter on market confirmation
 - After AVGO exit: 3 positions, $76K+ cash, 3 buy slots — NVDA is highest-conviction new entry
 - Sources: heygotrade.com, cnbc.com/2026/05/30, finance.yahoo.com (AVGO earnings), marketcameleon.com (TSM premarket), investing.com (MSFT premarket), ycharts.com (VIX), wsj.com (SPX futures)
 
@@ -765,4 +786,4 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - NVDA conditional: if NFP ≥ +80K AND SPX ≥ 0% AND NVDA > $210 at 10:00 AM → execute market-open NVDA buy at 10:00 AM
 - Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
 - AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
-- Sources: markets.businessinsider.com (SPX futures), xtb.com/cy (NFP calendar), bls.gov, ycharts.com (VIX), oilprice.com, heygotrade.com (NVDA upgrades), robinhood.com/NVDA (insider sale), totalrealreturns.com (sector ETFs), marketwatch.com/META (pre-market), cnbc.com/2026/05/29 (weekly outlook)
+- Sources: xtb.com/cy (NFP forecast), bls.gov (jobs data), markets.businessinsider.com (SPX futs), ycharts.com (VIX), oilprice.com (WTI/Brent), youtube.com/@TheETFTracker (sector ETFs), totalrealreturns.com (XLK YTD), cnbc.com/2026/05/29 (weekly outlook)
