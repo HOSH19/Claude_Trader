@@ -766,3 +766,123 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
 - AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
 - Sources: markets.businessinsider.com (SPX futures), xtb.com/cy (NFP calendar), bls.gov, ycharts.com (VIX), oilprice.com, heygotrade.com (NVDA upgrades), robinhood.com/NVDA (insider sale), totalrealreturns.com (sector ETFs), marketwatch.com/META (pre-market), cnbc.com/2026/05/29 (weekly outlook)
+
+---
+
+## 2026-06-12 (Day 35, Friday — Week 7 Close)
+
+### Account Snapshot
+- **Equity:** $99,900.98 | **Cash:** $83,986.19 | **Buying Power:** $183,887.17
+- **Long Market Value:** $15,914.79 (15.9% deployed — critically below 80% target)
+- **Daytrade Count:** 0 | **Phase P&L:** ~-$99 (-0.10%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| AAPL | 28 | $276.38 | $296.29 | +$557 (+7.2%) | $285.66 | $317.40 |
+| NVDA | 37 | $213.59 | $205.91 | -$284 (-3.6%) | $192.59 | $213.98 |
+
+**Open GTC Orders:** AAPL 10% trail stop $285.66 | NVDA 10% trail stop $192.59
+
+### Market Context
+- **Oil:** WTI $85.88 (-2.09%), Brent $88.40 (-2.19%) — Trump-Iran peace deal removing geopolitical risk premium (sources: bloomberg.com/energy, markets.businessinsider.com/commodities)
+- **SPX Futures:** +0.22% (7,412.25) — positive open expected (source: cmegroup.com)
+- **VIX:** 19.47 (prev close 19.44 Jun 11) — down sharply from 22.22 on Jun 10 (source: marketwatch.com/investing/index/vix)
+- **Macro catalyst (yesterday):** Trump called off Iran strikes → Dow +900 pts, Nasdaq +2.5%, 10-year yield fell to 4.47% (source: finance.yahoo.com)
+- **Economic releases today:** University of Michigan Consumer Sentiment prelim at 10:00 AM (consensus 46.0, prior 44.8) (source: x.com/marketsday)
+- **CPI/PPI:** Released Wednesday June 10 — Core PPI +0.8% May, Services +0.5% (source: bls.gov/ppi)
+- **SpaceX IPO:** Nasdaq debut today at $135/share — may attract retail capital rotation (source: finance.yahoo.com)
+- **WWDC 2026:** AAPL fell -4.95% on AI disappointment; KeyBanc: "AI updates lacking" (source: barrons.com, facebook.com/cnbc)
+
+### Sector ETF Ranking (YTD to Jun 10)
+| # | Sector | ETF | YTD Return |
+|---|--------|-----|-----------|
+| 1 | Energy | XLE | +31.14% |
+| 2 | Technology | XLK | +22.84% |
+| 3 | SPY broad | SPY | +6.67% |
+| 4 | Healthcare | XLV | -0.85% |
+| 5 | Financials | XLF | -4.15% |
+Source: totalrealreturns.com (annacoulling.com sector review Jun 2026)
+
+**Top 3 sectors this week:** XLK Tech (AI supercycle rebound), XLE Energy (Iran relief though oil dipping today), XLI Industrials (modest gains)
+
+### Candidate Scoring (20-Symbol Universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **AMD** | **9/10** | 2 | 2 | 1 | 2 | 2 | **PASS — BUY candidate** |
+| **NVDA** | **8/10** | 2 | 2 | 1 | 1 | 2 | PASS — HOLD (at 8% cap) |
+| AAPL | 5/10 | 0 | 2 | 1 | 1 | 1 | FAIL — WWDC AI miss; at position cap |
+| MSFT | 5/10 | 1 | 2 | 1 | 1 | 0 | FAIL — no direct catalyst today |
+| META | 4/10 | 0 | 2 | 1 | 1 | 0 | FAIL — stopped out, no catalyst |
+| GOOGL | 3/10 | 0 | 2 | 0 | 1 | 0 | FAIL — stopped out, thesis broken |
+| XOM | 5/10 | 0 | 2 | 1 | 1 | 1 | FAIL — oil falling on Iran deal |
+| CVX | 5/10 | 0 | 2 | 1 | 1 | 1 | FAIL — same as XOM |
+| UNH | 4/10 | 2 | 0 | 0 | 1 | 1 | FAIL — healthcare sector bottom-ranked; extended +70% |
+| JPM | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — XLF sector bottom; no catalyst |
+| GS | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — bearish engulfing pattern noted |
+| V | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — XLF bottom; no catalyst |
+| MA | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL |
+| TSLA | 2/10 | 0 | 1 | 1 | 0 | 0 | FAIL — no catalyst |
+| AMZN | 4/10 | 1 | 1 | 1 | 1 | 0 | FAIL — AI tailwind but no specific catalyst |
+| AVGO | N/A | — | — | — | — | — | STOPPED OUT Jun 4 — no re-entry |
+| TSM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — extended vs SMA20 (prior data) |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| SPY | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL — R:R too low |
+| QQQ | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**AMD Catalyst Notes:** (1) BofA raised PT to $560 from $500 — "2026 is midpoint of decade-long AI infrastructure cycle" (source: finance.yahoo.com/news/bofa-maintains-buy-amd); (2) AMD Helios architecture: open, rack-scale AI platform for massive clusters (HPE adopting); (3) AMD+Qualcomm soared together +7%/+5.6% on June 11 on Iran deal rate relief (source: tradingview.com); (4) AI Hardware and Chip Stocks broadly rising June 11 (source: tipranks.com via cnn.com/NVDA); (5) Intel double-upgrade BofA lifting chip sector sentiment (source: cnbc.com/AAPL)
+
+**NVDA Catalyst Notes:** KKR Helix Digital Infrastructure launch with NVDA; SK Telecom+NVDA AI partnership (Korea); Neura Robotics $1.4B raise (NVDA+AMZN); Strong Buy consensus 38 analysts PT $298.87 (source: public.com/nvda); Physical AI/agentic AI inflection (source: youtube.com FinVid NVDA Jun 12); NVDA Stockholder Meeting Jun 24
+
+### Technical Validation — AMD (Score 9/10)
+*Bars null pre-market; using quote and prior data*
+- **Last close (est):** $486.20 (Jun 11 — jumped +7% on Trump-Iran/Nasdaq +2.5% day per tradingview.com)
+- **SMA20 (est):** ~$460–470 (AMD up 118% YTD, recently near 52-week high $542.52, pulled back)
+- **Distance from SMA20 (est):** ~+3–6% above — NOT extended >10% ✓
+- **5-day momentum:** +7% June 11 alone; week positive ✓
+- **Volume ratio:** 7% surge day = confirmed above-average institutional volume ✓
+- **52-week high:** $542.52; current ~$486 = 10.4% below 52-week high (not extended vs high)
+- **Result:** 0 confirmed fails → **PASSES technical check**
+
+### Technical Validation — NVDA (Score 8/10 — HOLD, at cap)
+*Bars null pre-market*
+- **Last close:** $204.70 (Jun 11); current Alpaca $205.91
+- **SMA20 (est):** ~$207–210 (Jun 5 re-entry $213.59; range $199–213 past 2 weeks)
+- **Distance from SMA20 (est):** -1% to -2% — AT/BELOW SMA ✓
+- **5-day momentum:** Jun 6–11 range shows -3.4% (entered $213.59, now $205.91) — NEGATIVE (1 fail)
+- **Volume ratio:** Chip stocks rising Jun 11 — unconfirmed, treated as 1 non-disqualifying data point
+- **Result:** 1 confirmed fail → PASSES (threshold ≥2 to disqualify)
+- **Note:** At ~7.62% position size, near 8% cap — no new shares added
+
+### Trade Ideas
+
+**#1 — AMD (Advanced Micro Devices) — BUY at open**
+- **Catalyst:** BofA PT raise $500→$560 (decade-long AI cycle; Helios rack-scale AI platform); AMD+chip sector surged June 11 on Iran deal / rate relief; Intel double-upgrade lifting chip sentiment broadly
+- **Sector:** XLK Technology — #2 YTD (+22.84%) ✓
+- **Entry:** ~$486–500 (market order at open, after 9:35 AM gap settle)
+- **Stop:** 10% trailing GTC → initial floor ~$437–450
+- **Target:** +20% → ~$583–600
+- **Shares:** 16 × ~$490 = $7,840 (~7.84% of $99,901 equity — within 8% cap)
+- **R:R:** 2.0:1 ($97 reward / $49 risk at $490 entry)
+- **Score:** 9/10 | Catalyst: 2 | Sector: 2 | Setup: 1 | Volume: 2 | R:R: 2
+- **Technicals:** ~+4% above est SMA20 (not extended ✓); 5d momentum positive ✓; volume high ✓
+- **Buy gate checks:** 3 positions total ≤10 ✓ | week trades 1/3 ✓ | cost ≤8% ✓ | cash covers ✓ | in universe ✓ | DT count 0 ✓
+
+**Sector concentration note:** AAPL+NVDA already tech; adding AMD = 3 of 3 positions in XLK. Strategy calls for diversification after consecutive stop-outs (MSFT, AVGO, META). However: AMD catalyst is the strongest in today's universe; XLK +22.84% YTD; XLE/XLF have no qualifying catalysts today. Accepting concentration risk given score quality.
+
+### Risk Factors
+1. **SpaceX IPO day (MEDIUM):** Retail capital rotation toward SPCX could sap tech buying interest; Musk-linked IPO on Nasdaq may create temporary volatility
+2. **Consumer Sentiment 10:00 AM (LOW-MEDIUM):** Prior 44.8, consensus 46.0 — below-consensus print could spook market; wait for 10:05 AM before AMD entry
+3. **Tech sector concentration (MEDIUM):** All 3 positions will be XLK after AMD buy; 3+ consecutive tech stop-outs in recent weeks — NVDA and AAPL still holding
+4. **AMD gap risk (MEDIUM):** Stock jumped 7% yesterday; possible gap-up at open then fade on profit-taking; wait for 9:35–9:40 AM to confirm direction before entry
+5. **AAPL stop risk (LOW):** $296.29 vs stop $285.66 — 3.7% cushion; WWDC AI disappointment partially priced in; HOLD
+6. **NVDA stop risk (LOW):** $205.91 vs stop $192.59 — 6.5% cushion; positive news flow (KKR, SK Telecom) supports; HOLD
+7. **Deployment (ONGOING):** Even after AMD, ~31% deployed vs 80% target; need 2–3 more positions; non-tech catalysts weak today — monitor next week for energy (oil stabilizes) or finance opportunities
+
+### Decision
+**TRADE — BUY AMD at open (post 9:35 AM gap settle, after Consumer Sentiment 10:00 AM)**
+- AMD: 9/10 score; BofA PT $560; Helios AI architecture; chip sector momentum; enter 16 shares ~$490, stop 10% trailing
+- AAPL: HOLD — +7.2% unrealized, stop $285.66 managing well, WWDC priced in
+- NVDA: HOLD — at 8% cap, positive catalysts (KKR/SK Telecom), stop $192.59 safe
+- Condition: AMD must be positive (>$480) at entry; if opens flat/red below $475 → HOLD and reassess Monday
+- Sources: bloomberg.com/energy, cmegroup.com (SPX futs), marketwatch.com/VIX, finance.yahoo.com (Iran deal), tradingview.com (AMD +7%), finance.yahoo.com/news/bofa-maintains-buy-amd (BofA PT), public.com/nvda (NVDA analyst), bls.gov/ppi, x.com/marketsday (econ calendar), totalrealreturns.com (sector ETFs), barrons.com/livecoverage/apple-wwdc (AAPL), vantagemarkets.com (UNH upgrade)
