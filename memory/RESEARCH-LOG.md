@@ -2,6 +2,85 @@
 
 ---
 
+## 2026-06-12 (Day 35, Friday — Week 7 Close)
+
+**Account snapshot:** Equity $99,807.34 | Cash $83,986.19 (84.1%) | Positions: 2 | DT count: 0
+**Session-start equity:** $99,844.02 | Portfolio DD: -0.04% — no halt
+**Buy slots this week:** 0/3 used (week of Jun 9)
+
+### Open Positions (market open)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $295.40 | +$532.56 (+6.88%) | $285.66 | $317.40 | HOLD; GTC trailing stop confirmed |
+| NVDA | 37 | $213.59 | $204.01 | -$354.34 (-4.48%) | $192.59 | $213.98 | HOLD; -7% cut at $198.64 not triggered; stop buffer 5.9% |
+
+### Market Context
+- **SPX:** up +0.03%; DJIA +0.42%; NASDAQ 100 +0.37% — recovery from Wednesday's -1.62% drop
+- **VIX:** ~19.92 (elevated; range 19.77–21.38 today per Cboe)
+- **Backdrop:** "Chipmakers and AI-related stocks climb to lift broader market" (Barchart) — tech recovering
+- **Sector rotation note:** Capital flowing into Energy/Industrials/Materials in 2026 alongside tech (annacoulling.com Jun 1)
+- **NVDA:** 38 analysts Strong Buy consensus, PT $298.87 (public.com); Wedbush Dan Ives $250 base-case end-2026; inference demand inflection cited (FinVid Jun 11)
+- **MSFT:** down ~24% from highs; Azure AI revenue run rate $37B (+123% YoY); Wedbush PT $575; Forbes: "generational buying opportunity" thesis — but recent stop-out adds caution
+
+### Sector ETF Ranking
+1. **XLK Technology** — YTD #1; AI supercycle intact; recovering today
+2. **XLE Energy** — Oil elevated on geopolitical risks
+3. **XLI Industrials** — Data center buildout tailwind
+- XLF Financials: "beaten down" per Jun 2026 review despite strong Q1 earnings
+- XLV Healthcare: bottom ranked
+
+*Sources: barchart.com/futures/quotes/VI*0, annacoulling.com (Jun 1 sector review), public.com/NVDA, investsnips.com/MSFT, kalkine.co.uk (finance sector Jun 8)*
+
+### Candidate Scoring (20-symbol universe only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AAPL | — | — | — | — | — | — | Already held (+6.88%) |
+| NVDA | — | — | — | — | — | — | Already held (-4.48%); stop in place |
+| **MSFT** | **8/10** | 1 | 2 | 2 | 1 | 2 | ❌ BLOCKED — sector momentum rule (4 consecutive tech stop-outs: GOOGL Jun 02, AVGO Jun 04, MSFT Jun 04-05, META Jun 10) |
+| AMZN | 5/10 | 0 | 1 | 1 | 1 | 2 | ❌ FAIL — no specific catalyst, score <7 |
+| JPM | N/A | — | — | — | — | — | ⛔ SKIP — wide spread ($299/$332; $33+ bid-ask) |
+| GS | N/A | — | — | — | — | — | ⛔ SKIP — wide spread ($992/$1106) |
+| CVX | N/A | — | — | — | — | — | ⛔ SKIP — wide spread ($175/$186) |
+| XOM | N/A | — | — | — | — | — | ⛔ SKIP — wide spread ($146/$153) |
+| V | N/A | — | — | — | — | — | ⛔ SKIP — wide spread ($320/$336) |
+| MA | N/A | — | — | — | — | — | ⛔ SKIP — wide spread (assumed similar) |
+| AMD/TSLA/GOOGL/AVGO | ≤3/10 | — | — | — | — | — | ❌ FAIL or recently stopped out |
+| UNH/JNJ | 1/10 | 0 | 0 | — | — | — | ❌ FAIL — healthcare sector bottom ranked |
+| SPY/QQQ | ETF | — | — | — | — | — | SKIP |
+
+**MSFT catalyst notes:** Azure AI revenue $37B ARR (+123% YoY), Wedbush PT $575, Forbes "generational buying opportunity" at $384. Setup score 2 (estimated SMA20 ~$430-440; current $384 is well below). R:R: 2.0:1. However: sector momentum rule = 4 consecutive tech stop-outs blocks new tech entries.
+
+**MSFT technical validation (estimated — bars API returns 1 intraday bar only):**
+- SMA20 est: ~$430–440 (based on trajectory: $449 May 29 → $441 Jun 2 → $428 Jun 3 → ~$416 Jun 8 → $384 Jun 12)
+- Distance from SMA20: ($384 - $435) / $435 ≈ -11.7% — significantly below SMA (Setup = 2 ✓)
+- 5d mom: $416 (Jun 8) → $384 (Jun 12) ≈ -7.7% (FAIL — negative momentum, 1 check)
+- Volume ratio: bars API returned 1 partial intraday bar; cannot verify (conservative = 1)
+- Result: 1 confirmed fail → PASSES technical threshold; but BLOCKED by sector rule
+
+### Sell-Side Monitoring
+- **AAPL:** +6.88% unrealized. -7% cut at $256.83 (not threatened). +15% tighten trigger $317.84 (HWM $317.40 — monitor if prices recover). Stop $285.66 confirmed active (GTC order 7588351f).
+- **NVDA:** -4.48% unrealized. -7% manual cut at $198.64 — current $204.01 has $5.37 / 2.6% buffer. Stop $192.59 confirmed active (GTC order cc08a04d). **Watch closely** at open if weakness continues.
+
+### Risk Factors
+1. **NVDA approaching -7% cut ($198.64):** Current buffer only $5.37 (2.6%). Any continued weakness risks manual cut. Monitor intraday.
+2. **Tech sector momentum waning:** 4 consecutive stop-outs in tech; sector rotation underway per multiple sources.
+3. **Non-tech spreads too wide at open:** JPM/GS/CVX/XOM/V all have >5% bid-ask spreads — likely early-session thin liquidity; may normalize mid-session but mission-critical window has passed.
+4. **Deployment critically low:** 15.9% deployed vs 80% target. Urgently need non-tech entries when spreads normalize next week.
+5. **VIX elevated at ~20:** Market volatility still above normalized levels; patience warranted.
+6. **Friday:** Reduced liquidity; any new position would hold over weekend.
+
+### Decision
+**NO TRADE — HOLD all positions**
+- Sector momentum rule: 4 consecutive tech stop-outs → no new tech entries (MSFT blocked despite 8/10 score)
+- Non-tech candidates untradeable today (wide spreads at open)
+- AAPL and NVDA held; GTC trailing stops confirmed active
+- **Next week priority:** Scout JPM/GS (Finance) or XOM/CVX (Energy) for non-tech diversification when spreads normalize. Also re-evaluate MSFT if tech momentum rule resets with a winning trade.
+
+*Sources: barchart.com (VIX/SPX), cboe.com (VIX futures), public.com/NVDA, investsnips.com/MSFT, forbes.com/MSFT (Jun 2026), investing.com/MSFT, kalkine.co.uk (Finance Jun 8), annacoulling.com (sector ETF Jun 1 2026)*
+
+---
+
 ## 2026-06-08 (Day 31, Monday — Week 7 Open)
 
 **Account snapshot:** Equity $100,491.70 | Cash $76,464.15 (76.1%) | Positions: 3 | DT count: 0
