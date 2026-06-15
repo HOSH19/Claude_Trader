@@ -455,6 +455,18 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jun 15 — EOD Snapshot (Day 36, Monday)
+**Portfolio:** $100,117.55 | **Cash:** $68,704.43 (68.6%) | **Day P&L:** +$387.69 (+0.39%) | **Phase P&L:** +$117.55 (+0.12%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $296.20 | +1.74% | +$554.96 (+7.17%) | $285.66 |
+| JPM | 24 | $322.67 | $319.40 | -0.41% | -$78.48 (-1.01%) | $290.55 |
+| MSFT | 19 | $396.72 | $399.60 | +2.27% | +$54.72 (+0.73%) | $361.58 |
+| NVDA | 37 | $213.59 | $212.33 | +3.48% | -$46.68 (-0.59%) | $192.59 |
+
+**Notes:** Day 36 EOD (Monday). Strong session driven by the US-Iran peace deal rally. Two new entries today — MSFT (19 shares @ $396.72, Azure AI re-entry) and JPM (24 shares @ $322.67, Finance diversification) — both executed as planned. MSFT closed +2.27% to $399.60 (+0.73% unrealized, HWM $401.75, stop $361.58). JPM slipped -0.41% to $319.40 (-1.01% unrealized, HWM $322.83, stop $290.55). AAPL continued higher +1.74% to $296.20 (+7.17% unrealized, HWM $317.40, stop $285.66). NVDA bounced +3.48% to $212.33 (-0.59% unrealized, stop $192.59, HWM $213.98). Portfolio crossed back above par; Phase P&L +$117.55 (+0.12%). Deployment 31.4% — still well below 80% target. 1 buy slot remaining this week; pre-market Tuesday should scan Energy (XOM/CVX) or Finance (GS) for 3rd position to diversify from tech concentration.
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
