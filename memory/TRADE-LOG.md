@@ -364,8 +364,8 @@ No positions yet. Bot launches tomorrow.
 - Entry: $213.59
 - Stop: 10% trailing | HWM $213.25 | Current stop $191.92
 - Target: $256.31 (+20%)
-- Thesis: Re-entry at SMA support post-AVGO selloff; AVGO guidance miss redirects hyperscaler GPU spend back to NVDA; analyst upgrade cycle; NFP 85K in-line → stable macro
-- Catalyst: BofA/analyst upgrades (heygotrade.com #1 June pick); Kumo AI acquisition; AVGO custom-ASIC disappointment = NVDA GPU demand tailwind; NFP 85K met threshold (≥80K gate passed)
+- Thesis: Re-entry at SMA support post-AVGO selloff; AVBO guidance miss redirects hyperscaler GPU spend back to NVDA; analyst upgrade cycle; NFP 85K in-line → stable macro
+- Catalyst: BofA/analyst upgrades (heygotrade.com #1 June pick); Kumo AI acquisition; AVBO custom-ASIC disappointment = NVDA GPU demand tailwind; NFP 85K met threshold (≥80K gate passed)
 - Sector: Tech (XLK — #1 sector YTD)
 - R:R: 2.0:1
 - Order ID: f39a2f20 (buy) | cc08a04d (trailing stop)
@@ -381,7 +381,7 @@ No positions yet. Bot launches tomorrow.
 | META | 13 | $598.88 | $590.50 | -5.91% | -$108.99 (-1.40%) | $578.70 |
 | NVDA | 37 | $213.59 | $204.58 | -6.44% | -$333.43 (-4.22%) | $192.59 |
 
-**Notes:** Day 30 EOD (Friday). Rough finish to the week — tech sold off broadly, dragging all 3 positions lower. META -5.91% to $590.50 (stop $578.70, HWM $643.00) — only $11.80 / 2.0% above stop; stop-out risk HIGH into Monday open. NVDA entered today at $213.59 on AVGO-thesis (hyperscaler GPU demand redirect) but immediately fell -6.44% to $204.58 (-4.22% unrealized, stop $192.59, HWM $213.98); 5.9% cushion above stop. AAPL -1.27% to $307.27, holding best (+11.18% unrealized, stop $285.24, HWM $316.93). MSFT no longer in positions — likely trailing stop $419.69 triggered Jun 04/05 (no explicit stop-out entry recorded; unrealized loss was small). Phase P&L compressed to +$313.69 (+0.31%) from +$2,622 peak on Jun 03; 3 stop-outs in 2 weeks have been costly. Cash 76.2%, deployment only 23.8% vs 80% target; 2 buy slots remain for next week — urgent to identify 2 high-conviction setups for pre-market Monday.
+**Notes:** Day 30 EOD (Friday). Rough finish to the week — tech sold off broadly, dragging all 3 positions lower. META -5.91% to $590.50 (stop $578.70, HWM $643.00) — only $11.80 / 2.0% above stop; stop-out risk HIGH into Monday open. NVDA entered today at $213.59 on AVBO-thesis (hyperscaler GPU demand redirect) but immediately fell -6.44% to $204.58 (-4.22% unrealized, stop $192.59, HWM $213.98); 5.9% cushion above stop. AAPL -1.27% to $307.27, holding best (+11.18% unrealized, stop $285.24, HWM $316.93). MSFT no longer in positions — likely trailing stop $419.69 triggered Jun 04/05 (no explicit stop-out entry recorded; unrealized loss was small). Phase P&L compressed to +$313.69 (+0.31%) from +$2,622 peak on Jun 03; 3 stop-outs in 2 weeks have been costly. Cash 76.2%, deployment only 23.8% vs 80% target; 2 buy slots remain for next week — urgent to identify 2 high-conviction setups for pre-market Monday.
 
 ### Jun 09 — EOD Snapshot (Day 32, Tuesday)
 **Portfolio:** $99,939.74 | **Cash:** $76,464.15 (76.5%) | **Day P&L:** -$297.28 (-0.30%) | **Phase P&L:** -$60.26 (-0.06%)**
@@ -426,6 +426,32 @@ No positions yet. Bot launches tomorrow.
 | NVDA | 37 | $213.59 | $204.70 | +2.14% | -$328.93 (-4.16%) | $192.59 |
 
 **Notes:** Day 34 EOD (Thursday). Both positions bounced — AAPL recovered +1.49% to $295.92 (+7.07% unrealized, HWM $317.40, stop $285.66), and NVDA rebounded +2.14% to $204.70 (-4.16% unrealized, stop $192.59, HWM $213.98). NVDA now 3.1% above the -7% manual cut threshold ($198.64) and 6.3% above trailing stop ($192.59) — pressure eased but position still underwater. No trades today or this week (0/3 buy slots used). Portfolio gained +$279.81 on the day, lifting equity to $99,845.78; Phase P&L -$154.22 (-0.15%). Deployment critically low at 15.9% vs 80% target with $83,986 cash and 3 buy slots available — pre-market Friday must identify 2-3 high-conviction setups, strongly favoring non-tech sectors (Finance: JPM/GS; Energy: XOM/CVX) to diversify from tech concentration.
+
+---
+
+### 2026-06-15 — BUY MSFT
+- Shares: 19
+- Entry: $396.72
+- Stop: 10% trailing | HWM $396.24 | Current stop $356.62
+- Target: $575.00 (Wedbush PT; analyst avg ~$550+)
+- Thesis: Azure AI momentum re-entry; price well below prior HWM $466; Iran-US peace deal removes geopolitical risk premium; risk-on market environment
+- Catalyst: US-Iran peace deal confirmed Jun 14 (Strait of Hormuz reopening); Azure AI annual revenue run rate $37B (+123% YoY); Wedbush PT $575; Quantum milestone (Quantinuum); market rallying +1.3-2% on peace deal
+- Sector: Tech (XLK — #1 YTD)
+- R:R: 4.5:1 ($178 reward / $40 risk to initial stop)
+- Order ID: 12e89d97 (buy) | 1aff7887 (trailing stop)
+
+---
+
+### 2026-06-15 — BUY JPM
+- Shares: 24
+- Entry: $322.67
+- Stop: 10% trailing | HWM $322.71 | Current stop $290.44
+- Target: $387.20 (+20%)
+- Thesis: Finance sector diversification; Iran peace deal = risk-on = financials benefit; non-tech exposure reduces portfolio tech concentration; Q2 earnings setup Jul 14
+- Catalyst: US-Iran peace deal confirmed Jun 14 (risk-on catalyst for financials); Q2 EPS est $5.39 Jul 14; market geopolitical risk premium unwinding benefits financial sector
+- Sector: Finance (XLF — top 1-2 sector YTD)
+- R:R: 2.0:1 ($64.53 reward / $32.23 risk)
+- Order ID: ca94137c (buy) | 76eca6b2 (trailing stop)
 
 ---
 
