@@ -2,6 +2,80 @@
 
 ---
 
+## 2026-06-15 (Day 36, Monday — Pre-Market)
+
+**Account snapshot:** Equity $100,015.58 | Cash $68,704.43 (68.7%) | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $99,729.86 | **Portfolio DD:** +0.29% — no halt
+**Buy slots this week:** 2/3 used (MSFT + JPM today)
+
+### Market Context
+- **Iran-US Peace Deal (CONFIRMED):** Trump announced Jun 14 evening; Strait of Hormuz reopening; Dow futs +342 (+0.7%), S&P futs +0.9%, Nasdaq futs +1.4%; Asian stocks +5%+ (Tokyo, Seoul). Source: multibagg.ai, washingtonpost.com, cnbc.com/2026/06/15
+- **Oil:** WTI crashed below $81/barrel (from $95+ prior week) on Hormuz reopening; Brent ~$83-84. XLE BEARISH — avoid XOM/CVX.
+- **VIX:** Opened 19.13, declining to 17.97 (range 17.80-19.22) — risk-on. Source: investing.com, barchart.com
+- **S&P 500:** +1.29% | Nasdaq: +2.11% — strong broad rally. Source: MarketWatch
+- **Key risk:** FOMC meeting THIS WEEK (Warsh-led; first under new Chair); rate decision expected Wednesday Jun 17. Oil crash may support dovish hold. Source: Saxo Bank market-quick-take-15-june-2026
+- **Caution:** CNBC: "some investors caution Iran deal could unravel"
+
+### Sector ETF Ranking (This Week)
+1. **XLK Technology** — AI supercycle + risk-on from Iran deal; Nasdaq +2.11%
+2. **XLF Finance** — Risk-on catalyst directly benefits financials; risk premium unwinding
+3. **XLI Industrials** — Led Jun 12 bounce per MarketWatch
+4. **XLE Energy** — OIL CRASHING (-15%+ on Iran deal). AVOID XOM/CVX.
+
+### Open Positions (pre-trade)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $295.44 | +$535.92 (+6.90%) | $285.66 | $317.40 | HOLD; stop intact |
+| NVDA | 37 | $213.59 | $209.70 | -$143.99 (-1.82%) | $192.59 | $213.98 | HOLD; above -7% cut ($198.64) |
+
+### Candidate Scoring (20-symbol universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **MSFT** | **9/10** | 2 | 2 | 2 | 1 | 2 | ✅ EXECUTED — primary |
+| **JPM** | **7/10** | 2 | 2 | 1 | 1 | 1 | ✅ EXECUTED — finance diversification |
+| AVGO | 8/10 | 1 | 2 | 2 | 1 | 2 | HOLD 3rd slot — no fresh specific catalyst; recent stop-out Jun 4 |
+| AAPL | — | — | — | — | — | — | Already held (+6.90%) |
+| NVDA | — | — | — | — | — | — | Already held (-1.82%); above cut threshold |
+| AMZN | 6/10 | 1 | 1 | 1 | 1 | 2 | FAIL — no specific catalyst |
+| XOM/CVX | 1/10 | 0 | 0 | 1 | 1 | 1 | FAIL — oil crashing, sector bearish |
+| GOOGL | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — stopped out, thesis broken |
+| META | 1/10 | 0 | 1 | 0 | 0 | 0 | FAIL — stopped out |
+| TSLA | 2/10 | 1 | 1 | 0 | 0 | 1 | FAIL |
+| AMD | 3/10 | 1 | 2 | 0 | 1 | 0 | FAIL — extended above SMA |
+| TSM | 5/10 | 1 | 2 | 1 | 1 | 1 | FAIL — no specific catalyst |
+| GS/V/MA/UNH/JNJ/SPY/QQQ | <7 | — | — | — | — | — | FAIL — various |
+
+**MSFT catalyst notes:** Azure AI $37B annual revenue run rate (+123% YoY per investing.com); Wedbush PT $575; quantum milestone with Quantinuum; Iran deal = macro risk-on; price at ~$396 vs prior stop-out ~$419 = fresh entry at lower price. Source: tradingkey.com, investing.com, robinhood.com/MSFT
+**JPM catalyst notes:** US-Iran peace deal = risk-on = finance sector catalyst; Q2 EPS est $5.39, earnings Jul 14; broader market rally benefits financials. Source: perplexity.ai/finance/JPM, cnbc.com/2026/06/15
+
+### Trade Ideas Executed
+
+**#1 — BUY MSFT (Microsoft) — EXECUTED**
+- Entry: $396.72 (market) | Stop: $356.62 (10% trail, HWM $396.24) | Target: $575.00
+- Shares: 19 × $396.72 = $7,537.68 (7.54% of equity)
+- R:R: 4.5:1 | Score: 9/10
+
+**#2 — BUY JPM (JP Morgan) — EXECUTED**
+- Entry: $322.67 (market) | Stop: $290.44 (10% trail, HWM $322.71) | Target: $387.20
+- Shares: 24 × $322.67 = $7,744.08 (7.74% of equity)
+- R:R: 2.0:1 | Score: 7/10
+
+### Risk Factors
+1. **FOMC Wednesday Jun 17 (HIGH):** New Chair Warsh; first meeting. Rate decision could reverse gains. Oil crash may support dovish hold.
+2. **Iran deal fragility (MEDIUM-HIGH):** CNBC notes "some investors caution deal could unravel." If deal collapses, sharp risk-off reversal.
+3. **Tech sector 2+ consecutive failed trades (MEDIUM):** GOOGL, AVGO, MSFT, META all stopped out in May-June. MSFT re-entry is thesis-driven, not trend-chasing.
+4. **NVDA at -1.82% unrealized (MEDIUM):** Cut level $198.64 (current $209.70, buffer $11.06 / 5.3%). Monitor.
+5. **AAPL approaching +15% trigger (LOW):** HWM $317.40 vs trigger $317.84. Very close; tighten trail to 7% if HWM exceeded.
+
+### Decision
+**TRADES EXECUTED:** MSFT (19 shares) + JPM (24 shares); 2/3 weekly slots used
+**3rd slot preserved** for post-FOMC Wednesday setup or high-conviction catalyst this week
+
+*Sources: multibagg.ai (Iran deal/markets), washingtonpost.com/2026/06/14 (peace deal), cnbc.com/2026/06/15 (US stocks Iran), investing.com (VIX), barchart.com (futures), tradingkey.com (MSFT Azure), investing.com/analysis/microsoft (MSFT discount), perplexity.ai/finance/JPM (JPM earnings), Saxo Bank market-quick-take-15-june-2026 (FOMC), MarketWatch*
+
+---
+
 ## 2026-06-12 (Day 35, Friday — Midday Scan)
 
 **Account snapshot:** Equity $99,735.04 | Cash $83,986.19 (84.2%) | Positions: 2 | DT count: 0

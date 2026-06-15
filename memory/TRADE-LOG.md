@@ -429,6 +429,32 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### 2026-06-15 — BUY MSFT
+- Shares: 19
+- Entry: $396.72
+- Stop: 10% trailing | HWM $396.24 | Current stop $356.62
+- Target: $575.00 (Wedbush PT; analyst avg ~$550+)
+- Thesis: Azure AI momentum re-entry; price well below prior HWM $466; Iran-US peace deal removes geopolitical risk premium; risk-on market environment
+- Catalyst: US-Iran peace deal confirmed Jun 14 (Strait of Hormuz reopening); Azure AI annual revenue run rate $37B (+123% YoY); Wedbush PT $575; Quantum milestone (Quantinuum); market rallying +1.3-2% on peace deal
+- Sector: Tech (XLK — #1 YTD)
+- R:R: 4.5:1 ($178 reward / $40 risk to initial stop)
+- Order ID: 12e89d97 (buy) | 1aff7887 (trailing stop)
+
+---
+
+### 2026-06-15 — BUY JPM
+- Shares: 24
+- Entry: $322.67
+- Stop: 10% trailing | HWM $322.71 | Current stop $290.44
+- Target: $387.20 (+20%)
+- Thesis: Finance sector diversification; Iran peace deal = risk-on = financials benefit; non-tech exposure reduces portfolio tech concentration; Q2 earnings setup Jul 14
+- Catalyst: US-Iran peace deal confirmed Jun 14 (risk-on catalyst for financials); Q2 EPS est $5.39 Jul 14; market geopolitical risk premium unwinding benefits financial sector
+- Sector: Finance (XLF — top 1-2 sector YTD)
+- R:R: 2.0:1 ($64.53 reward / $32.23 risk)
+- Order ID: ca94137c (buy) | 76eca6b2 (trailing stop)
+
+---
+
 <!--
 Append new entries below. Two kinds of entries get added here:
 
