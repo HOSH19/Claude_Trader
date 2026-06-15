@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-06-15 — Midday Scan (Day 36, Monday)
+
+**Account snapshot:** Equity ~$100,162 | Cash ~$68,704 | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $99,729.86 | **Portfolio DD:** +0.43% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $296.56 | +$564.90 (+7.30%) | $285.66 (10% trail) | $317.40 | HOLD; +15% trigger $317.84 — HWM not yet there |
+| JPM | 24 | $322.67 | $321.13 | -$36.96 (-0.48%) | $290.55 (10% trail) | $322.83 | HOLD; first day in position; well above -7% cut ($300.08) |
+| MSFT | 19 | $396.72 | $399.43 | +$51.40 (+0.68%) | $361.58 (10% trail) | $401.75 | HOLD; +2.22% day; HWM updated; well above -7% cut ($368.95) |
+| NVDA | 37 | $213.59 | $212.37 | -$45.20 (-0.57%) | $192.59 (10% trail) | $213.98 | HOLD; +3.50% day recovery; -7% cut at $198.64 (6.5% buffer) |
+
+### Midday Scan Results
+- DD halt: +0.43% from last_equity — no halt
+- Cuts: none (all positions above -7% cut levels)
+- Stop tighten: none (no position at +15% or +20% threshold)
+- Thesis: all intact — Iran peace deal / Azure AI / risk-on thesis holding; NVDA bounce +3.50% confirms GPU demand thesis
+- Intraday research: skipped (no sharp unexplained moves)
+- Action: ✅ All clear
+
+---
+
 ## 2026-06-15 (Day 36, Monday — Pre-Market)
 
 **Account snapshot:** Equity $100,015.58 | Cash $68,704.43 (68.7%) | Positions: 4 | DT count: 0
@@ -476,7 +499,7 @@ None evaluated today — midday scan only.
 
 ### Open Positions (premarket)
 | Ticker | Entry | Current | Unrealized | Stop (HWM) | Notes |
-|--------|-------|---------|------------|------------|---------|
+|--------|-------|---------|------------|------------|-------|
 | AAPL | $276.38 | $309.69 | +12.05% | $283.46 (HWM $314.96) | Near +15% tighten at $317.84 |
 | AVGO | $416.89 | $458.42 | +9.96% | $403.99 (HWM $448.88→$458.42) | **EARNINGS JUNE 3 AH** |
 | GOOGL | $389.84 | $377.37 | -3.20% | $354.49 (HWM $393.88) | Watch cut at $362.35 |
@@ -834,7 +857,7 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 ### Trade Ideas
 
 **#1 — NVDA (Nvidia) — CONDITIONAL ENTRY (NFP-gated)**
-- Catalyst: Analyst upgrade cycle (heygotrade.com), CEO bullish investor promise (Motley Fool), Kumo AI bolt-on acquisition (TipRanks), AVGO GPU-spend redirect thesis intact
+- Catalyst: Analyst upgrade cycle (heygotrade.com), CEO bullish investor promise (Motley Fool), Kumo AI bolt-on acquisition (TipRanks), AVBO GPU-spend redirect thesis intact
 - Sector: XLK Tech — #1 week
 - **Conditions (all must pass):** (a) NFP ≥ +80K (in-line or better, prints 8:30 AM) AND (b) SPX green ≥ 0% by 10:00 AM AND (c) NVDA > $210 at 10:00 AM
 - Entry: ~$212 (market order after condition check)
