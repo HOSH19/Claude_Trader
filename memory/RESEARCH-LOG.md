@@ -2,6 +2,30 @@
 
 ---
 
+## 2026-06-16 — Midday Scan (Day 37, Tuesday)
+
+**Account snapshot:** Equity $100,212.63 | Cash $68,704.42 | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $100,125.87 | **Portfolio DD:** +0.09% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $299.17 | +$638.12 (+8.25%) | $285.66 (10% trail) | $317.40 | HOLD; below +15% trigger $317.84 |
+| JPM | 24 | $322.67 | $331.62 | +$214.68 (+2.77%) | $298.58 (10% trail) | $331.75 | HOLD; +3.82% intraday — peace deal thesis working |
+| MSFT | 19 | $396.72 | $391.95 | -$90.63 (-1.20%) | $361.58 (10% trail) | $401.75 | HOLD; -1.95% intraday (FOMC nerves); Azure AI thesis intact; cut level $368.95 |
+| NVDA | 37 | $213.59 | $208.94 | -$172.30 (-2.18%) | $192.59 (10% trail) | $213.98 | HOLD; -1.66% intraday; -7% cut at $198.64 — buffer $10.30 (4.93%); monitor |
+
+### Midday Scan Results
+- DD halt: +0.09% from session-start — no halt
+- Cuts: none (all positions above -7% cut levels)
+- Stop tighten: none (no position at +15% or +20% threshold)
+- Thesis: all intact — JPM/AAPL holding well; MSFT/NVDA soft on FOMC pre-meeting caution
+- Intraday research: skipped (FOMC nerves = obvious cause of MSFT/NVDA weakness)
+- Key risk tomorrow: FOMC rate decision (Jun 17, Warsh-led first meeting); elevated vol expected
+- Action: ✅ All clear
+
+---
+
 ## 2026-06-15 — Midday Scan (Day 36, Monday)
 
 **Account snapshot:** Equity ~$100,162 | Cash ~$68,704 | Positions: 4 | DT count: 0
