@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-06-16 — Market Open (Day 37, Tuesday)
+
+**Account snapshot:** Equity $100,001.13 | Cash $68,704.42 (68.7%) | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $100,125.87 | **Portfolio DD:** -0.12% — no halt
+**Buy slots this week:** 2/3 used (MSFT + JPM Jun 15) | 1 slot remaining
+
+### Open Positions (live)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $296.27 | +$556.92 (+7.20%) | $285.66 (10% trail) | $317.40 | HOLD; -7% cut $198.64; +15% trigger $317.84 (HWM just below) |
+| JPM | 24 | $322.67 | $325.15 | +$59.52 (+0.77%) | $293.58 (10% trail) | $326.20 | HOLD; +1.80% intraday — risk-on bid |
+| MSFT | 19 | $396.72 | $392.34 | -$83.22 (-1.10%) | $361.575 (10% trail) | $401.75 | HOLD; today -1.86%; -7% cut $368.95 (buffer $23.39) |
+| NVDA | 37 | $213.59 | $209.26 | -$160.27 (-2.03%) | $192.59 (10% trail) | $213.98 | HOLD; today -1.50%; -7% cut $198.64 (buffer $10.62) |
+
+### Market Context
+- **FOMC Meeting Jun 16-17 (CRITICAL):** Warsh's FIRST meeting as Fed Chair. Rate decision tomorrow (Jun 17). Consensus: HOLD rates (Reuters poll, Polymarket). Risk: Forbes "Fed May Remove Easing Language — Setting Up Potential 2026 Hike." Persistent inflation (energy + shelter) drives hawkish tilt risk. Source: linkedin.com, polymarket.com, forbes.com
+- **Sector bias:** Pre-FOMC → positioning uncertainty; avoid adding risk today
+- **No new catalysts today** in universe not already known from Jun 15 research
+
+### Candidate Scoring
+No new candidates scored — FOMC volatility event in 24h makes any new entry inadvisable.
+
+### Position Checks
+- **DD halt:** -0.12% from last_equity → NO halt
+- **-7% cuts:** None triggered. NVDA tightest at $10.62 buffer; monitor.
+- **Stop tightenings:** None — AAPL HWM $317.40 still just below +15% trigger $317.84
+- **Thesis check:** Iran deal + Azure AI + JPM risk-on all intact; FOMC creates temporary headwind
+
+### Decision
+**NO TRADE — preserve 3rd weekly slot for post-FOMC setup (tomorrow after 2 PM ET decision)**
+- FOMC hawkish surprise risk too high to add new exposure today
+- 1 slot + $68.7K cash available for post-FOMC high-conviction entry Thursday if decision is market-friendly
+
+*Sources: linkedin.com/investozora (FOMC Jun 16-17), polymarket.com/event/fed-decision-in-june-825 (rate hold consensus), forbes.com/simonmoore/2026/06/08 (hawkish shift risk), Alpaca live data*
+
+---
+
 ## 2026-06-15 — Midday Scan (Day 36, Monday)
 
 **Account snapshot:** Equity ~$100,162 | Cash ~$68,704 | Positions: 4 | DT count: 0
