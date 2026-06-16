@@ -127,11 +127,11 @@
 **Buy slots this week:** 3/3 available (NVDA bought last Friday Jun 05 = prior week)
 
 ### Open Positions (premarket)
-| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
-|--------|--------|-------|---------|------------|------|-----|---------|
-| AAPL | 28 | $276.38 | $307.65 | +$875.56 (+11.3%) | $285.24 | $316.93 | HOLD; approaching +15% trigger (~$317.84) |
-| META | 13 | $598.88 | $592.20 | -$86.89 (-1.1%) | $578.70 | $643.00 | WATCH — only 2.3% above stop; thesis weakening (AI delays) |
-| NVDA | 37 | $213.59 | $208.51 | -$188.14 (-2.4%) | $192.59 | $213.98 | HOLD; +$80B buyback/dividend catalyst; 7.7% above stop |
+| Ticker | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|-------|---------|------------|------|-----|-------|
+| AAPL | $276.38 | $307.65 | +11.3% | $285.24 | $316.93 | HOLD; approaching +15% trigger (~$317.84) |
+| META | $598.88 | $592.20 | -1.1% | $578.70 | $643.00 | WATCH — only 2.3% above stop; thesis weakening (AI delays) |
+| NVDA | $213.59 | $208.51 | -2.4% | $192.59 | $213.98 | HOLD; +$80B buyback/dividend catalyst; 7.7% above stop |
 
 ### Market Context
 - **Oil:** WTI ~$93.91–94.72 | Brent ~$97.07–97.63 — elevated on Iran/Israel ceasefire breakdown
@@ -473,7 +473,7 @@ None evaluated today — midday scan only.
 
 ### Risk Factors
 - **PCE at 8:30 AM (CRITICAL):** Prior 3.2%. Hot print (>3.3%) = broad selloff; tech hit hardest. Will not enter any new position before this data clears.
-- **Tech concentration:** All 4 current positions in XLK. Adding AVGO + TSM = 6/6 top positions in tech. Acceptable per sector momentum rule.
+- **Tech concentration:** All 4 current positions in XLK. Adding AVGO + TSM = 6/6 in tech. Acceptable per sector momentum rule.
 - **GOOGL thesis:** Stock near entry; -7% cut at $362.35. Weak relative performer in portfolio.
 - **MSFT thesis:** Stock near entry; -7% cut at $416.87 × 0.93 = $387.69. Monitor.
 - **AMD +21.6% above SMA:** parabolic, no entry — avoid chasing
@@ -884,3 +884,105 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - Existing positions: all above stops; MSFT has thin buffer (monitor for potential stop-out)
 - AAPL approaching +15% trigger ($317.84) — tighten trail to 7% if/when hit
 - Sources: xtb.com/cy (NFP forecast), bls.gov (jobs data), markets.businessinsider.com (SPX futs), ycharts.com (VIX), oilprice.com (WTI/Brent), youtube.com/@TheETFTracker (sector ETFs), totalrealreturns.com (XLK YTD), cnbc.com/2026/05/29 (weekly outlook)
+
+---
+
+## 2026-06-16 — Pre-Market Research (Day 37, Tuesday)
+
+**Account snapshot:** Equity $100,065.35 | Cash $68,704.42 | Positions: 4 | DT count: 0
+**Session-start equity (last_equity):** $100,125.87 | **Portfolio DD:** -0.06% — no halt
+**Week trades:** 2/3 used (MSFT + JPM bought Jun 15) | **Buy slots remaining:** 1
+
+### Open Positions (Pre-Market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $295.96 | +$548 (+7.08%) | $285.66 (10%) | $317.40 | HOLD — WWDC/Siri thesis intact |
+| JPM | 24 | $322.67 | $319.98 | -$65 (-0.83%) | $290.55 (10%) | $322.83 | HOLD — FOMC hold could benefit |
+| MSFT | 19 | $396.72 | $398.00 | +$24 (+0.32%) | $361.58 (10%) | $401.75 | HOLD — Azure AI thesis intact |
+| NVDA | 37 | $213.59 | $211.69 | -$70 (-0.89%) | $192.59 (10%) | $213.98 | HOLD — at critical support $195-$210 |
+
+### Market Context
+- **WTI:** ~$80.48-81/bbl | **Brent:** ~$82.77-83/bbl — stable, down from Jun 5 ($92-93); Strait of Hormuz fears fading (oilpriceapi.com, markets.businessinsider.com)
+- **SPX Futures:** ~$7,558 (-0.04%) vs prev close $7,561.25 — essentially flat pre-market (marketwatch.com)
+- **VIX:** ~17.68 (last confirmed Jun 12, ycharts.com) — declining from 19.44 → 22.22 → 19.44 → 17.68; calming but FOMC introduces spike risk
+- **CRITICAL: FOMC interest-rate decision 2:30 PM EDT** — Kevin Warsh's FIRST meeting as new Fed Chair; 93%+ probability of hold at 3.50%-3.75% (Polymarket/Kalshi). BUT: Forbes Jun 8 warns of formal hawkish pivot away from easing bias; markets pricing 1-2 hikes possible later 2026. Dot plot update (SEP) released simultaneously — KEY market-mover risk (forbes.com, polymarket.com)
+- **Retail Sales May at 8:30 AM**: +0.5% consensus — in-line or better = positive; miss = risk-off (marketwatch.com)
+- **Leading Indicator MoM May:** -1.77% actual vs -0.8% prior — worse than expected; mild negative for economic outlook (tradingeconomics.com)
+- **Earnings:** No universe names. WLY ($1.15 EPS expected), HITI ($0.01) — no impact on universe (x.com/marketsday)
+- **No major geopolitical triggers** — Iran-US peace deal from Jun 14 still supporting risk-on baseline; oil pricing now reflects reopened Strait of Hormuz
+
+### Sector ETF Ranking (Week of Jun 16)
+1. **XLK Technology** — #1 YTD (+11.33%+); AI supercycle intact, NVDA/AAPL/MSFT momentum (annacoulling.com, totalrealreturns.com)
+2. **XLE Energy** — Strong per Jun 1 sector review despite oil pullback; "real economy" rotation ongoing
+3. **XLI Industrials** — Positive on sector rotation to real economy
+- **XLF Financials** — Lagged in June 2026; FOMC hold may stabilize
+- **XLV Healthcare** — Bottom tier, -1.35% YTD (totalrealreturns.com)
+
+### Candidate Scoring (Universe — 20 symbols)
+*Bars null pre-market (endpoint returning null); volume scores conservative; bars estimated from news/prices*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **META** | **7/10** | 2 | 2 | 2 | 1 | 0 | **PASS (FOMC-gated)** |
+| AMZN | 6/10 | 1 | 2 | 2 | 0 | 1 | FAIL (<7) |
+| NVDA (held) | 6/10 | 2 | 2 | 1 | 0 | 1 | HOLD existing |
+| MSFT (held) | 7/10 | 2 | 2 | 2 | 0 | 1 | HOLD existing |
+| AAPL (held) | 6/10 | 2 | 2 | 1 | 0 | 1 | HOLD existing; at cap |
+| JPM (held) | 5/10 | 1 | 1 | 2 | 0 | 1 | HOLD existing |
+| GS | 3/10 | 1 | 1 | 0 | 0 | 1 | FAIL |
+| AMD | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL |
+| TSM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL (extended) |
+| XOM | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL (oil trend down) |
+| CVX | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GOOGL | 2/10 | 0 | 2 | 0 | 0 | 0 | FAIL (stopped out) |
+| TSLA | 2/10 | 0 | 2 | 0 | 0 | 0 | FAIL |
+| V | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| MA | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| UNH | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| AVGO | N/A | — | — | — | — | — | Stopped out; no re-entry |
+| SPY | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**META Catalyst notes:** "Investors reacted positively to new revenue strategies including Instagram Plus and AI cost controls" (Yahoo Finance); META +4.65% catalyst. Was stopped out Jun 10 at $578.70; current $571.68 (below prior stop). New catalyst may support re-entry. Score: Catalyst(2) Sector(2) Setup(2) Volume(1) R:R(0).
+
+### Technical Validation — META (Score 7/10)
+*Bars null pre-market; using price estimates from news sources*
+- **Current price (est):** $571.68 (Yahoo Finance Jun 16)
+- **SMA20 (est):** ~$595-610 (averaging decline from $643 HWM Jun 5 to ~$565 range Jun 11-16)
+- **Distance from SMA20:** ~-3.9% to -6.2% → BELOW SMA20 ✓ (check PASS — not extended)
+- **5-day momentum:** Jun 9 est ~$588-590 → (571.68 - 589) / 589 × 100 ≈ **-2.9% (NEGATIVE — 1 fail)**
+- **Volume ratio:** Catalyst-driven +4.65% move suggests above-average volume; est 1.5x+ avg → PASS (vol ratio check)
+- **Result:** 1 confirmed fail → PASSES technical threshold (need 2+ to disqualify)
+- **BUT:** Entry would be BELOW prior stop-out level ($578.70) — entering below our own stop signals weak structure
+
+### Trade Ideas
+
+**#1 — META (Meta Platforms) — CONDITIONAL HOLD (FOMC-gated, defer to Wed morning)**
+- Catalyst: Instagram Plus + AI cost controls strategy ($571.68 → +4.65% catalyst); tech sector #1 (annacoulling.com)
+- Score: 7/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 0
+- Entry plan: ~$570-580 (post-FOMC Wednesday morning if Warsh holds neutral)
+- Stop: 10% trailing → initial floor ~$513
+- Target: Prior HWM $643 (+12.5%) → R:R = 72/57 ≈ 1.25 (BELOW 2:1 minimum — **R:R weakness**)
+- Concern: R:R scores 0 (<1.5); entry below prior stop level; FOMC hawkish tail
+- Shares (if executed): 18 × $575 = $10,350 (~10.3% — slightly over 8% cap → reduce to 14 shares × $575 = $8,050 = 8.04%)
+- **Verdict: HOLD — defer entry to post-FOMC Wednesday; do not enter on FOMC day**
+
+### Risk Factors
+1. **FOMC at 2:30 PM (CRITICAL — HIGHEST RISK):** Kevin Warsh's first FOMC meeting as new Fed Chair. 93%+ probability of hold, BUT dot plot (SEP) could show hawkish shift — fewer expected cuts or signals for rate hikes in 2026. This is the primary risk for all tech positions. Post-announcement volatility could easily move SPX ±1-2%. (polymarket.com, forbes.com)
+2. **Retail Sales May 8:30 AM (HIGH):** +0.5% consensus. Miss = risk-off open. Wait for release before any positioning.
+3. **Leading Indicator -1.77% (MEDIUM-HIGH):** Worse-than-expected economic leading index released — adds to concern about economic slowdown backdrop.
+4. **NVDA at support (MEDIUM):** $211.69 sitting just above $195-$210 critical support (MarketBeat). FOMC hawkish outcome could break support; NVDA trailing stop at $192.59. Buffer: $211.69 - $192.59 = $19.10 (9.0%). Fragile.
+5. **MSFT position (MEDIUM):** +0.32% unrealized, HWM $401.75, stop $361.58. Buffer: $398 - $361.58 = $36.42 (9.1%). FOMC-driven tech selloff risk.
+6. **Low deployment (ONGOING):** 31.4% deployed vs 80% target. Cannot responsibly deploy on FOMC day. Best opportunity is post-FOMC Wednesday if neutral/dovish outcome.
+7. **JPM below water (LOW-MEDIUM):** -0.83% unrealized. If FOMC hold is positive for financials, JPM could recover to par or above. If hawkish with higher-for-longer, bank margin pressure.
+
+### Decision
+**HOLD — FOMC day; no new entries; monitor existing positions**
+- Primary reason: Kevin Warsh's first FOMC meeting (2:30 PM EDT) — hawkish dot plot risk is dominant; new rate hike signals possible in 2026; no new buys on FOMC day
+- Secondary reason: META (only ≥7 candidate) has R:R <1.5 and entry would be below prior stop level — suboptimal setup; defer to post-FOMC Wednesday
+- Existing positions: All above stops; no action required unless retail sales data at 8:30 AM triggers unusual move
+- If FOMC hold + neutral/dovish Powell (Warsh) → strong case for META or 5th position entry Wednesday
+- NVDA watch: If FOMC hawkish, NVDA may test $192.59 trailing stop; let auto-execute; do not intervene
+- 1 buy slot remains this week — preserve for best post-FOMC opportunity
+- Sources: marketwatch.com (SPX futs, econ calendar), ycharts.com (VIX), oilpriceapi.com (WTI/Brent), polymarket.com (FOMC odds), forbes.com (Warsh/FOMC shift), yahoo.finance.com/quote/AMZN (AMZN price), yahoo.finance.com/quote/META (META price), annacoulling.com (sector ETFs), tipranks.com (NVDA Strong Buy consensus), cnbc.com (BofA top picks NVDA/AAPL)
