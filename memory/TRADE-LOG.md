@@ -401,7 +401,7 @@ No positions yet. Bot launches tomorrow.
 - Exit: ~$578.70 (10% trailing stop triggered; HWM $643.00)
 - Entry: $598.88
 - Realized P&L: ~-$262 (-1.40%)
-- Notes: META drifted below trailing stop $578.70 — stop-out confirmed (no position or GTC order remaining; cash balance +$7,522 vs yesterday). Stop absorbed losses from HWM $643.00. Sector (Tech/XLK) now 3 consecutive stop-outs (MSFT, AVGO, META).
+- Notes: META drifted below trailing stop $578.70 — stop-out confirmed (no position or GTC order remaining; cash balance +$7,522 vs yesterday). Stop absorbed losses from HWM $643.00. Sector (Tech/XLK) now 3 consecutive stop-outs (MSFT, AVBO, META).
 
 ---
 
@@ -493,3 +493,17 @@ Append new entries below. Two kinds of entries get added here:
 
 **Notes:** one-paragraph plain-english summary.
 -->
+
+---
+
+### Jun 16 — EOD Snapshot (Day 37, Tuesday)
+**Portfolio:** $100,146.05 | **Cash:** $68,704.42 (68.6%) | **Day P&L:** +$28.50 (+0.03%) | **Phase P&L:** +$146.05 (+0.15%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $299.03 | +0.88% | +$634.20 (+8.20%) | $285.66 |
+| JPM | 24 | $322.67 | $330.60 | +3.51% | +$190.32 (+2.46%) | $298.58 |
+| MSFT | 19 | $396.72 | $393.15 | -1.65% | -$67.83 (-0.90%) | $361.58 |
+| NVDA | 37 | $213.59 | $207.15 | -2.50% | -$238.35 (-3.02%) | $192.59 |
+
+**Notes:** Day 37 EOD (Tuesday). Mixed session — AAPL and JPM gained while MSFT and NVDA retreated. AAPL rose +0.88% to $299.03 (+8.20% unrealized, HWM $317.40, stop $285.66); approaching +15% tighten trigger at ~$317.84. JPM strongest performer +3.51% to $330.60 (+2.46% unrealized, HWM $331.75, stop $298.58) — Finance thesis playing out. MSFT slipped -1.65% to $393.15 (-0.90% unrealized, HWM $401.75, stop $361.58); still near breakeven. NVDA continued falling -2.50% to $207.15 (-3.02% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 is $8.51 away — monitor closely. No trades today; 2/3 weekly slots used (MSFT+JPM Monday). Portfolio net +$28.50 on day. Deployment 31.4% vs 80% target; 1 buy slot remaining this week — pre-market Wednesday scan for XOM/CVX or GS to increase deployment and diversify further from tech.
