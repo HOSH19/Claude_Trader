@@ -92,6 +92,23 @@
 - Next: Post-FOMC Thursday pre-market → if neutral/dovish, strong case for META re-entry (with better R:R setup) or energy/finance diversification
 - Sources: oilprice.com (WTI/Brent), investing.com (SPX futs), cboe.com + yahoo.finance.com (VIX), x.com/marketsday (earnings), marketwatch.com + census.gov (econ calendar), annacoulling.com (sectors), totalrealreturns.com (XLF YTD), cnbc.com + kiplinger.com + raymondjames.com (FOMC/Warsh), cnbc.com (BofA NVDA/AAPL picks), Goldman/JPM PT $280 on NVDA
 
+## 2026-06-17 — Midday Addendum (Day 38, Wednesday)
+
+**Account snapshot (midday):** Equity $100,071 | Cash $68,704 | Positions: 4 | DT count: 0
+**Portfolio DD:** -0.12% — no halt
+
+**Intraday position check:**
+| Ticker | Current | Day Chg | Unrealized | Stop | Status |
+|--------|---------|---------|------------|------|--------|
+| AAPL | $297.55 | -0.57% | +7.66% | $285.66 | OK |
+| JPM | $336.78 | +1.70% | +4.37% | $303.99 (auto-trailed from $298.58, HWM $337.77) | OK — Finance outperforming |
+| MSFT | $383.86 | -2.53% | -3.24% | $361.58 | Monitor; thesis intact but continued capex fear selloff |
+| NVDA | $206.97 | -0.22% | -3.10% | $192.59 | Stable; cut trigger $198.64 ~4% away |
+
+**Actions taken:** None — no cuts (all above -7%), no tightens (none at +15%), no thesis breaks.
+
+**FOMC context (2 PM ET today):** Decision expected HOLD; dot plot hawkish shift risk remains. Warsh press conference 2:30 PM ET. MSFT -2.53% reflecting pre-FOMC tech caution. JPM +1.70% = financials benefiting from rate-hike-signal rotation. No position changes warranted pending outcome; let GTC stops manage risk.
+
 ---
 
 ## 2026-06-15 — Midday Scan (Day 36, Monday)
@@ -1077,4 +1094,3 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - If FOMC hold + neutral/dovish Powell (Warsh) → strong case for META or 5th position entry Wednesday
 - NVDA watch: If FOMC hawkish, NVDA may test $192.59 trailing stop; let auto-execute; do not intervene
 - 1 buy slot remains this week — preserve for best post-FOMC opportunity
-- Sources: marketwatch.com (SPX futs, econ calendar), ycharts.com (VIX), oilpriceapi.com (WTI/Brent), polymarket.com (FOMC odds), forbes.com (Warsh/FOMC shift), yahoo.finance.com/quote/AMZN (AMZN price), yahoo.finance.com/quote/META (META price), annacoulling.com (sector ETFs), tipranks.com (NVDA Strong Buy consensus), cnbc.com (BofA top picks NVDA/AAPL)
