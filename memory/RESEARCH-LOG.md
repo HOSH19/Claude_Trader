@@ -2,6 +2,98 @@
 
 ---
 
+## 2026-06-17 (Day 38, Wednesday — Pre-Market)
+
+**Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
+**Session-start equity (last_equity):** $100,187.44 | **Portfolio DD:** -0.04% — no halt
+
+### Open Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Notes |
+|--------|--------|-------|---------|------------|------|-----|-------|
+| AAPL | 28 | $276.38 | $298.50 | +$619.36 (+8.00%) | $285.66 | $317.40 | +15% trigger @ $317.84 — not yet |
+| JPM | 24 | $322.67 | $330.88 | +$197.04 (+2.54%) | $298.58 | $331.75 | Finance thesis working |
+| MSFT | 19 | $396.72 | $392.11 | -$87.59 (-1.16%) | $361.58 | $401.75 | Near breakeven; Azure AI intact |
+| NVDA | 37 | $213.59 | $207.83 | -$213.18 (-2.70%) | $192.59 | $213.98 | Cut trigger $198.64; buffer 4.3% |
+
+**Weekly trade slots used:** 2/3 (MSFT + JPM on Jun 15) | **1 slot remaining**
+
+### Market Context
+- **Oil:** WTI ~$75.57 (-0.63%), Brent ~$78.25 (-0.89%) — flat to slightly down; -30% past month (Strait of Hormuz reopened) (oilprice.com, tradingeconomics.com)
+- **SPX Futures:** 7,514.50 vs prev close 7,518.50 (-0.05%) — essentially flat (investing.com)
+- **VIX:** ~16.0-16.41 (+1.30%) — slightly elevated, moderate fear (cboe.com, yahoo.finance.com)
+- **FOMC:** Kevin Warsh's first meeting Jun 16-17; decision announced TODAY ~2 PM ET — expected HOLD per CNBC Fed Survey; BUT dot plot may signal hawkish shift (50% analysts expect rate hike before end 2026) (cnbc.com, kiplinger.com, raymondjames.com)
+- **Earnings BMO:** Jabil Inc (JBL) only — not in universe; no impact
+- **Key releases 8:30 AM ET:** (1) Retail Sales May, (2) Housing Starts May 1.17M est, (3) Initial Jobless Claims — claims rose to 4.5-month high (bearish labor signal) (marketwatch.com, census.gov)
+
+### Sector ETF Ranking (week of Jun 17)
+1. **XLK Technology** — #1 YTD; AI supercycle intact (annacoulling.com)
+2. **XLE Energy** — #2 despite oil pullback; rotation continues
+3. **XLI Industrials** — #3; real-economy rotation
+- **XLF Financials** — -0.26% YTD; weakening (totalrealreturns.com)
+- **XLV Healthcare** — bottom tier; avoid
+
+### Candidate Scoring (20-symbol universe)
+*Bars null pre-market; volume scores conservative; prices from position endpoint + Tavily*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **META** | **7/10** | 2 | 2 | 2 | 1 | 0 | **PASS score — FAIL R:R; FOMC-gated** |
+| NVDA (held) | 9/10 | 2 | 2 | 2 | 1 | 2 | Already held — monitor |
+| AAPL (held) | 7/10 | 2 | 2 | 2 | 0 | 1 | Already held — HOLD |
+| MSFT (held) | 7/10 | 2 | 2 | 2 | 0 | 1 | Already held — HOLD |
+| JPM (held) | 5/10 | 1 | 1 | 2 | 0 | 1 | Already held — HOLD |
+| AMZN | 6/10 | 1 | 2 | 1 | 1 | 1 | FAIL (<7) |
+| AMD | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL |
+| GS | 3/10 | 1 | 1 | 0 | 0 | 1 | FAIL |
+| TSM | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL (extended) |
+| XOM | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL (oil -30% past month) |
+| CVX | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GOOGL | 2/10 | 0 | 2 | 0 | 0 | 0 | FAIL (stopped out) |
+| TSLA | 2/10 | 0 | 2 | 0 | 0 | 0 | FAIL |
+| V | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| MA | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| UNH | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL |
+| AVGO | N/A | — | — | — | — | — | Stopped out; no re-entry |
+| SPY | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**META notes:** Instagram Plus + AI cost controls catalyst confirmed; tech sector #1 YTD; price ~$571.68 below SMA20 est ~$580 (at/below = +2 setup). Vol est ~average (1). R:R: Entry $572, stop $515 (-10%), target $643 (HWM) = $71 reward / $57 risk = 1.25:1 → scores 0 (< 1.5). Stopped out Jun 10 @ $578.70 — re-entry below own stop level is structurally weak. (yahoo.finance.com)
+
+### Technical Validation — META (Score 7/10, bars null — estimated)
+- **Current price (est):** ~$571.68 (prior close)
+- **SMA20 (est):** ~$580 (averaging ~$560-$643 range over 20d)
+- **Dist from SMA20:** ~-1.4% → BELOW SMA ✓ PASS
+- **5d momentum:** Jun 10 est ~$588 → ($571.68-$588)/$588 × 100 = **-2.8% NEGATIVE** (1 fail)
+- **Volume ratio:** Catalyst-driven but pre-market conservative; est ~1.0× avg → borderline
+- **Outcome:** 1 confirmed fail → passes 2-fail threshold, BUT R:R = 0 (< 1.5 disqualifies)
+- **Technical verdict:** PASS fails but R:R gate blocks trade
+
+### Trade Ideas
+**No qualifying trade ideas today.**
+- META only ≥7 candidate; blocked by R:R < 1.5 AND FOMC announcement pending (2 PM ET)
+- NVDA 9/10 but already held; no additional shares warranted (position ~7.7% of equity)
+- Preserve 1 buy slot for post-FOMC Thursday if Warsh is neutral/dovish
+
+### Risk Factors
+1. **FOMC announcement ~2 PM ET (CRITICAL):** Hawkish dot plot / SEP = 50% chance per Kiplinger. Rate hike signal for 2026 = tech selloff risk. Decision will define week's tone (kiplinger.com, cnbc.com)
+2. **8:30 AM data (HIGH):** Retail Sales + Housing Starts + Jobless Claims simultaneously. Claims at 4.5-month high = weak labor = risk-off potential if retail also misses (marketwatch.com)
+3. **NVDA -2.70% unrealized, -4.3% buffer to manual cut ($198.64):** If FOMC hawkish + tech sell, NVDA vulnerable; let trailing stop auto-execute at $192.59 if hit; do NOT intervene (alpaca positions)
+4. **Low deployment (ONGOING):** 31.4% vs 80% target; best opportunity is post-FOMC Thursday with 1 slot remaining
+5. **MSFT -1.16% unrealized:** Near breakeven; hawkish FOMC = risk; HWM $401.75, stop $361.58 (9.1% buffer)
+6. **Oil continued decline (-30% past month):** Strait of Hormuz fully priced in; energy sector ETF weakening; XOM/CVX no longer candidates
+
+### Decision
+**HOLD — FOMC announcement pending; no new buys**
+- Primary: FOMC decision announced today ~2 PM ET; Warsh's first meeting; hawkish dot plot risk = no new positions
+- Secondary: Only META clears 7/10 but R:R = 0 (<1.5 minimum) AND entry below prior stop level — invalid setup
+- Existing: All 4 positions above stops and manual cut levels; no action required pre-open
+- Monitor: NVDA $207.83 (-2.70%), cut trigger $198.64 only 4.3% away — watch at open
+- Next: Post-FOMC Thursday pre-market → if neutral/dovish, strong case for META re-entry (with better R:R setup) or energy/finance diversification
+- Sources: oilprice.com (WTI/Brent), investing.com (SPX futs), cboe.com + yahoo.finance.com (VIX), x.com/marketsday (earnings), marketwatch.com + census.gov (econ calendar), annacoulling.com (sectors), totalrealreturns.com (XLF YTD), cnbc.com + kiplinger.com + raymondjames.com (FOMC/Warsh), cnbc.com (BofA NVDA/AAPL picks), Goldman/JPM PT $280 on NVDA
+
+---
+
 ## 2026-06-15 — Midday Scan (Day 36, Monday)
 
 **Account snapshot:** Equity ~$100,162 | Cash ~$68,704 | Positions: 4 | DT count: 0
@@ -558,7 +650,7 @@ None evaluated today — midday scan only.
 
 **NVDA** — ✅ 1 fail (passes ≥2-fail discard threshold)
 - Last: $211.14 | SMA20: $215.46 | Dist: -2.00% (below SMA) | 5d mom: -3.81% (**FAIL**) | Vol: 1.74x ✅
-- Interpretation: At SMA support; high volume = potential institutional accumulation. Negative 5d momentum reflects post-NVDA-stop-out consolidation. AVGO earnings (June 3) as AI chip ecosystem catalyst is the entry trigger.
+- Interpretation: At SMA support; high volume = potential institutional accumulation. Negative 5d momentum reflects post-NVDA-stop-out consolidation. AVBO earnings (June 3) as AI chip ecosystem catalyst is the entry trigger.
 
 **JPM** — ✅ 1 fail (passes ≥2-fail discard threshold)
 - Last: $299.31 | SMA20: $303.27 | Dist: -1.31% (below SMA) | 5d mom: -1.22% (**FAIL**) | Vol: 1.63x ✅
@@ -842,7 +934,7 @@ Bars data unavailable (Alpaca data endpoint returned null pre-market); technical
 | SPY | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
 | QQQ | 2/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
 
-NVDA Catalyst notes: (1) Multiple analyst upgrades: "Top 7 Stocks Wall Street Analysts Are Upgrading in June 2026" #1 pick (heygotrade.com); (2) Jensen Huang made massive promise to investors per Motley Fool; (3) Kumo AI acquisition (CNN/TipRanks); (4) AVGO custom-XPU guidance miss may redirect hyperscaler GPU spend back to NVDA; (5) Foundry capacity expansion driving Q3 expectations.
+NVDA Catalyst notes: (1) Multiple analyst upgrades: "Top 7 Stocks Wall Street Analysts Are Upgrading in June 2026" #1 pick (heygotrade.com); (2) Jensen Huang made massive promise to investors per Motley Fool; (3) Kumo AI acquisition (CNN/TipRanks); (4) AVBO custom-XPU guidance miss may redirect hyperscaler GPU spend back to NVDA; (5) Foundry capacity expansion driving Q3 expectations.
 NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robinhood.com/NVDA) — notable insider selling. NFP uncertainty today.
 
 ### Technical Validation — NVDA (Score 7/10)
