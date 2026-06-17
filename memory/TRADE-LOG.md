@@ -507,3 +507,17 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $207.15 | -2.50% | -$238.35 (-3.02%) | $192.59 |
 
 **Notes:** Day 37 EOD (Tuesday). Mixed session — AAPL and JPM gained while MSFT and NVDA retreated. AAPL rose +0.88% to $299.03 (+8.20% unrealized, HWM $317.40, stop $285.66); approaching +15% tighten trigger at ~$317.84. JPM strongest performer +3.51% to $330.60 (+2.46% unrealized, HWM $331.75, stop $298.58) — Finance thesis playing out. MSFT slipped -1.65% to $393.15 (-0.90% unrealized, HWM $401.75, stop $361.58); still near breakeven. NVDA continued falling -2.50% to $207.15 (-3.02% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 is $8.51 away — monitor closely. No trades today; 2/3 weekly slots used (MSFT+JPM Monday). Portfolio net +$28.50 on day. Deployment 31.4% vs 80% target; 1 buy slot remaining this week — pre-market Wednesday scan for XOM/CVX or GS to increase deployment and diversify further from tech.
+
+---
+
+### Jun 17 — EOD Snapshot (Day 38, Wednesday)
+**Portfolio:** $99,790.46 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** -$355.59 (-0.36%) | **Phase P&L:** -$209.54 (-0.21%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $295.97 | -1.09% | +$548.52 (+7.09%) | $285.66 |
+| JPM | 24 | $322.67 | $333.59 | +0.74% | +$262.08 (+3.38%) | $303.99 |
+| MSFT | 19 | $396.72 | $379.86 | -3.55% | -$320.34 (-4.25%) | $361.58 |
+| NVDA | 37 | $213.59 | $204.74 | -1.29% | -$327.51 (-4.14%) | $192.59 |
+
+**Notes:** Day 38 EOD (Wednesday). Down day — tech weakness broad. MSFT hit hardest at -3.55% to $379.86, now -4.25% unrealized; approaching -7% manual cut level at $368.95 (stop $361.58, HWM $401.75 — 5.0% above stop). NVDA slipped -1.29% to $204.74 (-4.14% unrealized, stop $192.59, HWM $213.98, 6.3% above stop); -7% cut trigger at $198.64 is $6.10 away. AAPL declined -1.09% to $295.97 (+7.09% unrealized, HWM $317.40, stop $285.66). JPM was the lone green position +0.74% to $333.59 (+3.38% unrealized, HWM $337.77, stop $303.99) — Finance diversification thesis holding. No trades today; week stays at 2/3 buy slots used with 1 remaining. Portfolio slipped below par to $99,790.46; Phase P&L turns negative at -$209.54 (-0.21%). Deployment 31.2% vs 80% target with $68.7K cash — pre-market Thursday must identify 1 high-conviction setup (Energy XOM/CVX strongly preferred) to use final weekly slot and begin reducing tech concentration. Monitor MSFT at open Thursday; manual cut if it breaches $368.95.
