@@ -1094,3 +1094,26 @@ NVDA Risk note: Mark A. Stevens (director) sold 1,000,000 shares on Jun 4 (robin
 - If FOMC hold + neutral/dovish Powell (Warsh) → strong case for META or 5th position entry Wednesday
 - NVDA watch: If FOMC hawkish, NVDA may test $192.59 trailing stop; let auto-execute; do not intervene
 - 1 buy slot remains this week — preserve for best post-FOMC opportunity
+
+---
+
+## 2026-06-18 — Midday Scan (Day 39, Thursday)
+
+**Account snapshot:** Equity ~$99,906 | Cash $68,704.42 | Positions: 4 | DT count: 0
+**Session-start equity (Jun 17 EOD):** $99,790.46 | **Portfolio DD:** +0.12% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $297.17 | +$582 (+7.5%) | $285.66 | $317.40 | OK |
+| JPM | 24 | $322.67 | $329.21 | +$157 (+2.0%) | $304.26 | $338.07 | OK — off -1.3% today, retracing yesterday gains |
+| MSFT | 19 | $396.72 | $379.34 | -$330 (-4.4%) | $361.58 | $401.75 | WATCH — -7% cut at $368.95, buffer $10.39 (2.7%) |
+| NVDA | 37 | $213.59 | $210.07 | -$130 (-1.6%) | $192.59 | $213.98 | OK — bouncing +2.6% post-FOMC |
+
+### Midday Scan Results
+- **DD halt:** +0.12% from session-start — no halt
+- **Cuts:** None — MSFT -4.4% (cut at -7% / $368.95; buffer $10.39), NVDA -1.6% — both above threshold
+- **Tighten stops:** None — no position at +15% or +20%
+- **Thesis:** All intact — FOMC held rates (Jun 17); NVDA recovering +2.6% post-FOMC; MSFT Azure AI thesis unbroken; JPM finance thesis holding despite today's -1.3% pullback
+- **Intraday research:** Skipped — post-FOMC recovery moves are expected; no sharp unexplained moves
+- **Action:** ✅ All clear
