@@ -521,3 +521,17 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $204.74 | -1.29% | -$327.51 (-4.14%) | $192.59 |
 
 **Notes:** Day 38 EOD (Wednesday). Down day — tech weakness broad. MSFT hit hardest at -3.55% to $379.86, now -4.25% unrealized; approaching -7% manual cut level at $368.95 (stop $361.58, HWM $401.75 — 5.0% above stop). NVDA slipped -1.29% to $204.74 (-4.14% unrealized, stop $192.59, HWM $213.98, 6.3% above stop); -7% cut trigger at $198.64 is $6.10 away. AAPL declined -1.09% to $295.97 (+7.09% unrealized, HWM $317.40, stop $285.66). JPM was the lone green position +0.74% to $333.59 (+3.38% unrealized, HWM $337.77, stop $303.99) — Finance diversification thesis holding. No trades today; week stays at 2/3 buy slots used with 1 remaining. Portfolio slipped below par to $99,790.46; Phase P&L turns negative at -$209.54 (-0.21%). Deployment 31.2% vs 80% target with $68.7K cash — pre-market Thursday must identify 1 high-conviction setup (Energy XOM/CVX strongly preferred) to use final weekly slot and begin reducing tech concentration. Monitor MSFT at open Thursday; manual cut if it breaches $368.95.
+
+---
+
+### Jun 18 — EOD Snapshot (Day 39, Thursday)
+**Portfolio:** $99,879.51 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** +$89.05 (+0.09%) | **Phase P&L:** -$120.49 (-0.12%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $298.58 | +0.89% | +$621.60 (+8.03%) | $285.66 |
+| JPM | 24 | $322.67 | $326.02 | -2.23% | +$80.40 (+1.04%) | $304.26 |
+| MSFT | 19 | $396.72 | $380.00 | +0.29% | -$317.68 (-4.21%) | $361.58 |
+| NVDA | 37 | $213.59 | $210.01 | +2.62% | -$132.52 (-1.68%) | $192.59 |
+
+**Notes:** Day 39 EOD (Thursday). Modest recovery after Wednesday's tech selloff. NVDA bounced +2.62% to $210.01 (-1.68% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 has $11.37 buffer. MSFT edged +0.29% to $380.00 (-4.21% unrealized, stop $361.58, HWM $401.75); -7% cut at $368.95 gives $11.05 cushion — still in caution zone. AAPL rose +0.89% to $298.58 (+8.03% unrealized, HWM $317.40, stop $285.66). JPM pulled back -2.23% to $326.02 (+1.04% unrealized, stop $304.26, HWM $338.07); well above stop, Finance thesis intact. No trades today; week at 2/3 slots used, 1 remaining but no high-conviction setup triggered. Portfolio near par at -$120.49 (-0.12%) Phase P&L. Deployment 31.2% vs 80% target — Friday weekly review to assess final buy slot and energy sector entry (XOM/CVX). All 4 trailing stops GTC active.
