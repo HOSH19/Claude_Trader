@@ -2,6 +2,118 @@
 
 ---
 
+## 2026-06-18 (Day 39, Thursday — Pre-Market)
+
+**Account snapshot:** Equity $99,915.30 | Cash $68,704.42 (68.8%) | Buying Power $362,208 | DT count: 0
+**Session-start equity (last_equity):** $99,765.40 | **Portfolio DD:** +0.15% — no halt
+**Weekly slots:** 2/3 used (MSFT + JPM, Jun 15) | **1 slot remaining**
+
+### Open Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Notes |
+|--------|--------|-------|---------|------------|------|-----|-------|
+| AAPL | 28 | $276.38 | $297.47 | +$590.44 (+7.63%) | $285.66 | $317.40 | WWDC mixed; Tim Cook stepping down Sep |
+| JPM | 24 | $322.67 | $334.00 | +$271.92 (+3.51%) | $303.99 | $337.77 | Finance thesis working; FOMC hold confirmed |
+| MSFT | 19 | $396.72 | $379.50 | -$327.18 (-4.34%) | $361.58 | $401.75 | ⚠️ -7% cut at $368.95 (buffer $10.55 / 2.78%); negative headlines |
+| NVDA | 37 | $213.59 | $206.90 | -$247.59 (-3.13%) | $192.59 | $213.98 | -7% cut at $198.64 (buffer $8.26 / 3.99%); Jensen catalyst today |
+
+### Market Context
+- **Oil:** WTI ~$74.84 (-2.54%) | Brent ~$77.77 (-2.24%) — oil sliding post-Hormuz; energy bearish (oilprice.com, bloomberg.com)
+- **SPX Futures:** 7,492.75 (-0.17%) — marginally negative pre-open; NQ slightly positive (barchart.com, finance.yahoo.com)
+- **VIX:** 17.14 (declining from 18.44 FOMC close Jun 17) — settling post-FOMC (marketwatch.com)
+- **FOMC (Jun 17 — CONFIRMED HOLD):** Warsh's first meeting; rate held; VIX spike to 18.44 then recovery to 17.14 confirms market digested hawkish dots but no panic (no rate hike)
+- **Jobless Claims (8:30 AM EST):** 219K actual vs 225K est — BEAT; labor market robust (tradingeconomics.com, seekingalpha.com)
+- **Philly Fed Business Conditions (12:30 PM):** 53.2 (vs prior: 11.0) — MASSIVE beat; manufacturing/business outlook surging (tradingeconomics.com)
+- **Earnings BMO:** Accenture (ACN), Kroger (KR) — no universe names (schwab.com, investing.com)
+- **NVDA catalyst:** CEO Jensen Huang announced new developments today; Tavily reports NVDA "up over 6%" (unverified vs Alpaca +1.1% pre-mkt) — watch at open (stocktitan.net, Annual Meeting Jun 24)
+- **MSFT negative news:** $3B Oracle Cloud deal fell apart over security issue; GitHub turning to Amazon for some functions; Xbox studio closures (TipRanks/CNN Jun 17)
+
+### Sector ETF Ranking (week of Jun 18)
+1. **XLK Technology** — #1 YTD; AI supercycle intact; NVDA Jensen catalyst today (annacoulling.com)
+2. **XLF Finance** — recovering; FOMC hold + jobs beat supports financials; JPM up strongly
+3. **XLI Industrials** — Philly Fed 53.2 = manufacturing boom = industrials beneficiary
+- **XLE Energy** — bearish; WTI -2.54% today (-30% past month)
+- **XLV Healthcare** — bottom tier; avoid
+
+*Sources: annacoulling.com, totalrealreturns.com (XLF -0.26% YTD)*
+
+### Candidate Scoring (20-symbol universe)
+*Bars null pre-market; volume conservative (0 = unconfirmed); prices from Alpaca positions + Tavily*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| NVDA (held) | 8/10 | 2 | 2 | 2 | 1 | 1 | HOLD — Jensen catalyst; already at 7.7% weight |
+| AAPL (held) | 7/10 | 2 | 2 | 2 | 0 | 1 | HOLD — WWDC mixed; already at 8.3% weight |
+| JPM (held) | 7/10 | 2 | 2 | 1 | 0 | 2 | HOLD — Philly Fed + FOMC hold boost; already held |
+| MSFT (held) | 5/10 | 1 | 2 | 1 | 1 | 0 | HOLD — thesis intact (Azure AI) but peripheral negatives; near -7% cut |
+| V | 6/10 | 2 | 1 | 1 | 0 | 1 | FAIL (<7) — Philly Fed catalyst valid; but XLF mid-tier (-0.26% YTD); bars unavailable |
+| MA | 6/10 | 2 | 1 | 1 | 0 | 1 | FAIL (<7) — same as V |
+| GS | 5/10 | 2 | 1 | 1 | 0 | 1 | FAIL (<7) — finance sector mid-tier; no specific GS catalyst |
+| AMZN | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL — no specific catalyst today |
+| AMD | 4/10 | 1 | 2 | 0 | 0 | 1 | FAIL — bars unavailable; prior research extended |
+| TSM | 5/10 | 1 | 2 | 1 | 0 | 2 | FAIL — no specific catalyst; bars unavailable |
+| META | 4/10 | 1 | 2 | 1 | 0 | 0 | FAIL — R:R <1.5 vs HWM $643 from ~$590 entry level |
+| GOOGL | 1/10 | 0 | 2 | 0 | 0 | 0 | FAIL — stopped out; thesis broken |
+| TSLA | 2/10 | 0 | 2 | 1 | 0 | 0 | FAIL — no catalyst |
+| AVGO | N/A | — | — | — | — | — | Stopped out Jun 4; no re-entry |
+| XOM/CVX | 2/10 | 0 | 0 | 1 | 0 | 1 | FAIL — oil -2.5% today; energy sector bearish |
+| UNH/JNJ | 1/10 | 0 | 0 | 1 | 0 | 0 | FAIL — healthcare bottom tier YTD |
+| SPY/QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+
+**V/MA notes:** Philly Fed 53.2 (Business Conditions) = commerce volume catalyst; FOMC hold supports consumer spending. But XLF -0.26% YTD = mid-tier sector (score 1 not 2). Bars unavailable = conservative setup/volume scores. Maximum achievable without confirmed technicals = 6/10. Do not advance.
+**MSFT notes:** Peripheral negatives ($3B Oracle deal = 1 contract vs $37B Azure ARR; Xbox closures = gaming not enterprise AI; GitHub Amazon routing = minor). Core thesis (Azure AI +40% YoY, Wedbush PT $575, Buy consensus $565.62) remains intact. Not a thesis break per strategy rules. Monitor -7% cut level.
+
+### Technical Validation (bars null — estimated from Alpaca positions + prior research)
+
+**NVDA** — ✅ 0 confirmed fails (PASSES)
+- Closes estimated from TRADE-LOG: Jun 9: $208.67 → Jun 10: $199.83 → Jun 11: $204.70 → Jun 15: $212.33 → Jun 16: $207.15 → Jun 17: $204.65
+- **SMA20 est:** ~$207-210 (averaging ~$200-220 range over past 20d)
+- **Distance from SMA:** ($204.65 - $208) / $208 × 100 ≈ **-1.6% → BELOW SMA ✓**
+- **5d momentum:** Jun 11 $204.70 → Jun 17 $204.65 = **~0% (flat) — not negative ✓**
+- **Volume ratio:** N/A (bars unavailable) — not counted as fail
+- **Result:** 0 confirmed fails → PASSES (but already held)
+
+**MSFT** — ⚠️ 1 confirmed fail (PASSES threshold but held position, not new entry)
+- Closes from TRADE-LOG: Jun 15: $399.60 → Jun 16: $393.15 → Jun 17: $378.91
+- **SMA20 est:** ~$420-430 (declining from $466 HWM; includes prior higher closes)
+- **Distance from SMA:** ($378.91 - $425) / $425 × 100 ≈ **-10.8% → WELL BELOW SMA** (at/below = setup 2 if new entry, but deep below warns of downtrend)
+- **5d momentum:** Jun 15 $399.60 → Jun 17 $378.91 = **-5.2% NEGATIVE — 1 fail**
+- **Result:** 1 fail → passes threshold; but no new entry warranted (already held + downtrend)
+
+**AAPL** — ✅ 0 confirmed fails
+- Recent closes: Jun 11: $295.92 → Jun 15: $296.20 → Jun 16: $299.03 → Jun 17: $295.97
+- **SMA20 est:** ~$303-307 (averaging May-Jun closes of $295-$315 range)
+- **Distance from SMA:** ($295.97 - $305) / $305 × 100 ≈ **-3.0% → BELOW SMA ✓**
+- **5d momentum:** Jun 11 $295.92 → Jun 17 $295.97 = **~0% (flat) ✓**
+- **Result:** 0 fails → PASSES (but already held at 8.3% weight; at cap)
+
+### Trade Ideas
+**No qualifying trade ideas today.**
+- No candidates score ≥7 for new entry
+- V and MA are closest at 6/10 but blocked by mid-tier sector (XLF) + unconfirmed technicals
+- NVDA (8/10), AAPL (7/10), JPM (7/10) all already held
+- MSFT (5/10) held with elevated attention; peripheral negatives do not break Azure AI thesis
+- **1 remaining slot preserved for Monday** (week resets, 3 fresh slots; better setup confirmation)
+
+### Risk Factors
+1. **MSFT -4.34% unrealized (HIGH):** -7% manual cut at $368.95, buffer only $10.55 (2.78%). Oracle deal, GitHub/Amazon, Xbox closures are peripheral but sentiment negative. Watch at open. (TipRanks/CNN Jun 17)
+2. **NVDA -3.13% unrealized (MEDIUM-HIGH):** -7% cut at $198.64 ($8.26 / 3.99% buffer). Stop $192.59. Annual Meeting Jun 24 + Jensen catalyst today = positive for thesis.
+3. **SPX futures -0.17% (LOW):** Mixed pre-open; jobs data beat should support recovery.
+4. **Oil -2.5% today (LOW):** Not in universe; but macro indicator of economic slowdown risk if sustained.
+5. **Deployment gap (ONGOING):** 31.2% deployed vs 80% target; critically low. 1 slot this week, 3 next week.
+6. **AAPL CEO transition (MEDIUM):** Tim Cook steps down Sep 2026 per CNBC Jun 8. Thesis shift risk for AAPL long-term; holding with trailing stop protection.
+
+### Decision
+**HOLD — no new buys today**
+- No candidates score ≥7 for new entry; V/MA closest at 6/10 but sector rank (XLF mid-tier) and missing bars data block advancement
+- Preserve final weekly slot for Monday (3 fresh slots + better data)
+- MSFT: HOLD — peripheral negatives do not break Azure AI core thesis; stop at $361.58 provides protection; monitor -7% cut level $368.95 at open
+- NVDA: HOLD — Jensen catalyst today; Annual Meeting Jun 24 upcoming; above -7% cut level
+- AAPL: HOLD — at 8.3% weight (near cap); WWDC Siri AI mixed but Apple Intelligence long-term thesis intact
+- JPM: HOLD — strongest position; FOMC hold + Philly Fed boom = Finance tailwind; HWM $337.77
+- Sources: oilprice.com/bloomberg.com (WTI/Brent), finance.yahoo.com/barchart.com (SPX futs), marketwatch.com (VIX), tradingeconomics.com/seekingalpha.com (Philly Fed/Jobless Claims), schwab.com (earnings cal), TipRanks/CNN (MSFT news), stocktitan.net (NVDA), cnbc.com/Jun 8 (AAPL WWDC), forbes.com (MSFT/NVDA outlook), public.com (MSFT analyst consensus $565.62)
+
+---
+
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)
 
 **Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
