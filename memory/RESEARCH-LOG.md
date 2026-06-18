@@ -2,6 +2,63 @@
 
 ---
 
+## 2026-06-18 (Day 39, Thursday — Inline Pre-Market)
+
+**Account snapshot:** Equity $99,905.33 | Cash $68,704.42 (68.8%) | Buying Power ~$84K | DT count: 0
+**Session-start equity (last_equity):** $99,765.40 | **Portfolio DD:** +0.14% — no halt
+**Weekly trades:** 2/3 used (MSFT + JPM, Jun 15) | 1 slot remaining
+
+### FOMC Outcome (Jun 17)
+- Fed HELD 3.50-3.75% (expected)
+- Dot plot HAWKISH: median flipped from cut to hike; 9/18 members signal year-end hike; 17/18 see inflation risks skewed up
+- Fed-funds futures: ~77% probability of hike by Dec 2026 (was 24% a month ago)
+- Warsh did NOT submit a dot (dropped forward guidance)
+- Market reaction Jun 17: Nasdaq -1.29%, S&P -1.03% post-announcement
+- Market Jun 18: S&P +0.99% NEW ATH; NVDA +2.87%; broad recovery absorbing hawkish news
+
+### Open Positions (market open)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | Notes |
+|--------|--------|-------|---------|------------|------|-------|
+| AAPL | 28 | $276.38 | $297.30 | +$585.76 (+7.57%) | $285.66 | OK |
+| JPM | 24 | $322.67 | $329.00 | +$151.92 (+1.96%) | ~$303.99 | -1.34% today; FOMC mutes financials near-term |
+| MSFT | 19 | $396.72 | $378.87 | -$339.15 (-4.50%) | $361.58 | WATCH: -7% cut at $368.95 (buffer only 2.6%) |
+| NVDA | 37 | $213.59 | $210.54 | -$112.91 (-1.43%) | $192.59 | Safe; recovering +2.87% today; -7% cut at $198.64 (buffer 5.7%) |
+
+### Candidate Scoring
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | 7/10 | 2 | 2 | 2 | 1 | 0 | FAIL — R:R<1.5; wide spread ($575/$600); entry below prior stop |
+| AAPL | — | — | — | — | — | — | Already held (at 8% cap) |
+| NVDA | — | — | — | — | — | — | Already held |
+| MSFT | — | — | — | — | — | — | Already held |
+| JPM | — | — | — | — | — | — | Already held |
+| AMZN | 5/10 | 1 | 2 | 1 | 0 | 1 | FAIL (<7); no specific catalyst |
+| All others | ≤4/10 | — | — | — | — | — | FAIL — no catalyst or stopped out |
+
+**META notes:** Instagram Plus + AI cost controls catalyst intact but R:R = $643 HWM target / $575 entry / $515 stop = 1.25:1 → scores 0 (<1.5 minimum). Quote spread $575/$600 ($25 wide) = skip per halted/wide-spread rule. Entry also below prior $578.70 stop level (suboptimal structure).
+
+### Trade Ideas
+**No qualifying trade ideas today.**
+- META only ≥7 candidate; blocked by R:R<1.5 AND wide spread
+- FOMC hawkish dot plot = elevated rate-hike risk = cautious on new tech entries
+- 1 buy slot preserved for next week's high-conviction setup
+
+### Risk Factors
+1. **MSFT approaching -7% manual cut (HIGH):** $378.87 vs cut at $368.95 — only 2.6% buffer. Monitor closely. Auto-stop at $361.58 (4.6% buffer).
+2. **FOMC hawkish dot plot (MEDIUM):** 77% probability Dec hike now priced. Higher rates = headwind for growth stocks long-term. Market shrugging it off today (S&P +0.99%) but risk remains.
+3. **JPM -1.34% today (LOW-MEDIUM):** Hawkish FOMC = near-term margin uncertainty for banks. Stop at ~$303.99 (7.6% buffer — safe).
+4. **Low deployment (ONGOING):** 31.2% deployed vs 80% target. 3 fresh slots next week to close gap.
+
+### Decision
+**HOLD — no qualifying trades**
+- Only META clears 7/10 but triple-blocked: R:R<1.5, wide $25 spread, entry below prior stop
+- FOMC hawkish outcome adds uncertainty; market recovery today is positive but conviction for new entry is insufficient
+- MSFT manual cut watch: do NOT cut unless price breaches $368.95 (-7%)
+- Preserve 1 weekly buy slot for higher-conviction setup
+- *Sources: Tavily (FOMC outcome, market June 18), WSJ live coverage Jun 17, StockTitan (dot plot analysis), Binance Square (FOMC preview), Alpaca (positions/quotes)*
+
+---
+
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)
 
 **Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
