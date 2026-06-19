@@ -301,6 +301,71 @@ Template for each entry:
 
 ---
 
+## Week ending 2026-06-19
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,737.75 (Jun 12 close) |
+| Ending portfolio | $99,858.11 (Jun 18 close; Jun 19 Juneteenth holiday) |
+| Week return | +$120.36 (+0.12%) |
+| S&P 500 week | +0.9% (2nd consecutive weekly advance) |
+| Bot vs S&P | -0.78% |
+| Trades | 2 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | AAPL +7.83% unrealized |
+| Worst trade | MSFT -4.37% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $276.38 (28 sh) | $298.01 | +$605.64 (+7.83%) | $285.66 (10% trail, HWM $317.40) |
+| JPM | $322.67 (24 sh) | $325.22 | +$61.20 (+0.79%) | $304.26 (10% trail, HWM $338.07) |
+| MSFT | $396.72 (19 sh) | $379.40 | -$329.08 (-4.37%) | $361.58 (10% trail, HWM $401.75) ⚠️ caution zone |
+| NVDA | $213.59 (37 sh) | $210.69 | -$107.36 (-1.36%) | $192.59 (10% trail, HWM $213.98) |
+
+### What Worked
+- First non-tech position entered: JPM Jun 15 on Iran peace deal catalyst — Finance diversification finally achieved after 8 weeks
+- Small positive absolute return (+0.12%) — improved from -0.59% prior week
+- NVDA recovered from near -7% cut threshold; rebounded to -1.36% unrealized; China Renaissance upgrade Jun 19 confirms bullish thesis
+- AAPL holding +7.83% unrealized; GTC stop at $285.66 structure intact; approaching +15% tighten trigger
+- AMZN and META both scored 8/10 in Friday pre-market research — pipeline improving, conditional entries ready for Monday
+
+### What Didn't Work
+- 8th consecutive week below 80% deployment target: 31.2% deployed ($31,154 / $99,858); $68.7K idle
+- MSFT re-entry (-4.37%) in just 4 trading days; already in caution zone with -7% manual cut at $368.95 ($10.45 buffer); hawkish FOMC concern materialized
+- Used only 2/3 buy slots; 1 slot carried to next week (no new entries Thursday or Friday due to Juneteenth)
+- -0.78% relative underperformance vs S&P — 7th of 8 weeks with negative alpha
+- JPM analyst downgrade Jun 19 adds headwind to newest position at only +0.79% unrealized
+
+### Key Lessons
+- Finance diversification (JPM) was the right strategic move — XLK concentration was the acknowledged risk for 6+ weeks; acted on it
+- MSFT re-entry into a FOMC week was timing risk; position now negative within 4 sessions; hawkish dot-plot risk was flagged in pre-market but entry proceeded anyway — next entry should require post-FOMC clarity before initiating
+- Three-day weekend gap risk (Juneteenth) with MSFT and JPM in caution/watch zones emphasizes importance of watching Monday open carefully
+- CPI data week of Jun 22 is the next major macro gate; both AMZN and META 8/10 entries are conditional on CPI ≤ consensus — correct risk-management discipline
+- Phase P&L has been negative for 2 consecutive weeks; chronic underdeployment (avg ~28% this week vs 80% target) means even correct stock picks generate insufficient absolute return to overcome the cash drag
+
+### Adjustments for Next Week
+- **Deploy aggressively Monday**: AMZN (8/10) and META (8/10) are CPI-conditional — enter both at Monday open IF CPI ≤ 3.8%; target 50-55% deployed by EOW
+- **MSFT**: Monitor at open — -7% manual cut at $368.95 ($10.45 buffer); if CPI miss drives tech selloff, cut MSFT immediately and reallocate; do not add to losing position
+- **NVDA**: China Renaissance upgrade (PT $309.13) confirms thesis; hold, let trailing stop at $192.59 work; no action unless -7% cut ($198.64) approaches
+- **AAPL**: Approaching +15% tighten trigger ($317.84); update trailing stop to 7% trail on break above; auto-alert
+- **JPM**: Monitor analyst downgrade impact Monday open; hold above $315; Q2 earnings Jul 14 is primary catalyst — do not exit prematurely on short-term noise
+- **No entries on CPI day itself**: Enter Monday pre-CPI OR wait for post-CPI reaction; do not enter in the 30 min before/after CPI print
+
+### Overall Grade: D
+
+---
+
 ## Week ending 2026-06-05
 
 ### Stats
