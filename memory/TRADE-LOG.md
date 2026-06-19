@@ -535,3 +535,17 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $210.01 | +2.62% | -$132.52 (-1.68%) | $192.59 |
 
 **Notes:** Day 39 EOD (Thursday). Modest recovery after Wednesday's tech selloff. NVDA bounced +2.62% to $210.01 (-1.68% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 has $11.37 buffer. MSFT edged +0.29% to $380.00 (-4.21% unrealized, stop $361.58, HWM $401.75); -7% cut at $368.95 gives $11.05 cushion — still in caution zone. AAPL rose +0.89% to $298.58 (+8.03% unrealized, HWM $317.40, stop $285.66). JPM pulled back -2.23% to $326.02 (+1.04% unrealized, stop $304.26, HWM $338.07); well above stop, Finance thesis intact. No trades today; week at 2/3 slots used, 1 remaining but no high-conviction setup triggered. Portfolio near par at -$120.49 (-0.12%) Phase P&L. Deployment 31.2% vs 80% target — Friday weekly review to assess final buy slot and energy sector entry (XOM/CVX). All 4 trailing stops GTC active.
+
+---
+
+### Jun 19 — EOD Snapshot (Day 40, Friday)
+**Portfolio:** $99,858.11 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** -$21.40 (-0.02%) | **Phase P&L:** -$141.89 (-0.14%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $298.01 | -0.19% | +$605.64 (+7.83%) | $285.66 |
+| JPM | 24 | $322.67 | $325.22 | -0.25% | +$61.20 (+0.79%) | $304.26 |
+| MSFT | 19 | $396.72 | $379.40 | -0.16% | -$329.08 (-4.37%) | $361.58 |
+| NVDA | 37 | $213.59 | $210.69 | +0.32% | -$107.36 (-1.36%) | $192.59 |
+
+**Notes:** Day 40 EOD (Friday). Flat, drift-lower session across all positions; portfolio eased -$21.40 (-0.02%). NVDA was the lone gainer +0.32% to $210.69 (-1.36% unrealized, stop $192.59, HWM $213.98) — recovered off its -7% cut threshold. AAPL edged -0.19% to $298.01 (+7.83% unrealized, stop $285.66, HWM $317.40); approaching +15% tighten trigger at ~$317.84. MSFT -0.16% to $379.40 (-4.37% unrealized, stop $361.58, HWM $401.75) — still in caution zone; -7% manual cut at $368.95 gives $10.45 buffer. JPM -0.25% to $325.22 (+0.79% unrealized, stop $304.26, HWM $338.07) — Finance thesis intact. No trades today; week closed 2/3 buy slots used, 1 slot carries into next week. Phase P&L -$141.89 (-0.14%). Deployment 31.2% vs 80% target — $68.7K idle. Weekly review due; Monday pre-market must prioritize Energy (XOM/CVX) or GS entry to use rollover buy slot and reduce tech concentration. All 4 GTC trailing stops active.
