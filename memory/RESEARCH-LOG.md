@@ -235,3 +235,24 @@
 - JPM downgrade is new negative signal — monitor closely Monday open; consider manual exit if accelerates below $315
 - NVDA analyst upgrade (China Renaissance buy, consensus PT $309) is a bullish confirmation; hold current position, let trailing stop work
 - Weekly buy slot: 2/3 used this week (MSFT + JPM Jun 15). New week starts Monday — 3 fresh slots available
+
+---
+
+## 2026-06-22 — Midday Scan (Day 41, Monday)
+
+**Account snapshot:** Equity $99,801.90 | Cash $75,704.02 | Positions: 3 | DT count: 0
+**Session-start equity (Jun 19 EOD):** $99,858.11 | **Portfolio DD:** -0.06% — no halt
+
+### Open Positions (midday)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|------------|------|-----|--------|
+| AAPL | 28 | $276.38 | $299.83 | +$656.60 (+8.49%) | $285.66 | $317.40 | OK |
+| JPM | 24 | $322.67 | $331.24 | +$205.68 (+2.66%) | $304.26 | $338.07 | OK — Finance thesis holding |
+| NVDA | 37 | $213.59 | $209.44 | -$153.61 (-1.94%) | $192.59 | $213.98 | OK — buffer 8.6% to stop |
+
+### Midday Scan Results
+- **DD halt:** -0.06% from session-start — no halt
+- **Cuts:** ✅ MSFT cut — unrealized -7.13% at $368.43 (entry $396.72) — GTC stop canceled (1aff7887), market sell filled @ $368.40; realized P&L -$538.08 (-7.14%)
+- **Tighten stops:** None — AAPL +8.49% (threshold +15%); JPM +2.66%; NVDA -1.94%
+- **Thesis check:** AAPL intact; JPM intact; NVDA intact
+- **Action:** 🔴 MSFT cut per -7% rule
