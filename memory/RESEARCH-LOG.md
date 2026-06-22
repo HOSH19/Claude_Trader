@@ -2,6 +2,126 @@
 
 ---
 
+## 2026-06-22 (Day 41, Monday — Pre-Market)
+
+**Account snapshot:** Equity $99,724.30 | Cash $68,704.42 (68.8%) | BP $361,673.34 | DT count: 0
+**Session-start equity (last_equity):** $99,858.11 | **Portfolio DD:** -0.13% — no halt
+**Deployment:** $31,019.88 (31.1%) vs 80% target | Week: 0/3 buy slots used (fresh week)
+
+### Open Positions (pre-market Jun 22)
+
+| Ticker | Shares | Entry | Now | Day | Unr P&L | Stop | Alert |
+|--------|--------|-------|-----|-----|---------|------|-------|
+| AAPL | 28 | $276.38 | $294.99 | -1.01% | +$521 (+6.73%) | $285.66 | AT 8% cap — no add |
+| JPM | 24 | $322.67 | $325.28 | +0.02% | +$63 (+0.81%) | $304.26 | Morningstar: increasingly attractive |
+| MSFT | 19 | $396.72 | $378.77 | -0.17% | -$341 (-4.53%) | $361.58 | ⚠️ -7% cut at $368.95; $9.82 buffer |
+| NVDA | 37 | $213.59 | $209.64 | -0.50% | -$146 (-1.85%) | $192.59 | BofA June top pick; JPM #1 13F |
+
+### Market Context
+
+- **Oil:** WTI $75.37 | Brent $79.03 (-0.83% today) — energy downtrend continues
+- **SPX futures:** ~7,516 (flat to -0.05%; Dec 2026 contract)
+- **VIX:** ~17.0 (elevated vs. 16.40 Friday close; Jun 17 FRED: 18.44)
+- **CPI:** NOT TODAY — next CPI Jul 14. Friday's conditional-entry blocker is CLEARED.
+- **Earnings BMO:** CCL, FDS — neither in universe
+- **Economic calendar:** No major data today; labor market data later this week
+- **Nasdaq-100 rebalance (effective today):** Added CoreWeave + AI-infrastructure names — tailwind for tech sector
+- **Key news:** Amazon exploring selling custom AI chips to other companies (TipRanks); Meta $2B Manus AI deal may be reversed by China; Google loses $2B AI researcher to OpenAI; Apple/Intel chip partnership rumored; JPMorgan sold $7.6B MSFT in Q1 2026 13F
+
+### Sector ETF Ranking (this week)
+1. **XLK** (Technology) — leading; Nasdaq-100 rebalance adds AI names
+2. **XLI** (Industrials) — utilities growing earnings double-digit 2026
+3. **XLE** (Energy) — weak; oil declining daily
+
+### Candidate Scoring Table
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| AAPL (held, at cap) | N/A | — | — | — | — | — | AT 8% cap, no add |
+| MSFT (held) | 5/10 | 0 | 2 | 2 | 1 | 0 | HELD — ⚠️ caution zone |
+| GOOGL | 5/10 | 0 | 2 | 2 | 1 | 0 | FAIL — Google loses AI researcher |
+| **AMZN** | **10/10** | **2** | **2** | **2** | **2** | **2** | **PASS ✅** |
+| NVDA (held) | 9/10 | 2 | 2 | 2 | 1 | 2 | HELD — BofA top pick, let run |
+| **META** | **8/10** | **1** | **2** | **2** | **1** | **2** | **PASS ✅ (elevated risk)** |
+| TSLA | 3/10 | 0 | 1 | 1 | 1 | 0 | FAIL |
+| AMD | 4/10 | 0 | 2 | 1 | 1 | 0 | FAIL — extended SMA |
+| AVGO | 5/10 | 0 | 2 | 1 | 1 | 1 | FAIL |
+| TSM | 4/10 | 0 | 2 | 0 | 2 | 0 | FAIL — +8% above SMA |
+| JPM (held) | 5/10 | 1 | 1 | 2 | 2 | 1 | HELD — Finance weak sector |
+| GS | 4/10 | 0 | 1 | 1 | 2 | 0 | FAIL |
+| V | 5/10 | 0 | 1 | 2 | 2 | 0 | FAIL |
+| MA | 5/10 | 0 | 1 | 2 | 2 | 0 | FAIL |
+| XOM | 5/10 | 0 | 1 | 2 | 2 | 0 | FAIL — oil downtrend |
+| CVX | 5/10 | 0 | 1 | 2 | 2 | 0 | FAIL — oil downtrend |
+| UNH | 4/10 | 0 | 1 | 2 | 1 | 0 | FAIL |
+| JNJ | 5/10 | 0 | 1 | 2 | 2 | 0 | FAIL |
+| SPY | 4/10 | 0 | 1 | 2 | 1 | 0 | FAIL |
+| QQQ | 5/10 | 0 | 2 | 2 | 1 | 0 | FAIL |
+
+### Technical Validation — AMZN (Score 10/10) ⚠️ CONDITIONAL PASS
+
+- **Last known price:** ~$233.22 (Alpaca quote, Jun 18 close; bars null premarket)
+- **SMA20 estimate:** ~$249 (from Jun 19 research SMA20 $253.28, adjusted for declining prices)
+- **Dist from SMA20:** ~−6.4% → BELOW SMA → ✅ PASS
+- **5d momentum:** Bars null; est. ($233 − $244) / $244 ≈ −4.5% → NEGATIVE → ⚠️ FAIL (1 of 3)
+- **Volume ratio:** Bars null; last known 1.68× → ✅ PASS (tentative)
+- **Result:** 1 confirmed fail (5d momentum), volume unconfirmed — CONDITIONAL PASS
+- **Note:** Negative momentum driven by pre-Juneteenth drift; fresh catalyst today (custom AI chips news) may reverse. Volume to confirm at market open.
+
+### Technical Validation — META (Score 8/10) ⚠️ CONDITIONAL PASS (elevated risk)
+
+- **Last known price:** ~$545.69 (Alpaca quote, Jun 18 close; bars null premarket)
+- **SMA20 estimate:** ~$593 (from Jun 19 research SMA20 $599.48, adjusted)
+- **Dist from SMA20:** ~−8.1% → BELOW SMA → ✅ PASS
+- **5d momentum:** Est. ($545 − $577) / $577 ≈ −5.5% → NEGATIVE → ⚠️ FAIL (1 of 3)
+- **Volume ratio:** Last known 1.44× → ✅ PASS (tentative)
+- **Result:** 1 confirmed fail (5d momentum) + fresh negative catalyst (China Manus reversal) — DEFERRED
+- **Catalyst downgrade:** China potentially reversing $2B Manus AI deal + AI 'for Work' head of product departure. Reduces catalyst score from 2→1. Thesis intact at high level but near-term headline risk elevated.
+
+### Trade Ideas
+
+**#1 — AMZN — BUY (primary, enter at market open)**
+- **Catalyst:** Amazon exploring selling custom AI chips to other companies (TODAY, TipRanks) + AWS cloud AI momentum + Q2 earnings catalyst Jul 30; Nasdaq-100 AI rebalance tailwind
+- **Score:** 10/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 2 | R:R: 2
+- **Entry:** ~$233–235 at market open (limit $236 to avoid overpay on gap-up)
+- **Stop:** 10% trailing → initial floor ~$211
+- **Target:** $285+ (AWS re-acceleration + AI chip monetization upside)
+- **R:R:** ($285 − $233) / ($233 − $210) = $52 / $23 = **2.26:1** ✅
+- **Shares:** 32 × $233 = $7,456 = **7.5% of equity** — within 8% cap ✅
+- **Buy gates:** 5 positions total (≤10 ✅) | 1/3 slots ✅ | Cost ≤ 8% ✅ | Cost ≤ cash ✅ | In universe ✅ | No DD halt ✅ | DT = 0 ✅ | Catalyst documented ✅ | Stock not option ✅
+- **Technicals:** 1 fail (5d momentum); volume to confirm at open. If AMZN opens >5% above $233 (i.e., >$244), reassess R:R before entering.
+
+**#2 — META — WATCH (deferred, do NOT enter today)**
+- **China risk:** Early backers planning to buy Manus back from Meta → $2B AI investment may reverse → fresh headline risk
+- **AI exec departures:** Head of AI for Work + senior AI executive both departed Jun 21
+- **Defer:** Wait for Manus deal clarification (1–2 sessions). If deal confirmed canceled, reduce catalyst score further and do NOT enter. If reversed/clarified as not canceled, re-evaluate as 8/10 entry.
+- **Re-entry target:** $540–550, same stops/targets as prior analysis
+
+### Portfolio Monitors
+
+- **MSFT ⚠️:** At $378.77 (-4.53% unrealized). Manual -7% cut at $368.95 ($9.82 buffer = 2.59%). Watch closely at open. If breaks $373, set alert. JPM Q1 13F sold $7.6B MSFT — institutional headwind.
+- **NVDA:** At $209.64 (-1.85% unrealized). BofA top June pick. Stop $192.59. -7% cut at $198.64 ($11.00 buffer). Let trailing stop work.
+- **AAPL:** At $294.99 (+6.73%). At 8% position cap — no add. +15% tighten trigger at $317.84. Tim Cook warns of price hikes (memory chip costs "unsustainable") — mild demand headwind.
+- **JPM:** At $325.28 (+0.81%). Morningstar: "increasingly attractive at current levels" (premarket). Finance sector still weak. Stop $304.26.
+
+### Risk Factors
+
+1. **MSFT -7% cut proximity (CRITICAL):** $9.82 above manual cut level. Broad tech weakness on Monday open could trigger cut. Have plan ready.
+2. **META China Manus reversal (HIGH):** $2B deal at risk. AI leadership departures simultaneous. Thesis risk elevated; entry deferred.
+3. **AMZN 5d momentum negative (MEDIUM):** Recent drift lower. Confirm positive price action at open before sizing full position.
+4. **Labor market data later this week (MEDIUM):** Jobless claims / employment data due; could create mid-week volatility.
+5. **Underdeployment (ONGOING):** 31.1% deployed vs. 80% target. AMZN fill brings to ~38.6%. Still well below target. 2 buy slots remain this week after AMZN.
+6. **VIX elevated (~17):** Slightly above recent range; suggests caution but not panic.
+
+### Decision
+**TRADE — AMZN (buy at market open)**
+- AMZN scores 10/10, all buy gates pass, fresh AI chip catalyst today, CPI blocker cleared
+- Enter: 32 shares, limit $236 (catch open or first-minute pullback)
+- META deferred: China Manus risk needs 1–2 sessions to resolve
+- All 4 existing positions: HOLD (monitor MSFT closely)
+
+---
+
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)
 
 **Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
