@@ -549,3 +549,26 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $210.69 | +0.32% | -$107.36 (-1.36%) | $192.59 |
 
 **Notes:** Day 40 EOD (Friday). Flat, drift-lower session across all positions; portfolio eased -$21.40 (-0.02%). NVDA was the lone gainer +0.32% to $210.69 (-1.36% unrealized, stop $192.59, HWM $213.98) — recovered off its -7% cut threshold. AAPL edged -0.19% to $298.01 (+7.83% unrealized, stop $285.66, HWM $317.40); approaching +15% tighten trigger at ~$317.84. MSFT -0.16% to $379.40 (-4.37% unrealized, stop $361.58, HWM $401.75) — still in caution zone; -7% manual cut at $368.95 gives $10.45 buffer. JPM -0.25% to $325.22 (+0.79% unrealized, stop $304.26, HWM $338.07) — Finance thesis intact. No trades today; week closed 2/3 buy slots used, 1 slot carries into next week. Phase P&L -$141.89 (-0.14%). Deployment 31.2% vs 80% target — $68.7K idle. Weekly review due; Monday pre-market must prioritize Energy (XOM/CVX) or GS entry to use rollover buy slot and reduce tech concentration. All 4 GTC trailing stops active.
+
+---
+
+### 2026-06-22 — SELL MSFT (trailing stop triggered)
+- Shares: 19
+- Exit: ~$368.40 (implied from cash proceeds; GTC stop price $361.58)
+- Entry: $396.72
+- Realized P&L: ~-$538.08 (-7.13%)
+- Stop: 10% trailing | HWM $401.75 | Stop price $361.58
+- Exit reason: GTC trailing stop auto-executed intraday Monday; MSFT had been in caution zone (-4.37% unrealized heading into weekend) and breached stop during today's session
+
+---
+
+### Jun 22 — EOD Snapshot (Day 41, Monday)
+**Portfolio:** $99,714.30 | **Cash:** $75,704.02 (75.9%) | **Day P&L:** -$143.81 (-0.14%) | **Phase P&L:** -$285.70 (-0.29%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $297.25 | -0.26% | +$584.36 (+7.55%) | $285.66 |
+| JPM | 24 | $322.67 | $331.92 | +2.06% | +$221.94 (+2.87%) | $304.26 |
+| NVDA | 37 | $213.59 | $208.68 | -0.95% | -$181.63 (-2.30%) | $192.59 |
+
+**Notes:** Day 41 EOD (Monday). MSFT GTC trailing stop triggered intraday (stop $361.58, HWM $401.75) — 19 shares exited at ~$368, realized loss ~$538 (-7.1%); cash rose to $75,704. JPM standout performer +2.06% to $331.92 (+2.87% unrealized, HWM $338.07, stop $304.26) — Finance thesis intact. AAPL eased -0.26% to $297.25 (+7.55% unrealized, HWM $317.40, stop $285.66); +15% tighten trigger at $317.84 remains in sight. NVDA -0.95% to $208.68 (-2.30% unrealized, HWM $213.99, stop $192.59); manual -7% cut at $198.64 has $10.04 buffer. 3 positions remain. New week: 0/3 buy slots used; deployment collapsed to 24.1% vs 80% target with $75.7K idle. Priority Tuesday pre-market: identify 2 high-conviction entries — Energy (XOM/CVX first choice) and Finance/diversified tech to rebuild deployment and reduce concentration risk.
