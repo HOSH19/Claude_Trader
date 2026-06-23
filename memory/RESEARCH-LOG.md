@@ -341,3 +341,18 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 - NVDA cut is a priority risk-management action — NOT a new trade decision
 - 3 fresh weekly buy slots available; using slot #1 here
 - Patience > activity rule applies to low-conviction setups, not 10/10 confirmed-catalyst entries
+
+### Afternoon Addendum (Midday Scan)
+**Equity:** $99,556.15 | **DD from session-start:** -0.14% (no halt) | **Positions:** 4 open
+
+| Ticker | Current | Unrealized P&L | Stop | Status |
+|--------|---------|----------------|------|--------|
+| AAPL | $298.48 | +$618.80 (+8.0%) | $285.66 | ✅ Holding |
+| AMZN | $234.47 | +$16.77 (+0.21%) | $213.18 (HWM $236.87) | ✅ New entry executing |
+| JPM | $333.96 | +$270.96 (+3.5%) | $304.26 | ✅ Holding |
+| NVDA | $202.22 | -$420.94 (-5.33%) | $192.59 | ⚠️ WATCH: -7% cut at $198.64, buffer $3.58 |
+
+**Actions taken:** None — no -7% cuts triggered, no stops to tighten.
+**NVDA thesis check:** -3.08% intraday on broad tech sector weakness. No specific catalyst break found. NVIDIA CEO previously called tech sell-off a "buying opportunity." Annual meeting Jun 24 (tomorrow) — minor volatility risk. Thesis intact. Manual cut trigger $198.64 remains hard floor.
+**AAPL:** +15% tighten trigger at $317.84 — current $298.48, not reached.
+**Stop tightening:** No position at +15% or +20%. All 4 trailing GTC stops active.
