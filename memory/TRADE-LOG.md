@@ -549,3 +549,17 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $210.69 | +0.32% | -$107.36 (-1.36%) | $192.59 |
 
 **Notes:** Day 40 EOD (Friday). Flat, drift-lower session across all positions; portfolio eased -$21.40 (-0.02%). NVDA was the lone gainer +0.32% to $210.69 (-1.36% unrealized, stop $192.59, HWM $213.98) — recovered off its -7% cut threshold. AAPL edged -0.19% to $298.01 (+7.83% unrealized, stop $285.66, HWM $317.40); approaching +15% tighten trigger at ~$317.84. MSFT -0.16% to $379.40 (-4.37% unrealized, stop $361.58, HWM $401.75) — still in caution zone; -7% manual cut at $368.95 gives $10.45 buffer. JPM -0.25% to $325.22 (+0.79% unrealized, stop $304.26, HWM $338.07) — Finance thesis intact. No trades today; week closed 2/3 buy slots used, 1 slot carries into next week. Phase P&L -$141.89 (-0.14%). Deployment 31.2% vs 80% target — $68.7K idle. Weekly review due; Monday pre-market must prioritize Energy (XOM/CVX) or GS entry to use rollover buy slot and reduce tech concentration. All 4 GTC trailing stops active.
+
+---
+
+### 2026-06-23 — BUY AMZN
+- Shares: 34
+- Entry: $233.97
+- Stop: 10% trailing | HWM $234.22 | Current stop $210.80
+- Target: $295.00 (+26.1%)
+- Thesis: AWS Graviton5 multi-year CPU deal with Meta; AI cloud inference demand wave; Q2 earnings ~Jul 30 (AWS re-acceleration expected); price pulled back from $244 to $232 = improved entry
+- Catalyst: Confirmed AWS Graviton5/Meta multi-year deal (aol.com); CPI May 3.4% vs 3.5% est — mild macro tailwind; AI cloud capex supercycle ongoing
+- Sector: Tech (XLK — #1 YTD; AI infrastructure beneficiary)
+- R:R: 2.63:1 ($61.03 reward / $23.17 risk)
+- Score: 10/10 (highest possible)
+- Order ID: 220bc5bf (buy) | d7c418ab (trailing stop)
