@@ -235,3 +235,109 @@
 - JPM downgrade is new negative signal — monitor closely Monday open; consider manual exit if accelerates below $315
 - NVDA analyst upgrade (China Renaissance buy, consensus PT $309) is a bullish confirmation; hold current position, let trailing stop work
 - Weekly buy slot: 2/3 used this week (MSFT + JPM Jun 15). New week starts Monday — 3 fresh slots available
+
+---
+
+## 2026-06-23 (Day 42, Tuesday — Pre-Market)
+
+**Account snapshot:** Equity $99,434.78 | Cash $75,704.00 (76.2%) | Buying Power $369,262.19 | DT count: 0
+**Session-start equity (last_equity):** $99,695.85 | **Portfolio DD:** -0.26% — no halt
+**Phase P&L:** -$565.22 (-0.57%)
+
+### Open Positions (pre-market)
+| Ticker | Shares | Entry | Pre Px | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|--------|----------------|------|-----|
+| AAPL | 28 | $276.38 | $295.70 | +$540.96 (+7.0%) | $285.66 (10% trail) | $317.40 |
+| JPM | 24 | $322.67 | $331.23 | +$205.35 (+2.65%) | $304.26 (10% trail) | $338.07 |
+| NVDA | 37 | $213.59 | $202.77 | -$400.51 (-5.07%) | $192.59 (10% trail) | $213.99 |
+
+**⚠️ MSFT STOPPED OUT:** MSFT trailing stop ($361.58) triggered Jun 22 amid broad tech sell-off. Position closed, ~$667 loss realized. Cash +~$7K ($68.7K → $75.7K).
+
+**⚠️ NVDA CRITICAL:** Pre-market at $202.77 (-2.82% today). -7% manual cut trigger = $198.64. Buffer = $4.13 (2.0%). If NVDA ≤ $198.64 at open or intraday → CUT IMMEDIATELY.
+
+### Market Context
+- **Brent crude:** $77.34 (-0.71%); WTI approx $74-75. Brent -20% past month — energy sector headwind.
+- **SPX futures:** ~7,518-7,532 (−0.30%). Slightly red. Prior day saw broad tech sell-off.
+- **VIX:** 17.28 (+2.98% on day). Mildly elevated, not alarming.
+- **CPI May (released today):** 3.4% YoY actual vs 3.5% expected — BELOW consensus ✅ Mildly bullish.
+- **FOMC:** Held rates steady at Jun 17 meeting (already done). No rate decision today.
+- **FedEx (FDX) earnings BMO:** Not in universe, market signal only.
+- **Key event this week:** Micron (MU) earnings expected — not in universe, but chip sector signal.
+- **NVDA Annual Meeting:** Jun 24 (tomorrow). Minor volatility risk.
+- **Macro tone:** Tech weakness persisting; S&P closed lower "as tech stocks slide" Jun 21-22.
+  Sources: tradingeconomics.com, cnn.com/markets, ycharts.com
+
+### Sector ETF Ranking (this week)
+| Rank | Sector | ETF | Signal |
+|------|--------|-----|--------|
+| 1 | Healthcare | XLV | Gaining week; defensive bid |
+| 2 | Energy | XLE | Weekly gain despite oil slide |
+| 3 | Industrials | XLI | Steady |
+| — | Technology | XLK | Weak; broad tech sell-off |
+| — | Financials | XLF | YTD -0.26%; bottom sector |
+Sources: tavily.sh, Yahoo Finance XLF quote
+
+### Candidate Scoring Table (20-symbol universe)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5 | VolRat | Result |
+|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|--------|
+| AAPL (held) | 5/10 | 0 | 2 | 2 | 1 | 0 | -2.0% | +2.0% | 0.85x | HELD — no add, approaching +15% tighten |
+| MSFT | 7/10 | 0 | 2 | 2 | 1 | 2 | -10.5% | -6.0% | 1.14x | SKIP — just stopped out today; re-entry same session inappropriate |
+| GOOGL | 7/10 | 0 | 2 | 2 | 2 | 1 | -5.4% | -2.8% | 1.55x | BORDERLINE — no catalyst, negative momentum; skip |
+| **AMZN** | **10/10** | **2** | **2** | **2** | **2** | **2** | -7.4% | -2.4% | 1.50x | **PASS — confirmed AWS/Meta catalyst** |
+| NVDA (held) | 3/10 | 0 | 2 | 2 | 0 | - | -1.2% | +1.7% | 0.71x | HELD — near -7% cut trigger, WATCH |
+| META | 7/10 | 1 | 2 | 2 | 0 | 2 | -5.6% | -0.6% | 0.80x | FAIL tech check — 2 fails (neg mom + vol boundary) |
+| TSLA | 5/10 | 0 | 1 | 2 | 1 | 1 | -1.9% | -0.3% | 1.01x | FAIL |
+| AMD | 5/10 | 0 | 2 | 1 | 1 | 1 | +8.8% | +7.8% | 0.82x | FAIL — extended |
+| TSM | 4/10 | 0 | 2 | 1 | 1 | 0 | +8.8% | +10.3% | 1.04x | FAIL — extended |
+| AVGO | N/A | — | — | — | — | — | — | — | — | No re-entry rule |
+| JPM (held) | 2/10 | 0 | 0 | 1 | 1 | 0 | +6.3% | +3.4% | 1.04x | HELD — Finance sector bottom |
+| GS | 2/10 | 0 | 0 | 1 | 0 | 1 | +5.6% | +4.1% | 0.78x | FAIL |
+| V | 5/10 | 0 | 0 | 2 | 2 | 1 | +0.8% | +1.3% | 1.78x | FAIL — Finance bottom sector |
+| MA | 4/10 | 0 | 0 | 2 | 1 | 1 | -1.2% | -1.2% | 1.01x | FAIL |
+| XOM | 5/10 | 0 | 1 | 2 | 1 | 1 | -5.9% | -5.8% | 0.88x | FAIL — oil downtrend |
+| CVX | 6/10 | 0 | 1 | 2 | 1 | 2 | -5.1% | -6.5% | 1.19x | FAIL — negative 5d mom |
+| UNH | 5/10 | 0 | 1 | 2 | 1 | 1 | +2.8% | -0.5% | 0.82x | FAIL |
+| JNJ | 5/10 | 0 | 1 | 2 | 1 | 1 | -0.2% | -4.0% | 1.04x | FAIL |
+| SPY | 3/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL |
+| QQQ | 3/10 | 0 | 2 | 2 | 0 | 0 | — | — | — | FAIL |
+
+### Technical Validation — AMZN (Score 10/10) ✅ PASS
+- **Last close (Jun 22):** $232.79 | **SMA20:** $251.49
+- **Dist from SMA20:** −7.4% → BELOW SMA → ✅ PASS
+- **5-day momentum:** −2.4% → NEGATIVE → ❌ FAIL (1 fail)
+- **Vol ratio:** 1.50x → above 0.8 → ✅ PASS (≥1.5x = high conviction)
+- **20-day avg volume:** 45.8M | **Last vol:** 45.8M × 1.50 = confirmed elevated
+- **Result:** 1 confirmed fail → PASSES technical threshold (need 2+ to discard)
+- **Catalyst:** AWS Graviton5 multi-year deal with Meta — confirmed (aol.com; "Amazon stock just keeps rising — AWS Graviton deal with Meta is the latest catalyst"). Price has pulled back from $244 to $232 since last week = better entry vs last week's idea.
+
+### Trade Idea — AMZN (Conditional)
+
+**#1 — AMZN — CONDITIONAL BUY (open must not gap down >2% from $232)**
+- Catalyst: Confirmed — AWS Graviton5 CPU multi-year deal with Meta; AI cloud spending wave; Q2 earnings ~Jul 30 (AWS re-acceleration expected)
+- Score: 10/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 2 | R:R: 2
+- Entry: ~$232-234 (market open or limit near $232)
+- Stop: 10% trailing → initial floor ~$209.51
+- Target: $295-$300 (+27%)
+- R:R: ($295 − $232.79) / ($232.79 − $209.51) = 62.21/23.28 = **2.67:1** ✅
+- Shares: 34 × $233 = $7,922 = **7.97% of equity** — within 8% cap ✅
+- Gate check: 4 total positions after fill (≤10 ✅) | 1/3 weekly slots used (≤3 ✅) | cost ≤ cash ($75.7K ✅) | universe ✅ | DD-halt not triggered ✅
+- **Condition:** Enter ONLY IF AMZN opens ≥ $228. Hold if broad market opens -1%+ (SPY ≤ −1%)
+- Technicals: dist -7.4%, mom5 -2.4% (only fail), volrat 1.50x
+
+### Risk Factors
+1. **NVDA -7% CUT TRIGGER (CRITICAL):** Pre-market $202.77, buffer $4.13 to cut at $198.64. NVDA -2.82% today already. Kalshi traders bearish on chip prices. If ≤$198.64 at open → cut immediately, cancel trailing stop, log exit.
+2. **Tech weakness broadening (HIGH):** MSFT stopped out Jun 22. Nasdaq/S&P saw multi-day slide. AMZN entry into broad tech weakness is a risk — stagger with conditional gate.
+3. **NVDA annual meeting Jun 24 (MEDIUM):** Minor volatility event; institutional pressure possible.
+4. **AAPL approaching +15% tighten trigger (MEDIUM):** Entry $276.38 × 1.15 = $317.84. Current $295.70. If reaches $317.84 intraday → tighten trail to 7%.
+5. **JPM above SMA20 +6.3% (LOW):** Extended but Finance thesis intact. Monitor.
+6. **Underdeployment (ONGOING):** 23.9% deployed vs 80% target. AMZN entry would add ~7.97%, reaching ~32%. Still very underweight — need 3-5 more positions over coming weeks.
+7. **CPI miss risk (LOW, already out):** Actual 3.4% below 3.5% — mild tailwind.
+
+### Decision
+**CONDITIONAL BUY AMZN — else HOLD**
+- AMZN is the only ≥7/10 candidate with a confirmed catalyst today (AWS Graviton5/Meta deal)
+- Score 10/10 is the highest possible; entry price improved from $244 (last week's target) to $232 — better R:R
+- Condition: open ≥ $228 + SPY not down more than -1% at open
+- NVDA cut is a priority risk-management action — NOT a new trade decision
+- 3 fresh weekly buy slots available; using slot #1 here
+- Patience > activity rule applies to low-conviction setups, not 10/10 confirmed-catalyst entries
