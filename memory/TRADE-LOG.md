@@ -563,3 +563,27 @@ Append new entries below. Two kinds of entries get added here:
 - R:R: 2.63:1 ($61.03 reward / $23.17 risk)
 - Score: 10/10 (highest possible)
 - Order ID: 220bc5bf (buy) | d7c418ab (trailing stop)
+
+---
+
+### 2026-06-23 — SELL MSFT (trailing stop triggered)
+- Shares: 19
+- Exit: ~$368.40 (stop $361.58 triggered; market fill)
+- Entry: $396.72
+- Realized P&L: -$538.08 (-7.14%)
+- Stop: 10% trailing from HWM $401.75 → trigger $361.58
+- Notes: Tech weakness Mon–Tue finally breached stop. 4th stop-out overall. Sector (Tech/XLK) now 3 stop-outs in this re-entry attempt.
+
+---
+
+### Jun 23 — EOD Snapshot (Day 42, Tuesday)
+**Portfolio:** $99,377.61 | **Cash:** $67,748.96 (68.2%) | **Day P&L:** -$318.24 (-0.32%) | **Phase P&L:** -$622.39 (-0.62%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $294.25 | -0.93% | +$500.36 (+6.47%) | $285.66 (HWM $317.40) |
+| AMZN | 34 | $233.97 | $234.40 | +0.69% | +$14.56 (+0.18%) | $213.18 (HWM $236.87) |
+| JPM | 24 | $322.67 | $334.14 | +0.80% | +$275.28 (+3.56%) | $304.26 (HWM $338.07) |
+| NVDA | 37 | $213.59 | $200.04 | -4.13% | -$501.41 (-6.35%) | $192.59 (HWM $213.99) |
+
+**Notes:** Day 42 EOD (Tuesday). Two trades today: MSFT trailing stop triggered (~$368.40 fill, -$538 realized, -7.14%), and AMZN entered as replacement (34 shares @ $233.97, AWS Graviton5/Meta deal catalyst). NVDA worst performer -4.13% to $200.04 (-6.35% unrealized) — CRITICAL: only $1.40 above -7% manual cut trigger at $198.64; Wednesday open requires immediate assessment. AAPL -0.93% to $294.25 (+6.47% unrealized, stop $285.66, HWM $317.40). JPM +0.80% to $334.14 (+3.56% unrealized, stop $304.26, HWM $338.07) — Finance thesis continues to hold. AMZN new position closed essentially flat +0.69% to $234.40 (+0.18% unrealized, stop $213.18, HWM $236.87). Portfolio down -$318.24 (-0.32%) on the day; Phase P&L -$622.39 (-0.62%). Deployment 31.8% vs 80% target — $67.7K idle, 2 buy slots remaining this week. Wednesday pre-market: primary task is NVDA evaluation (cut vs hold) and energy/diversification candidate scan if NVDA holds.
