@@ -356,3 +356,109 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 **NVDA thesis check:** -3.08% intraday on broad tech sector weakness. No specific catalyst break found. NVIDIA CEO previously called tech sell-off a "buying opportunity." Annual meeting Jun 24 (tomorrow) — minor volatility risk. Thesis intact. Manual cut trigger $198.64 remains hard floor.
 **AAPL:** +15% tighten trigger at $317.84 — current $298.48, not reached.
 **Stop tightening:** No position at +15% or +20%. All 4 trailing GTC stops active.
+
+---
+
+## 2026-06-24 (Day 43, Wednesday — Pre-Market)
+
+### Account Snapshot
+- **Equity:** $99,431.33 | **Cash:** $67,748.95 | **Buying Power:** $359,706.46
+- **Long market value:** $31,682.38 | **Deployment:** 31.9% (target 80%)
+- **Daytrade count:** 0 | **Weekly buy slots used:** 1/3 (AMZN Jun 23)
+- **Phase P&L:** -$568.67 (-0.57%)
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop | Status |
+|--------|--------|-------|---------|-----------|------|--------|
+| AAPL | 28 | $276.38 | $295.00 | +$521.36 (+6.74%) | $285.66 (HWM $317.40) | ✅ Holding |
+| AMZN | 34 | $233.97 | $233.10 | -$29.64 (-0.37%) | $213.18 (HWM $236.87) | ✅ Holding |
+| JPM | 24 | $322.67 | $335.00 | +$295.92 (+3.82%) | $304.26 (HWM $338.07) | ✅ Holding |
+| NVDA | 37 | $213.59 | $201.54 | -$445.91 (-5.64%) | $192.59 (HWM $213.99) | ⚠️ CRITICAL: cut at $198.64, buffer $2.90 |
+
+### Market Context
+- **WTI:** ~$72.75/bbl (-0.6%) | **Brent:** ~$76.44 (-0.7%), falling below $76 (lowest since US-Iran oil deal)
+- **SPX futures:** +0.10% at 7,447 — flat, slightly positive
+- **VIX:** ~19.5 — SPIKED from 17.28 yesterday (+12.79%) — elevated fear/volatility
+- **Earnings today (pre-open):** Micron (MU) — not in universe; PAYX/DRI after close
+- **Economic:** BLS Productivity & Costs 10am (minor). No CPI/PPI/FOMC today.
+- **NVDA annual meeting:** 9am PT / 12pm EDT (virtual, stockholders only — no major product catalyst expected)
+- **SpaceX:** $25B debt offering closed Jun 23 — boosting IB fees at Goldman, JPMorgan
+
+### Sector ETF Weekly Performance
+| Rank | Sector | ETF | Week Perf |
+|------|--------|-----|-----------|
+| #1 | Energy | XLE | +1.12% |
+| #2 | Technology | XLK | +0.83% |
+| #3 | Finance | XLF | +0.72% |
+| #4 | Industrials | XLI | +0.41% |
+| #5 | Consumer Staples | XLP | +0.01% |
+| — | Healthcare | XLV | -0.34% |
+
+### Candidate Scoring Table (20-symbol universe)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5d | VolRat | Result |
+|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|--------|
+| AAPL (held) | — | — | — | — | — | — | -2.6% | -0.7% | 0.98x | HELD — monitoring |
+| MSFT | — | — | — | — | — | — | — | — | — | SKIP — stopped out Jun 23 (no same-session re-entry) |
+| GOOGL | 5/10 | 0 | 2 | 2 | 0 | 1 | -5.9% | -6.3% | 0.98x | FAIL — no catalyst, neg momentum |
+| AMZN (held) | — | — | — | — | — | — | -6.3% | -4.8% | 1.28x | HELD — AWS thesis intact |
+| NVDA (held) | — | — | — | — | — | — | -5.0% | -5.8% | 0.90x | HELD — ⚠️ CRITICAL: $198.64 cut trigger |
+| META | 5/10 | 0 | 2 | 2 | 0 | 1 | -5.5% | -5.3% | 0.68x | FAIL — no catalyst, volume below 0.8x |
+| TSLA | 3/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL — no catalyst, poor R:R |
+| AMD | 4/10 | 0 | 2 | 2 | 0 | 0 | — | — | — | FAIL — no catalyst |
+| AVGO | 4/10 | 0 | 2 | 1 | 1 | 0 | — | — | — | FAIL — no catalyst |
+| TSM | 4/10 | 0 | 2 | 1 | 1 | 0 | — | — | — | FAIL — no catalyst |
+| JPM (held) | — | — | — | — | — | — | +6.7% | +4.6% | 0.77x | HELD — dividend ex-date Jul 6 |
+| **GS** | **7/10** | **2** | **2** | **2** | **0** | **1** | +4.0% | +1.7% | 0.85x | **PASS — SpaceX IB fees catalyst** |
+| V | 5/10 | 0 | 2 | 2 | 1 | 0 | — | — | — | FAIL — Finance, no specific catalyst |
+| MA | 4/10 | 0 | 2 | 2 | 0 | 0 | — | — | — | FAIL |
+| XOM | 5/10 | 0 | 2 | 2 | 0 | 1 | -4.5% | -0.8% | 0.76x | FAIL — no catalyst, oil declining |
+| CVX | 7/10 | 2 | 2 | 2 | 0 | 1 | -4.2% | -2.5% | 0.71x | FAIL tech check — 2 fails (neg mom + vol<0.8) |
+| UNH | 3/10 | 0 | 0 | 2 | 0 | 1 | — | — | — | FAIL — Healthcare bottom YTD |
+| JNJ | 3/10 | 0 | 0 | 2 | 0 | 1 | — | — | — | FAIL — Healthcare bottom YTD |
+| SPY | 3/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL |
+| QQQ | 3/10 | 0 | 2 | 2 | 0 | 0 | — | — | — | FAIL |
+
+### Technical Validation — GS (Score 7/10) ✅ PASS
+- **Last close (Jun 23):** $1,094.44 | **SMA20:** $1,052.52
+- **Dist from SMA20:** +4.0% → within 5% of SMA → ✅ PASS (not in 5–10% extended band)
+- **5-day momentum:** +1.7% → positive → ✅ PASS
+- **Vol ratio:** 0.85x → ≥ 0.8 threshold → ✅ PASS
+- **Result:** 0 confirmed fails → PASSES all technical checks
+
+### Technical Validation — CVX (Score 7/10) ❌ FAIL
+- **Last close (Jun 23):** $175.98 | **SMA20:** $183.65
+- **Dist from SMA20:** -4.2% → ✅ PASS
+- **5-day momentum:** -2.5% → ❌ FAIL (negative downtrend)
+- **Vol ratio:** 0.71x → ❌ FAIL (below 0.8 threshold)
+- **Result:** 2 fails → DISCARDED
+
+### Trade Idea — GS
+
+**#1 — GS — CONDITIONAL BUY (enter if VIX ≤ 21 and SPX opens flat or better)**
+- **Catalyst:** Confirmed — SpaceX mega-IPO underwriting fees + $25B debt offering closed Jun 23; mega-IPO activity driving IB fee windfall for GS. Q2 earnings ~mid-July will crystallize. "JPMorgan says investors are overlooking the upside to Wall Street banks from SpaceX and other mega-IPOs" (MarketWatch Jun 23).
+- **Score:** 7/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 0 | R:R: 1
+- **Entry:** ~$1,094–1,100 (market open)
+- **Stop:** 10% trailing → initial floor ~$985
+- **Target:** $1,313 (+20%)
+- **R:R:** ($1,313 − $1,094) / ($1,094 − $985) = $219 / $109 = **2.01:1** ✅
+- **Shares:** 7 × ~$1,094 = $7,658 = 7.70% of equity — within 8% cap ✅
+- **Gate check:** 5 positions after fill (≤10 ✅) | 2/3 weekly slots (≤3 ✅) | cost ≤ cash ($67.7K ✅) | universe ✅ | DD-halt not triggered ✅
+- **Condition:** VIX ≤ 21 at open + SPX flat or better (currently +0.10%)
+- **Technicals:** dist +4.0%, mom5 +1.7%, volrat 0.85x — all pass
+
+### Risk Factors
+1. **NVDA -7% CUT TRIGGER (CRITICAL):** Current $201.54, buffer only $2.90 to cut at $198.64. Annual meeting today 12pm EDT. If opens ≤ $199, cut immediately and cancel trailing stop order cc08a04d. NOT a weekly trade slot — risk management action.
+2. **VIX spike to 19.5 (+13% from yesterday):** Elevated fear. Broad "AI wake-up call" narrative weighing on risk-on assets. GS entry gated on VIX ≤ 21.
+3. **Oil declining:** WTI -0.6–1.9%, Brent below $76 — Energy sector headwind despite strong weekly performance.
+4. **GS volume soft (0.85x):** Below average volume; institutional conviction may be limited today.
+5. **AAPL +15% tighten trigger:** Entry $276.38 × 1.15 = $317.84. Current $295.00 — not reached but monitor.
+6. **Underdeployment ongoing:** 31.9% deployed vs 80% target. GS entry adds ~7.7%, reaching ~39.6%. Still very underweight.
+7. **Tech concentration risk:** 3 of 4 current positions are Tech/Tech-adjacent (AAPL, AMZN, NVDA). GS adds Finance diversification.
+
+### Decision
+**CONDITIONAL BUY GS — else HOLD**
+- GS is the only ≥7/10 candidate that passes all technical checks
+- Catalyst confirmed (SpaceX IB fees); Finance sector showing resilience (#3 this week, record JPM profits signal sector health)
+- Weekly slot 2/3 available; using conservatively with VIX gate
+- NVDA cut is a risk-management action (not a buy slot), execute if buffer breached at open
+- Patience > activity: no forced buys; GS only enters on positive market open conditions
