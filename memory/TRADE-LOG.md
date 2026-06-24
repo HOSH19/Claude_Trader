@@ -587,3 +587,17 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $200.04 | -4.13% | -$501.41 (-6.35%) | $192.59 (HWM $213.99) |
 
 **Notes:** Day 42 EOD (Tuesday). Two trades today: MSFT trailing stop triggered (~$368.40 fill, -$538 realized, -7.14%), and AMZN entered as replacement (34 shares @ $233.97, AWS Graviton5/Meta deal catalyst). NVDA worst performer -4.13% to $200.04 (-6.35% unrealized) — CRITICAL: only $1.40 above -7% manual cut trigger at $198.64; Wednesday open requires immediate assessment. AAPL -0.93% to $294.25 (+6.47% unrealized, stop $285.66, HWM $317.40). JPM +0.80% to $334.14 (+3.56% unrealized, stop $304.26, HWM $338.07) — Finance thesis continues to hold. AMZN new position closed essentially flat +0.69% to $234.40 (+0.18% unrealized, stop $213.18, HWM $236.87). Portfolio down -$318.24 (-0.32%) on the day; Phase P&L -$622.39 (-0.62%). Deployment 31.8% vs 80% target — $67.7K idle, 2 buy slots remaining this week. Wednesday pre-market: primary task is NVDA evaluation (cut vs hold) and energy/diversification candidate scan if NVDA holds.
+
+---
+
+### Jun 24 — EOD Snapshot (Day 43, Wednesday)
+**Portfolio:** $99,403.53 | **Cash:** $67,748.95 (68.2%) | **Day P&L:** +$33.60 (+0.03%) | **Phase P&L:** -$596.47 (-0.60%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 28 | $276.38 | $294.60 | +0.10% | +$510.16 (+6.59%) | $285.66 (HWM $317.40) |
+| AMZN | 34 | $233.97 | $234.63 | +0.22% | +$22.38 (+0.28%) | $218.18 (HWM $242.42) |
+| JPM | 24 | $322.67 | $334.48 | +0.10% | +$283.44 (+3.66%) | $304.26 (HWM $338.07) |
+| NVDA | 37 | $213.59 | $200.08 | +0.02% | -$499.83 (-6.33%) | $192.59 (HWM $213.99) |
+
+**Notes:** Day 43 EOD (Wednesday). Quiet, slightly positive session — portfolio gained +$33.60 (+0.03%) mostly via all four positions inching up. No trades today; week remains at 1/3 buy slots used (AMZN Monday). NVDA stabilized just barely: +0.02% to $200.08 (-6.33% unrealized) — manual -7% cut trigger at $198.64 is only $1.44 away; CRITICAL level, one bad tick away from forced exit. AMZN continued consolidating: +0.22% to $234.63 (+0.28% unrealized, stop updated to $218.18 with HWM $242.42 — stop moved up $7.38 since entry). AAPL +0.10% to $294.60 (+6.59% unrealized, stop $285.66, HWM $317.40) — approaching +15% tighten trigger at $317.84. JPM +0.10% to $334.48 (+3.66% unrealized, stop $304.26, HWM $338.07) — Finance thesis steady. Cash flat at $67,748.95; deployment 31.8% vs 80% target. Thursday pre-market: NVDA decision is the #1 priority — if pre-market shows further weakness, consider proactive cut before open rather than waiting for $198.64 breach. 2 buy slots remaining this week for energy diversification (XOM/CVX) if NVDA exit frees capital.
