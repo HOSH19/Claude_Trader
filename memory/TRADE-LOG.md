@@ -251,7 +251,7 @@ No positions yet. Bot launches tomorrow.
 | META | 13 | $598.88 | $635.19 | +3.73% | +$471.98 (+6.06%) | $574.65 |
 | MSFT | 19 | $416.87 | $413.13 | -0.70% | -$71.13 (-0.90%) | $389.43 |
 
-**Notes:** Day 23 EOD. Good session led by META surging +3.73% to $635.19 — now +6.06% unrealized (HWM $638.50, stop $574.65). AAPL added +0.84% to $310.92, extending its lead to +12.50% unrealized (HWM $313.26, stop $281.93). GOOGL nearly flat +0.02% at $388.96 (-0.22% unrealized). MSFT continued its slide -0.70% to $413.13 (-0.90% unrealized, 4th consecutive down day); approaching -7% cut level at ~$387.69 — monitor closely. Portfolio equity +$316.07 (+0.31%) on the day; Phase P&L advances to +$1,884.19 (+1.88%). No new trades today; week remains 0/3 buy slots used. Deployment at 32.0% — critically below 80% target. Pre-market Thursday must identify 2–3 high-conviction setups to deploy remaining $69K toward the target.
+**Notes:** Day 27 EOD. Good session led by META surging +3.73% to $635.19 — now +6.06% unrealized (HWM $638.50, stop $574.65). AAPL added +0.84% to $310.92, extending its lead to +12.50% unrealized (HWM $313.26, stop $281.93). GOOGL nearly flat +0.02% at $388.96 (-0.22% unrealized). MSFT continued its slide -0.70% to $413.13 (-0.90% unrealized, 4th consecutive down day); approaching -7% cut level at ~$387.69 — monitor closely. Portfolio equity +$316.07 (+0.31%) on the day; Phase P&L advances to +$1,884.19 (+1.88%). No new trades today; week remains 0/3 buy slots used. Deployment at 32.0% — critically below 80% target. Pre-market Thursday must identify 2–3 high-conviction setups to deploy remaining $69K toward the target.
 
 ---
 
@@ -587,3 +587,26 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 37 | $213.59 | $200.04 | -4.13% | -$501.41 (-6.35%) | $192.59 (HWM $213.99) |
 
 **Notes:** Day 42 EOD (Tuesday). Two trades today: MSFT trailing stop triggered (~$368.40 fill, -$538 realized, -7.14%), and AMZN entered as replacement (34 shares @ $233.97, AWS Graviton5/Meta deal catalyst). NVDA worst performer -4.13% to $200.04 (-6.35% unrealized) — CRITICAL: only $1.40 above -7% manual cut trigger at $198.64; Wednesday open requires immediate assessment. AAPL -0.93% to $294.25 (+6.47% unrealized, stop $285.66, HWM $317.40). JPM +0.80% to $334.14 (+3.56% unrealized, stop $304.26, HWM $338.07) — Finance thesis continues to hold. AMZN new position closed essentially flat +0.69% to $234.40 (+0.18% unrealized, stop $213.18, HWM $236.87). Portfolio down -$318.24 (-0.32%) on the day; Phase P&L -$622.39 (-0.62%). Deployment 31.8% vs 80% target — $67.7K idle, 2 buy slots remaining this week. Wednesday pre-market: primary task is NVDA evaluation (cut vs hold) and energy/diversification candidate scan if NVDA holds.
+
+---
+
+### 2026-06-25 — STOP OUT AAPL (trailing stop triggered)
+- Shares: 28
+- Exit: ~$285.88 (10% trailing stop triggered; stop was $285.66, HWM $317.40)
+- Entry: $276.38
+- Realized P&L: +$266.00 (+3.44%)
+- Notes: AAPL 10% trailing stop auto-executed; filled ~$285.88. Persistent tech sector weakness Jun 23-25 pulled AAPL from HWM $317.40 down through stop $285.66. Locked in +3.44% from entry.
+
+---
+
+### 2026-06-25 — BUY GS
+- Shares: 7
+- Entry: $1,091.00
+- Stop: 10% trailing | HWM $1,090.31 | Current stop $981.28
+- Target: $1,309.20 (+20%)
+- Thesis: IB fee windfall from SpaceX $25B debt offering + mega-IPO pipeline; Finance sector diversification; Q2 earnings ~mid-July crystallizes IB revenue
+- Catalyst: SpaceX $25B debt offering closed Jun 23; mega-IPO fee pipeline; "investors overlooking upside to Wall Street banks from SpaceX" (MarketWatch Jun 23)
+- Sector: Finance (XLF)
+- R:R: 2.0:1
+- Score: 7/10
+- Order ID: 5f5d8d8f (buy) | 319c2fb6 (trailing stop)
