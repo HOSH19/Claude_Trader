@@ -157,7 +157,7 @@
 *Bars data via Alpaca (start=2026-03-01, end=2026-06-18). All technicals as of Jun 18 close.*
 
 | Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5 | VolRat | Result |
-|--------|-------|----------|--------|-------|--------|-----|-----------|------|--------|--------|
+|--------|-------|----------|--------|-------|--------|-----|-----------|------|--------|
 | AAPL (held) | 6/10 | 0 | 2 | 2 | 2 | 0 | -1.8% | +0.8% | 1.60x | HELD — no add |
 | MSFT (held) | 5/10 | 0 | 2 | 2 | 1 | 0 | -8.2% | -2.8% | 1.47x | HELD — caution zone |
 | GOOGL | 5/10 | 0 | 2 | 2 | 1 | 0 | -1.0% | +2.9% | 1.32x | FAIL — no catalyst |
@@ -279,7 +279,7 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 
 ### Candidate Scoring Table (20-symbol universe)
 | Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5 | VolRat | Result |
-|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|--------|
+|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|
 | AAPL (held) | 5/10 | 0 | 2 | 2 | 1 | 0 | -2.0% | +2.0% | 0.85x | HELD — no add, approaching +15% tighten |
 | MSFT | 7/10 | 0 | 2 | 2 | 1 | 2 | -10.5% | -6.0% | 1.14x | SKIP — just stopped out today; re-entry same session inappropriate |
 | GOOGL | 7/10 | 0 | 2 | 2 | 2 | 1 | -5.4% | -2.8% | 1.55x | BORDERLINE — no catalyst, negative momentum; skip |
@@ -396,7 +396,7 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 
 ### Candidate Scoring Table (20-symbol universe)
 | Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5d | VolRat | Result |
-|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|--------|
+|--------|-------|----------|--------|-------|--------|-----|------------|------|--------|
 | AAPL (held) | — | — | — | — | — | — | -2.6% | -0.7% | 0.98x | HELD — monitoring |
 | MSFT | — | — | — | — | — | — | — | — | — | SKIP — stopped out Jun 23 (no same-session re-entry) |
 | GOOGL | 5/10 | 0 | 2 | 2 | 0 | 1 | -5.9% | -6.3% | 0.98x | FAIL — no catalyst, neg momentum |
@@ -462,3 +462,109 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 - Weekly slot 2/3 available; using conservatively with VIX gate
 - NVDA cut is a risk-management action (not a buy slot), execute if buffer breached at open
 - Patience > activity: no forced buys; GS only enters on positive market open conditions
+
+---
+
+## 2026-06-25 (Day 44, Thursday — Pre-Market)
+
+### Account Snapshot
+- **Equity:** $99,345.80 | **Cash:** $67,748.95 (68.2%) | **Buying Power:** $359,466.98
+- **Long market value:** $31,596.85 | **Deployment:** 31.8% (target 80%)
+- **Daytrade count:** 0 | **Weekly buy slots used:** 1/3 (AMZN Jun 23)
+- **Phase P&L:** -$654.20 (-0.65%)
+- **DD from session-start ($99,286.17):** +0.06% — no halt
+
+### Live Positions
+| Ticker | Shares | Entry | Last (Jun 24) | Pre Px | Unreal P&L | Stop | Status |
+|--------|--------|-------|---------------|--------|-----------|------|--------|
+| AAPL | 28 | $276.38 | $293.08 | $291.45 | +$421.96 (+5.45%) | $285.66 (HWM $317.40) | ✅ Holding |
+| AMZN | 34 | $233.97 | $234.27 | $233.42 | -$18.73 (-0.24%) | $218.18 (HWM $242.42) | ✅ Holding |
+| JPM | 24 | $322.67 | $333.45 | $335.44 | +$306.48 (+3.96%) | $304.26 (HWM $338.07) | ✅ Finance thesis intact |
+| NVDA | 37 | $213.59 | $199.00 | $201.30 | -$454.79 (-5.76%) | $192.59 (HWM $213.99) | ⚠️ CRITICAL: cut at $198.64, buffer $2.66 |
+
+**GS Note:** Yesterday's conditional buy (VIX gate ≤21, SpaceX catalyst) was not executed — no trade log entry confirms. Reassessing today.
+
+### Market Context
+- **Oil:** WTI ~$69.50 (-1.19/day, -4.4% intraday per oilprice.com); Brent ~$72.56 (-1.60%/day). Brent −25% past month. Energy sector headwind continuing.
+- **SPX futures:** +0.50–0.80% (7,465–7,487) — constructive open (markets.businessinsider.com, yahoo.finance.com)
+- **VIX:** 18.06 (declining from 19.5 yesterday, −3.06%) — fear retreating, favorable (marketwatch.com)
+- **Earnings BMO today:** AYI (Acuity), CMC (Commercial Metals), WGO (Winnebago) — none in universe
+- **Economic calendar:** Light. SOFR data only. No CPI/PPI/FOMC/NFP. (fred.stlouisfed.org)
+- **Analyst moves today:** MU, INTC (Zacks Strong-Buy) — not in universe. No universe-specific upgrades. (marketwatch.com, marketbeat.com)
+- **S&P 500 YTD:** +8.10% as of Jun 24 (totalrealreturns.com)
+
+### Sector ETF Ranking (week of Jun 23–25)
+| Rank | Sector | ETF | Notes |
+|------|--------|-----|-------|
+| #1 | Financials | XLF | JPM outperforming (+3.96% unreal); Finance resilient vs tech |
+| #2 | Technology | XLK | +27.45% YTD best sector; broad selloff this week (−3.82% Jun 23); recovering |
+| #3 | Energy | XLE | +21.46% YTD but oil −25% past month; mixed week |
+Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider.com
+
+### Candidate Scoring Table (20-symbol universe)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5d | VolRat | Result |
+|--------|-------|----------|--------|-------|--------|-----|------------|-------|--------|
+| AAPL (held) | 5/10 | 0 | 2 | 2 | 1 | 0 | −2.8% | −2.1% | 0.99x | HELD — no add |
+| MSFT | 7/10 | 0 | 2 | 2 | 1 | 2 | −9.9% | −7.2% | 1.08x | SKIP — stopped out Jun 23; no catalyst |
+| GOOGL | 7/10 | 0 | 2 | 2 | 1 | 2 | −5.6% | −7.5% | 1.26x | SKIP — stopped out Jun 2; no catalyst |
+| AMZN (held) | — | — | — | — | — | — | −5.7% | −4.8% | 1.43x | HELD — AWS thesis intact |
+| NVDA (held) | — | — | — | — | — | — | −5.1% | −4.1% | 0.90x | HELD — ⚠️ CRITICAL: cut at $198.64 |
+| META | 6/10 | 0 | 2 | 2 | 0 | 2 | −5.8% | −7.1% | 0.72x | FAIL — vol 0.72x + neg mom (2 tech fails) |
+| TSLA | 3/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL |
+| AMD | 4/10 | 0 | 2 | 1 | 1 | 0 | — | — | — | FAIL |
+| AVGO | N/A | — | — | — | — | — | — | — | — | No re-entry rule |
+| TSM | 6/10 | 0 | 2 | 2 | 0 | 2 | +1.8% | +3.5% | 0.72x | FAIL — vol 0.72x |
+| JPM (held) | — | — | — | — | — | — | +6.0% | +0.7% | 0.80x | HELD — Finance thesis working |
+| **GS** | **7/10** | **2** | **1** | **2** | **1** | **1** | +1.9% | −1.3% | 0.80x | **PASS** |
+| V | 6/10 | 0 | 1 | 2 | 1 | 2 | +2.4% | −0.3% | 0.95x | FAIL — weak sector |
+| MA | 4/10 | 0 | 1 | 2 | 0 | 1 | — | — | — | FAIL |
+| XOM | 4/10 | 0 | 2 | 2 | 1 | 0 | −6.1% | −3.5% | 0.89x | FAIL — R:R weak, oil downtrend |
+| CVX | 7/10 | 0 | 2 | 2 | 1 | 2 | −6.3% | −4.8% | 1.17x | FAIL — catalyst stale (Iran deal Jun 14) |
+| UNH | 3/10 | 0 | 0 | 2 | 0 | 1 | — | — | — | FAIL — Healthcare bottom |
+| JNJ | 3/10 | 0 | 0 | 2 | 0 | 1 | — | — | — | FAIL — Healthcare bottom |
+| SPY | 3/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL |
+| QQQ | 3/10 | 0 | 2 | 2 | 0 | 0 | — | — | — | FAIL |
+
+*GS: Catalyst = SpaceX $25B debt offering + mega-IPO IB fees confirmed Jun 23 (MarketWatch); Sector = Finance (XLF −1.07% YTD = mid-third); Setup = +1.9% above SMA20; Vol = 0.80x (at threshold); R:R = $215/$108 = 1.99:1*
+*MSFT/GOOGL score ≥7 on math but both recently stopped out with no new catalyst — skip per disciplined entry criteria*
+*CVX: Iran deal catalyst is 11 days stale; without fresh catalyst score drops to 5/10*
+
+### Technical Validation — GS (Score 7/10) ✅ PASS
+- **Last close (Jun 24):** $1,076.91 | **SMA20:** $1,056.64
+- **Dist from SMA20:** +1.9% → within 5% of SMA → ✅ PASS
+- **5-day momentum:** −1.3% → negative → ❌ FAIL (1 fail)
+- **Vol ratio:** 0.80x → at threshold → ✅ PASS
+- **Result:** 1 confirmed fail → PASSES technical threshold (need 2+ to discard)
+- **Note:** GS slipped −1.6% on Jun 24 from $1,094 to $1,077; entry now improved vs yesterday's $1,094 level. SpaceX IB fee catalyst remains active (Q2 IB revenue crystallizes ~mid-July earnings).
+
+### Trade Idea — GS
+
+**#1 — GS — CONDITIONAL BUY (entry if VIX ≤19 and SPX opens flat or better)**
+- **Catalyst:** Confirmed — SpaceX $25B debt offering closed Jun 23 + mega-IPO IB fee pipeline; JPMorgan "investors overlooking upside to Wall Street banks from SpaceX" (MarketWatch Jun 23). Q2 earnings ~mid-July IB fee crystallization.
+- **Score:** 7/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 1
+- **Entry:** ~$1,077–1,085 (market open; use $1,080 limit)
+- **Stop:** 10% trailing → initial floor ~$969
+- **Target:** $1,293 (+20% from $1,077)
+- **R:R:** ($1,293 − $1,077) / ($1,077 − $969) = $216 / $108 = **2.00:1** ✅
+- **Shares:** 7 × ~$1,080 = $7,560 = **7.61% of equity** → within 8% cap ✅
+- **Gate check:** 5 positions after fill (≤10 ✅) | 2/3 weekly slots (≤3 ✅) | cost ≤ cash ($67.7K ✅) | universe ✅ | DD-halt not triggered ✅
+- **Condition:** VIX ≤19 at open + SPX opens flat or better (+0.0% or better)
+- **Technicals:** dist +1.9%, mom5 −1.3% (1 fail), volrat 0.80x — PASSES
+
+### Risk Factors
+1. **NVDA -7% CUT TRIGGER (CRITICAL):** Premarket $201.30 vs cut trigger $198.64 (buffer $2.66). Closed yesterday at $199.00 — within $0.36 of -7% cut. If NVDA opens ≤$198.64 → cut immediately, cancel GTC order cc08a04d. NOT a weekly trade slot.
+2. **Broad tech selloff risk (HIGH):** XLK -3.82% on Jun 23 alone. Tech sector broadly weak; AAPL -2.1% 5d momentum, MSFT -7.2%, AMZN -4.8%. A follow-through down day could trigger multiple stops.
+3. **GS momentum slightly negative (MEDIUM):** −1.3% 5d momentum; down −1.6% yesterday. Finance sector YTD weakest. Entry into minor 5-day downtrend.
+4. **Oil freefall (MEDIUM):** Brent −25% past month; WTI at $69.50. No energy positions but ongoing oil weakness signals macro caution.
+5. **AAPL approaching +15% tighten trigger (MEDIUM-LOW):** Entry $276.38 × 1.15 = $317.84. Current $293.08 — not reached, but monitor.
+6. **Underdeployment (ONGOING):** 31.8% deployed vs 80% target. GS would add ~7.6%, reaching ~39.4%. Still far below target with 2 buy slots left this week.
+7. **No major economic catalyst (LOW):** Light calendar today reduces risk of surprise macro shock.
+
+### Decision
+**CONDITIONAL BUY GS — else HOLD**
+- GS is the only ≥7/10 candidate with a confirmed, specific catalyst (SpaceX IB fees)
+- VIX declining (19.5→18.06) and SPX futures +0.6% are favorable entry conditions
+- Gate: VIX ≤19 at market open + SPX flat or better
+- NVDA cut ($198.64) takes priority over GS entry if market opens weak
+- 2 weekly buy slots remaining; GS uses slot #2
+- Target entry: 7 shares × ~$1,080 limit order
