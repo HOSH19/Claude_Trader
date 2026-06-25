@@ -610,3 +610,13 @@ Append new entries below. Two kinds of entries get added here:
 - R:R: 2.0:1
 - Score: 7/10
 - Order ID: 5f5d8d8f (buy) | 319c2fb6 (trailing stop)
+
+---
+
+### 2026-06-25 — CUT NVDA (-7% rule triggered)
+- Shares: 37
+- Exit: $194.33 (manual cut; -7% rule: price below $198.64 trigger)
+- Entry: $213.59
+- Realized P&L: -$712.68 (-9.02%)
+- Notes: NVDA opened Jun 25 at ~$199 (borderline), fell to $194.76 intraday (-2.13% on day). Manual -7% cut rule triggered. Trailing stop cc08a04d canceled; market sell 6acd5315 filled $194.33 × 37. Tech sector now 1/2 consecutive failures (AAPL stop-out was profitable, so counter resets). No sector exit required yet.
+- Order ID: 6acd5315 (sell)
