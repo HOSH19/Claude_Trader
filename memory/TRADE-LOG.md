@@ -620,3 +620,16 @@ Append new entries below. Two kinds of entries get added here:
 - Realized P&L: -$712.68 (-9.02%)
 - Notes: NVDA opened Jun 25 at ~$199 (borderline), fell to $194.76 intraday (-2.13% on day). Manual -7% cut rule triggered. Trailing stop cc08a04d canceled; market sell 6acd5315 filled $194.33 × 37. Tech sector now 1/2 consecutive failures (AAPL stop-out was profitable, so counter resets). No sector exit required yet.
 - Order ID: 6acd5315 (sell)
+
+---
+
+### Jun 25 — EOD Snapshot (Day 44, Thursday)
+**Portfolio:** $98,536.27 | **Cash:** $75,306.80 (76.4%) | **Day P&L:** -$749.90 (-0.76%) | **Phase P&L:** -$1,463.73 (-1.46%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $227.36 | -2.95% | -$224.80 (-2.83%) | $218.18 (HWM $242.42) |
+| GS | 7 | $1,091.00 | $1,065.09 | -1.10% | -$181.37 (-2.38%) | $994.73 (HWM $1,105.25) |
+| JPM | 24 | $322.67 | $335.15 | +0.51% | +$299.52 (+3.87%) | $309.10 (HWM $343.45) |
+
+**Notes:** Day 44 EOD (Thursday). Three trades today: AAPL trailing stop triggered (~$285.88 fill, +$266.00 +3.44% realized) and NVDA manually cut at $194.33 per -7% rule (-$712.68, -9.02% realized), followed by GS entry (7 shares @ $1,091.00, SpaceX IB pipeline thesis). Net realized today: -$446.68. JPM the lone gainer (+0.51% to $335.15, +3.87% unrealized, stop $309.10, HWM $343.45). AMZN -2.95% to $227.36 (-2.83% unrealized, stop $218.18, HWM $242.42) — watching closely; nearing -7% manual cut at $217.59. GS entered at $1,091 and closed -1.10% at $1,065.09 (-2.38% unrealized, stop $994.73, HWM $1,105.25). Portfolio drops to 23.6% deployed vs 80% target — $75.3K idle remains critical issue. Week: 2 buys used (AMZN, GS), 1 buy slot remaining. Friday pre-market: weekly review + must identify 2-3 candidates to reduce cash drag entering next week (3 fresh buy slots reset).
