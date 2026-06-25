@@ -568,3 +568,22 @@ Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider
 - NVDA cut ($198.64) takes priority over GS entry if market opens weak
 - 2 weekly buy slots remaining; GS uses slot #2
 - Target entry: 7 shares × ~$1,080 limit order
+
+### Afternoon Addendum — 2026-06-25 Midday Scan
+
+**Account:** Equity $98,717.26 | Cash $75,306.80 | DD from session-start: -0.57% (no halt)
+
+**Positions (midday):**
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop | Status |
+|--------|--------|-------|---------|-----------|------|--------|
+| AMZN | 34 | $233.97 | $228.39 | -$189.95 (-2.39%) | $218.18 (HWM $242.42) | Watching |
+| GS | 7 | $1,091.00 | $1,079.74 | -$78.82 (-1.03%) | $994.73 (HWM $1,105.25) | Holding |
+| JPM | 24 | $322.67 | $336.84 | +$340.09 (+4.39%) | $309.10 (HWM $343.45) | ✅ Strong |
+
+**Checks:**
+- DD halt: -0.57% → CLEAR
+- Cut losers (-7%): none triggered
+- Stop tighten (+15/+20%): none triggered
+- AMZN Tavily check (down -2.51% intraday on positive market day): No thesis break. Prime Day 2026 running Jun 23–26. No adverse news. Day range $226.05–$232.32 — normal volatility. AWS Graviton5/Meta thesis intact.
+
+**Verdict:** No action. All 3 positions within rules.
