@@ -633,3 +633,16 @@ Append new entries below. Two kinds of entries get added here:
 | JPM | 24 | $322.67 | $335.15 | +0.51% | +$299.52 (+3.87%) | $309.10 (HWM $343.45) |
 
 **Notes:** Day 44 EOD (Thursday). Three trades today: AAPL trailing stop triggered (~$285.88 fill, +$266.00 +3.44% realized) and NVDA manually cut at $194.33 per -7% rule (-$712.68, -9.02% realized), followed by GS entry (7 shares @ $1,091.00, SpaceX IB pipeline thesis). Net realized today: -$446.68. JPM the lone gainer (+0.51% to $335.15, +3.87% unrealized, stop $309.10, HWM $343.45). AMZN -2.95% to $227.36 (-2.83% unrealized, stop $218.18, HWM $242.42) — watching closely; nearing -7% manual cut at $217.59. GS entered at $1,091 and closed -1.10% at $1,065.09 (-2.38% unrealized, stop $994.73, HWM $1,105.25). Portfolio drops to 23.6% deployed vs 80% target — $75.3K idle remains critical issue. Week: 2 buys used (AMZN, GS), 1 buy slot remaining. Friday pre-market: weekly review + must identify 2-3 candidates to reduce cash drag entering next week (3 fresh buy slots reset).
+
+---
+
+### Jun 26 — EOD Snapshot (Day 45, Friday)
+**Portfolio:** $98,196.64 | **Cash:** $75,306.77 (76.7%) | **Day P&L:** -$339.63 (-0.34%) | **Phase P&L:** -$1,803.36 (-1.80%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $231.56 | +2.01% | -$81.96 (-1.03%) | $218.18 (HWM $242.42) |
+| GS | 7 | $1,091.00 | $1,019.61 | -4.27% | -$499.73 (-6.54%) | $994.73 (HWM $1,105.25) |
+| JPM | 24 | $322.67 | $328.53 | -1.97% | +$140.64 (+1.82%) | $309.10 (HWM $343.45) |
+
+**Notes:** Day 45 EOD (Friday). No new trades today. Portfolio declined -$339.63 (-0.34%) as Finance sector weakness continued across all three positions. GS suffered -4.27% to $1,019.61 (-6.54% unrealized from entry) — CRITICAL: -7% manual cut trigger is $1,014.63, only $4.98 away; if GS opens Monday at or below $1,014.63, cut immediately. AMZN recovered +2.01% to $231.56 but remains -1.03% from entry; stop $218.18 (HWM $242.42) — watching for -7% trigger at $217.59. JPM -1.97% to $328.53 (+1.82% unrealized, stop $309.10, HWM $343.45) — Finance sector broadly weak. Portfolio at 23.3% deployed ($22.9K of $98.2K) vs 80% target; $75.3K idle. Week closed with 2 buys used (AMZN, GS), 3 fresh buy slots reset for next week. Monday priority: immediate GS open-price check (cut if ≤$1,014.63), weekly review, and fresh buy candidates to reduce cash drag.
