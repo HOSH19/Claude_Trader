@@ -2,6 +2,102 @@
 
 ---
 
+## 2026-06-26 (Day 45, Friday — Pre-Market)
+
+### Account Snapshot
+- **Equity:** $98,535.75 | **Cash:** $75,306.77 (76.4%) | **DT count:** 0
+- **Deployed:** $23,228.98 (23.6%) — severely underdeployed vs 80% target
+- **Phase P&L:** -$1,463.73 (-1.46%) | **Week trades:** 2/3 (1 slot remaining, but no qualifying setup)
+- **DD from session-start:** +$12.13 (+0.01%) — DD halt NOT triggered
+
+### Open Positions
+| Ticker | Shares | Entry | Last | Unreal P&L | Stop | HWM | -7% Cut |
+|--------|--------|-------|------|------------|------|-----|---------|
+| AMZN | 34 | $233.97 | $227.01 | -$238.06 (-2.99%) | $218.18 | $242.42 | $217.59 ⚠️ |
+| GS | 7 | $1,091.00 | $1,065.09 | -$189.00 (-2.48%) | $994.73 | $1,105.25 | $1,014.63 |
+| JPM | 24 | $322.67 | $335.12 | +$319.92 (+4.13%) | $309.10 | $343.45 | $299.88 |
+
+### Market Context
+- **WTI:** ~$70.12-70.74 (-2.5%) | **Brent:** ~$73.37-73.79 (-2.5%); Brent -20.11% past month
+  - Source: tradingeconomics.com/commodity/brent-crude-oil
+- **SPX futures:** 7,378.75 (-0.60%) | **NASDAQ futures:** -1.32% — risk-off Friday open
+  - Source: markets.businessinsider.com/premarket
+- **VIX:** 19.66 (+4.08% from 18.89 close) — elevated, above 19 threshold
+  - Source: marketwatch.com/investing/index/vix
+- **Earnings today:** APOG (minor, no universe exposure); no major universe earnings
+- **Economic calendar:** U Mich Sentiment Final 10AM EDT (risk event today); Core PCE Jun 29; Jobs Jul 3
+- **Tech catalyst:** ADBE -6.41% unusual volume today, tech spillover into Asia (Bloomberg TV Jun 26)
+- **Analyst:** AAPL downgrade reiterated (Truist); Morgan Stanley downgraded (Truist)
+
+### Sector ETF Ranking (YTD as of Jun 24)
+| Rank | Sector | ETF | YTD |
+|------|--------|-----|-----|
+| 1 | Technology | XLK | +27.45% |
+| 2 | Energy | XLE | +21.46% |
+| 3 | Industrials | XLI | +16.79% |
+| 4 | Consumer Staples | XLP | +10.08% |
+| 5 | Utilities | XLU | +8.11% |
+| 6 | Healthcare | XLV | -0.09% |
+| 7 | Financials | XLF | -1.07% |
+
+Source: totalrealreturns.com (as of Jun 24 2026)
+
+### Holdings News Check
+- **AMZN:** Prime Day 2026 runs Jun 23–26 — ENDS TODAY. Sell-the-news risk elevated. Analyst $313 PT maintained. Stock -18% from May highs. AWS thesis intact. Current $226.97 vs -7% cut $217.59 — buffer only $9.38. Monitor closely at open. (fool.com Jun 24; x.com/marketwirenews Jun 25)
+- **GS:** SpaceX IPO launched as lead underwriter — GS stock jumped +2.9% on SpaceX debut (largest IPO in US history). Q1 2026 revenue +14.4% YoY ($17.23B, beat by 1%). Tower View Wealth Management purchased GS shares Jun 26. SpaceX thesis actively playing out. Q2 earnings ~mid-July. (stockstory.org; marketbeat.com Jun 26)
+- **JPM:** $50B buyback authorized + Q3 dividend hike to $1.65 (from $1.50) — hit all-time high on this news. Raised S&P 500 year-end target to 7,800. Q2 earnings call July 14. New co-presidents appointed (Doug Petno, Troy Rohrbaugh). Finance thesis very strong. (benzinga.com; reuters.com Jun 24)
+
+### Candidate Scoring Table (Full Universe)
+*Sector tiers: XLK +27.45% = Top | XLE +21.46% = Top | XLI +16.79% = Top | XLV -0.09% = Bottom | XLF -1.07% = Bottom*
+*Volume scoring: <1.0x = 0 | 1.0-1.5x = 1 | >1.5x = 2*
+*Setup scoring: dist ≤5% from SMA20 = 2 | 5-10% above = 1 | >10% above = 0*
+
+| Ticker | Total | Cat | Sec | Setup | Vol | R:R | Dist SMA | Mom5d | VolRatio | Result |
+|--------|-------|-----|-----|-------|-----|-----|----------|-------|----------|--------|
+| AAPL | 8/10 | 0 | 2 | 2 | 2 | 2 | -8.2% | -7.0% | 1.90x | FAIL gate — no positive catalyst (downgrade reiterated); recently stopped out |
+| MSFT | 7/10 | 0 | 2 | 2 | 2 | 1 | -12.4% | -6.9% | 1.54x | FAIL gate — no catalyst; recently stopped out |
+| GOOGL | 7/10 | 1 | 2 | 2 | 1 | 1 | -5.4% | -5.5% | 1.21x | FAIL — no specific catalyst today; negative 5d momentum |
+| NVDA | — | — | — | — | — | — | -6.3% | -4.4% | 0.89x | SKIP — cut 1 day ago; no new catalyst |
+| META | 6/10 | 0 | 2 | 2 | 0 | 2 | -7.6% | -4.4% | 0.89x | FAIL score <7 |
+| AMZN (held) | — | — | — | — | — | — | -7.8% | -4.4% | 1.53x | HELD — monitor Prime Day sell-the-news |
+| TSLA | 3/10 | 0 | 2 | 2 | 0 | 1 | -7.3% | -5.4% | 0.66x | FAIL |
+| AMD | 5/10 | 0 | 2 | 2 | 0 | 1 | +4.0% | +3.9% | 0.87x | FAIL — no catalyst |
+| AVGO | 4/10 | 0 | 2 | 2 | 0 | 0 | -6.8% | -3.6% | 0.63x | FAIL |
+| TSM | 6/10 | 0 | 2 | 2 | 1 | 1 | +0.3% | +0.7% | 1.07x | FAIL score <7 |
+| JPM (held) | 5/10 | 2 | 0 | 1 | 1 | 1 | +5.9% | +0.5% | 1.03x | HELD — sector score kills new adds; existing position strong |
+| GS (held) | 5/10 | 2 | 0 | 2 | 0 | 1 | +0.5% | -3.1% | 0.81x | HELD — SpaceX IPO catalyst active; sector score kills new adds |
+| V | 2/10 | 0 | 0 | 2 | 0 | 0 | +1.9% | 0.0% | 0.81x | FAIL |
+| MA | 2/10 | 0 | 0 | 2 | 0 | 0 | -0.0% | -0.8% | 0.90x | FAIL |
+| XOM | 5/10 | 0 | 2 | 2 | 0 | 1 | -5.3% | -2.3% | 0.74x | FAIL — no catalyst, oil -2.5% today |
+| CVX | 5/10 | 0 | 2 | 2 | 0 | 1 | -5.6% | -3.0% | 0.88x | FAIL — stale Iran deal catalyst |
+| UNH | 2/10 | 0 | 0 | 2 | 0 | 0 | — | — | — | FAIL |
+| JNJ | 2/10 | 0 | 0 | 2 | 0 | 0 | — | — | — | FAIL |
+| SPY | 4/10 | 0 | 1 | 2 | 1 | 0 | — | — | — | FAIL |
+| QQQ | 4/10 | 0 | 2 | — | — | — | — | — | — | FAIL |
+
+**No candidate scored ≥7/10 with a confirmed specific catalyst. Decision defaults to HOLD.**
+
+### Risk Factors
+1. **AMZN sell-the-news (HIGH):** Prime Day ends today (Jun 23–26). Stock already -2.99% unrealized. -7% manual cut trigger at $217.59 — only $9.38 buffer at current $226.97. If SPX opens -0.6% and AMZN leads lower, cut could trigger at open.
+2. **VIX elevated (HIGH):** 19.66 (+4.08%), above 19 threshold used for conditional buys. Market is pricing in uncertainty.
+3. **Broad tech selloff continuing (HIGH):** ADBE -6.41% unusual volume today; NASDAQ futures -1.32%; most tech names showing -4% to -7% 5-day momentum.
+4. **U Mich Sentiment 10AM risk event (MEDIUM):** Prior 48.9, new reading TBD. A miss could deepen Friday selloff.
+5. **Oil freefall (MEDIUM):** WTI -2.5% today, Brent -20.11% past month. No direct holdings but signals macro fragility.
+6. **Core PCE Jun 29 (MEDIUM):** Weekend risk — inflation data could gap market Monday morning.
+7. **Underdeployment (ONGOING):** 23.6% deployed vs 80% target. $75.3K idle. Next week gets 3 fresh buy slots. GS/JPM thesis strengthening; look for specific tech catalyst pullback entry.
+
+### Decision
+**HOLD — no new trades**
+- No universe candidate scores ≥7 with specific confirmed catalyst
+- Risk-off open: VIX 19.66, SPX -0.60%, NASDAQ -1.32% premarket
+- AMZN: Prime Day ending = sell-the-news risk; monitor for -7% cut at open
+- GS: SpaceX IPO thesis actively playing out (+2.9% on SpaceX debut); hold
+- JPM: $50B buyback + dividend hike = strongest open position; hold
+- Patience > activity — wait for week reset (3 slots Mon Jun 30) and lower-risk tech entry
+- 1 weekly slot preserved if intraday setup emerges (not expected given current environment)
+
+---
+
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)
 
 **Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
