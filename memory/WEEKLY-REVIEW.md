@@ -366,6 +366,72 @@ Template for each entry:
 
 ---
 
+## Week ending 2026-06-26
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,858.11 (Jun 18 close; Jun 19 Juneteenth holiday) |
+| Ending portfolio | $98,239.32 |
+| Week return | -$1,618.79 (-1.62%) |
+| S&P 500 week | ~-1.70% (7,484→7,357) |
+| Bot vs S&P | +0.08% |
+| Trades | 5 (W:1 / L:2 / open:2) |
+| Win rate | 33% (1/3 closed) |
+| Best trade | AAPL +$266 (+3.44%) |
+| Worst trade | NVDA -$712.68 (-9.02%) |
+| Profit factor | 0.21 |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| MSFT | $396.72 (19 sh) | ~$368.40 | -$538.08 (-7.14%) | Trailing stop triggered Jun 22; broad tech sell-off; 2nd MSFT stop-out |
+| AAPL | $276.38 (28 sh) | ~$285.88 | +$266.00 (+3.44%) | Trailing stop triggered Jun 25; held 53 days; locked in small profit |
+| NVDA | $213.59 (37 sh) | $194.33 | -$712.68 (-9.02%) | Manual -7% cut Jun 25; 2nd NVDA stop-out overall; violated sector rule |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $233.97 (34 sh) | $231.91 | -$70.05 (-0.88%) | $218.18 (HWM $242.42) |
+| GS | $1,091.00 (7 sh) | $1,021.00 | -$490.00 (-6.42%) | $994.73 (HWM $1,105.25) ⚠️ -7% cut at $1,014.63 ($6 buffer) |
+| JPM | $322.67 (24 sh) | $329.19 | +$156.48 (+2.02%) | $309.10 (HWM $343.45) |
+
+### What Worked
+- AAPL GTC trailing stop executed perfectly — 53-day hold, locked in +3.44% realized despite -9.3% pullback from HWM $317.40
+- JPM Finance thesis intact; +2.02% unrealized; Q2 earnings Jul 14 still primary catalyst
+- AMZN AWS Graviton5/Meta deal catalyst held; position weathered tech sell-off at -0.88% unrealized
+- NVDA manual cut rule enforced at $194.33; -9.02% but prevented deeper loss from trailing stop at $192.59
+- Bot slightly outperformed S&P this week (+0.08% relative alpha); rare positive alpha week
+
+### What Didn't Work
+- 10th consecutive week below 80% deployment: 23.3% deployed ($22.9K / $98.2K); $75.3K idle
+- NVDA 2nd re-entry failed: entered Jun 5 at $213.59 after first stop May 26 at $212.71; sector rule ("exit after 2 consecutive fails") was violated — AVBO + MSFT (stop Jun 22) were consecutive XLK fails before NVDA re-entry
+- GS entry immediately underwater: -6.42% unrealized after 2 sessions; Finance sector YTD weakest; catalyst (SpaceX IB fees) stale; -7% cut trigger ($1,014.63) only $6 away at Friday close
+- Phase P&L -$1,760.68 (-1.76%): 10 weeks in, below starting capital; chronic underdeployment is compounding drag
+- Three realized losses in one week (-$538 MSFT, -$712 NVDA, +$266 AAPL net): -$984.76 combined realized losses
+
+### Key Lessons
+- Sector exit rule ("exit after 2 consecutive fails") continues to be the most violated rule: XLK had GOOGL + AVBO two consecutive fails (Jun 2 + Jun 4); should have exited ALL tech; instead re-entered NVDA Jun 5 (same week) and MSFT Jun 15 — both subsequently stopped out
+- NVDA is a chronically failing position: stopped out May 26 (+$534), stopped out Jun 25 (-$713), re-entries ONLY when risk/reward is clear and the 2-consecutive-fail counter is reset
+- GS: entry into Finance (XLF = YTD weakest major sector) with volume 0.80x (just at threshold) and -1.3% momentum was marginal; SpaceX catalyst may be priced in; high single-stock risk at $1,091 entry into a -4%+ move first 2 days
+- Phase P&L inflection: now at -1.76% while S&P is +7.48% YTD; the cumulative underperformance is structural (underdeployment) not tactical (stock selection alone)
+- 10 weeks of underdeployment is the #1 structural failure — even with perfect stock selection at 23% deployed, alpha is constrained to 23% of the portfolio
+
+### Adjustments for Next Week
+- **GS (CRITICAL):** -7% manual cut trigger $1,014.63 vs Friday close $1,021.00 — $6 buffer only; if GS opens at or below $1,014.63 Monday → CUT immediately; do NOT hold hoping for recovery
+- **AMZN:** AWS thesis intact; hold; -7% cut at $217.59; stop $218.18 is auto-protection; Prime Day revenue boost expected in Q2 (~Jul 30 earnings)
+- **JPM:** Finance thesis working; hold; Q2 earnings Jul 14 is crystallization event; stop $309.10 gives adequate protection
+- **Deploy aggressively post-GS decision:** If GS cut Monday, 3 buy slots + $82K+ cash; target 40-50% deployed by EOW; scout MSFT or tech ONLY after confirming sector momentum reset; no NVDA re-entry
+- **Sector rule enforcement:** Tech (XLK) must prove 2 consecutive successful trades (non-AAPL/NVDA positions) before any new tech add; Finance (XLF) needs GS resolution before new Finance entries
+- **Avoid repeating losers:** NVDA is 0-for-2; do not re-enter until June price action resolves and sector momentum confirms; same for GS if cut
+
+### Overall Grade: D-
+
+---
+
 ## Week ending 2026-06-05
 
 ### Stats
