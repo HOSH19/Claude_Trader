@@ -587,3 +587,26 @@ Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider
 - AMZN Tavily check (down -2.51% intraday on positive market day): No thesis break. Prime Day 2026 running Jun 23–26. No adverse news. Day range $226.05–$232.32 — normal volatility. AWS Graviton5/Meta thesis intact.
 
 **Verdict:** No action. All 3 positions within rules.
+
+---
+
+## 2026-06-26 — Midday Scan (Day 45, Friday)
+
+**Account:** Equity $98,339.94 | Cash $75,306.77 | Session-start equity (last_equity): $98,523.62 | DD: -0.18% — no halt
+**Positions:** 3 open | **Weekly buys:** 2/3 used (AMZN Jun 23, GS Jun 25)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop | Status |
+|--------|--------|-------|---------|-----------|------|--------|
+| AMZN | 34 | $233.97 | $231.94 | -$69.08 (-0.87%) | $218.18 (HWM $242.42) | ✅ Within rules |
+| GS | 7 | $1,091.00 | $1,030.34 | -$424.62 (-5.56%) | $994.73 (HWM $1,105.25) | ⚠️ WATCH: -7% cut at $1,014.63, buffer $15.71 (1.52%) |
+| JPM | 24 | $322.67 | $330.73 | +$193.44 (+2.50%) | $309.10 (HWM $343.45) | ✅ Finance thesis intact |
+
+**Checks:**
+- DD halt: -0.18% from $98,523.62 → CLEAR
+- Cut losers (-7%): none triggered (GS -5.56%, buffer $15.71 to cut trigger $1,014.63)
+- Stop tighten (+15/+20%): none — no position at +15%
+- GS Tavily check (down -3.26% today): Dividend increase to $5.00/share (CNBC Jun 24); Tower View Wealth bought shares today; analyst optimism. SpaceX IB Q2 thesis intact. No thesis break.
+- AMZN: AWS Graviton5/Meta thesis intact; Prime Day ended Jun 26. -0.87% — normal.
+- JPM: Finance thesis intact, +2.50% unrealized.
+
+**Verdict:** No action. All 3 positions within rules. GS on close watch — 1.52% buffer to -7% manual cut.
