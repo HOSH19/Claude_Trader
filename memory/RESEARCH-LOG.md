@@ -125,6 +125,25 @@
 - GS monitoring takes priority at open (cut if ≤$1,014.63)
 - Patience on META/MSFT until bars data recovers
 
+### Afternoon Addendum — 2026-06-29 Midday Scan
+
+**Account:** Equity $98,646 | Cash $68,338 | DD from session-start: +0.28% — no halt
+
+**Positions midday:**
+| Ticker | Current | Unreal % | Stop | Status |
+|--------|---------|----------|------|--------|
+| AMZN | $240.86 | +2.94% | $227.27 (HWM $252.53) | ✅ |
+| GS | $1,023.42 | -6.19% | $994.73 (HWM $1,105.25) | ⚠️ |
+| JPM | $332.11 | +2.93% | $309.10 (HWM $343.45) | ✅ |
+| NVDA | $194.02 | +0.23% | $176.54 / $174.67 (HWM $196.15) | ✅ |
+
+**Actions taken:**
+- NVDA filled at market open $193.58 (limit $215 filled below limit). Added 3-share trailing stop (9e459b0f, HWM $194.08, stop $174.67) to cover position fully alongside 33-share stop (5428cc61).
+- No cuts: GS at -6.19% (buffer $8.79 above $1,014.63 trigger); no thesis break.
+- No stop tightening: no position at +15%/+20%.
+
+**GS thesis check:** SpaceX IPO debuted today as largest IPO in US history with Goldman as lead underwriter — thesis crystallizing. Morgan Stanley raised PT to $1,099. GS recovering +0.37% intraday. HOLD. Cut trigger $1,014.63 unchanged.
+
 ---
 
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)

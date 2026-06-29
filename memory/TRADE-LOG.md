@@ -649,14 +649,13 @@ Append new entries below. Two kinds of entries get added here:
 
 ---
 
-### 2026-06-29 — LIMIT ORDER PLACED: NVDA (pending fill)
-- Order ID: 7262a630
-- Shares: 36 @ limit $215 (day TIF, expires EOD Jun 29)
-- Stop: 10% trailing GTC (to be placed upon fill confirmation — midday routine)
-- Target: $258.00 (+20% from $215)
+### 2026-06-29 — BUY NVDA (filled at market open)
+- Shares: 36
+- Entry: $193.58 (limit $215 filled at market; NVDA opened at ~$193 well below limit)
+- Stop: 10% trailing GTC | 33-share stop: HWM $196.15 → stop $176.535 (order 5428cc61) | 3-share stop: HWM $194.08 → stop $174.672 (order 9e459b0f, placed midday)
+- Target: $232.30 (+20% from actual entry $193.58)
 - Thesis: Re-entry on confirmed analyst upgrade (AI infrastructure + margin resilience); NVDA bounced from $194 cut Jun 25; AI capex supercycle intact; SPX +1.35% risk-on open
 - Catalyst: Analyst upgrade Jun 29 (seekingalpha.com); AI infrastructure + margin resilience
 - Sector: Tech (XLK — #1 YTD)
 - R:R: 2.0:1 | Score: 8/10
-- Gate: 4 positions after fill ✅ | 1/3 weekly slots ✅ | $7,740 = 7.87% ≤ 8% ✅ | DT:0 ✅ | SPX up ✅ | VIX ≤19 ✅
-- Status: PENDING — placed pre-market 07:21 ET; fills if NVDA ≤$215 during regular session
+- Order ID: 7262a630 (buy) | 5428cc61 (33-share trail stop) | 9e459b0f (3-share trail stop)
