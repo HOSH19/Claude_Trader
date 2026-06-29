@@ -646,3 +646,17 @@ Append new entries below. Two kinds of entries get added here:
 | JPM | 24 | $322.67 | $328.53 | -1.97% | +$140.64 (+1.82%) | $309.10 (HWM $343.45) |
 
 **Notes:** Day 45 EOD (Friday). No new trades today. Portfolio declined -$339.63 (-0.34%) as Finance sector weakness continued across all three positions. GS suffered -4.27% to $1,019.61 (-6.54% unrealized from entry) — CRITICAL: -7% manual cut trigger is $1,014.63, only $4.98 away; if GS opens Monday at or below $1,014.63, cut immediately. AMZN recovered +2.01% to $231.56 but remains -1.03% from entry; stop $218.18 (HWM $242.42) — watching for -7% trigger at $217.59. JPM -1.97% to $328.53 (+1.82% unrealized, stop $309.10, HWM $343.45) — Finance sector broadly weak. Portfolio at 23.3% deployed ($22.9K of $98.2K) vs 80% target; $75.3K idle. Week closed with 2 buys used (AMZN, GS), 3 fresh buy slots reset for next week. Monday priority: immediate GS open-price check (cut if ≤$1,014.63), weekly review, and fresh buy candidates to reduce cash drag.
+
+---
+
+### 2026-06-29 — LIMIT ORDER PLACED: NVDA (pending fill)
+- Order ID: 7262a630
+- Shares: 36 @ limit $215 (day TIF, expires EOD Jun 29)
+- Stop: 10% trailing GTC (to be placed upon fill confirmation — midday routine)
+- Target: $258.00 (+20% from $215)
+- Thesis: Re-entry on confirmed analyst upgrade (AI infrastructure + margin resilience); NVDA bounced from $194 cut Jun 25; AI capex supercycle intact; SPX +1.35% risk-on open
+- Catalyst: Analyst upgrade Jun 29 (seekingalpha.com); AI infrastructure + margin resilience
+- Sector: Tech (XLK — #1 YTD)
+- R:R: 2.0:1 | Score: 8/10
+- Gate: 4 positions after fill ✅ | 1/3 weekly slots ✅ | $7,740 = 7.87% ≤ 8% ✅ | DT:0 ✅ | SPX up ✅ | VIX ≤19 ✅
+- Status: PENDING — placed pre-market 07:21 ET; fills if NVDA ≤$215 during regular session
