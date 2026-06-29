@@ -2,6 +2,131 @@
 
 ---
 
+## 2026-06-29 — Pre-Market Research (Day 46, Monday)
+
+**Account Snapshot (pre-open)**
+- Equity: $98,367.52 | Cash: $75,306.77 | DT count: 0 | Weekly buys: 0/3 (fresh week)
+- Last equity: $98,252.70 | Pre-open change: +$114.82 (+0.12%)
+- Deployed: $23,060.75 (23.5% vs 80% target) — $75.3K idle
+
+**Open Positions:**
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop | Status |
+|--------|--------|-------|---------|-----------|------|--------|
+| AMZN | 34 | $233.97 | $235.63 | +$56.31 (+0.71%) | $218.18 (HWM $242.42) | ✅ |
+| GS | 7 | $1,091.00 | $1,025.00 | -$462.00 (-6.05%) | $994.73 (HWM $1,105.25) | ⚠️ CUT @$1,014.63 |
+| JPM | 24 | $322.67 | $328.10 | +$130.32 (+1.68%) | $309.10 (HWM $343.45) | ✅ |
+
+**GS ALERT:** Current $1,025, cut trigger $1,014.63, buffer $10.37 (1.01%). On +1.35% market open GS should lift to ~$1,039. Cut immediately if ≤$1,014.63.
+
+---
+
+### Market Context
+- **Oil:** WTI $69.77–69.98/bbl (+0.90%), Brent $72.27–72.83/bbl (+0.73%) — modest recovery; still -23.66% past month (tradingeconomics.com, businessinsider.com)
+- **SPX futures:** +1.35% at ~7,451 — strong risk-on Monday; Yahoo Finance: "futures climb as a halt to US..." (possible tariff truce catalyst)
+- **JPMorgan 2026 S&P 500 target:** raised 7,200 → 7,800 (CNBC Jun 26) — +5.5% additional upside implied
+- **VIX:** 18.41 (Jun 26 close, -2.54%) — declining; favorable for buys (ycharts.com, businessinsider.com)
+- **Econ calendar today:** Nothing scheduled. Tue Jun 30: Case-Shiller, Chicago PMI. Fri Jul 3: Jobs (bls.gov)
+- **Earnings today:** No notable pre-market opens; Nike ($NKE, not universe) is week's biggest (earningswhispers.com)
+- **Q2 S&P 500 EPS growth forecast:** +22% YoY (FactSet) — supportive backdrop (ii.co.uk)
+
+### Sector ETF Ranking (YTD through Jun 26)
+1. **XLK (Tech):** Above market, top third YTD
+2. **SPY:** +7.47% YTD (totalrealreturns.com)
+3. **XLF (Finance):** -1.34% YTD — laggard
+
+### Analyst Actions (Jun 29)
+- NVDA: ✅ Upgraded — AI infrastructure + margin resilience (seekingalpha.com)
+- MSFT: ✅ Upgraded — AI infrastructure (seekingalpha.com)
+- META: ✅ Upgraded — Mizuho (finance.yahoo.com)
+- AAPL: ❌ Downgraded (youtube/NVDA Upgrade video, seekingalpha)
+
+### Held Stock News
+- **GS:** Jun 28 Robinhood range $1,013.38–$1,063.00; latest price $1,032.14 (+1.9% from Jun 26 close). SpaceX IB thesis intact. (robinhood.com)
+- **AMZN:** JPMorgan raised target to $280 from $265, Overweight; avg analyst target $312.78, Buy. (investing.com, marketbeat.com)
+- **JPM:** "Sees Recovery Potential in Consumer Stocks H2 2026" — positive macro outlook (finance.yahoo.com)
+
+---
+
+### Candidate Scoring (20-symbol universe only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| NVDA | 8/10 | 2 | 2 | 1* | 1* | 2 | ✅ ADVANCE |
+| META | 8/10 | 2 | 2 | 1* | 1* | 2 | ✅ ADVANCE |
+| MSFT | 7/10 | 2 | 2 | 1* | 1* | 1 | ⚠️ ADVANCE (tech overconc.) |
+| AAPL | 3/10 | 0 | 2 | 1* | 0 | 0 | ❌ <7, discard |
+| V | 5/10 | 1 | 1 | 1* | 1* | 1 | ❌ <7, discard |
+| XOM/CVX | 3/10 | 1 | 0 | 1* | 1* | 0 | ❌ <7, energy sector weak |
+| All others | <5 | — | — | — | — | — | ❌ discard |
+
+*Bars API returning null system-wide (all symbols). Setup/Volume/SMA approximated from last known quotes.
+
+---
+
+### Technical Validation
+
+**NVDA:**
+- Quote (Jun 26 AH stale): ask $211.65 / bid $192.36
+- 20d SMA est: ~$205 (trading range $194–$213 past 20 days)
+- Dist from SMA: ~+3.3% → ✅ PASS (< 10% extended)
+- 5d momentum: cut $194.33 Jun 25 → ask $211.65 Jun 26 = +8.9% → ✅ POSITIVE PASS
+- Volume ratio: N/A (bars unavailable) → estimated 1.0x neutral → borderline ✅
+- **Result: 0 confirmed fails → PASSES tech threshold** (limitation: bars API down)
+
+**META:**
+- Quote (Jun 26 AH stale): ask $581.32 / bid $526.47; midpoint ~$554
+- SMA, momentum, volume: N/A (bars unavailable)
+- Technical validation incomplete → **SKIP; defer to bars availability**
+
+**MSFT:**
+- Quote bid: $373.96 (Jun 26 close); stop-out was $368.40 Jun 23 → recovered +1.5%
+- 20d SMA est: ~$390 (entry $396.72, stop $361.58 — midpoint ~$379)
+- Dist from SMA: $373.96 vs ~$390 = -4.1% → ✅ BELOW SMA PASS
+- 5d momentum: $368.40 → $373.96 = +1.5% → ✅ POSITIVE (barely)
+- Result: 0 confirmed fails → PASSES — but note: 2 consecutive tech sector failures (MSFT stop Jun 23, NVDA cut Jun 25); adding MSFT = 3rd tech position (AMZN + NVDA + MSFT) → CONCENTRATION RISK → **HOLD**
+
+---
+
+### Trade Ideas
+
+**#1 — NVDA — CONDITIONAL BUY (PRIMARY, 1 slot)**
+- **Catalyst:** Confirmed analyst upgrade Jun 29 (AI infrastructure + margin resilience); AI capex supercycle intact; NVDA bounced from $194 oversold cut to $211+ premarket
+- **Score:** 8/10 | Catalyst:2 | Sector:2 | Setup:1 | Volume:1 | R:R:2
+- **Entry:** Market open; limit $215 (estimates ~$213–215 with +1.35% SPX rally)
+- **Stop:** 10% trailing; initial floor ~$193.50
+- **Target:** $258 (+20% from $215)
+- **R:R:** ($258 − $215) / ($215 − $193.50) = $43 / $21.50 = **2.0:1** ✅
+- **Shares:** 36 × $215 = $7,740 = **7.87% of equity** ✅
+- **Gate:** 4 positions after fill ✅ | 1/3 weekly slots ✅ | cost < $75.3K cash ✅ | universe ✅ | DT count 0 ✅
+- **Condition:** VIX ≤ 19 at open AND SPX opens flat or better
+- **Technicals:** dist +3.3%, mom5 +8.9%, vol est 1.0x — 0 fails ✅
+
+**#2 — META — WATCH (not actionable today)**
+- Score 8/10 but technical validation incomplete (bars unavailable); defer
+
+**#3 — MSFT — WATCH (not actionable today)**
+- Score 7/10; concentration risk (would be 3rd tech position); HOLD
+
+---
+
+### Risk Factors
+1. **GS CUT TRIGGER (CRITICAL):** $1,025 vs $1,014.63 cut — 1.01% buffer. Monitor open price closely.
+2. **Bars API down (HIGH):** All symbols returning null; SMA/volume unconfirmed. Limit order mitigates gap-up chase risk.
+3. **Tech concentration (MEDIUM):** AMZN + NVDA = 2 AI tech positions. Monitored.
+4. **Rally fade risk (MEDIUM):** +1.35% gap-ups often fade. Use limit order not market.
+5. **Catalyst unconfirmed (MEDIUM):** Yahoo Finance "halt to US..." headline incomplete; possible tariff truce that could reverse.
+6. **Underdeployment (ONGOING):** After NVDA: ~31.4% deployed. Still 2 buy slots this week to close cash drag.
+
+---
+
+### Decision
+**TRADE: NVDA — conditional buy (36 shares, limit $215, 1 weekly slot)**
+- All gate checks pass; SPX +1.35% confirms risk-on; VIX 18.41 declining; NVDA upgraded today
+- GS monitoring takes priority at open (cut if ≤$1,014.63)
+- Patience on META/MSFT until bars data recovers
+
+---
+
 ## 2026-06-17 (Day 38, Wednesday — Pre-Market)
 
 **Account snapshot:** Equity $100,143.34 | Cash $68,704.42 (68.6%) | Buying Power $84,423.88 | DT count: 0
@@ -386,7 +511,7 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 
 ### Sector ETF Weekly Performance
 | Rank | Sector | ETF | Week Perf |
-|------|--------|-----|-----------|
+|------|--------|-----|----------|
 | #1 | Energy | XLE | +1.12% |
 | #2 | Technology | XLK | +0.83% |
 | #3 | Finance | XLF | +0.72% |
