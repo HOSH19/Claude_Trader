@@ -754,3 +754,103 @@ Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider
 - JPM: Finance thesis intact, +2.50% unrealized.
 
 **Verdict:** No action. All 3 positions within rules. GS on close watch — 1.52% buffer to -7% manual cut.
+
+---
+
+## 2026-06-30 (Day 47, Tuesday — Pre-Market)
+
+### Account Snapshot
+- **Equity:** $98,583.53 | **Cash:** $68,337.91 (69.3%) | **Buying Power:** $358,039.38
+- **Long market value:** $30,245.62 | **Deployment:** 30.7% (target 80%)
+- **Daytrade count:** 0 | **Weekly buy slots used:** 1/3 (NVDA Jun 29)
+- **Phase P&L:** -$1,416.47 (-1.42%)
+- **DD from session-start ($98,568.42):** +0.02% — no halt
+
+### Live Positions
+| Ticker | Shares | Entry | Current (premkt) | Unreal P&L | Stop | Status |
+|--------|--------|-------|-------------------|-----------|------|--------|
+| AMZN | 34 | $233.97 | $240.77 | +$231.29 (+2.91%) | $227.27 (HWM $252.53) | ✅ Holding |
+| GS | 7 | $1,091.00 | $1,010.99 | -$560.07 (-7.33%) | $994.73 (HWM $1,105.25) | 🔴 CRITICAL — past -7% manual cut trigger |
+| JPM | 24 | $322.67 | $330.01 | +$176.16 (+2.28%) | $309.10 (HWM $343.45) | ✅ Holding |
+| NVDA | 36 | $193.58 | $196.17 | +$93.27 (+1.34%) | $176.54 / $175.66 (dual stops, HWM $196.15) | ✅ Holding |
+
+**🔴 GS ALERT:** Unrealized P&L -7.33%, already past the -7% manual cut threshold ($1,014.63). Per Sell-Side Rules, this requires immediate close at market open regardless of trailing-stop level ($994.73 not yet hit). No thesis-break news found (Morgan Stanley raised PT to $1,099 from $1,021; dividend raised to $5.00/share Jun 24) — this is a discipline-rule cut, not a thesis failure. **Top priority action for market-open routine.**
+
+### Market Context
+- **Oil:** WTI ~$70.23–70.31, Brent ~$72.26–72.56 — roughly flat day-over-day, range-bound after recent -20%+ monthly decline (oilpriceapi.com, businessinsider.com)
+- **SPX futures:** +8.25 pts (7,508.50) — modest positive premarket lean (businessinsider.com)
+- **VIX:** 17.56, -4.6% from prior close — fear continuing to recede, favorable for risk-on (tradingview.com)
+- **Earnings BMO today:** None scheduled in universe (investing.com)
+- **Economic calendar:** No major CPI/PPI/FOMC/NFP release identified for today; light calendar
+- **S&P 500:** Closed at record high Jun 29 on Alphabet's Dow inclusion + broad tech strength
+
+### Sector ETF Ranking (week of Jun 23–30, YTD)
+| Rank | Sector | ETF | YTD | Notes |
+|------|--------|-----|-----|-------|
+| #1 | Technology | XLK | +20.46% | Continues to lead; Alphabet Dow addition reinforcing |
+| #2 | Energy | XLE | +7.47% | Oil flat today but down sharply over past month |
+| #3 | Healthcare | XLV | — (+3.03% this week) | One-week pop, no fresh universe-specific catalyst (UNH/JNJ earnings not until next month) |
+| Bottom | Financials | XLF | -1.34% (week) | GS/JPM sector weak this week despite GS PT raise |
+Source: totalrealreturns.com, chartmill.com
+
+### Candidate Scoring Table (20-symbol universe)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist/SMA20 | Mom5d | VolRat | Result |
+|--------|-------|----------|--------|-------|--------|-----|------------|-------|--------|--------|
+| AAPL | — | — | — | — | — | — | — | — | — | Not held, no fresh catalyst found — skip |
+| MSFT | — | — | — | — | — | — | — | — | — | Not held, no fresh catalyst found — skip |
+| **GOOGL** | **8/10** | **2** | **2** | **2** | **0** | **2** | -1.62% | +1.14% | 0.83x | **PASS** |
+| AMZN (held) | — | — | — | — | — | — | — | — | — | HELD — AWS thesis intact, +2.91% |
+| NVDA (held) | — | — | — | — | — | — | — | — | — | HELD — re-entry thesis intact, +1.34% |
+| META | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — no catalyst |
+| TSLA | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — no catalyst |
+| AMD | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — no catalyst |
+| AVGO | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — no catalyst |
+| TSM | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — no catalyst |
+| JPM (held) | — | — | — | — | — | — | — | — | — | HELD — Finance thesis intact, +2.28% |
+| GS (held) | — | — | — | — | — | — | — | — | — | HELD — 🔴 -7% CUT TRIGGER, see alert above |
+| V | 0/10 | 0 | 0 | — | — | — | — | — | — | FAIL — Finance sector weak (XLF -1.34% wk) |
+| MA | 0/10 | 0 | 0 | — | — | — | — | — | — | FAIL — Finance sector weak |
+| XOM | 0/10 | 0 | 1 | — | — | — | — | — | — | FAIL — no fresh catalyst, oil flat/range-bound |
+| CVX | 0/10 | 0 | 1 | — | — | — | — | — | — | FAIL — negative catalyst (oil-price pressure cited) |
+| UNH | 1/10 | 0 | 1 | — | — | — | — | — | — | FAIL — no near-term catalyst (earnings next month) |
+| JNJ | 1/10 | 0 | 1 | — | — | — | — | — | — | FAIL — no near-term catalyst (earnings next month) |
+| SPY | 0/10 | 0 | — | — | — | — | — | — | — | FAIL — index, no discrete catalyst |
+| QQQ | 0/10 | 0 | 2 | — | — | — | — | — | — | FAIL — index, no discrete catalyst |
+
+*GOOGL: Catalyst = confirmed — Alphabet replaced Verizon in the Dow Jones Industrial Average effective Jun 29 open (S&P Global/CNBC/WSJ); mechanical index-fund/ETF rebalancing buy pressure; stock +4.82% Jun 26→Jun29 close ($337.39→$353.65) on the news. Sector = Tech, #1 YTD. Setup = -1.62% below SMA20 (not extended). Volume = 0.83x avg (below 1.0x threshold, scores 0 despite passing the ≥0.8x technical pass/fail bar). R:R = 2.0:1.*
+
+### Technical Validation — GOOGL (Score 8/10) ✅ PASS
+- **Last close (Jun 29):** $353.65 | **SMA20:** $359.48
+- **Dist from SMA20:** -1.62% → at/below SMA → ✅ PASS
+- **5-day momentum:** +1.14% → positive → ✅ PASS
+- **Vol ratio:** 0.83x → ≥0.8 threshold → ✅ PASS
+- **Result:** 0 confirmed fails → PASSES all technical checks
+
+### Trade Idea — GOOGL
+
+**#1 — GOOGL — CONDITIONAL BUY (enter if SPX opens flat or better and no premarket reversal below $345)**
+- **Catalyst:** Confirmed — Alphabet added to the Dow Jones Industrial Average Jun 29, replacing Verizon; mechanical index/ETF rebalancing demand; stock +4.82% on the announcement day with above-recent-day volume.
+- **Score:** 8/10 | Catalyst: 2 | Sector: 2 | Setup: 2 | Volume: 0 | R:R: 2
+- **Entry:** ~$353–358 (market open; use $358 limit)
+- **Stop:** 10% trailing → initial floor ~$318.29
+- **Target:** $424.38 (+20% from $353.65)
+- **R:R:** ($424.38 − $353.65) / ($353.65 − $318.29) = $70.73 / $35.36 = **2.0:1** ✅
+- **Shares:** 22 × ~$354 = $7,788 = **7.90% of equity** — within 8% cap ✅
+- **Gate check:** 5 positions after fill (≤10 ✅, assuming GS cut executes first) | 2/3 weekly slots (≤3 ✅) | cost ≤ cash ($68.3K ✅) | universe ✅ | DD-halt not triggered ✅
+- **Condition:** Confirm GS -7% cut executes first (risk management, not a slot use); then GOOGL entry if SPX flat-or-better at open
+- **Technicals:** dist -1.62%, mom5 +1.14%, volrat 0.83x — all pass
+
+### Risk Factors
+1. **GS -7% CUT TRIGGER (CRITICAL, ACT IMMEDIATELY AT OPEN):** Unrealized -7.33%, past the -7% manual cut threshold ($1,014.63). No thesis break (PT raised to $1,099, dividend raised) — pure discipline rule. Close immediately at market open, cancel trailing stop order 319c2fb6. This is a risk-management action, NOT a weekly trade slot.
+2. **Volume confirmation soft on GOOGL (0.83x):** Below the 1.0x scoring threshold even though it clears the 0.8x technical pass bar — some conviction risk; watch opening volume before committing full size.
+3. **Financials sector broadly weak (XLF -1.34% this week):** JPM and GS both Finance; GS being cut reduces sector concentration risk, but JPM remains exposed.
+4. **NVDA dual trailing stops:** 33-share stop at $176.54 (HWM $196.15) and 3-share stop at $175.66 (HWM $195.18) — both well below current $196.17, no action needed but monitor.
+5. **Underdeployment ongoing:** 30.7% deployed vs 80% target. GOOGL entry (~7.9%) would partially offset the GS exit, but cash drag remains a persistent issue.
+6. **VIX declining (17.56, -4.6%):** Favorable risk backdrop, supports conditional entry.
+
+### Decision
+**ACTION REQUIRED: CUT GS at market open (-7% rule, not a trade slot) | CONDITIONAL BUY GOOGL — else HOLD**
+- GS cut is mandatory per Sell-Side Rules — execute regardless of GOOGL decision
+- GOOGL is the only ≥7/10 candidate with a confirmed, fresh catalyst (Dow inclusion) and full technical pass
+- 2 weekly buy slots remain after GOOGL (NVDA used 1/3 Jun 29); GS cut does not consume a slot
+- Patience > activity: GOOGL entry conditional on flat-or-better SPX open; no forced buy if market opens weak

@@ -65,8 +65,11 @@ case "$cmd" in
   bars)
     sym="${1:?usage: bars SYM [days]}"
     days="${2:-50}"
+    start="$(date -u -d "$((days * 2 + 10)) days ago" +%Y-%m-%dT00:00:00Z)"
+    end="$(date -u +%Y-%m-%dT00:00:00Z)"
     curl -fsS -H "$H_KEY" -H "$H_SEC" \
-      "$DATA/stocks/$sym/bars?timeframe=1Day&limit=$days&adjustment=split"
+      "$DATA/stocks/$sym/bars?timeframe=1Day&start=$start&end=$end&limit=$days&adjustment=split&sort=desc" \
+      | jq -c '.bars |= (reverse)'
     ;;
   *)
     echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all|bars> [args]" >&2
