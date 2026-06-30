@@ -683,3 +683,16 @@ Append new entries below. Two kinds of entries get added here:
 - Realized P&L: -$577.74 (-7.57%)
 - Notes: GS opened Jun 30 sharply lower at $1,008.82 (-7.53% unrealized), breaching the -7% manual cut threshold flagged as critical since Jun 26 EOD. Wide opening spread observed (bid $960.55 / ask $1,073.10, ~10.5%) — filled in 3 partial fills (5/7 then 7/7) over ~45s as spread normalized. Trailing stop 319c2fb6 canceled before market sell c2903e0f. Finance sector now 1/2 consecutive failures (JPM still held and profitable, so no sector exit yet).
 - Order ID: c2903e0f (sell)
+
+---
+
+### Jun 30 — EOD Snapshot (Day 47, Tuesday)
+**Portfolio:** $98,541.79 | **Cash:** $75,397.17 (76.5%) | **Day P&L:** -$69.84 (-0.07%) | **Phase P&L:** -$1,458.21 (-1.46%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $238.15 | -0.83% | +$142.06 (+1.79%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $327.22 | -0.66% | +$109.20 (+1.41%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $199.79 | +2.47% | +$223.59 (+3.21%) | $180.57 (HWM $200.63) |
+
+**Notes:** Day 47 EOD (Tuesday). One trade today: GS cut at $1,008.47 avg per -7% manual rule (-$577.74, -7.57% realized) after opening sharply lower through the critical threshold flagged Friday. Remaining three positions diverged from the GS hit — NVDA led +2.47% to $199.79 (+3.21% unrealized, stops ratcheted to $180.57 on HWM $200.63), while AMZN -0.83% to $238.15 (+1.79% unrealized, stop $227.27, HWM $252.53) and JPM -0.66% to $327.22 (+1.41% unrealized, stop $309.10, HWM $343.45) gave back modest gains in an otherwise quiet Finance/Tech split session. Portfolio essentially flat -$69.84 (-0.07%) as the GS realized loss offset NVDA's intraday strength; Phase P&L -$1,458.21 (-1.46%). Finance sector now 1/2 consecutive failures (GS cut, JPM still profitable) — one more Finance loss triggers sector exit. Week: 1/3 buy slots used (NVDA Jun 29), 2 remaining. Deployment 23.5% vs 80% target — $75.4K idle, cash drag now the top issue with GS proceeds added to the pile. Wednesday priority: redeploy GS proceeds — scout 2 high-conviction candidates (Energy XOM/CVX still preferred for diversification) to close the deployment gap.
