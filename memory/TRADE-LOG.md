@@ -673,3 +673,13 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 36 | $193.58 | $195.09 | +1.33% | +$54.39 (+0.78%) | $176.54 (HWM $196.15) |
 
 **Notes:** Day 46 EOD (Monday). Positive session — all four positions gained. AMZN surged +3.09% to $239.87 (+2.52% unrealized) with a notable intraday spike to $252.53 (HWM updated; trailing stop ratcheted to $227.27). GS nearly flat +0.06% to $1,020.21 (-6.49% unrealized, stop $994.73, HWM $1,105.25) — CRITICAL: only $5.58 above the -7% manual cut threshold at $1,014.63; if GS opens Tuesday at or below $1,014.63, cut immediately. JPM added +0.71% to $331.39 (+2.70% unrealized, stop $309.10, HWM $343.45). New NVDA re-entry (36 shares @ $193.58 avg, filled at market open) settled at $195.09 (+1.33% from open, +0.78% vs entry; dual trailing stops: 33-share stop $176.54 HWM $196.15, 3-share stop $175.66 HWM $195.18). Portfolio equity $98,611.63; Day P&L +$358.93 (+0.37%) driven by AMZN intraday strength; Phase P&L -$1,388.37 (-1.39%). 1 trade today (NVDA buy); week at 1/3 slots used, 2 remaining. Deployment 30.7% vs 80% target — $68.3K idle. Tuesday: GS immediate assessment at open; scout 2 high-conviction setups (Energy XOM/CVX strongly preferred) to reduce tech concentration and close deployment gap.
+
+---
+
+### 2026-06-30 — CUT GS (-7% rule triggered)
+- Shares: 7
+- Exit: $1,008.47 avg (market sell; -7% rule: price below $1,014.63 trigger)
+- Entry: $1,091.00
+- Realized P&L: -$577.74 (-7.57%)
+- Notes: GS opened Jun 30 sharply lower at $1,008.82 (-7.53% unrealized), breaching the -7% manual cut threshold flagged as critical since Jun 26 EOD. Wide opening spread observed (bid $960.55 / ask $1,073.10, ~10.5%) — filled in 3 partial fills (5/7 then 7/7) over ~45s as spread normalized. Trailing stop 319c2fb6 canceled before market sell c2903e0f. Finance sector now 1/2 consecutive failures (JPM still held and profitable, so no sector exit yet).
+- Order ID: c2903e0f (sell)
