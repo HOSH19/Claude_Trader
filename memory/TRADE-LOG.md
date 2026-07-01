@@ -683,3 +683,31 @@ Append new entries below. Two kinds of entries get added here:
 - Realized P&L: -$577.74 (-7.57%)
 - Notes: GS opened Jun 30 sharply lower at $1,008.82 (-7.53% unrealized), breaching the -7% manual cut threshold flagged as critical since Jun 26 EOD. Wide opening spread observed (bid $960.55 / ask $1,073.10, ~10.5%) — filled in 3 partial fills (5/7 then 7/7) over ~45s as spread normalized. Trailing stop 319c2fb6 canceled before market sell c2903e0f. Finance sector now 1/2 consecutive failures (JPM still held and profitable, so no sector exit yet).
 - Order ID: c2903e0f (sell)
+
+---
+
+### 2026-07-01 — BUY TSLA (order queued, fills at market open 9:30am ET)
+- Shares: 18
+- Entry: TBD at open (est. ~$422 based on Jun 30 after-hours midpoint; order ID 88cb09f2 pending_new)
+- Stop: 10% trailing GTC — **PENDING FILL** (rejected pre-market; set by midday routine after position opens)
+- Target: est. ~$506 (+20% from ~$422)
+- Thesis: Re-entry on Morgan Stanley $600 PT reiteration (robotaxi TAM re-rating); AI autonomous vehicle catalyst intact; Tech sector #1 YTD (+33.1%)
+- Catalyst: Morgan Stanley Buy/$600 PT reiteration (Jul 1 pre-market, robotaxi TAM); AI vehicle narrative
+- Sector: Tech (XLK — #1 YTD)
+- R:R: 2.0:1 | Score: 7/10
+- Gates passed: universe ✅ | positions 4≤10 ✅ | weekly 2≤3 ✅ | cost $7,596 ≤ $7,884 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 88cb09f2 (buy market day — queued pre-market 7:26am ET)
+
+---
+
+### 2026-07-01 — BUY TSM (order queued, fills at market open 9:30am ET)
+- Shares: 16
+- Entry: TBD at open (est. ~$474 based on Jun 30 after-hours midpoint; order ID 97cee585 pending_new)
+- Stop: 10% trailing GTC — **PENDING FILL** (rejected pre-market; set by midday routine after position opens)
+- Target: est. ~$569 (+20% from ~$474)
+- Thesis: Pre-earnings run into Q2 results (mid-July); AI chip demand secular tailwind; leading 2nm/3nm manufacturer; semiconductor cycle recovery
+- Catalyst: Q2 earnings mid-July; TSMC's AI accelerator demand (HPC revenue surge); sector momentum
+- Sector: Tech (XLK — #1 YTD)
+- R:R: 2.0:1 | Score: 7/10
+- Gates passed: universe ✅ | positions 5≤10 ✅ | weekly 3≤3 ✅ | cost $7,584 ≤ $7,884 (8% eq) ✅ | cash $67,801 post-TSLA ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 97cee585 (buy market day — queued pre-market 7:26am ET)
