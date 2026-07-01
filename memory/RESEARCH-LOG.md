@@ -2,6 +2,98 @@
 
 ---
 
+## 2026-07-01 — Pre-Market Research (Day 48, Wednesday)
+
+### Account Snapshot
+- **Equity:** $98,571.63 | **Cash:** $75,397.15 (76.5%) | **Deployed:** $23,174.48 (23.5%)
+- **Last equity:** $98,559.87 | **DD:** +0.01% (no halt — equity UP from last_equity)
+- **Daytrade count:** 0 | **Weekly buys:** 1/3 used | **2 slots remaining**
+
+| Ticker | Shares | Entry | Current | Unrealized | Stop | Cut Trigger | Status |
+|--------|--------|-------|---------|-----------|------|-------------|--------|
+| AMZN | 34 | $233.97 | $239.90 | +$201.56 (+2.53%) | $227.27 (HWM $252.53) | $217.59 | ✅ Safe (+$22.31 buffer) |
+| JPM | 24 | $322.67 | $326.99 | +$103.68 (+1.34%) | $309.10 (HWM $343.45) | $300.08 | ✅ Safe (+$26.91) — Ex-div Jul 6 |
+| NVDA | 36 | $193.58 | $199.17 | +$201.27 (+2.89%) | $180.57 (HWM $200.63) | $180.03 | ✅ Safe (+$19.14 buffer) |
+
+### Market Context
+- **WTI:** $69.46–69.52 (range $68.69–$70.19) | **Brent:** $72.25–73.03 (-0.96% today, -24.74% past month)
+- **SPX futures:** 7,530.00 (-18.25 pts / -0.24%) | **Dow:** 52,503 (-167) | **NQ:** 30,444 (-79.75 / -0.26%)
+- **VIX:** 16.74 (calm, day range 16.27–17.75; prev close 16.45) — risk-on environment
+- **Oil:** Still in freefall (-25% past month) → Energy sector headwind persists
+- **No universe earnings pre-market**
+- **Economic calendar today:** ADP employment (8:15am ET) | Initial jobless claims (8:30am) | Fed Warsh speech (9:30am) | S&P final PMI (9:45am) | Factory orders (10am)
+- Sources: businessinsider.com, cnbc.com, marketwatch.com, tradingeconomics.com
+
+### Sector ETF Ranking (this week)
+1. **XLK (Tech)** — #1 YTD +33.1%; led this week; AI/semiconductor momentum
+2. **XLV (Healthcare)** — recovering, positive this week; defensive bid
+3. **XLE (Energy)** — slight positive week vs prior weeks but oil -25% past month undercuts thesis
+- Finance (XLF): -1.84% 5-day; weak despite JPM holding
+
+### Candidate Scoring (full 20-symbol universe)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Dist SMA20 | Mom5 | VolRat | Result |
+|--------|-------|----------|--------|-------|--------|-----|-----------|------|--------|--------|
+| TSLA | **7/10** | 2 | 2 | 1 | 0 | 2 | +5.0% | +10.2% | 0.91x | **PASS** |
+| TSM | **7/10** | 1 | 2 | 1 | 1 | 2 | +9.1% | +9.4% | 1.05x | **PASS** |
+| QQQ | **7/10** | 1 | 2 | 2 | 0 | 2 | +1.8% | +3.2% | 0.79x | PASS (1 tech fail) |
+| AVGO | 7/10 | 1 | 2 | 2 | 0 | 2 | -4.6% | -0.6% | 0.76x | **DISCARD** (2 tech fails: neg mom + vol<0.8) |
+| AAPL | 6/10 | 0 | 2 | 2 | 0 | 2 | -2.2% | -1.7% | 0.96x | FAIL (score) |
+| MSFT | 6/10 | 0 | 2 | 2 | 0 | 2 | -4.8% | -0.2% | 0.93x | FAIL |
+| GOOGL | 6/10 | 0 | 2 | 2 | 0 | 2 | -0.3% | +3.2% | 0.86x | FAIL |
+| META | 6/10 | 0 | 2 | 2 | 0 | 2 | -2.5% | +0.2% | 0.98x | FAIL |
+| XOM | 6/10 | 0 | 0 | 2 | 2 | 2 | -4.8% | -2.2% | 1.58x | FAIL |
+| CVX | 6/10 | 0 | 0 | 2 | 2 | 2 | -8.0% | -5.8% | 2.04x | FAIL |
+| AMD | DISCARD | — | — | 0 | — | — | +12.3% | +11.7% | 1.08x | **DISCARD** (>10% extended) |
+| UNH | 5/10 | 0 | 1 | 2 | 0 | 2 | +2.5% | +1.6% | 0.80x | FAIL |
+| MA | 5/10 | 0 | 0 | 2 | 1 | 2 | +4.6% | +5.2% | 1.07x | FAIL |
+| V | 3/10 | 0 | 0 | 1 | 0 | 2 | +5.0% | +4.4% | 0.89x | FAIL |
+| JNJ | 3/10 | 0 | 0 | 1 | 0 | 2 | +6.9% | +6.2% | 0.94x | FAIL |
+| GS | Skip | — | — | — | — | — | -4.5% | -7.6% | 1.26x | SKIP (cut Jun 30; 1/2 sector fails) |
+| AMZN | HELD | — | — | — | — | — | — | — | — | HOLD (existing) |
+| NVDA | HELD | — | — | — | — | — | — | — | — | HOLD (existing) |
+| JPM | HELD | — | — | — | — | — | — | — | — | HOLD (existing) |
+| TSM | 7/10 | see above | — | — | — | — | — | — | — | see above |
+
+*SPY: 6/10 (1+2+2+0+1 — R:R degrades for broad ETF vs S&P benchmark goal; skipped)*
+
+### Trade Ideas (≥7/10, tech-valid candidates)
+
+**Idea 1: TSLA** — Score 7/10 | Catalyst: 2 | Sector: 2 | Setup: 1 | Volume: 0 | R:R: 2
+- **Catalyst:** Analyst Peter Vogel (GuruFocus) reiterated Buy / $600 PT; Morgan Stanley identifies unsupervised robotaxi fleet as "single biggest driver of TSLA shares in 2026"; Cybercab production start expected; commercial robotaxi expansion accelerating (source: finance.yahoo.com)
+- **Technicals:** Last close $420.60 | SMA20 $400.59 | Dist +5.0% (5–10% tier, 1pt) | Mom5 +10.2% ✅ | Vol 0.91x (below avg, 0pt) — 0 tech fails → PASSES
+- **Entry:** ~$421 limit | **Stop:** 10% trailing GTC (~$379) | **Target:** +20% (~$505) | **R:R:** 2.0:1
+- **Size:** 18 shares × $421 = $7,578 (7.7% equity) | Cash after: $67,819
+- **Gate:** ADP neutral/positive + SPX opens ≥ −0.3%
+- **Week slot:** Would be #2 of 3
+
+**Idea 2: TSM** — Score 7/10 | Catalyst: 1 | Sector: 2 | Setup: 1 | Volume: 1 | R:R: 2
+- **Catalyst:** Q2 earnings report mid-July (pre-earnings buy window); monthly revenue figures expected ~Jul 8–10; 45%+ YTD; 234 hedge funds own as of Q1 (Motley Fool Jun 5 — theglobeandmail.com, fool.com)
+- **Technicals:** Last close $477.57 | SMA20 $437.92 | Dist +9.1% (5–10% tier, 1pt) | Mom5 +9.4% ✅ | Vol 1.05x ✅ — 0 tech fails → PASSES
+- **Entry:** ~$478 limit | **Stop:** 10% trailing GTC (~$430) | **Target:** +20% (~$574) | **R:R:** 2.0:1
+- **Size:** 16 shares × $478 = $7,648 (7.8% equity) | Cash after: $60,171 (if both TSLA + TSM fill)
+- **Gate:** Conditions remain favorable after TSLA fill; could use 2nd buy slot this week
+- **Note:** Both TSLA + TSM are Tech → 4 of 4+ positions tech-heavy; diversification risk
+
+### Risk Factors
+1. **Macro events today (HIGH):** ADP employment (8:15am) + Warsh speech (9:30am) create volatility window before open — wait for data before executing
+2. **Tech concentration (MEDIUM-HIGH):** Adding TSLA + TSM to existing AMZN/NVDA = 4 tech positions; only JPM non-tech; sector event risk elevated
+3. **Slightly red premarket (MEDIUM):** SPX -0.24%, NQ -0.26% — mild caution; could worsen on weak ADP
+4. **Deployment lagging (ONGOING):** Even with 2 fills, deployed only ~39% vs 80% target; 2 buy slots insufficient to close gap alone
+5. **TSLA at setup boundary (LOW):** +5.0% above SMA = exactly 5-10% tier (1pt not 2pt); not ideal entry vs "at or below SMA" ideal
+6. **Oil ongoing weakness (LOW for us):** No energy exposure; actually positive given we avoided XOM/CVX
+
+### Decision
+**CONDITIONAL BUY TSLA + TSM (2 trades)**
+- **Gate 1 (mandatory):** ADP data at 8:15am not significantly weak (miss >50k below consensus)
+- **Gate 2 (mandatory):** SPX opens ≥ −0.3% (7,514 or better on futures)
+- If both gates pass → BUY TSLA (primary, slot 2) → evaluate TSM for slot 3
+- If gates fail → HOLD; reassess in tomorrow's pre-market
+- NVDA assessment: currently safe at $199.17 vs cut trigger $180.03; no action needed
+- JPM: ex-dividend Jul 6 — hold through holiday week to capture dividend
+
+---
+
 ## 2026-06-29 — Pre-Market Research (Day 46, Monday)
 
 **Account Snapshot (pre-open)**
@@ -769,5 +861,3 @@ Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider
 **Other open-spread check:** JPM also showed a wide opening quote (bid $321.72/ask $346.11) at 13:35 UTC — held position only, no action needed; AMZN and NVDA spreads were normal/tight.
 
 **New-buy screening:** No candidate carries documented ≥7/10 research from a same-day pre-market pass; skipping ad-hoc scoring under opening volatility per "never trade without documented research." 2/3 weekly buy slots remain.
-
-**Decision:** HOLD on new buys this session. Cut GS per -7% rule. Re-screen candidates next pre-market pass with full technical validation (Energy XOM/CVX still flagged as underweight-sector priority from Jun 29 EOD note).
