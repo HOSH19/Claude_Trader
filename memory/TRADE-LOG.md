@@ -711,3 +711,26 @@ Append new entries below. Two kinds of entries get added here:
 - R:R: 2.0:1 | Score: 7/10
 - Gates passed: universe ✅ | positions 5≤10 ✅ | weekly 3≤3 ✅ | cost $7,476.80 ≤ $7,867.55 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
 - Order ID: 97cee585 (buy — fully filled) | c49da665 (trailing stop GTC)
+
+---
+
+### 2026-07-01 — TSLA fill complete (17 remaining shares filled intraday)
+- Shares: 17 additional (total 18 shares now held)
+- Avg fill: ~$421.26 blended for 17 shares (avg entry across 18 shares = $421.86)
+- Stop (17-share lot): 10% trailing GTC | HWM $427.68 | Current stop $384.91 (order 896bebcf placed 1:06pm ET)
+- Notes: Day order 88cb09f2 filled remaining 17 shares intraday. Total TSLA: 18 shares @ avg $421.86. Two GTC stops: 1-share $389.57 (HWM $432.86, order a0faea9e), 17-share $384.91 (HWM $427.68, order 896bebcf).
+
+---
+
+### Jul 01 — EOD Snapshot (Day 48, Wednesday)
+**Portfolio:** $98,403.35 | **Cash:** $60,326.89 (61.3%) | **Day P&L:** -$156.52 (-0.16%) | **Phase P&L:** -$1,596.65 (-1.60%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $241.11 | +1.16% | +$242.70 (+3.05%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $334.06 | +2.06% | +$273.36 (+3.53%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $197.31 | -1.39% | +$134.31 (+1.93%) | $180.57 (HWM $200.63) |
+| TSLA | 18 | $421.86 | $424.74 | +0.98% | +$51.86 (+0.68%) | $384.91 (HWM $427.68) |
+| TSM | 16 | $467.30 | $444.74 | -6.88% | -$361.04 (-4.83%) | $418.38 (HWM $464.87) |
+
+**Notes:** Day 48 EOD (Wednesday). Two new positions confirmed: TSLA (18 shares fully held @ avg $421.86 — remaining 17 shares from day order 88cb09f2 filled intraday; dual GTC trailing stops: 17-share stop $384.91 HWM $427.68, 1-share stop $389.57 HWM $432.86) and TSM (16 shares @ $467.30, stop $418.38, HWM $464.87). TSM was the session's drag, falling -6.88% to $444.74 (-4.83% unrealized) — watch: -7% manual cut triggers at $434.59 ($10.15 buffer). JPM the session leader +2.06% to $334.06 (+3.53% unrealized, stop $309.10, HWM $343.45). AMZN +1.16% to $241.11 (+3.05% unrealized, stop $227.27, HWM $252.53). NVDA -1.39% to $197.31 (+1.93% unrealized, stop $180.57, HWM $200.63). TSLA +0.98% to $424.74 (+0.68% unrealized). Portfolio -$156.52 (-0.16%) on the day; Phase P&L -$1,596.65 (-1.60%). Weekly buy slots: 3/3 used (NVDA Jun 29, TSLA+TSM today) — no new buys until next Monday. Deployment 38.7% vs 80% target. Thursday open: immediate TSM evaluation; cut if ≤$434.59.
