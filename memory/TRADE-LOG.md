@@ -686,17 +686,15 @@ Append new entries below. Two kinds of entries get added here:
 
 ---
 
-### 2026-07-01 — BUY TSLA (partial fill at market open)
-- Shares: 1 of 18 filled @ market open (order 88cb09f2 partially_filled; 17 shares still working day order)
-- Entry: $424.87 (1 share filled 9:30am ET)
-- Stop: 10% trailing GTC | HWM $420.975 | Current stop $378.88 (order a0faea9e — covers 1 filled share)
-- Target: $509.84 (+20% from $424.87)
+### 2026-07-01 — BUY TSLA (fully filled by midday)
+- Shares: 18 total (1 @ $424.87 at open + 17 filled intraday) | Avg entry: $421.86
+- Stop: 10% trailing GTC | 1-share stop: HWM $432.86, stop $389.57 (order a0faea9e) | 17-share stop: HWM $425.78, stop $383.20 (order 896bebcf — placed midday)
+- Target: $509.84 (+20% from avg $421.86 = ~$506.23)
 - Thesis: Re-entry on Morgan Stanley $600 PT reiteration (robotaxi TAM re-rating); AI autonomous vehicle catalyst intact; Tech sector #1 YTD (+33.1%)
 - Catalyst: Morgan Stanley Buy/$600 PT reiteration (Jul 1 pre-market, robotaxi TAM); AI vehicle narrative
 - Sector: Tech (XLK — #1 YTD)
 - R:R: 2.0:1 | Score: 7/10
-- Notes: Only 1 of 18 shares filled at open (unusual for liquid stock); remaining 17 shares still on working day order 88cb09f2; midday routine to confirm fill status and place additional stop(s) upon further fills
-- Order ID: 88cb09f2 (buy — partially filled) | a0faea9e (1-share trailing stop GTC)
+- Order ID: 88cb09f2 (buy — fully filled) | a0faea9e (1-share trailing stop GTC) | 896bebcf (17-share trailing stop GTC, placed midday)
 
 ---
 

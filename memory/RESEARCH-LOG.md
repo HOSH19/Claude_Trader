@@ -92,6 +92,27 @@
 - NVDA assessment: currently safe at $199.17 vs cut trigger $180.03; no action needed
 - JPM: ex-dividend Jul 6 — hold through holiday week to capture dividend
 
+### Afternoon Addendum — 2026-07-01 Midday Scan
+
+**Account:** Equity $98,510.98 | Cash $60,326.89 | DD from session-start ($98,559.87): -0.05% — no halt
+
+**Positions midday:**
+| Ticker | Current | Unreal % | Stop | Cut Trigger | Status |
+|--------|---------|----------|------|-------------|--------|
+| AMZN | $242.93 | +3.83% | $227.27 (HWM $252.53) | $217.59 | ✅ Safe |
+| JPM | $334.28 | +3.60% | $309.10 (HWM $343.45) | $300.08 | ✅ Safe |
+| NVDA | $197.22 | +1.88% | $180.57 (HWM $200.63) | $180.03 | ✅ Safe (−1.44% today) |
+| TSLA | $426.10 | +1.01% | $389.57/1sh (HWM $432.86) + $383.20/17sh (HWM $425.78) | $379.67 | ✅ All 18 shares now protected |
+| TSM | $445.34 | −4.70% | $418.38 (HWM $464.87) | $434.59 | ⚠️ WATCH — down −6.75% today |
+
+**Actions taken:**
+- Placed 17-share TSLA trailing stop GTC (order 896bebcf, HWM $425.78, stop $383.20). All 18 shares now protected. TSLA buy order 88cb09f2 confirmed fully filled (avg $421.86). Weekly buys: 3/3 used.
+- No cuts: No position at ≤−7% unrealized. TSM at −4.70% — not at cut threshold.
+- No stop tightening: No position at +15% or +20%.
+- DD halt: −0.05% — not triggered.
+
+**TSM thesis check:** TSM fell −6.75% today (close $477.57 → $445.34 intraday). Tavily research indicates US export-control changes and overseas cost concerns affecting chip stocks as potential catalysts. TSM-specific news unclear. Pre-earnings-run thesis remains technically intact (Q2 earnings mid-July, AI chip demand secular). Position −4.70% from entry $467.30; −7% manual cut trigger at $434.59 gives $10.75 buffer. Trailing stop $418.38 provides hard floor. **THESIS: INTACT (monitor) — cut only if fundamentals break or −7% breached.** Re-assess in tomorrow's pre-market.
+
 ---
 
 ## 2026-06-29 — Pre-Market Research (Day 46, Monday)
