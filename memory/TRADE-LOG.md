@@ -686,28 +686,28 @@ Append new entries below. Two kinds of entries get added here:
 
 ---
 
-### 2026-07-01 — BUY TSLA (order queued, fills at market open 9:30am ET)
-- Shares: 18
-- Entry: TBD at open (est. ~$422 based on Jun 30 after-hours midpoint; order ID 88cb09f2 pending_new)
-- Stop: 10% trailing GTC — **PENDING FILL** (rejected pre-market; set by midday routine after position opens)
-- Target: est. ~$506 (+20% from ~$422)
+### 2026-07-01 — BUY TSLA (partial fill at market open)
+- Shares: 1 of 18 filled @ market open (order 88cb09f2 partially_filled; 17 shares still working day order)
+- Entry: $424.87 (1 share filled 9:30am ET)
+- Stop: 10% trailing GTC | HWM $420.975 | Current stop $378.88 (order a0faea9e — covers 1 filled share)
+- Target: $509.84 (+20% from $424.87)
 - Thesis: Re-entry on Morgan Stanley $600 PT reiteration (robotaxi TAM re-rating); AI autonomous vehicle catalyst intact; Tech sector #1 YTD (+33.1%)
 - Catalyst: Morgan Stanley Buy/$600 PT reiteration (Jul 1 pre-market, robotaxi TAM); AI vehicle narrative
 - Sector: Tech (XLK — #1 YTD)
 - R:R: 2.0:1 | Score: 7/10
-- Gates passed: universe ✅ | positions 4≤10 ✅ | weekly 2≤3 ✅ | cost $7,596 ≤ $7,884 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
-- Order ID: 88cb09f2 (buy market day — queued pre-market 7:26am ET)
+- Notes: Only 1 of 18 shares filled at open (unusual for liquid stock); remaining 17 shares still on working day order 88cb09f2; midday routine to confirm fill status and place additional stop(s) upon further fills
+- Order ID: 88cb09f2 (buy — partially filled) | a0faea9e (1-share trailing stop GTC)
 
 ---
 
-### 2026-07-01 — BUY TSM (order queued, fills at market open 9:30am ET)
+### 2026-07-01 — BUY TSM (filled at market open)
 - Shares: 16
-- Entry: TBD at open (est. ~$474 based on Jun 30 after-hours midpoint; order ID 97cee585 pending_new)
-- Stop: 10% trailing GTC — **PENDING FILL** (rejected pre-market; set by midday routine after position opens)
-- Target: est. ~$569 (+20% from ~$474)
+- Entry: $467.30 (16 shares fully filled at market open)
+- Stop: 10% trailing GTC | HWM $463.33 | Current stop $416.997 (order c49da665)
+- Target: $560.76 (+20% from $467.30)
 - Thesis: Pre-earnings run into Q2 results (mid-July); AI chip demand secular tailwind; leading 2nm/3nm manufacturer; semiconductor cycle recovery
 - Catalyst: Q2 earnings mid-July; TSMC's AI accelerator demand (HPC revenue surge); sector momentum
 - Sector: Tech (XLK — #1 YTD)
 - R:R: 2.0:1 | Score: 7/10
-- Gates passed: universe ✅ | positions 5≤10 ✅ | weekly 3≤3 ✅ | cost $7,584 ≤ $7,884 (8% eq) ✅ | cash $67,801 post-TSLA ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
-- Order ID: 97cee585 (buy market day — queued pre-market 7:26am ET)
+- Gates passed: universe ✅ | positions 5≤10 ✅ | weekly 3≤3 ✅ | cost $7,476.80 ≤ $7,867.55 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 97cee585 (buy — fully filled) | c49da665 (trailing stop GTC)
