@@ -754,3 +754,16 @@ Append new entries below. Two kinds of entries get added here:
 - Realized P&L: -$559.36 (-7.48%)
 - Notes: TSM dropped further intraday Jul 2 (-2.56%) following -6.88% collapse Jul 1. Cause: semiconductor sector risk-off, geopolitical jitters, AI profit-taking. Fundamentals remain intact (earnings Jul 16; 52.63% YoY EPS growth expected) but -7% rule triggered. GTC trailing stop c49da665 (stop $418.38, HWM $464.87) canceled before market sell 22ffea9b. Tech sector: 2/2 consecutive failures (TSLA+TSM same batch) → no new Tech buys; existing NVDA (-0.3%, thesis intact) and AMZN (+4.32%, AWS deal intact) retained per strategy (sector exit applies to new entries, not profitable/neutral existing positions).
 - Order ID: 22ffea9b (sell)
+
+---
+
+### Jul 02 — EOD Snapshot (Day 49, Thursday)
+**Portfolio:** $97,562.61 | **Cash:** $74,277.28 (76.1%) | **Day P&L:** -$875.71 (-0.89%) | **Phase P&L:** -$2,437.39 (-2.44%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $242.40 | +0.29% | +$286.61 (+3.60%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $334.47 | +0.12% | +$283.20 (+3.66%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $194.90 | -1.36% | +$47.55 (+0.68%) | $180.57 (HWM $200.63) |
+
+**Notes:** Day 49 EOD (Thursday). Two -7% manual cuts today: TSLA (-$560.52, -7.38%) on Q2 delivery miss (below ~400K Wall Street consensus, thesis broken) and TSM (-$559.36, -7.48%) following yesterday's -6.88% collapse on semiconductor sector risk-off. Combined realized loss: -$1,119.88. Tech sector: 2 consecutive failures (TSLA+TSM) → no new Tech buys until reset. Remaining three positions: AMZN +0.29% to $242.40 (+3.60% unrealized, stop $227.27, HWM $252.53), JPM +0.12% to $334.47 (+3.66% unrealized, stop $309.10, HWM $343.45), NVDA -1.36% to $194.90 (+0.68% unrealized, stop $180.57, HWM $200.63). Phase P&L deepens to -$2,437.39 (-2.44%). Weekly slots: 3/3 used — no new buys until Monday Jul 7. Jul 3 shortened session: hold only. Jul 4 holiday. Next week: non-tech entries (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to reduce tech concentration and close deployment gap (23.9% vs 80% target).
