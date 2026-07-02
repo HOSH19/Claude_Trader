@@ -861,3 +861,117 @@ Sources: totalrealreturns.com, sahmcapital.com (Jun 23), markets.businessinsider
 **Other open-spread check:** JPM also showed a wide opening quote (bid $321.72/ask $346.11) at 13:35 UTC — held position only, no action needed; AMZN and NVDA spreads were normal/tight.
 
 **New-buy screening:** No candidate carries documented ≥7/10 research from a same-day pre-market pass; skipping ad-hoc scoring under opening volatility per "never trade without documented research." 2/3 weekly buy slots remain.
+
+---
+
+## 2026-07-02 — Pre-Market Research (Day 49, Thursday)
+
+### Account Snapshot
+- **Equity:** $98,506.73 | **Cash:** $60,326.88 | **Buying Power:** $342,037.73
+- **Long market value:** $38,179.85 (38.8% deployed) | **DT count:** 0
+- **Last equity:** $98,438.32 | **Day P&L:** +$68.41 (+0.07%)
+- **DD from session-start:** +0.07% → CLEAR (halt if equity drops to $88,594.49)
+- **Weekly buy slots:** 3/3 used (NVDA Jun 29, TSLA+TSM Jul 1) — **NO NEW BUYS until Mon Jul 7**
+
+### Open Positions (premarket prices)
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | -7% Cut | Stop | Status |
+|--------|--------|-------|---------|-----------|---------|------|--------|
+| AMZN | 34 | $233.97 | $242.39 | +$286 (+3.60%) | $217.59 | $227.27 (HWM $252.53) | ✅ |
+| JPM | 24 | $322.67 | $335.72 | +$313 (+4.04%) | $300.08 | $309.10 (HWM $343.45) | ✅ |
+| NVDA | 36 | $193.58 | $196.40 | +$102 (+1.46%) | $179.93 | $180.57 (HWM $200.63) | ✅ |
+| TSLA | 18 | $421.86 | $428.71 | +$123 (+1.62%) | $392.33 | $384.91/389.57 (HWM $427.68/$432.86) | ⚠️ Delivery Day |
+| TSM | 16 | $467.30 | $443.50 | -$381 (-5.09%) | $434.59 | $418.38 (HWM $464.87) | ⚠️ WATCH: $8.91 buffer to cut |
+
+### Market Context
+- **VIX:** 16.69–16.87 (calm, +1.46% day; 52-wk low 15.18)
+- **SPX futures:** 7,544.50 (+1.00 pt, ~flat)
+- **NASDAQ futures:** 30,069 (-25 pts, -0.08%)
+- **Dow futures:** 52,668 (flat)
+- **WTI crude:** $67.58–68.18/bbl | **Brent:** $70.69–71.11/bbl (Brent -1.0% today; -27.56% past month)
+- **Backdrop:** US-Iran peace deal risk-on; oil lower as Strait of Hormuz concern eases
+
+### Key Events Today (July 2)
+1. **Non-Farm Payrolls (8:30 AM EDT)** — June 2026 jobs report, released early due to Jul 4 holiday. Consensus ~114K-172K range; prior month 172K. Unemployment expected 4.3%. This is the biggest market mover today.
+2. **TSLA Q2 Delivery report** — consensus 406,024 vehicles (Goldman calls for 420K beat). Already-held position.
+3. **Market schedule:** Jul 3 (Fri) closes early; Jul 4 closed; normal resumes Jul 7.
+
+### Sector ETF YTD Ranking
+| Rank | Sector | ETF | YTD |
+|------|--------|-----|-----|
+| 1 | Technology | XLK | +33.1% |
+| 2 | Utilities | XLU | +21.0% |
+| 3 | Consumer Staples | XLP | +16.9% |
+| 4 | Materials | XLB | +14.8% |
+| 5 | Real Estate | XLRE | +9.4% |
+| 6 | Energy | XLE | +7.8% |
+| 7 | Financials | XLF | -1.7% |
+| 8 | Consumer Discretionary | XLY | -1.7% |
+| 9 | Industrials | XLI | -3.1% |
+| 10 | Health Care | XLV | -6.7% |
+
+Top 3 sectors: **XLK (+33.1%), XLU (+21.0%), XLP (+16.9%)**
+
+Sources: ETF Investments/State Street YTD data via Tavily; tradingeconomics.com for oil; businessinsider.com VIX/futures.
+
+### Candidate Scoring (20-symbol universe; 3/3 slots used → HOLD regardless)
+
+**Held tickers (not re-scored as new buys):** AMZN, JPM, NVDA, TSLA, TSM
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Tech Checks | Result |
+|--------|-------|----------|--------|-------|--------|-----|-------------|--------|
+| AAPL | 7/10 | 0 | 2 | 2 | 1 | 2 | PASS (all 3) | ≥7 but no catalyst → gate fails |
+| MSFT | 7/10 | 0 | 2 | 2 | 1 | 2 | PASS (all 3) | ≥7 but no catalyst → gate fails |
+| AMD | 7/10 | 1 | 2 | 1 | 1 | 2 | PASS (all 3) | ≥7; catalyst weak; no slot |
+| AVGO | 7/10 | 1 | 2 | 2 | 0 | 2 | FAIL (2/3: vol 0.66x + mom -3.3%) | DISCARD |
+| META | 6/10 | 1 | 0 | 1 | 2 | 2 | PASS | DISCARD (<7) |
+| GOOGL | 4/10 | 0 | 0 | 2 | 0 | 2 | PASS | DISCARD (<7) |
+| XOM | 5/10 | 0 | 1 | 2 | 0 | 2 | FAIL (2/3: vol 0.73x + mom -0.5%) | DISCARD |
+| V | 4/10 | 0 | 0 | 1 | 1 | 2 | PASS | DISCARD (<7) |
+| GS | — | — | — | — | — | — | Finance 1/2 fails | SKIP |
+| MA/CVX/UNH/JNJ/SPY/QQQ | <6 | 0 | 0-1 | — | — | — | — | DISCARD |
+
+**Note:** AAPL and MSFT score 7 but fail buy-side gate (no specific catalyst). AMD scores 7 with weak AI-semi catalyst — watch for next week if a specific catalyst emerges.
+
+### Technical Validation (≥7 scorers)
+
+**AAPL** (Last=$294.42):
+- SMA20: $294.75 | Dist: -0.1% (AT SMA — excellent entry zone)
+- Mom5d: +0.4% (positive ✅) | VolRat: 1.11x (above 0.8 ✅) | Extended: NO ✅
+- Result: All 3 tech checks PASS; no actionable trade (no catalyst + slots full)
+
+**MSFT** (Last=$384.38):
+- SMA20: $388.71 | Dist: -1.1% (slightly below SMA — clean)
+- Mom5d: +5.2% (positive ✅) | VolRat: 1.23x ✅ | Extended: NO ✅
+- Result: All 3 tech checks PASS; no actionable trade (no catalyst + slots full)
+
+**AMD** (Last=$540.89):
+- SMA20: $517.89 | Dist: +4.4% (just above SMA, setup score 1)
+- Mom5d: +4.2% (positive ✅) | VolRat: 1.24x ✅ | Extended: NO ✅
+- Result: All 3 tech checks PASS; weak catalyst; no slot
+
+**AVGO** (Last=$369.33):
+- SMA20: $390.15 | Dist: -5.3% | Mom5d: -3.3% (❌ FAIL) | VolRat: 0.66x (❌ FAIL)
+- Result: 2/3 tech fails → DISCARDED
+
+### Trade Ideas
+**None — 3/3 weekly buy slots used. No new buys until Monday July 7.**
+
+For next-week watchlist:
+1. **AAPL** — Clean setup at 20d SMA (-0.1%), XLK top sector. Need specific catalyst (earnings Aug; near-term: any product/AI news).
+2. **AMD** — Positive momentum (+4.2% 5d), AI semiconductor thematic. Entry score 7/10 but catalyst needs to be confirmed.
+3. **MSFT** — Clean setup, improving momentum (+5.2% 5d). Watch for AI capex deployment news.
+
+### Risk Factors (Today)
+1. **NFP 8:30 AM (HIGH):** Jobs miss could spike VIX, hurt equities across all 5 positions. Prior 172K; if actual is weak (<100K), expect tech selloff. Wait for 8:30 AM data before assessing intraday moves.
+2. **TSM -5.09% + -7% cut trigger (CRITICAL):** Current $443.50 vs cut trigger $434.59 — buffer only $8.91 (2.0%). Semiconductor sector under pressure; broader chip selloff risk. If TSM opens at or below $434.59, cut immediately.
+3. **TSLA Q2 Delivery (WATCH):** Consensus 406K. In-line result could disappoint bulls expecting Goldman's 420K. Miss would threaten the Morgan Stanley $600 PT thesis; beat would add upside momentum to our +1.62% position.
+4. **NVDA stop proximity (MEDIUM):** Stop $180.57 (HWM $200.63). Current $196.40 — 8.1% buffer. Monitor if NFP triggers tech selloff.
+5. **Half-day Friday Jul 3 (LOW):** Thin volume tomorrow; positions carry over the holiday weekend. Today's positioning matters.
+6. **Underdeployment (ONGOING):** 38.8% deployed vs 80% target. $60.3K idle. Next entries must wait until Jul 7 (3 fresh slots).
+
+### Decision
+**HOLD — No new buys available (3/3 weekly slots used)**
+- Watchlist for Jul 7: AAPL (priority 1, score 7, cleanest setup), AMD (priority 2, score 7, momentum), MSFT (priority 3)
+- Critical action today: Monitor TSM at open — cut if price ≤ $434.59
+- Watch TSLA delivery numbers: thesis intact above $392.33 (-7% cut level)
+- NFP at 8:30 AM is the key event; assess all positions post-release
