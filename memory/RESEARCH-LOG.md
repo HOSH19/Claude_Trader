@@ -92,6 +92,26 @@
 - NVDA assessment: currently safe at $199.17 vs cut trigger $180.03; no action needed
 - JPM: ex-dividend Jul 6 — hold through holiday week to capture dividend
 
+### Afternoon Addendum — 2026-07-02 Midday Scan
+**Actions taken:**
+- CUT TSLA 18 @ $390.72 (-$560.52, -7.38%): Q2 deliveries missed ~400K consensus → thesis broken. Stops canceled, market sell filled.
+- CUT TSM 16 @ $432.34 (-$559.36, -7.48%): Semiconductor sector risk-off, geopolitical jitters, AI profit-taking. -7% rule triggered. Stops canceled, market sell filled.
+- Total realized today: -$1,119.88 on two positions
+
+**Remaining portfolio (3 positions):**
+- AMZN: +4.32% unrealized | Stop $227.27 (HWM $252.53) | AWS thesis intact ✅
+- JPM: +3.60% unrealized | Stop $309.10 (HWM $343.45) | Ex-div Jul 6 ✅
+- NVDA: ~-0.3% unrealized | Stop $180.57 (HWM $200.63) | AI infra thesis intact ✅
+
+**DD halt check:** Equity $97,534 vs last $98,438 → -0.92% | No halt
+
+**Sector flags:**
+- Tech: 2/2 consecutive new-entry failures (TSLA+TSM same batch Jul 1→2) → NO NEW TECH BUYS until reset. Existing NVDA/AMZN held (different thesis vintages, above stops).
+- Finance: 1/2 (GS Jun 30) | JPM profitable → no exit
+- Deployment: ~24% vs 80% target after cuts | $74K+ idle | 0 buy slots this week (3/3 used Mon-Wed); reset Monday Jul 7
+
+**Next steps:** No buys possible this week (slots exhausted). Friday/Monday pre-market: scout non-tech candidates (Finance GS-alternative, Healthcare, Energy) to rebuild deployment with 3 fresh slots next week.
+
 ---
 
 ## 2026-06-29 — Pre-Market Research (Day 46, Monday)
