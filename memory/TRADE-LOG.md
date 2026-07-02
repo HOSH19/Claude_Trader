@@ -734,3 +734,23 @@ Append new entries below. Two kinds of entries get added here:
 | TSM | 16 | $467.30 | $444.74 | -6.88% | -$361.04 (-4.83%) | $418.38 (HWM $464.87) |
 
 **Notes:** Day 48 EOD (Wednesday). Two new positions confirmed: TSLA (18 shares fully held @ avg $421.86 — remaining 17 shares from day order 88cb09f2 filled intraday; dual GTC trailing stops: 17-share stop $384.91 HWM $427.68, 1-share stop $389.57 HWM $432.86) and TSM (16 shares @ $467.30, stop $418.38, HWM $464.87). TSM was the session's drag, falling -6.88% to $444.74 (-4.83% unrealized) — watch: -7% manual cut triggers at $434.59 ($10.15 buffer). JPM the session leader +2.06% to $334.06 (+3.53% unrealized, stop $309.10, HWM $343.45). AMZN +1.16% to $241.11 (+3.05% unrealized, stop $227.27, HWM $252.53). NVDA -1.39% to $197.31 (+1.93% unrealized, stop $180.57, HWM $200.63). TSLA +0.98% to $424.74 (+0.68% unrealized). Portfolio -$156.52 (-0.16%) on the day; Phase P&L -$1,596.65 (-1.60%). Weekly buy slots: 3/3 used (NVDA Jun 29, TSLA+TSM today) — no new buys until next Monday. Deployment 38.7% vs 80% target. Thursday open: immediate TSM evaluation; cut if ≤$434.59.
+
+---
+
+### 2026-07-02 — CUT TSLA (-7% rule triggered)
+- Shares: 18
+- Exit: $390.72 avg (market sell; -7% rule: unrealized -7.41%, below -7% threshold at $392.33)
+- Entry: $421.86 (avg across 18 shares)
+- Realized P&L: -$560.52 (-7.38%)
+- Notes: TSLA dropped -8.16% intraday Jul 2 on Q2 delivery report disappointment. Deliveries missed Wall Street's ~400K consensus. Thesis (Morgan Stanley $600 PT / robotaxi narrative) effectively broken by delivery miss. GTC trailing stops 896bebcf (17-share, $389.11) and a0faea9e (1-share, $389.57) canceled before market sell 47625a62 executed. Tech sector consecutive trade failures: TSLA = 1st | TSM = 2nd (same batch) → no new tech buys until reset.
+- Order ID: 47625a62 (sell)
+
+---
+
+### 2026-07-02 — CUT TSM (-7% rule triggered)
+- Shares: 16
+- Exit: $432.34 avg (market sell; -7% rule: unrealized -7.37%, below -7% threshold at $434.59)
+- Entry: $467.30
+- Realized P&L: -$559.36 (-7.48%)
+- Notes: TSM dropped further intraday Jul 2 (-2.56%) following -6.88% collapse Jul 1. Cause: semiconductor sector risk-off, geopolitical jitters, AI profit-taking. Fundamentals remain intact (earnings Jul 16; 52.63% YoY EPS growth expected) but -7% rule triggered. GTC trailing stop c49da665 (stop $418.38, HWM $464.87) canceled before market sell 22ffea9b. Tech sector: 2/2 consecutive failures (TSLA+TSM same batch) → no new Tech buys; existing NVDA (-0.3%, thesis intact) and AMZN (+4.32%, AWS deal intact) retained per strategy (sector exit applies to new entries, not profitable/neutral existing positions).
+- Order ID: 22ffea9b (sell)
