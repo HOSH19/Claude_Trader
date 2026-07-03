@@ -495,3 +495,72 @@ Template for each entry:
 - **No new entries on NFP/FOMC Fridays**: evaluate entries on the following Monday when dust settles
 
 ### Overall Grade: D
+
+---
+
+## Week ending 2026-07-03
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,239.32 (Jun 26 close) |
+| Ending portfolio | $97,569.20 |
+| Week return | -$670.12 (-0.68%) |
+| S&P 500 week | +1.70% (best week in 2 months) |
+| Bot vs S&P | -2.38% |
+| Phase P&L | -$2,430.80 (-2.43%) |
+| Trades | 3 new (W:0 / L:3 closed / open:3) |
+| Win rate | 0% (0/3 closed) |
+| Best trade | JPM +3.66% unrealized (open) |
+| Worst trade | GS -$577.71 (-7.56%) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GS | $1,091.00 (7 sh) | $1,008.47 | -$577.71 (-7.56%) | -7% cut Jun 30 on open gap-down; opened Jun 25 SpaceX IB thesis; Finance fail #1 |
+| TSLA | $421.86 (18 sh) | $390.72 | -$560.52 (-7.38%) | -7% cut Jul 2; Q2 deliveries missed ~400K consensus; thesis broken by delivery miss |
+| TSM | $467.30 (16 sh) | $432.34 | -$559.36 (-7.48%) | -7% cut Jul 2; semiconductor sector risk-off; AI profit-taking; 2nd consecutive Tech fail |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $233.97 (34 sh) | $242.67 | +$295.74 (+3.60%) | $227.27 (HWM $252.53) |
+| JPM | $322.67 (24 sh) | $334.47 | +$283.20 (+3.66%) | $309.10 (HWM $343.45) |
+| NVDA | $193.58 (36 sh) | $194.83 | +$45.03 (+0.65%) | $180.57 (HWM $200.63) |
+
+### What Worked
+- All three -7% cuts executed immediately with discipline — no hope-holding, no hesitation
+- TSLA thesis invalidated by delivery miss; cut was the right call even without waiting for stop
+- NVDA re-entry (Jun 29) is intact at +0.65%; AI infrastructure thesis still valid post-normalization
+- JPM Finance thesis working: +3.66% unrealized; ex-div Jul 6 adds income; Q2 earnings Jul 14
+- Shortened holiday week (Jul 3 close, Jul 4 holiday) correctly used as hold/rest session
+
+### What Didn't Work
+- 11th consecutive week below 80% deployment: 23.9% deployed ($23.3K / $97.6K); $74.3K idle
+- TSLA+TSM opened AND closed within 2 days — both 7/10 scores; TSLA thesis broken by delivery miss day of entry; TSM sector-dragged; poor timing entering into holiday week with semiconductor risk-off
+- Tech sector rule triggered again: TSLA+TSM = 2 consecutive new-entry failures → no new Tech buys until reset
+- GS opened last week (-6.42% at Jun 26 close) with 1.52% buffer to -7% cut; predictably triggered Monday open; entry into weakest major sector (XLF -1.7% YTD) on stale SpaceX catalyst was marginal
+- Phase P&L deepens to -$2.43%; S&P +1.7% this week; cumulative gap widening
+- Three realized losses totaling -$1,697.59 in one week; profit factor 0.00
+
+### Key Lessons
+- **Holiday-week rule needed**: entering 2 new positions on Wednesday before a 2-day shutdown concentrated risk in a forced 2-day exit window; holiday weeks (≤3 trading days) = max 1 new position
+- **TSLA delivery-event was a known binary**: entered TSLA the SAME DAY as the Q2 delivery report — equivalent to entering into earnings; violates our own binary-event gate; enter FOLLOWING session after seeing the print
+- **TSM was chain casualty**: fundamentals intact (earnings Jul 16, 52%+ YoY EPS growth); cut triggered by sector contagion from TSLA; don't batch two correlated Tech entries in same session
+- **GS post-mortem**: marginal entries (at-threshold volume 0.80x, weakest sector YTD, stale catalyst) consistently stop out; if a position scores exactly at minimums on 3+ factors, skip
+- **Deployment drag compounds**: 23.9% deployed means even +3.66% JPM = only +0.87% portfolio contribution; correct picks are diluted to irrelevance by idle cash
+
+### Adjustments for Next Week
+- **Tech sector locked (new entries)**: TSLA+TSM = 2 consecutive new-entry failures; no new Tech buys until 2 consecutive non-Tech wins reset the counter; hold existing NVDA/AMZN per profitable-position exception
+- **NVDA**: stop $180.57 (HWM $200.63); AI infrastructure thesis intact; do NOT enter a 3rd NVDA position if this one stops out — pattern is broken
+- **JPM**: ex-div Jul 6 (gap-down ~dividend amount); Q2 earnings Jul 14 primary catalyst; hold, stop $309.10
+- **AMZN**: AWS thesis intact; Q2 earnings ~Jul 30; stop $227.27; hold
+- **Deploy into non-Tech (3 slots, reset Jul 7)**: target V/MA (Payments — not same as XLF weakness, strong YTD momentum separately), UNH (if XLV recovering), or XOM/CVX (if oil stabilizes); must reach 40-50% deployed by EOW; no more patience paralysis
+- **Holiday-week position rule**: ≤3 trading days = max 1 new buy; no batching correlated entries
+- **Binary-event entry rule**: no new entries on delivery/earnings day; enter FOLLOWING session after print confirmed
+
+### Overall Grade: D+
