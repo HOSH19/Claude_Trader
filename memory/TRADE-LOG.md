@@ -767,3 +767,16 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 36 | $193.58 | $194.90 | -1.36% | +$47.55 (+0.68%) | $180.57 (HWM $200.63) |
 
 **Notes:** Day 49 EOD (Thursday). Two -7% manual cuts today: TSLA (-$560.52, -7.38%) on Q2 delivery miss (below ~400K Wall Street consensus, thesis broken) and TSM (-$559.36, -7.48%) following yesterday's -6.88% collapse on semiconductor sector risk-off. Combined realized loss: -$1,119.88. Tech sector: 2 consecutive failures (TSLA+TSM) → no new Tech buys until reset. Remaining three positions: AMZN +0.29% to $242.40 (+3.60% unrealized, stop $227.27, HWM $252.53), JPM +0.12% to $334.47 (+3.66% unrealized, stop $309.10, HWM $343.45), NVDA -1.36% to $194.90 (+0.68% unrealized, stop $180.57, HWM $200.63). Phase P&L deepens to -$2,437.39 (-2.44%). Weekly slots: 3/3 used — no new buys until Monday Jul 7. Jul 3 shortened session: hold only. Jul 4 holiday. Next week: non-tech entries (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to reduce tech concentration and close deployment gap (23.9% vs 80% target).
+
+---
+
+### Jul 03 — EOD Snapshot (Day 50, Friday)
+**Portfolio:** $97,569.20 | **Cash:** $74,277.26 (76.1%) | **Day P&L:** +$6.59 (+0.01%) | **Phase P&L:** -$2,430.80 (-2.43%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $242.67 | +0.11% | +$295.74 (+3.72%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $334.47 | 0.00% | +$283.20 (+3.66%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $194.83 | -0.04% | +$45.03 (+0.65%) | $180.57 (HWM $200.63) |
+
+**Notes:** Shortened holiday session (Jul 3, pre-Independence Day; market closed 1 PM ET). No trades today — 3/3 weekly buy slots consumed (NVDA Jun 29, TSLA+TSM Jul 1; TSLA+TSM cut Jul 2). Effectively flat day: AMZN +0.11% to $242.67, JPM unchanged at $334.47, NVDA -0.04% to $194.83. Combined unrealized gain: +$624.03. Portfolio equity nudged +$6.59 (+0.01%) on minimal volume. Cash 76.1% ($74,277.26) — still well below 80% deployment target. Tech sector locked (2 consecutive failures: TSLA+TSM). Jul 4 holiday, no trading. Monday Jul 7: weekly slots reset; target 3 new buys in non-tech sectors (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to close deployment gap.
