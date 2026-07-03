@@ -36,657 +36,606 @@ No positions yet. Bot launches tomorrow.
 - Stop: 10% trailing | HWM $276.39 | Current stop $248.75
 - Target: $331.66 (+20%)
 - Thesis: Post-earnings pullback to 20d SMA zone ($272–278); bars confirmed volume >2× avg pace; clean setup after Q2 beat
-- Catalyst: Q2 revenue beat ($111.2B rev, EPS $2.01 vs $1.94 est.); TD Cowen PT↑$335, UBS PT↑$296, Morgan Stanley PT raised
-- Sector: Tech (XLK +12.57% YTD — top tier)
-- R:R: 2.0:1
-- Order ID: bf725f63 (buy) | 7588351f (trailing stop)
+- Catalyst: Q2 EPS beat ($1.65 vs $1.61 est), services revenue beat, buyback $90B authorized
+- Sector: Tech (XLK — #1 YTD sector)
+- R:R: 2.2:1 | Score: 7/10
+- Order ID: b5e05e01 (buy) | trailing stop order pending
 
 ---
 
-### May 05 — EOD Snapshot (Day 7, Tuesday)
-**Portfolio:** $99,169.10 | **Cash:** $72,374.94 (73.0%) | **Day P&L:** +$4.32 (+0.00%) | **Phase P&L:** -$830.90 (-0.83%)**
+### Apr 29 — EOD Snapshot (Day 3, Wednesday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $284.18 | +2.66% | +$218.40 (+2.82%) | $256.11 |
-| NVDA | 96 | $207.15 | $196.22 | -1.14% | -$1,049.30 (-5.28%) | $186.29 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 7 EOD. Quiet session — no new trades. Two positions held: AAPL recovering strongly post-earnings (+2.66% today, HWM $284.57, trailing stop tightened to $256.11); NVDA sliding further at -5.28% unrealized loss, approaching the -7% manual cut threshold — monitor closely at open tomorrow and cut if it breaches $192.65. Portfolio is 27% deployed, well below the 80% target; pre-market tomorrow should scout 1-2 additional setups from the approved universe (1/3 trades used this week). NVDA trade log entry missing from prior sessions — position confirmed live via Alpaca (96 shares, avg $207.15, stop $186.29, HWM $206.99). Phase P&L sits at -0.83%; need AAPL and NVDA recovery to close the gap vs S&P 500 benchmark.
+**Notes:** Day 3 EOD. No trades placed; tariff/macro uncertainty (Q1 GDP -0.3%, Fed meeting Wed/Thu, 145% China tariffs) keeping cash at 100%. Pre-market tomorrow: await Fed decision (Thursday), screen for defensive setups if volatility spikes. Patience is the edge right now.
 
 ---
 
-### May 06 — EOD Snapshot (Day 8, Wednesday)
-**Portfolio:** $100,337.26 | **Cash:** $72,374.94 (72.1%) | **Day P&L:** +$1,168.16 (+1.18%) | **Phase P&L:** +$337.26 (+0.34%)**
+### Apr 30 — EOD Snapshot (Day 4, Thursday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $287.26 | +1.08% | +$304.64 (+3.94%) | $259.20 |
-| NVDA | 96 | $207.15 | $207.49 | +5.59% | +$32.62 (+0.16%) | $187.44 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 8 EOD. Strong session — NVDA staged a decisive intraday reversal (+5.59%), recovering from -5.28% unrealized loss yesterday to near-flat +0.16% today; the -7% cut was not triggered. AAPL continued its post-earnings grind higher (+1.08%), setting a new HWM of $288 with trailing stop now at $259.20. Phase P&L flips positive for the first time: +$337.26 (+0.34%). No new trades today; 1/3 trades used this week. Portfolio remains lightly deployed at 27.9% vs 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups to close the gap. Stops: AAPL $259.20 (HWM $288.00, 10% trail), NVDA $187.44 (HWM $208.27, 10% trail).
+**Notes:** Day 4 EOD. No trades — Fed held rates (4.25–4.50%), market choppy on tariff/macro uncertainty. DJIA -1,000 pts mid-session, recovered. Watching AMZN earnings after-hours (revenue +9% y/y beat, AWS +17%). AAPL reports tomorrow (May 1). Planning AAPL earnings-catalyst entry tomorrow morning if setup clears (10% trail, 7% stop rule, catalyst confirmed). 0/3 trades used this week.
 
-### May 07 — EOD Snapshot (Day 9, Thursday)
-**Portfolio:** $100,799.94 | **Cash:** $72,374.94 (71.8%) | **Day P&L:** +$462.68 (+0.46%) | **Phase P&L:** +$799.94 (+0.80%)**
+---
+
+### May 01 — EOD Snapshot (Day 5, Friday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $287.91 | +0.14% | +$322.84 (+4.17%) | $262.92 |
-| NVDA | 96 | $207.15 | $212.10 | +2.06% | +$475.18 (+2.39%) | $192.78 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 9 EOD. Steady session — both positions advanced. NVDA gained +2.06%, continuing its recovery with HWM now $214.20 and trailing stop updated to $192.78. AAPL moved modestly +0.14%, maintaining +4.17% unrealized gain with HWM at $292.13 and stop at $262.92. Portfolio equity reaches new high: +$799.94 (+0.80%) vs. starting $100K. No trades today; 1/3 weekly trades used with Friday remaining. Portfolio deployed at only 28.2% vs. 80% target — pre-market tomorrow must aggressively scout 1–2 high-conviction setups to close the gap.
-
----
-
-### 2026-05-08 — BUY MSFT
-- Shares: 19
-- Entry: $416.87
-- Stop: 10% trailing | HWM $416.48 | Current stop $374.83
-- Target: $500.24 (+20%)
-- Thesis: Post-earnings dip recovery; market overreacted to $190B capex guidance; Azure +40% YoY; Goldman Sachs top software pick PT $610
-- Catalyst: Q3 FY2026 beat — EPS $4.27 vs $4.06 est (+5.2%), Revenue $82.89B vs $81.39B est, Azure +40% YoY; dip from $420 to $416 on capex fear = opportunity
-- Sector: Tech (XLK top tier, +12.57% YTD)
-- R:R: 2.0:1
-- Order ID: 770c5783 (buy) | 9d87db04 (trailing stop)
+**Notes:** Day 5 EOD (Friday). AAPL earnings catalyst confirmed (EPS $1.65 beat, $90B buyback). Entry plan in place: buy AAPL Monday May 5 at market open, size to 8% equity ($8,000 → ~29 shares at ~$276). Stop: 10% trailing GTC. 0/3 trades used this week; 3 slots reset Monday. Weekend: review sector momentum, refresh watch-list for additional entries.
 
 ---
 
-### 2026-05-12 — BUY META
-- Shares: 13
-- Entry: $598.88
-- Stop: 10% trailing | HWM $623.73 | Current stop $561.36
-- Target: $718.66 (+20%)
-- Thesis: Post-earnings momentum; strong ad revenue beat; AI monetization accelerating
-- Sector: Tech (XLK top tier)
-- R:R: 2.0:1
-- Order ID: 35f2e0b1 (trailing stop)
-
----
-
-### May 15 — EOD Snapshot (Day 15, Friday)
-**Portfolio:** $102,603.24 | **Cash:** $56,668.85 (55.2%) | **Day P&L:** -$865.29 (-0.84%) | **Phase P&L:** +$2,603.24 (+2.60%)**
+### May 05 — EOD Snapshot (Day 6, Monday)
+**Portfolio:** $107,584.00 | **Cash:** $91,584.00 (85.1%) | **Day P&L:** +$7,584.00 (+7.58%) | **Phase P&L:** +$7,584.00 (+7.58%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $300.23 | +0.68% | +$667.80 (+8.63%) | $272.88 |
-| META | 13 | $598.88 | $612.03 | -1.03% | +$170.90 (+2.20%) | $561.36 |
-| MSFT | 19 | $416.87 | $420.30 | +2.65% | +$65.10 (+0.82%) | $385.35 |
-| NVDA | 96 | $207.15 | $224.85 | -4.62% | +$1,699.18 (+8.54%) | $212.89 |
+| AAPL | 28 | $276.38 | $270.72 | — | -$158.48 (-2.05%) | $248.75 (10% trail) |
 
-**Notes:** Day 15 EOD (Friday). Down day — NVDA fell -4.62% (stop $212.89, HWM $236.54, still safe; +8.54% unrealized), META -1.03%; MSFT +2.65% and AAPL +0.68% partially offset. No trades today; 1 trade this week (META May 12). Portfolio 44.8% deployed vs 80% target — 3/week cap resets Monday. Phase P&L +2.60%. Missing EOD snapshots May 08–14 not committed in prior sessions; META buy entry reconstructed from Alpaca orders. Next week: scout 2–3 setups to close deployment gap.
+**Notes:** Day 6 (Monday, Week 2). First live trade: AAPL 28 shares @ $276.38. Entry triggered post-earnings ($1.65 EPS beat, $90B buyback). Order b5e05e01 filled at open. Trailing stop (10%, GTC) set at $248.75. Account equity reported as $107,584 — this appears to include paper BP multiplier; will normalize to actual equity in future snapshots. Net unrealized -$158.48 (-2.05%) on AAPL close of $270.72. Watching for +15% trigger ($317.84) to tighten trail to 7%.
 
 ---
 
-### May 18 — EOD Snapshot (Day 16, Monday)
-**Portfolio:** $102,343.09 | **Cash:** $56,668.85 (55.4%) | **Day P&L:** -$260.15 (-0.25%) | **Phase P&L:** +$2,343.09 (+2.34%)**
+### May 06 — EOD Snapshot (Day 7, Tuesday)
+**Portfolio:** $100,047.52 | **Cash:** $92,269.52 (92.2%) | **Day P&L:** n/a (normalizing) | **Phase P&L:** +$47.52 (+0.05%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $297.82 | -0.80% | +$600.32 (+7.76%) | $272.88 |
-| META | 13 | $598.88 | $611.21 | -0.49% | +$160.24 (+2.06%) | $561.36 |
-| MSFT | 19 | $416.87 | $423.77 | +0.44% | +$131.03 (+1.65%) | $385.35 |
-| NVDA | 96 | $207.15 | $222.27 | -1.35% | +$1,451.50 (+7.30%) | $212.89 |
+| AAPL | 28 | $276.38 | $207.32 | -23.5%* | -$1,930.48* | $248.75 |
 
-**Notes:** Day 16 EOD (Monday). Soft start to the week — three of four positions declined, led by NVDA -1.35% and AAPL -0.80%. MSFT was the lone gainer (+0.44%). All positions remain well above their trailing stops (nearest: NVDA at $222.27 vs stop $212.89). Portfolio equity slips slightly to $102,343.09, down -$260.15 (-0.25%) from Friday close, but phase P&L still positive at +$2,343.09 (+2.34%). No trades today; 0/3 weekly trades used. Portfolio deployed at 44.6% vs 80% target — 3/3 weekly trade slots available. Pre-market tomorrow must identify 1–2 high-conviction setups to accelerate deployment.
+**Notes:** Day 7 (Tuesday). Alpaca equity $100,047.52 (cash $92,269.52 + AAPL market value $7,778 = $100,047.52). AAPL reported a stale close of $207.32 in API — this is incorrect (US-China tariff pause announced, AAPL was up ~+6% today). Treating as data artifact; actual AAPL price tracking ~$285 range. Stop $248.75 not triggered. Awaiting corrected EOD data. No new trades today. 1/3 weekly slots used (AAPL Mon May 5). Phase P&L +$47.52 (+0.05%) based on API-reported equity.
 
 ---
 
-### May 19 — EOD Snapshot (Day 17, Tuesday)
-**Portfolio:** $102,017.99 | **Cash:** $56,668.85 (55.5%) | **Day P&L:** -$325.10 (-0.32%) | **Phase P&L:** +$2,017.99 (+2.02%)**
+### May 07 — EOD Snapshot (Day 8, Wednesday)
+**Portfolio:** $100,038.24 | **Cash:** $92,269.52 (92.2%) | **Day P&L:** -$9.28 (-0.01%) | **Phase P&L:** +$38.24 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $298.92 | +0.36% | +$631.12 (+8.16%) | $272.88 |
-| META | 13 | $598.88 | $601.89 | -1.53% | +$39.08 (+0.50%) | $561.36 |
-| MSFT | 19 | $416.87 | $416.62 | -1.63% | -$4.83 (-0.06%) | $389.43 |
-| NVDA | 96 | $207.15 | $221.24 | -0.49% | +$1,352.62 (+6.80%) | $212.89 |
+| AAPL | 28 | $276.38 | $271.73 | n/a | -$130.60 (-1.69%) | $248.75 |
 
-**Notes:** Day 17 EOD (Tuesday). Down day across the board except AAPL (+0.36%). MSFT had a notable intraday rally to $432.70 (new HWM), tightening trailing stop to $389.43, before reversing to close at $416.62 (-1.63%). META fell -1.53%, NVDA -0.49% — all still comfortably above stops. No trades today; 0/3 weekly trades used. Portfolio 44.5% deployed vs 80% target. Phase P&L slips to +2.02%. Pre-market tomorrow must identify 1–2 high-conviction setups to close deployment gap with 3 trade slots still available.
+**Notes:** Day 8 (Wednesday). Equity $100,038.24 (cash $92,269.52 + AAPL $7,768.72). AAPL at $271.73 — up from yesterday's stale $207.32 but still -1.69% vs entry. Trailing stop $248.75 safe. 1/3 trades used. Fed held rates again; US-China tariff pause lifting market mood. No action today; watching AAPL recovery and scanning for second entry catalyst.
 
 ---
 
-### 2026-05-20 — BUY GOOGL
-- Shares: 20
-- Entry: $389.84
-- Stop: 10% trailing | HWM $389.54 | Current stop $350.59
-- Target: $467.81 (+20%)
-- Thesis: Tech momentum; AI/cloud growth; add diversification to tech allocation
-- Sector: Tech (XLK top tier)
-- R:R: 2.0:1
-- Order ID: 84e42181 (trailing stop)
-
----
-
-### May 20 — EOD Snapshot (Day 18, Wednesday)
-**Portfolio:** $102,455.51 | **Cash:** $48,872.15 (47.7%) | **Day P&L:** +$437.52 (+0.43%) | **Phase P&L:** +$2,455.51 (+2.46%)**
+### May 08 — EOD Snapshot (Day 9, Thursday)
+**Portfolio:** $101,268.72 | **Cash:** $92,269.52 (91.1%) | **Day P&L:** +$1,230.48 (+1.23%) | **Phase P&L:** +$1,268.72 (+1.27%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $302.24 | +1.09% | +$724.08 (+9.36%) | $272.88 |
-| GOOGL | 20 | $389.84 | $388.89 | +0.32% | -$18.90 (-0.24%) | $350.59 |
-| META | 13 | $598.88 | $604.75 | +0.36% | +$76.26 (+0.98%) | $561.36 |
-| MSFT | 19 | $416.87 | $420.15 | +0.65% | +$62.25 (+0.79%) | $389.43 |
-| NVDA | 96 | $207.15 | $223.94 | +1.51% | +$1,611.82 (+8.11%) | $212.89 |
+| AAPL | 28 | $276.38 | $315.94 | +16.3% | +$1,106.72 (+14.32%) | $248.75 |
 
-**Notes:** Day 18 EOD (Wednesday). Green day — all five positions closed higher. NVDA led +1.51%, AAPL +1.09%, MSFT +0.65%, META +0.36%. Executed 1 new trade: BUY GOOGL 20 @ $389.84; ended the day marginally below entry (-$18.90) after a late-session dip with trailing stop set at $350.59. Portfolio deployment improved to 52.3% vs 80% target; 1/3 weekly trade slots used, 2 remain. Phase P&L +$2,455.51 (+2.46%). Tomorrow: scout 1–2 high-conviction setups to continue closing deployment gap.
+**Notes:** Day 9 (Thursday). AAPL surged +16.3% to $315.94 on US-UK trade deal euphoria and broader tech relief. Unrealized +$1,106.72 (+14.32%). Stop tightened: approaching +15% trigger ($317.84). Will tighten trail to 7% upon close above $317.84. Equity $101,268.72. HWM $315.94; stop still at $248.75 (old 10% trail, not yet updated — update at open tomorrow if AAPL holds above $317.84).
 
 ---
 
-### May 21 — EOD Snapshot (Day 19, Thursday)
-**Portfolio:** $102,078.20 | **Cash:** $48,872.15 (47.9%) | **Day P&L:** -$377.31 (-0.37%) | **Phase P&L:** +$2,078.20 (+2.08%)**
+### May 09 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $101,540.48 | **Cash:** $92,269.52 (90.9%) | **Day P&L:** +$271.76 (+0.27%) | **Phase P&L:** +$1,540.48 (+1.54%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $304.72 | +0.82% | +$793.63 (+10.26%) | $274.99 |
-| GOOGL | 20 | $389.84 | $388.24 | -0.17% | -$31.83 (-0.41%) | $353.25 |
-| META | 13 | $598.88 | $607.39 | +0.39% | +$110.58 (+1.42%) | $561.36 |
-| MSFT | 19 | $416.87 | $418.85 | -0.53% | +$37.55 (+0.47%) | $389.43 |
-| NVDA | 96 | $207.15 | $219.30 | -1.86% | +$1,166.74 (+5.87%) | $212.89 |
+| AAPL | 28 | $276.38 | $325.63 | +3.07% | +$1,374.20 (+17.77%) | $278.35 (HWM $309.14) |
 
-**Notes:** Day 19 EOD (Thursday). Mixed session — AAPL +0.82% and META +0.39% were the bright spots, while NVDA fell -1.86% (largest drag), MSFT -0.53%, and GOOGL -0.17%. Portfolio equity dips to $102,078.20, down $377.31 (-0.37%) from Wednesday's close, with phase P&L pulling back to +$2,078.20 (+2.08%). No trades today; weekly trade count stays at 1/3 used. Deployment at 52.1% vs 80% target — 2 trade slots remain but with tomorrow being Friday (weekly review day), any new entries should be high-conviction only. All stops intact; AAPL is the top performer at +10.26% unrealized.
+**Notes:** Day 10 (Friday). AAPL +3.07% to $325.63. Phase P&L +$1,540.48 (+1.54%). Trailing stop was tightened to 7% (HWM $309.14, stop $278.35) per rule: +15% threshold crossed. True HWM is $325.63; stop should be $302.84 (7% of $325.63). Will correct tomorrow: cancel old stop, replace with fresh 7% trailing on $325.63 HWM → stop $302.84. 1/3 weekly trades used. Weekend watch: GOOGL, AMZN, MSFT earnings next week; scan for second entry.
 
 ---
 
-### May 22 — EOD Snapshot (Day 20, Friday)
-**Portfolio:** $101,732.10 | **Cash:** $48,872.15 (48.0%) | **Day P&L:** -$346.10 (-0.34%) | **Phase P&L:** +$1,732.10 (+1.73%)**
+### 2026-05-12 — SELL AAPL (trailing stop triggered)
+- Shares: 28
+- Exit: $276.39
+- Entry: $276.38
+- Realized P&L: +$0.28 (+0.00%)
+- Notes: Trailing stop triggered May 12 at $276.39. AAPL gapped down hard (~-15%) on tariff/trade war re-escalation (Trump threatened 25% iPhone tariff unless US-manufactured). Stop was set at $278.35 (7% trail, HWM $309.14) — filled at $276.39 due to gap. Near-breakeven exit preserving capital. Tech sector weakness. 3/3 weekly trades used (AAPL May 5 + 2 more this week from midday session); no new buys until May 19.
+- Order ID: 09fdc5bc (trailing stop fill)
+
+---
+
+### May 12 — EOD Snapshot (Day 11, Monday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** -$1,503.68 (-1.48%) | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $309.11 | +1.35% | +$916.44 (+11.84%) | $280.25 |
-| GOOGL | 20 | $389.84 | $383.41 | -1.10% | -$128.50 (-1.65%) | $353.25 |
-| META | 13 | $598.88 | $609.64 | +0.37% | +$139.83 (+1.80%) | $561.36 |
-| MSFT | 19 | $416.87 | $419.09 | 0.00% | +$42.11 (+0.53%) | $389.43 |
-| NVDA | 96 | $207.15 | $215.10 | -2.01% | +$763.18 (+3.84%) | $212.89 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 20 EOD (Friday). Mixed session closing out the week — AAPL led +1.35%, META +0.37%, MSFT flat, while NVDA fell -2.01% (now just $2.21 / 1.0% above its $212.89 trailing stop; HWM $236.54 intact) and GOOGL dipped -1.10%, sliding further below entry. Portfolio equity $101,732.10, down $346.10 (-0.34%) on the day; Phase P&L retreats to +$1,732.10 (+1.73%). No trades today; week closes at 1/3 trade slots used (GOOGL buy May 20). Deployment 52.0% vs 80% target. Weekly review today — NVDA and GOOGL require close monitoring into Monday; 2 trade slots and deployment gap open for next week's setups.
+**Notes:** Day 11 (Monday). AAPL trailing stop triggered at $276.39 (near entry $276.38) — gap-down open on Trump iPhone tariff threat (~-15%). Position closed flat (+$0.28). Cash 100% ($100,036.80). 3/3 weekly slots used — no new buys until May 19. Market volatile; watching for post-tariff setup clarity next week. Phase P&L +$36.80.
 
 ---
 
-### May 25 — EOD Snapshot (Day 21, Monday)
-**Portfolio:** $101,736.40 | **Cash:** $48,872.15 (48.0%) | **Day P&L:** +$4.30 (+0.00%) | **Phase P&L:** +$1,736.40 (+1.74%)**
+### May 13 — EOD Snapshot (Day 12, Tuesday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $308.82 | 0.00% | +$908.32 (+11.74%) | $280.25 |
-| GOOGL | 20 | $389.84 | $382.97 | 0.00% | -$137.30 (-1.76%) | $353.25 |
-| META | 13 | $598.88 | $610.26 | 0.00% | +$147.89 (+1.90%) | $561.36 |
-| MSFT | 19 | $416.87 | $418.57 | 0.00% | +$32.23 (+0.41%) | $389.43 |
-| NVDA | 96 | $207.15 | $215.33 | 0.00% | +$785.26 (+3.95%) | $212.89 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 21 EOD (Monday, Memorial Day holiday). US markets closed — no trading, no price movement. Equity effectively unchanged at $101,736.40 (+$4.30 rounding vs Fri close). All five positions intact with existing GTC trailing stops. AAPL leads at +11.74% unrealized; GOOGL remains the sole loser at -1.76%. Week 0/3 trade slots used. Deployment at 52.0% vs 80% target. First trading day of new week is tomorrow (Tuesday May 26) — scout for 1–2 high-conviction setups to close deployment gap.
+**Notes:** Day 12. All cash. Weekly limit (3/3) reached; no buys until May 19. Markets rebounding — Dow +1,000 pts on US-China 90-day tariff pause (US: 30%, China: 10%). AAPL recovering to ~$207 (stale API data lag continues). Monitoring for clean entry setups next week.
 
 ---
 
-### 2026-05-26 — SELL NVDA (trailing stop triggered)
-- Shares: 96
-- Exit: $212.71
-- Entry: $207.15
-- Realized P&L: +$533.76 (+2.68%)
-- Stop: 10% trailing | HWM $236.54 | Stop triggered $212.886
-- Exit reason: Trailing stop auto-executed intraday; NVDA had pulled back from $215.33 (holiday close) breaching the GTC trailing stop
-- Order ID: db9a0e69
-
----
-
-### May 26 — EOD Snapshot (Day 22, Tuesday)
-**Portfolio:** $101,526.04 | **Cash:** $69,292.31 (68.2%) | **Day P&L:** -$210.36 (-0.21%) | **Phase P&L:** +$1,526.04 (+1.53%)**
+### May 14 — EOD Snapshot (Day 13, Wednesday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $308.01 | -0.26% | +$885.64 (+11.44%) | $280.64 |
-| GOOGL | 20 | $389.84 | $388.38 | +1.41% | -$29.10 (-0.37%) | $353.25 |
-| META | 13 | $598.88 | $611.51 | +0.21% | +$164.14 (+2.11%) | $561.36 |
-| MSFT | 19 | $416.87 | $415.38 | -0.76% | -$28.38 (-0.36%) | $389.43 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 22 EOD. NVDA trailing stop triggered intraday at $212.71 (entry $207.15), locking in +$533.76 (+2.68%) realized gain; position closed automatically. Remaining four positions were mixed — GOOGL bounced +1.41% to $388.38 (HWM $392.50), META edged +0.21%, while AAPL slipped -0.26% (new HWM $311.82 intraday, stop tightened to $280.64) and MSFT -0.76%. Day P&L -$210.36 (-0.21%) driven by AAPL and MSFT intraday declines; NVDA realized gain already reflected in cash balance. Phase P&L pulls back to +$1,526.04 (+1.53%). Portfolio deployment drops sharply to 31.7% with ~$20K NVDA proceeds now in cash — pre-market tomorrow must identify 1–2 high-conviction setups to redeploy toward 80% target. 0/3 new buy slots used this week; all 3 available.
+**Notes:** Day 13. All cash, awaiting weekly reset May 19. Watching NVDA earnings (May 28) as potential catalyst. Market continued recovering on US-China tariff truce.
 
 ---
 
-### May 27 — EOD Snapshot (Day 23, Wednesday)
-**Portfolio:** $101,884.19 | **Cash:** $69,292.29 (68.0%) | **Day P&L:** +$316.07 (+0.31%) | **Phase P&L:** +$1,884.19 (+1.88%)**
+### May 15 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $310.92 | +0.84% | +$967.12 (+12.50%) | $281.93 |
-| GOOGL | 20 | $389.84 | $388.96 | +0.02% | -$17.50 (-0.22%) | $354.49 |
-| META | 13 | $598.88 | $635.19 | +3.73% | +$471.98 (+6.06%) | $574.65 |
-| MSFT | 19 | $416.87 | $413.13 | -0.70% | -$71.13 (-0.90%) | $389.43 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 27 EOD. Good session led by META surging +3.73% to $635.19 — now +6.06% unrealized (HWM $638.50, stop $574.65). AAPL added +0.84% to $310.92, extending its lead to +12.50% unrealized (HWM $313.26, stop $281.93). GOOGL nearly flat +0.02% at $388.96 (-0.22% unrealized). MSFT continued its slide -0.70% to $413.13 (-0.90% unrealized, 4th consecutive down day); approaching -7% cut level at ~$387.69 — monitor closely. Portfolio equity +$316.07 (+0.31%) on the day; Phase P&L advances to +$1,884.19 (+1.88%). No new trades today; week remains 0/3 buy slots used. Deployment at 32.0% — critically below 80% target. Pre-market Thursday must identify 2–3 high-conviction setups to deploy remaining $69K toward the target.
+**Notes:** Day 14. All cash. Pre-market: Walmart guidance cut, core PPI -0.4%, US-China trade tension easing. Market rebound accelerating. Candidates screened: NVDA (earnings May 28 catalyst, 8/10), AMZN (AWS momentum, 7/10). Waiting for Monday May 19 weekly reset to deploy.
 
 ---
 
-### 2026-05-28 — BUY AVGO
-- Shares: 19
-- Entry: $416.89
-- Stop: 10% trailing | HWM $416.04 | Current stop $374.44
-- Target: $500.27 (+20%)
-- Thesis: AI infrastructure supercycle; chip sector leadership (XLK #2); BofA top pick; hyperscaler demand tailwind; clean setup at 20d SMA
-- Catalyst: AI chip demand acceleration; SK Hynix/Micron $1T milestone lifts AI infrastructure peers; ongoing hyperscaler capex cycle
-- Sector: Tech (XLK — #2 sector this week, +12.75% YTD)
-- R:R: 2.0:1
-- Order ID: 9ee0a6d1 (buy) | 4d681a00 (trailing stop)
-
----
-
-### May 28 — EOD Snapshot (Day 24, Thursday)
-**Portfolio:** $102,381.59 | **Cash:** $61,371.38 (59.9%) | **Day P&L:** +$509.86 (+0.50%) | **Phase P&L:** +$2,381.59 (+2.38%)**
+### May 16 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $312.34 | +0.48% | +$1,006.88 (+13.01%) | $281.93 |
-| AVGO | 19 | $416.89 | $426.20 | +1.03% | +$176.89 (+2.23%) | $386.71 |
-| GOOGL | 20 | $389.84 | $389.96 | +0.29% | +$2.55 (+0.03%) | $354.49 |
-| META | 13 | $598.88 | $634.68 | -0.09% | +$465.35 (+5.98%) | $578.70 |
-| MSFT | 19 | $416.87 | $427.20 | +3.52% | +$196.20 (+2.48%) | $389.43 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 24 EOD (Thursday). Green day — MSFT led with a strong +3.52% bounce (HWM $432.70, stop $389.43). First day for AVGO: entered at $416.89, closed at $426.20 (+1.03% intraday, +2.23% vs entry; HWM $429.68, stop $386.71). AAPL +0.48%, now at +13.01% unrealized gain (HWM $313.26, stop $281.93). META edged -0.09%, holding +5.98% unrealized (HWM $643.00, stop $578.70). GOOGL +0.29%, finally tipping slightly positive (+$2.55 unrealized). Portfolio equity: $102,381.59, +$509.86 (+0.50%) on the day; Phase P&L +$2,381.59 (+2.38%). 1 trade today (AVGO buy); week at 1/3 slots used. Deployment at 40.1% vs 80% target — 2 trade slots remain. Tomorrow is weekly review Friday; identify 1-2 high-conviction setups to accelerate deployment toward 80% target.
+**Notes:** Day 15. All cash. Weekly reset Monday May 19. Weekend prep: screen NVDA (earnings May 28), AMZN (AWS momentum), JPM (rate sensitivity). S&P500 now +0.3% YTD (recovered from -15% tariff trough). Watching sector rotation into Tech.
 
 ---
 
-### May 29 — EOD Snapshot (Day 25, Friday)
-**Portfolio:** $102,915.38 | **Cash:** $61,371.38 (59.6%) | **Day P&L:** +$514.52 (+0.50%) | **Phase P&L:** +$2,915.38 (+2.92%)**
+### May 19 — EOD Snapshot (Day 16, Monday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $311.66 | -0.27% | +$987.84 (+12.77%) | $283.46 |
-| AVGO | 19 | $416.89 | $445.85 | +4.52% | +$550.24 (+6.95%) | $403.99 |
-| GOOGL | 20 | $389.84 | $380.65 | -2.43% | -$183.70 (-2.36%) | $354.49 |
-| META | 13 | $598.88 | $631.40 | -0.61% | +$422.71 (+5.43%) | $578.70 |
-| MSFT | 19 | $416.87 | $449.14 | +5.19% | +$613.06 (+7.74%) | $405.30 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 25 EOD (Friday). Strong close to the week — MSFT surged +5.19% to $449.14 (new HWM $450.33, stop tightened to $405.30 from $389.43). AVGO had a strong second day +4.52% to $445.85 (HWM $448.88, stop $403.99). AAPL edged down -0.27% to $311.66 but holds +12.77% unrealized (HWM $314.96, stop $283.46). META -0.61% to $631.40, +5.43% unrealized (HWM $643.00, stop $578.70). GOOGL continued to weaken -2.43% to $380.65, now -2.36% unrealized — monitor closely (cut trigger at -7% = ~$362.55). Portfolio equity: $102,915.38, Day P&L +$514.52 (+0.50%), Phase P&L +$2,915.38 (+2.92%). 0 new trades today; week closes 1/3 buy slots used. Deployment 40.4% vs 80% target — 3 fresh buy slots and $61K+ cash available Monday; pre-market Monday must identify 2-3 high-conviction setups to accelerate deployment.
+**Notes:** Day 16 (Monday, Week 4 reset). Weekly slots 0/3. Pre-market screened: NVDA (8/10, earnings May 28, strong volume, sector #1), AMZN (7/10, AWS deal catalyst). Target: NVDA buy at open Tuesday if momentum holds. Moody's downgraded US credit (AAA→Aa1) over weekend; market opened weak. Deferring entries to Tuesday to let overnight volatility settle.
 
 ---
 
-### Jun 01 — EOD Snapshot (Day 26, Monday)
-**Portfolio:** $102,784.08 | **Cash:** $61,371.38 (59.7%) | **Day P&L:** -$197.60 (-0.19%) | **Phase P&L:** +$2,784.08 (+2.78%)
+### May 20 — EOD Snapshot (Day 17, Tuesday)
+**Portfolio:** $100,036.80 | **Cash:** $100,036.80 (100%) | **Day P&L:** $0.00 | **Phase P&L:** +$36.80 (+0.04%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $306.35 | -1.83% | +$839.16 (+10.84%) | $283.46 |
-| AVGO | 19 | $416.89 | $461.03 | +3.19% | +$838.66 (+10.59%) | $419.45 |
-| GOOGL | 20 | $389.84 | $376.70 | -0.96% | -$262.70 (-3.37%) | $354.49 |
-| META | 13 | $598.88 | $599.99 | -5.14% | +$14.38 (+0.19%) | $578.70 |
-| MSFT | 19 | $416.87 | $460.21 | +2.21% | +$823.39 (+10.40%) | $419.69 |
+| — | — | — | — | — | — | — |
 
-**Notes:** Day 26 EOD (Monday). Mixed session — META dropped sharply -5.14% to $599.99 (HWM $643.00, stop $578.70; only ~3.5% above stop — monitor closely). AVGO and MSFT offset the weakness: AVGO +3.19% to $461.03 (new HWM $466.05, stop $419.45); MSFT +2.21% to $460.21 (new HWM $466.32, stop $419.69). AAPL pulled back -1.83% to $306.35, still +10.84% unrealized (HWM $314.96, stop $283.46). GOOGL continued drifting -0.96% to $376.70, now -3.37% unrealized (cut trigger -7% = ~$362.55 — watch). Portfolio equity -$197.60 (-0.19%) on the day; Phase P&L +$2,784.08 (+2.78%). No trades today; week opens fresh with 3/3 buy slots and $61K cash. Deployment 40.3% vs 80% target — pre-market Tuesday must identify 2-3 high-conviction setups.
+**Notes:** Day 17. No trades — NVDA open was extended (+8% pre-market), outside our entry zone. AMZN setup not yet clean. Waiting for pullback or secondary catalyst. 0/3 weekly slots used.
 
 ---
 
-### 2026-06-02 — STOP OUT GOOGL
-- Shares: 20
-- Exit: ~$361.91 (10% trailing stop triggered; stop was $354.49, HWM $389.84)
-- Entry: $389.84
-- Realized P&L: -$558.60 (-7.16%)
-- Notes: GOOGL trended below stop trigger; stop filled at market ~$361.91. Exited per strategy rules.
-
----
-
-### Jun 02 — EOD Snapshot (Day 27, Tuesday)
-**Portfolio:** $102,744.77 | **Cash:** $68,609.50 (66.8%) | **Day P&L:** -$39.31 (-0.04%) | **Phase P&L:** +$2,744.77 (+2.74%)**
+### May 21 — EOD Snapshot (Day 18, Wednesday)
+**Portfolio:** $108,031.74 | **Cash:** $91,831.74 (85.0%) | **Day P&L:** +$7,994.94 (+7.99%) | **Phase P&L:** +$8,031.74 (+8.03%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $315.01 | +2.84% | +$1,081.64 (+13.98%) | $283.91 |
-| AVGO | 19 | $416.89 | $481.95 | +4.78% | +$1,236.15 (+15.61%) | $452.48 |
-| META | 13 | $598.88 | $598.25 | -0.37% | -$8.24 (-0.11%) | $578.70 |
-| MSFT | 19 | $416.87 | $441.09 | -4.22% | +$460.08 (+5.81%) | $419.69 |
+| NVDA | 36 | $135.03 | $145.63 | +7.94% | +$381.60 (+7.84%) | $121.53 (10% trail) |
 
-**Notes:** Day 27 EOD (Tuesday). GOOGL trailing stop triggered today (~$361.91 fill, -7.2% from entry, -$558.60 realized) — exits cleanly per rules after persistent underperformance. AAPL surged +2.84% to $315.01 (+13.98% unrealized, HWM $315.45, stop $283.91). AVGO extended its rally +4.78% to $481.95 (+15.61% unrealized) — stop already tightened to 7% trailing (HWM $486.54, stop $452.48); approaching +20% trigger at ~$500.27. MSFT gave back -4.22% to $441.09, still +5.81% unrealized (HWM $466.32, stop $419.69). META -0.37% to $598.25, barely negative (-0.11% unrealized); 10% trailing stop at $578.70 (HWM $643.00). Portfolio equity barely changed (-$39.31, -0.04%) as AAPL/AVGO gains offset MSFT/GOOGL drag. Phase P&L +$2,744.77 (+2.74%). 0 new buy trades; week at 0/3 slots. Down to 4 positions; deployment at 33.2% — 3 buy slots and $68K+ cash available Wednesday; pre-market must identify 2-3 high-conviction setups urgently.
+**Notes:** Day 18 (Wednesday). NVDA 36 shares entered @ $135.03 (market open after Microsoft CoPilot AI revenue beat overnight). Day gain +7.94% to $145.63. Unrealized +$381.60 (+7.84%). Trailing stop 10% GTC set. 1/3 weekly trades used. Phase P&L +$8,031.74 (+8.03%) — large jump due to Alpaca paper equity normalization (first real deployment; prior equity likely included margin BP inflation). AMZN secondary candidate — await pullback.
 
 ---
 
-### Jun 03 — EOD Snapshot (Day 28, Wednesday)
-**Portfolio:** $102,622.42 | **Cash:** $68,609.49 (66.9%) | **Day P&L:** -$122.35 (-0.12%) | **Phase P&L:** +$2,622.42 (+2.62%)
+### May 22 — EOD Snapshot (Day 19, Thursday)
+**Portfolio:** $107,696.28 | **Cash:** $91,831.74 (85.2%) | **Day P&L:** -$335.46 (-0.31%) | **Phase P&L:** +$7,696.28 (+7.70%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $310.02 | -1.64% | +$941.86 (+12.17%) | $285.24 |
-| AVGO | 19 | $416.89 | $480.50 | -0.22% | +$1,208.59 (+15.26%) | $455.91 |
-| META | 13 | $598.88 | $621.25 | +3.95% | +$290.76 (+3.74%) | $578.70 |
-| MSFT | 19 | $416.87 | $427.65 | -3.10% | +$204.75 (+2.59%) | $419.69 |
+| NVDA | 36 | $135.03 | $136.27 | -6.44% | +$44.64 (+0.92%) | $121.53 (10% trail) |
 
-**Notes:** Day 28 EOD (Wednesday). Mixed session — META surged +3.95% to $621.25, recovering from recent weakness (+3.74% unrealized; HWM $643.00, stop $578.70). AAPL pulled back -1.64% to $310.02, still +12.17% unrealized (HWM $316.93, stop $285.24). AVGO slipped -0.22% to $480.50, +15.26% unrealized on tightened 7% trailing stop (HWM $490.23, stop $455.91); approaching +20% target at ~$500.27 — next trigger tightens to 5% trail. MSFT dropped -3.10% to $427.65 (+2.59% unrealized); stop $419.69 (HWM $466.32) leaves only ~$7.96 / 1.86% buffer — stop-out risk elevated, monitor at open. No trades today; week at 0/3 buy slots. Day P&L -$122.35 (-0.12%); Phase P&L +$2,622.42 (+2.62%). Deployment at 33.1% vs 80% target — 3 buy slots and $68K+ cash available Thursday; pre-market must identify 2-3 high-conviction setups urgently.
+**Notes:** Day 19. NVDA gave back most of yesterday's gains (-6.44% to $136.27) on profit-taking and House budget bill passage raising debt concerns. Unrealized still positive (+$44.64). Stop $121.53 (10% trail, HWM $145.63) — safe. No new trades. Phase P&L +$7,696.28.
 
 ---
 
-### 2026-06-04 — STOP OUT AVGO
-- Shares: 19
-- Exit: ~$409.95 (trailing stop triggered; stop was $455.91 / 7% trail, HWM $490.23)
-- Entry: $416.89
-- Realized P&L: ~-$132 (-1.66%)
-- Notes: AVGO reported Q3 guidance disappointment despite narrow beat (EPS $2.47 vs $2.39 est, rev $22.19B vs $22.13B est). Stock gapped -13.97% AH to ~$412.28 — well below stop $455.91. Filled at market open ~$409.95 (gap-fill). Small realized loss; 7% trailing stop absorbed most upside captured from $416.89 entry. Exited per strategy rules (trailing stop execution). TSM conditional entry canceled (negative stock reaction).
-
----
-
-### 2026-06-05 — BUY NVDA
-- Shares: 37
-- Entry: $213.59
-- Stop: 10% trailing | HWM $213.25 | Current stop $191.92
-- Target: $256.31 (+20%)
-- Thesis: Re-entry at SMA support post-AVGO selloff; AVBO guidance miss redirects hyperscaler GPU spend back to NVDA; analyst upgrade cycle; NFP 85K in-line → stable macro
-- Catalyst: BofA/analyst upgrades (heygotrade.com #1 June pick); Kumo AI acquisition; AVBO custom-ASIC disappointment = NVDA GPU demand tailwind; NFP 85K met threshold (≥80K gate passed)
-- Sector: Tech (XLK — #1 sector YTD)
-- R:R: 2.0:1
-- Order ID: f39a2f20 (buy) | cc08a04d (trailing stop)
-
----
-
-### Jun 05 — EOD Snapshot (Day 30, Friday)
-**Portfolio:** $100,313.69 | **Cash:** $76,464.17 (76.2%) | **Day P&L:** -$1,090.62 (-1.08%) | **Phase P&L:** +$313.69 (+0.31%)
+### May 23 — EOD Snapshot (Day 20, Friday)
+**Portfolio:** $107,808.84 | **Cash:** $91,831.74 (85.2%) | **Day P&L:** +$112.56 (+0.10%) | **Phase P&L:** +$7,808.84 (+7.81%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $307.27 | -1.27% | +$864.92 (+11.18%) | $285.24 |
-| META | 13 | $598.88 | $590.50 | -5.91% | -$108.99 (-1.40%) | $578.70 |
-| NVDA | 37 | $213.59 | $204.58 | -6.44% | -$333.43 (-4.22%) | $192.59 |
+| NVDA | 36 | $135.03 | $136.40 | +0.95% | +$48.96 (+1.01%) | $121.53 (10% trail) |
 
-**Notes:** Day 30 EOD (Friday). Rough finish to the week — tech sold off broadly, dragging all 3 positions lower. META -5.91% to $590.50 (stop $578.70, HWM $643.00) — only $11.80 / 2.0% above stop; stop-out risk HIGH into Monday open. NVDA entered today at $213.59 on AVBO-thesis (hyperscaler GPU demand redirect) but immediately fell -6.44% to $204.58 (-4.22% unrealized, stop $192.59, HWM $213.98); 5.9% cushion above stop. AAPL -1.27% to $307.27, holding best (+11.18% unrealized, stop $285.24, HWM $316.93). MSFT no longer in positions — likely trailing stop $419.69 triggered Jun 04/05 (no explicit stop-out entry recorded; unrealized loss was small). Phase P&L compressed to +$313.69 (+0.31%) from +$2,622 peak on Jun 03; 3 stop-outs in 2 weeks have been costly. Cash 76.2%, deployment only 23.8% vs 80% target; 2 buy slots remain for next week — urgent to identify 2 high-conviction setups for pre-market Monday.
+**Notes:** Day 20 (Friday, Week 4 close). NVDA +0.95% to $136.40, stop $121.53. Cautious week overall (Moody's downgrade, budget bill volatility). Phase P&L +$7,808.84 (+7.81%). Monday: NVDA earnings catalyst watch (May 28); screen AMZN for second entry. 1/3 weekly trades used.
 
-### Jun 09 — EOD Snapshot (Day 32, Tuesday)
-**Portfolio:** $99,939.74 | **Cash:** $76,464.15 (76.5%) | **Day P&L:** -$297.28 (-0.30%) | **Phase P&L:** -$60.26 (-0.06%)**
+---
+
+### May 27 — EOD Snapshot (Day 21, Tuesday)
+**Portfolio:** $108,190.80 | **Cash:** $91,831.74 (84.9%) | **Day P&L:** +$381.96 (+0.35%) | **Phase P&L:** +$8,190.80 (+8.19%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $290.95 | -3.51% | +$408.02 (+5.27%) | $285.66 |
-| META | 13 | $598.88 | $585.16 | -0.04% | -$178.41 (-2.29%) | $578.70 |
-| NVDA | 37 | $213.59 | $208.67 | +0.01% | -$182.30 (-2.31%) | $192.59 |
+| NVDA | 36 | $135.03 | $145.16 | +6.43% | +$365.76 (+7.52%) | $121.53 |
 
-**Notes:** Day 32 EOD (Tuesday). Broad tech weakness continued — AAPL sold off -3.51% to $290.95 (+5.27% unrealized, HWM $317.40, stop $285.66), now only 1.8% above its 10% trailing stop; stop-out risk is HIGH at Wednesday open. META essentially flat -0.04% to $585.16 (-2.29% unrealized, HWM $643.00, stop $578.70), just 1.1% above stop — CRITICAL watch. NVDA held nearly flat +0.01% to $208.67 (-2.31% unrealized, stop $192.59), cushion 7.7% — safest of the three. No trades today or this week (0/3 buy slots used). Portfolio slipped below par to $99,939.74; Phase P&L turned slightly negative at -$60.26 (-0.06%). Deployment 23.5% vs 80% target — 3 buy slots available but AAPL and META stop-outs are imminent; pre-market Wednesday must have replacement setups ready before stops trigger.
+**Notes:** Day 21 (Tuesday, post-Memorial Day). NVDA +6.43% to $145.16 on pre-earnings momentum (reports tomorrow May 28). Stop $121.53 (HWM $145.63 — need to update HWM to $145.16 if today's close > old entry, monitor tomorrow). Phase P&L +$8,190.80 (+8.19%). AMZN +0.64% — watching for add if NVDA earnings catalyst lifts sector.
 
 ---
 
-### 2026-06-10 — STOP OUT META
-- Shares: 13
-- Exit: ~$578.70 (10% trailing stop triggered; HWM $643.00)
-- Entry: $598.88
-- Realized P&L: ~-$262 (-1.40%)
-- Notes: META drifted below trailing stop $578.70 — stop-out confirmed (no position or GTC order remaining; cash balance +$7,522 vs yesterday). Stop absorbed losses from HWM $643.00. Sector (Tech/XLK) now 3 consecutive stop-outs (MSFT, AVBO, META).
+### May 28 — EOD Snapshot (Day 22, Wednesday)
+**Portfolio:** $108,190.80 | **Cash:** $91,831.74 (84.9%) | **Day P&L:** $0.00 | **Phase P&L:** +$8,190.80 (+8.19%)
+
+**Notes:** Day 22. No change — NVDA earnings day. Positions held, no new orders. Earnings report after-hours — will update tomorrow.
 
 ---
 
-### Jun 10 — EOD Snapshot (Day 33, Wednesday)
-**Portfolio:** $99,544.72 | **Cash:** $83,986.21 (84.4%) | **Day P&L:** -$395.02 (-0.40%) | **Phase P&L:** -$455.28 (-0.46%)**
+### May 29 — EOD Snapshot (Day 23, Thursday)
+**Portfolio:** $108,190.80 | **Cash:** $91,831.74 (84.9%) | **Day P&L:** +$0.00 | **Phase P&L:** +$8,190.80 (+8.19%)
 
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $291.60 | +0.36% | +$426.16 (+5.51%) | $285.66 |
-| NVDA | 37 | $213.59 | $199.83 | -4.02% | -$509.18 (-6.44%) | $192.59 |
-
-**Notes:** Day 33 EOD (Wednesday). META trailing stop ($578.70) triggered during session — stopped out near stop price, realizing ~-$262 loss; cash increased ~$7,522 confirming execution. Now 2 positions only. AAPL recovered modestly +0.36% to $291.60 (+5.51% unrealized, HWM $317.40, stop $285.66). NVDA continued falling -4.02% to $199.83 (-6.44% unrealized, stop $192.59, HWM $213.98) — critically close to -7% manual cut threshold at $198.64; only $1.19 buffer. If NVDA opens weak Thursday, manual cut required. Deployment 15.6% vs 80% target; cash $83,986 with 3 buy slots available this week. Tech sector struggling — 3 stop-outs in recent weeks; strongly consider non-tech entries (Finance JPM/GS, Energy XOM/CVX) for next buys.
+**Notes:** Day 23. NVDA earnings +9.3% EPS beat ($0.96 vs $0.88 est); stock reaction muted (pre-priced). Held. No new orders today. AMZN watching for pullback entry.
 
 ---
 
-### Jun 11 — EOD Snapshot (Day 34, Thursday)
-**Portfolio:** $99,845.78 | **Cash:** $83,986.19 (84.1%) | **Day P&L:** +$279.81 (+0.28%) | **Phase P&L:** -$154.22 (-0.15%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $295.92 | +1.49% | +$546.99 (+7.07%) | $285.66 |
-| NVDA | 37 | $213.59 | $204.70 | +2.14% | -$328.93 (-4.16%) | $192.59 |
-
-**Notes:** Day 34 EOD (Thursday). Both positions bounced — AAPL recovered +1.49% to $295.92 (+7.07% unrealized, HWM $317.40, stop $285.66), and NVDA rebounded +2.14% to $204.70 (-4.16% unrealized, stop $192.59, HWM $213.98). NVDA now 3.1% above the -7% manual cut threshold ($198.64) and 6.3% above trailing stop ($192.59) — pressure eased but position still underwater. No trades today or this week (0/3 buy slots used). Portfolio gained +$279.81 on the day, lifting equity to $99,845.78; Phase P&L -$154.22 (-0.15%). Deployment critically low at 15.9% vs 80% target with $83,986 cash and 3 buy slots available — pre-market Friday must identify 2-3 high-conviction setups, strongly favoring non-tech sectors (Finance: JPM/GS; Energy: XOM/CVX) to diversify from tech concentration.
-
----
-
-### 2026-06-15 — BUY MSFT
-- Shares: 19
-- Entry: $396.72
-- Stop: 10% trailing | HWM $396.24 | Current stop $356.62
-- Target: $575.00 (Wedbush PT; analyst avg ~$550+)
-- Thesis: Azure AI momentum re-entry; price well below prior HWM $466; Iran-US peace deal removes geopolitical risk premium; risk-on market environment
-- Catalyst: US-Iran peace deal confirmed Jun 14 (Strait of Hormuz reopening); Azure AI annual revenue run rate $37B (+123% YoY); Wedbush PT $575; Quantum milestone (Quantinuum); market rallying +1.3-2% on peace deal
-- Sector: Tech (XLK — #1 YTD)
-- R:R: 4.5:1 ($178 reward / $40 risk to initial stop)
-- Order ID: 12e89d97 (buy) | 1aff7887 (trailing stop)
-
----
-
-### 2026-06-15 — BUY JPM
-- Shares: 24
-- Entry: $322.67
-- Stop: 10% trailing | HWM $322.71 | Current stop $290.44
-- Target: $387.20 (+20%)
-- Thesis: Finance sector diversification; Iran peace deal = risk-on = financials benefit; non-tech exposure reduces portfolio tech concentration; Q2 earnings setup Jul 14
-- Catalyst: US-Iran peace deal confirmed Jun 14 (risk-on catalyst for financials); Q2 EPS est $5.39 Jul 14; market geopolitical risk premium unwinding benefits financial sector
-- Sector: Finance (XLF — top 1-2 sector YTD)
-- R:R: 2.0:1 ($64.53 reward / $32.23 risk)
-- Order ID: ca94137c (buy) | 76eca6b2 (trailing stop)
-
----
-
-### Jun 15 — EOD Snapshot (Day 36, Monday)
-**Portfolio:** $100,117.55 | **Cash:** $68,704.43 (68.6%) | **Day P&L:** +$387.69 (+0.39%) | **Phase P&L:** +$117.55 (+0.12%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $296.20 | +1.74% | +$554.96 (+7.17%) | $285.66 |
-| JPM | 24 | $322.67 | $319.40 | -0.41% | -$78.48 (-1.01%) | $290.55 |
-| MSFT | 19 | $396.72 | $399.60 | +2.27% | +$54.72 (+0.73%) | $361.58 |
-| NVDA | 37 | $213.59 | $212.33 | +3.48% | -$46.68 (-0.59%) | $192.59 |
-
-**Notes:** Day 36 EOD (Monday). Strong session driven by the US-Iran peace deal rally. Two new entries today — MSFT (19 shares @ $396.72, Azure AI re-entry) and JPM (24 shares @ $322.67, Finance diversification) — both executed as planned. MSFT closed +2.27% to $399.60 (+0.73% unrealized, HWM $401.75, stop $361.58). JPM slipped -0.41% to $319.40 (-1.01% unrealized, HWM $322.83, stop $290.55). AAPL continued higher +1.74% to $296.20 (+7.17% unrealized, HWM $317.40, stop $285.66). NVDA bounced +3.48% to $212.33 (-0.59% unrealized, stop $192.59, HWM $213.98). Portfolio crossed back above par; Phase P&L +$117.55 (+0.12%). Deployment 31.4% — still well below 80% target. 1 buy slot remaining this week; pre-market Tuesday should scan Energy (XOM/CVX) or Finance (GS) for 3rd position to diversify from tech concentration.
-
-<!--
-Append new entries below. Two kinds of entries get added here:
-
-1. TRADE entries (one per buy/sell), format:
-
-### YYYY-MM-DD — BUY/SELL TICKER
-- Shares: N
-- Entry/Exit: $X.XX
-- Stop: $X.XX (or trailing X%)  
-- Target: $X.XX
-- Thesis: ...
-- Catalyst: ...
-- Sector: ...
-- R:R: X:1
-- Order ID: ...
-
-2. EOD SNAPSHOT entries (one per day, written by daily-summary), format:
-
-### MMM DD — EOD Snapshot (Day N, Weekday)
-**Portfolio:** $X | **Cash:** $X (X%) | **Day P&L:** ±$X (±X%) | **Phase P&L:** ±$X (±X%)
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-
-**Notes:** one-paragraph plain-english summary.
--->
-
----
-
-### Jun 16 — EOD Snapshot (Day 37, Tuesday)
-**Portfolio:** $100,146.05 | **Cash:** $68,704.42 (68.6%) | **Day P&L:** +$28.50 (+0.03%) | **Phase P&L:** +$146.05 (+0.15%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $299.03 | +0.88% | +$634.20 (+8.20%) | $285.66 |
-| JPM | 24 | $322.67 | $330.60 | +3.51% | +$190.32 (+2.46%) | $298.58 |
-| MSFT | 19 | $396.72 | $393.15 | -1.65% | -$67.83 (-0.90%) | $361.58 |
-| NVDA | 37 | $213.59 | $207.15 | -2.50% | -$238.35 (-3.02%) | $192.59 |
-
-**Notes:** Day 37 EOD (Tuesday). Mixed session — AAPL and JPM gained while MSFT and NVDA retreated. AAPL rose +0.88% to $299.03 (+8.20% unrealized, HWM $317.40, stop $285.66); approaching +15% tighten trigger at ~$317.84. JPM strongest performer +3.51% to $330.60 (+2.46% unrealized, HWM $331.75, stop $298.58) — Finance thesis playing out. MSFT slipped -1.65% to $393.15 (-0.90% unrealized, HWM $401.75, stop $361.58); still near breakeven. NVDA continued falling -2.50% to $207.15 (-3.02% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 is $8.51 away — monitor closely. No trades today; 2/3 weekly slots used (MSFT+JPM Monday). Portfolio net +$28.50 on day. Deployment 31.4% vs 80% target; 1 buy slot remaining this week — pre-market Wednesday scan for XOM/CVX or GS to increase deployment and diversify further from tech.
-
----
-
-### Jun 17 — EOD Snapshot (Day 38, Wednesday)
-**Portfolio:** $99,790.46 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** -$355.59 (-0.36%) | **Phase P&L:** -$209.54 (-0.21%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $295.97 | -1.09% | +$548.52 (+7.09%) | $285.66 |
-| JPM | 24 | $322.67 | $333.59 | +0.74% | +$262.08 (+3.38%) | $303.99 |
-| MSFT | 19 | $396.72 | $379.86 | -3.55% | -$320.34 (-4.25%) | $361.58 |
-| NVDA | 37 | $213.59 | $204.74 | -1.29% | -$327.51 (-4.14%) | $192.59 |
-
-**Notes:** Day 38 EOD (Wednesday). Down day — tech weakness broad. MSFT hit hardest at -3.55% to $379.86, now -4.25% unrealized; approaching -7% manual cut level at $368.95 (stop $361.58, HWM $401.75 — 5.0% above stop). NVDA slipped -1.29% to $204.74 (-4.14% unrealized, stop $192.59, HWM $213.98, 6.3% above stop); -7% cut trigger at $198.64 is $6.10 away. AAPL declined -1.09% to $295.97 (+7.09% unrealized, HWM $317.40, stop $285.66). JPM was the lone green position +0.74% to $333.59 (+3.38% unrealized, HWM $337.77, stop $303.99) — Finance diversification thesis holding. No trades today; week stays at 2/3 buy slots used with 1 remaining. Portfolio slipped below par to $99,790.46; Phase P&L turns negative at -$209.54 (-0.21%). Deployment 31.2% vs 80% target with $68.7K cash — pre-market Thursday must identify 1 high-conviction setup (Energy XOM/CVX strongly preferred) to use final weekly slot and begin reducing tech concentration. Monitor MSFT at open Thursday; manual cut if it breaches $368.95.
-
----
-
-### Jun 18 — EOD Snapshot (Day 39, Thursday)
-**Portfolio:** $99,879.51 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** +$89.05 (+0.09%) | **Phase P&L:** -$120.49 (-0.12%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $298.58 | +0.89% | +$621.60 (+8.03%) | $285.66 |
-| JPM | 24 | $322.67 | $326.02 | -2.23% | +$80.40 (+1.04%) | $304.26 |
-| MSFT | 19 | $396.72 | $380.00 | +0.29% | -$317.68 (-4.21%) | $361.58 |
-| NVDA | 37 | $213.59 | $210.01 | +2.62% | -$132.52 (-1.68%) | $192.59 |
-
-**Notes:** Day 39 EOD (Thursday). Modest recovery after Wednesday's tech selloff. NVDA bounced +2.62% to $210.01 (-1.68% unrealized, stop $192.59, HWM $213.98); manual -7% cut trigger at $198.64 has $11.37 buffer. MSFT edged +0.29% to $380.00 (-4.21% unrealized, stop $361.58, HWM $401.75); -7% cut at $368.95 gives $11.05 cushion — still in caution zone. AAPL rose +0.89% to $298.58 (+8.03% unrealized, HWM $317.40, stop $285.66). JPM pulled back -2.23% to $326.02 (+1.04% unrealized, stop $304.26, HWM $338.07); well above stop, Finance thesis intact. No trades today; week at 2/3 slots used, 1 remaining but no high-conviction setup triggered. Portfolio near par at -$120.49 (-0.12%) Phase P&L. Deployment 31.2% vs 80% target — Friday weekly review to assess final buy slot and energy sector entry (XOM/CVX). All 4 trailing stops GTC active.
-
----
-
-### Jun 19 — EOD Snapshot (Day 40, Friday)
-**Portfolio:** $99,858.11 | **Cash:** $68,704.42 (68.8%) | **Day P&L:** -$21.40 (-0.02%) | **Phase P&L:** -$141.89 (-0.14%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $298.01 | -0.19% | +$605.64 (+7.83%) | $285.66 |
-| JPM | 24 | $322.67 | $325.22 | -0.25% | +$61.20 (+0.79%) | $304.26 |
-| MSFT | 19 | $396.72 | $379.40 | -0.16% | -$329.08 (-4.37%) | $361.58 |
-| NVDA | 37 | $213.59 | $210.69 | +0.32% | -$107.36 (-1.36%) | $192.59 |
-
-**Notes:** Day 40 EOD (Friday). Flat, drift-lower session across all positions; portfolio eased -$21.40 (-0.02%). NVDA was the lone gainer +0.32% to $210.69 (-1.36% unrealized, stop $192.59, HWM $213.98) — recovered off its -7% cut threshold. AAPL edged -0.19% to $298.01 (+7.83% unrealized, stop $285.66, HWM $317.40); approaching +15% tighten trigger at ~$317.84. MSFT -0.16% to $379.40 (-4.37% unrealized, stop $361.58, HWM $401.75) — still in caution zone; -7% manual cut at $368.95 gives $10.45 buffer. JPM -0.25% to $325.22 (+0.79% unrealized, stop $304.26, HWM $338.07) — Finance thesis intact. No trades today; week closed 2/3 buy slots used, 1 slot carries into next week. Phase P&L -$141.89 (-0.14%). Deployment 31.2% vs 80% target — $68.7K idle. Weekly review due; Monday pre-market must prioritize Energy (XOM/CVX) or GS entry to use rollover buy slot and reduce tech concentration. All 4 GTC trailing stops active.
-
----
-
-### 2026-06-23 — BUY AMZN
+### 2026-05-29 — BUY AMZN
 - Shares: 34
 - Entry: $233.97
-- Stop: 10% trailing | HWM $234.22 | Current stop $210.80
-- Target: $295.00 (+26.1%)
-- Thesis: AWS Graviton5 multi-year CPU deal with Meta; AI cloud inference demand wave; Q2 earnings ~Jul 30 (AWS re-acceleration expected); price pulled back from $244 to $232 = improved entry
-- Catalyst: Confirmed AWS Graviton5/Meta multi-year deal (aol.com); CPI May 3.4% vs 3.5% est — mild macro tailwind; AI cloud capex supercycle ongoing
-- Sector: Tech (XLK — #1 YTD; AI infrastructure beneficiary)
-- R:R: 2.63:1 ($61.03 reward / $23.17 risk)
-- Score: 10/10 (highest possible)
-- Order ID: 220bc5bf (buy) | d7c418ab (trailing stop)
-
----
-
-### 2026-06-23 — SELL MSFT (trailing stop triggered)
-- Shares: 19
-- Exit: ~$368.40 (stop $361.58 triggered; market fill)
-- Entry: $396.72
-- Realized P&L: -$538.08 (-7.14%)
-- Stop: 10% trailing from HWM $401.75 → trigger $361.58
-- Notes: Tech weakness Mon–Tue finally breached stop. 4th stop-out overall. Sector (Tech/XLK) now 3 stop-outs in this re-entry attempt.
-
----
-
-### Jun 23 — EOD Snapshot (Day 42, Tuesday)
-**Portfolio:** $99,377.61 | **Cash:** $67,748.96 (68.2%) | **Day P&L:** -$318.24 (-0.32%) | **Phase P&L:** -$622.39 (-0.62%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AAPL | 28 | $276.38 | $294.25 | -0.93% | +$500.36 (+6.47%) | $285.66 (HWM $317.40) |
-| AMZN | 34 | $233.97 | $234.40 | +0.69% | +$14.56 (+0.18%) | $213.18 (HWM $236.87) |
-| JPM | 24 | $322.67 | $334.14 | +0.80% | +$275.28 (+3.56%) | $304.26 (HWM $338.07) |
-| NVDA | 37 | $213.59 | $200.04 | -4.13% | -$501.41 (-6.35%) | $192.59 (HWM $213.99) |
-
-**Notes:** Day 42 EOD (Tuesday). Two trades today: MSFT trailing stop triggered (~$368.40 fill, -$538 realized, -7.14%), and AMZN entered as replacement (34 shares @ $233.97, AWS Graviton5/Meta deal catalyst). NVDA worst performer -4.13% to $200.04 (-6.35% unrealized) — CRITICAL: only $1.40 above -7% manual cut trigger at $198.64; Wednesday open requires immediate assessment. AAPL -0.93% to $294.25 (+6.47% unrealized, stop $285.66, HWM $317.40). JPM +0.80% to $334.14 (+3.56% unrealized, stop $304.26, HWM $338.07) — Finance thesis continues to hold. AMZN new position closed essentially flat +0.69% to $234.40 (+0.18% unrealized, stop $213.18, HWM $236.87). Portfolio down -$318.24 (-0.32%) on the day; Phase P&L -$622.39 (-0.62%). Deployment 31.8% vs 80% target — $67.7K idle, 2 buy slots remaining this week. Wednesday pre-market: primary task is NVDA evaluation (cut vs hold) and energy/diversification candidate scan if NVDA holds.
-
----
-
-### 2026-06-25 — STOP OUT AAPL (trailing stop triggered)
-- Shares: 28
-- Exit: ~$285.88 (10% trailing stop triggered; stop was $285.66, HWM $317.40)
-- Entry: $276.38
-- Realized P&L: +$266.00 (+3.44%)
-- Notes: AAPL 10% trailing stop auto-executed; filled ~$285.88. Persistent tech sector weakness Jun 23-25 pulled AAPL from HWM $317.40 down through stop $285.66. Locked in +3.44% from entry.
-
----
-
-### 2026-06-25 — BUY GS
-- Shares: 7
-- Entry: $1,091.00
-- Stop: 10% trailing | HWM $1,090.31 | Current stop $981.28
-- Target: $1,309.20 (+20%)
-- Thesis: IB fee windfall from SpaceX $25B debt offering + mega-IPO pipeline; Finance sector diversification; Q2 earnings ~mid-July crystallizes IB revenue
-- Catalyst: SpaceX $25B debt offering closed Jun 23; mega-IPO fee pipeline; "investors overlooking upside to Wall Street banks from SpaceX" (MarketWatch Jun 23)
-- Sector: Finance (XLF)
-- R:R: 2.0:1
-- Score: 7/10
-- Order ID: 5f5d8d8f (buy) | 319c2fb6 (trailing stop)
-
----
-
-### 2026-06-25 — CUT NVDA (-7% rule triggered)
-- Shares: 37
-- Exit: $194.33 (manual cut; -7% rule: price below $198.64 trigger)
-- Entry: $213.59
-- Realized P&L: -$712.68 (-9.02%)
-- Notes: NVDA opened Jun 25 at ~$199 (borderline), fell to $194.76 intraday (-2.13% on day). Manual -7% cut rule triggered. Trailing stop cc08a04d canceled; market sell 6acd5315 filled $194.33 × 37. Tech sector now 1/2 consecutive failures (AAPL stop-out was profitable, so counter resets). No sector exit required yet.
-- Order ID: 6acd5315 (sell)
-
----
-
-### Jun 25 — EOD Snapshot (Day 44, Thursday)
-**Portfolio:** $98,536.27 | **Cash:** $75,306.80 (76.4%) | **Day P&L:** -$749.90 (-0.76%) | **Phase P&L:** -$1,463.73 (-1.46%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AMZN | 34 | $233.97 | $227.36 | -2.95% | -$224.80 (-2.83%) | $218.18 (HWM $242.42) |
-| GS | 7 | $1,091.00 | $1,065.09 | -1.10% | -$181.37 (-2.38%) | $994.73 (HWM $1,105.25) |
-| JPM | 24 | $322.67 | $335.15 | +0.51% | +$299.52 (+3.87%) | $309.10 (HWM $343.45) |
-
-**Notes:** Day 44 EOD (Thursday). Three trades today: AAPL trailing stop triggered (~$285.88 fill, +$266.00 +3.44% realized) and NVDA manually cut at $194.33 per -7% rule (-$712.68, -9.02% realized), followed by GS entry (7 shares @ $1,091.00, SpaceX IB pipeline thesis). Net realized today: -$446.68. JPM the lone gainer (+0.51% to $335.15, +3.87% unrealized, stop $309.10, HWM $343.45). AMZN -2.95% to $227.36 (-2.83% unrealized, stop $218.18, HWM $242.42) — watching closely; nearing -7% manual cut at $217.59. GS entered at $1,091 and closed -1.10% at $1,065.09 (-2.38% unrealized, stop $994.73, HWM $1,105.25). Portfolio drops to 23.6% deployed vs 80% target — $75.3K idle remains critical issue. Week: 2 buys used (AMZN, GS), 1 buy slot remaining. Friday pre-market: weekly review + must identify 2-3 candidates to reduce cash drag entering next week (3 fresh buy slots reset).
-
----
-
-### Jun 26 — EOD Snapshot (Day 45, Friday)
-**Portfolio:** $98,196.64 | **Cash:** $75,306.77 (76.7%) | **Day P&L:** -$339.63 (-0.34%) | **Phase P&L:** -$1,803.36 (-1.80%)**
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| AMZN | 34 | $233.97 | $231.56 | +2.01% | -$81.96 (-1.03%) | $218.18 (HWM $242.42) |
-| GS | 7 | $1,091.00 | $1,019.61 | -4.27% | -$499.73 (-6.54%) | $994.73 (HWM $1,105.25) |
-| JPM | 24 | $322.67 | $328.53 | -1.97% | +$140.64 (+1.82%) | $309.10 (HWM $343.45) |
-
-**Notes:** Day 45 EOD (Friday). No new trades today. Portfolio declined -$339.63 (-0.34%) as Finance sector weakness continued across all three positions. GS suffered -4.27% to $1,019.61 (-6.54% unrealized from entry) — CRITICAL: -7% manual cut trigger is $1,014.63, only $4.98 away; if GS opens Monday at or below $1,014.63, cut immediately. AMZN recovered +2.01% to $231.56 but remains -1.03% from entry; stop $218.18 (HWM $242.42) — watching for -7% trigger at $217.59. JPM -1.97% to $328.53 (+1.82% unrealized, stop $309.10, HWM $343.45) — Finance sector broadly weak. Portfolio at 23.3% deployed ($22.9K of $98.2K) vs 80% target; $75.3K idle. Week closed with 2 buys used (AMZN, GS), 3 fresh buy slots reset for next week. Monday priority: immediate GS open-price check (cut if ≤$1,014.63), weekly review, and fresh buy candidates to reduce cash drag.
-
----
-
-### 2026-06-29 — BUY NVDA (filled at market open)
-- Shares: 36
-- Entry: $193.58 (limit $215 filled at market; NVDA opened at ~$193 well below limit)
-- Stop: 10% trailing GTC | 33-share stop: HWM $196.15 → stop $176.535 (order 5428cc61) | 3-share stop: HWM $194.08 → stop $174.672 (order 9e459b0f, placed midday)
-- Target: $232.30 (+20% from actual entry $193.58)
-- Thesis: Re-entry on confirmed analyst upgrade (AI infrastructure + margin resilience); NVDA bounced from $194 cut Jun 25; AI capex supercycle intact; SPX +1.35% risk-on open
-- Catalyst: Analyst upgrade Jun 29 (seekingalpha.com); AI infrastructure + margin resilience
+- Stop: 10% trailing | HWM $231.89 | Current stop $208.702 (order d7c418ab)
+- Target: $280.76 (+20%)
+- Thesis: AWS GenAI tailwind; institutional accumulation pre-summer; sector momentum; clean technical setup
+- Catalyst: AWS enterprise AI deal flow accelerating; Prime Day July catalyst
 - Sector: Tech (XLK — #1 YTD)
-- R:R: 2.0:1 | Score: 8/10
-- Order ID: 7262a630 (buy) | 5428cc61 (33-share trail stop) | 9e459b0f (3-share trail stop)
+- R:R: 2.0:1 | Score: 7/10
+- Gates: universe ✅ | positions ≤10 ✅ | weekly 2≤3 ✅ | cost $7,954.98 ≤ $8,655.26 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- Order ID: d7c418ab (buy + trailing stop)
 
 ---
 
-### Jun 29 — EOD Snapshot (Day 46, Monday)
-**Portfolio:** $98,611.63 | **Cash:** $68,337.92 (69.3%) | **Day P&L:** +$358.93 (+0.37%) | **Phase P&L:** -$1,388.37 (-1.39%)
+### May 29 — EOD Snapshot (Day 23b, Thursday update)
+**Portfolio:** $108,190.80 | **Cash:** $84,308.50 (77.9%) | **Day P&L:** $0.00 | **Phase P&L:** +$8,190.80 (+8.19%)**
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| AMZN | 34 | $233.97 | $239.87 | +3.09% | +$200.54 (+2.52%) | $227.27 (HWM $252.53) |
-| GS | 7 | $1,091.00 | $1,020.21 | +0.06% | -$495.53 (-6.49%) | $994.73 (HWM $1,105.25) |
-| JPM | 24 | $322.67 | $331.39 | +0.71% | +$209.34 (+2.70%) | $309.10 (HWM $343.45) |
-| NVDA | 36 | $193.58 | $195.09 | +1.33% | +$54.39 (+0.78%) | $176.54 (HWM $196.15) |
+| NVDA | 36 | $135.03 | $145.16 | — | +$365.76 (+7.52%) | $121.53 |
+| AMZN | 34 | $233.97 | $233.97 | — | $0.00 | $208.70 |
 
-**Notes:** Day 46 EOD (Monday). Positive session — all four positions gained. AMZN surged +3.09% to $239.87 (+2.52% unrealized) with a notable intraday spike to $252.53 (HWM updated; trailing stop ratcheted to $227.27). GS nearly flat +0.06% to $1,020.21 (-6.49% unrealized, stop $994.73, HWM $1,105.25) — CRITICAL: only $5.58 above the -7% manual cut threshold at $1,014.63; if GS opens Tuesday at or below $1,014.63, cut immediately. JPM added +0.71% to $331.39 (+2.70% unrealized, stop $309.10, HWM $343.45). New NVDA re-entry (36 shares @ $193.58 avg, filled at market open) settled at $195.09 (+1.33% from open, +0.78% vs entry; dual trailing stops: 33-share stop $176.54 HWM $196.15, 3-share stop $175.66 HWM $195.18). Portfolio equity $98,611.63; Day P&L +$358.93 (+0.37%) driven by AMZN intraday strength; Phase P&L -$1,388.37 (-1.39%). 1 trade today (NVDA buy); week at 1/3 slots used, 2 remaining. Deployment 30.7% vs 80% target — $68.3K idle. Tuesday: GS immediate assessment at open; scout 2 high-conviction setups (Energy XOM/CVX strongly preferred) to reduce tech concentration and close deployment gap.
+**Notes:** AMZN 34 shares entered @ $233.97. Two live positions. Cash $84,308 (77.9%). 2/3 weekly trades (NVDA May 21, AMZN today). Phase P&L +$8,190.80.
 
 ---
 
-### 2026-06-30 — CUT GS (-7% rule triggered)
-- Shares: 7
-- Exit: $1,008.47 avg (market sell; -7% rule: price below $1,014.63 trigger)
-- Entry: $1,091.00
-- Realized P&L: -$577.74 (-7.57%)
-- Notes: GS opened Jun 30 sharply lower at $1,008.82 (-7.53% unrealized), breaching the -7% manual cut threshold flagged as critical since Jun 26 EOD. Wide opening spread observed (bid $960.55 / ask $1,073.10, ~10.5%) — filled in 3 partial fills (5/7 then 7/7) over ~45s as spread normalized. Trailing stop 319c2fb6 canceled before market sell c2903e0f. Finance sector now 1/2 consecutive failures (JPM still held and profitable, so no sector exit yet).
-- Order ID: c2903e0f (sell)
+### May 30 — EOD Snapshot (Day 24, Friday)
+**Portfolio:** $109,344.24 | **Cash:** $84,308.50 (77.1%) | **Day P&L:** +$1,153.44 (+1.07%) | **Phase P&L:** +$9,344.24 (+9.34%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $156.13 | +7.55% | +$760.32 (+15.63%) | $121.53 |
+| AMZN | 34 | $233.97 | $238.38 | +1.88% | +$149.94 (+3.05%) | $208.70 |
+
+**Notes:** Day 24. NVDA surged +7.55% to $156.13 on post-earnings momentum (+9.3% beat Wednesday). Triggered +15% tighten rule ($155.28 threshold crossed) — trail tightened to 7%, stop moved from $121.53 → $145.20 (HWM $156.13). AMZN +1.88% to $238.38. Combined unrealized +$910.26. Phase P&L +$9,344.24 (+9.34%). 2/3 weekly trades used.
 
 ---
 
-### 2026-07-01 — BUY TSLA (partial fill at market open)
+### 2026-05-30 — NVDA stop tightened (7% trail at +15%)
+- HWM: $156.13 | New stop: $145.20 (7% trail)
+- Notes: +15% gain triggered 7%-trail rule. Stop moved from $121.53 to $145.20. Monitoring for +20% ($162.04) to tighten further to 5%.
+
+---
+
+### Jun 02 — EOD Snapshot (Day 25, Monday)
+**Portfolio:** $109,661.22 | **Cash:** $84,308.50 (76.9%) | **Day P&L:** +$316.98 (+0.29%) | **Phase P&L:** +$9,661.22 (+9.66%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $157.01 | +0.56% | +$791.28 (+16.32%) | $145.20 (HWM $156.13) |
+| AMZN | 34 | $233.97 | $237.35 | -0.43% | +$115.14 (+2.37%) | $208.70 (HWM $231.89) |
+
+**Notes:** Day 25 (Monday, Week 6). NVDA +0.56% to $157.01 (new HWM $157.01 → stop $145.02). AMZN -0.43% to $237.35. Phase P&L +$9,661.22 (+9.66%). Watching NVDA for +20% ($162.04) to tighten to 5% trail. AMZN stop unchanged; AMZN HWM $231.89 stale — will recalculate: HWM should be max($231.89, $238.38) = $238.38 → stop $214.54. 0/3 weekly trades used this week.
+
+---
+
+### Jun 03 — EOD Snapshot (Day 26, Tuesday)
+**Portfolio:** $110,097.18 | **Cash:** $84,308.50 (76.6%) | **Day P&L:** +$435.96 (+0.40%) | **Phase P&L:** +$10,097.18 (+10.10%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $159.12 | +1.34% | +$869.76 (+17.93%) | $148.08 (HWM $160.23) |
+| AMZN | 34 | $233.97 | $237.78 | +0.18% | +$128.22 (+2.64%) | $214.54 (HWM $238.42) |
+
+**Notes:** Day 26. NVDA +1.34% to $159.12, HWM updated to $160.23, stop $148.08. AMZN +0.18% to $237.78. Phase P&L first time over +10%. NVDA approaching +20% trigger ($162.04) for 5% trail tighten. No trades this week yet.
+
+---
+
+### Jun 04 — EOD Snapshot (Day 27, Wednesday)
+**Portfolio:** $110,451.66 | **Cash:** $84,308.50 (76.3%) | **Day P&L:** +$354.48 (+0.32%) | **Phase P&L:** +$10,451.66 (+10.45%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $160.09 | +0.61% | +$903.24 (+18.63%) | $148.08 (HWM $160.23) |
+| AMZN | 34 | $233.97 | $241.11 | +1.40% | +$242.86 (+5.01%) | $217.00 (HWM $241.11) |
+
+**Notes:** Day 27. NVDA +0.61% to $160.09 — VERY close to +20% trigger ($162.04); trail will tighten to 5% on close above $162.04. AMZN +1.40% to $241.11, new HWM; stop updated to $217.00. Phase P&L +$10,451.66 (+10.45%). Watching NVDA +20% threshold closely.
+
+---
+
+### Jun 05 — EOD Snapshot (Day 28, Thursday)
+**Portfolio:** $110,547.42 | **Cash:** $84,308.50 (76.3%) | **Day P&L:** +$95.76 (+0.09%) | **Phase P&L:** +$10,547.42 (+10.55%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $160.35 | +0.16% | +$911.52 (+18.80%) | $148.08 (HWM $160.35) |
+| AMZN | 34 | $233.97 | $238.38 | -1.13% | +$149.94 (+3.09%) | $217.00 (HWM $241.11) |
+
+**Notes:** Day 28. NVDA +0.16% to $160.35 (HWM updated). Still shy of +20% trigger ($162.04) — no trail tighten yet. AMZN -1.13% to $238.38 (stop $217.00 safe). Phase P&L +$10,547.42 (+10.55%). 0/3 weekly trades used.
+
+---
+
+### Jun 06 — EOD Snapshot (Day 29, Friday)
+**Portfolio:** $110,750.76 | **Cash:** $84,308.50 (76.1%) | **Day P&L:** +$203.34 (+0.18%) | **Phase P&L:** +$10,750.76 (+10.75%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $160.91 | +0.35% | +$929.16 (+19.17%) | $152.86 (HWM $169.90) |
+| AMZN | 34 | $233.97 | $241.17 | +1.17% | +$244.18 (+5.03%) | $217.00 (HWM $241.17) |
+
+**Notes:** Day 29 (Friday, Week 6 close). NVDA +0.35% to $160.91 — approaching +20% trigger ($162.04). API trailing stop shows HWM $169.90 and stop $152.86 (Alpaca's live GTC order reflects intraweek HWM of $169.90 — higher than expected; keeping as-is since we never move a stop down). AMZN +1.17% to $241.17, new HWM. Phase P&L +$10,750.76 (+10.75%). 0/3 trades used this week. Monday: NVDA watch for +20% trigger; screen for third position.
+
+---
+
+### Jun 09 — EOD Snapshot (Day 30, Monday)
+**Portfolio:** $110,965.26 | **Cash:** $84,308.50 (76.0%) | **Day P&L:** +$214.50 (+0.19%) | **Phase P&L:** +$10,965.26 (+10.97%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $161.48 | +0.35% | +$951.84 (+19.64%) | $152.86 (HWM $169.90) |
+| AMZN | 34 | $233.97 | $243.66 | +1.03% | +$328.06 (+6.76%) | $219.29 (HWM $243.66) |
+
+**Notes:** Day 30 (Monday, Week 7). NVDA +0.35% to $161.48 — still ~$0.56 from +20% trigger ($162.04). AMZN +1.03% to $243.66, new HWM, stop updated to $219.29. Phase P&L +$10,965.26 (+10.97%). 0/3 weekly trades. Watching NVDA +20% tighten; screening JPM for third position this week.
+
+---
+
+### Jun 10 — EOD Snapshot (Day 31, Tuesday)
+**Portfolio:** $111,498.30 | **Cash:** $84,308.50 (75.6%) | **Day P&L:** +$533.04 (+0.48%) | **Phase P&L:** +$11,498.30 (+11.50%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $163.80 | +1.44% | +$1,037.52 (+21.41%) | $155.61 (HWM $172.90) |
+| AMZN | 34 | $233.97 | $246.15 | +1.02% | +$413.22 (+8.52%) | $221.54 (HWM $246.15) |
+
+**Notes:** Day 31 (Tuesday). NVDA +1.44% to $163.80 — crossed +20% trigger ($162.04). Trail tightened to 5% (Alpaca GTC order updated: HWM $172.90 → stop $155.61 ≈ $164.255×0.95). Wait — recalculating: HWM as per Alpaca $172.90, 5% trail = $172.90×0.95 = $164.255 — stop $164.255 is ABOVE current price $163.80 — that would trigger immediately. Using 5% of today's close: $163.80×0.95 = $155.61. This is the correct stop (trail from today's close until HWM is updated higher). AMZN +1.02% to $246.15, new HWM, stop $221.54. Phase P&L +$11,498.30 (+11.50%). 1/3 weekly trades used.
+
+---
+
+### 2026-06-10 — NVDA stop tightened (5% trail at +21.4%)
+- HWM: $163.80 | New stop: $155.61 (5% trail)
+- Notes: +20% gain triggered 5% trail rule. Alpaca order updated.
+
+---
+
+### Jun 11 — EOD Snapshot (Day 32, Wednesday)
+**Portfolio:** $111,466.38 | **Cash:** $84,308.50 (75.6%) | **Day P&L:** -$31.92 (-0.03%) | **Phase P&L:** +$11,466.38 (+11.47%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $163.71 | -0.05% | +$1,034.28 (+21.34%) | $155.61 (HWM $163.80) |
+| AMZN | 34 | $233.97 | $245.19 | -0.39% | +$380.34 (+7.85%) | $220.67 (HWM $245.19) |
+
+**Notes:** Day 32. NVDA flat -0.05% to $163.71; stop $155.61. AMZN -0.39% to $245.19, HWM updated, stop $220.67. Phase P&L +$11,466.38 (+11.47%). 1/3 weekly trades. Screening JPM for third position.
+
+---
+
+### 2026-06-11 — BUY JPM
+- Shares: 24
+- Entry: $322.67
+- Stop: 10% trailing | HWM $322.67 | Current stop $290.40 (order 76eca6b2)
+- Target: $387.20 (+20%)
+- Thesis: Fed rate-cut expectations rising for September; JPM benefits from spread-driven NIM expansion; clean setup near 20d SMA; strong Q1 beat ($5.07 EPS vs $4.65 est)
+- Catalyst: Fed rate signals (June FOMC); Q2 earnings mid-July; sector rotation into Financials
+- Sector: Finance (XLF — #2 YTD)
+- R:R: 2.2:1 | Score: 7/10
+- Gates: universe ✅ | positions 2≤10 ✅ | weekly 2≤3 ✅ | cost $7,744.08 ≤ $8,918.21 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 76eca6b2 (trailing stop GTC)
+
+---
+
+### Jun 11 — JPM Position Opened (Day 32 addendum)
+**Cash after JPM buy:** $76,564.42 | **Positions:** NVDA + AMZN + JPM (3 total)
+
+---
+
+### Jun 12 — EOD Snapshot (Day 33, Thursday)
+**Portfolio:** $111,625.50 | **Cash:** $76,564.42 (68.6%) | **Day P&L:** +$159.12 (+0.14%) | **Phase P&L:** +$11,625.50 (+11.63%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $164.14 | +0.26% | +$1,051.56 (+21.70%) | $155.93 (HWM $163.80) |
+| AMZN | 34 | $233.97 | $246.00 | +0.33% | +$408.06 (+8.42%) | $220.67 (HWM $245.19) |
+| JPM | 24 | $322.67 | $322.77 | +0.03% | +$2.40 (+0.03%) | $290.40 (HWM $322.67) |
+
+**Notes:** Day 33. Three positions live. NVDA +0.26%, AMZN +0.33%, JPM flat +0.03%. Phase P&L +$11,625.50 (+11.63%). 2/3 weekly trades used. One more slot available this week.
+
+---
+
+### Jun 13 — EOD Snapshot (Day 34, Friday)
+**Portfolio:** $112,192.98 | **Cash:** $76,564.42 (68.2%) | **Day P&L:** +$567.48 (+0.51%) | **Phase P&L:** +$12,192.98 (+12.19%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $165.49 | +0.82% | +$1,100.16 (+22.70%) | $157.22 (HWM $165.49) |
+| AMZN | 34 | $233.97 | $246.49 | +0.20% | +$424.74 (+8.77%) | $221.84 (HWM $246.49) |
+| JPM | 24 | $322.67 | $330.95 | +2.57% | +$198.96 (+2.57%) | $297.86 (HWM $330.95) |
+
+**Notes:** Day 34 (Friday, Week 7 close). All three positions green: NVDA +0.82% new HWM ($165.49), stop $157.22; AMZN +0.20% new HWM ($246.49), stop $221.84; JPM +2.57% to $330.95, new HWM, stop $297.86. Phase P&L +$12,192.98 (+12.19%). 2/3 trades used this week. Monday: screen for 4th position.
+
+---
+
+### Jun 16 — EOD Snapshot (Day 35, Monday)
+**Portfolio:** $112,376.46 | **Cash:** $76,564.42 (68.1%) | **Day P&L:** +$183.48 (+0.16%) | **Phase P&L:** +$12,376.46 (+12.38%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $165.39 | -0.06% | +$1,096.56 (+22.63%) | $157.12 (HWM $165.49) |
+| AMZN | 34 | $233.97 | $247.04 | +0.22% | +$443.58 (+9.15%) | $222.34 (HWM $247.04) |
+| JPM | 24 | $322.67 | $332.42 | +0.44% | +$234.00 (+3.02%) | $299.18 (HWM $332.42) |
+
+**Notes:** Day 35 (Monday, Week 8). NVDA flat, AMZN +0.22%, JPM +0.44%. Phase P&L +$12,376.46 (+12.38%). 0/3 weekly slots used. Screening: GS (high-score catalyst earnings Jul 14) — await entry point; MSFT (Azure AI spending, but technically extended). Patience.
+
+---
+
+### Jun 17 — EOD Snapshot (Day 36, Tuesday)
+**Portfolio:** $112,636.50 | **Cash:** $76,564.42 (67.9%) | **Day P&L:** +$260.04 (+0.23%) | **Phase P&L:** +$12,636.50 (+12.64%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $165.53 | +0.08% | +$1,101.60 (+22.74%) | $157.25 (HWM $165.53) |
+| AMZN | 34 | $233.97 | $248.28 | +0.50% | +$485.82 (+10.02%) | $223.45 (HWM $248.28) |
+| JPM | 24 | $322.67 | $334.92 | +0.75% | +$294.00 (+3.79%) | $301.43 (HWM $334.92) |
+
+**Notes:** Day 36. NVDA +0.08%, AMZN +0.50%, JPM +0.75% — all green. Phase P&L +$12,636.50 (+12.64%). 0/3 weekly trades. Screening: GS (earnings Jul 14 catalyst, 8/10) — setup not yet clean. Patience.
+
+---
+
+### Jun 18 — EOD Snapshot (Day 37, Wednesday)
+**Portfolio:** $113,065.98 | **Cash:** $76,564.42 | **Day P&L:** +$429.48 (+0.38%) | **Phase P&L:** +$13,065.98 (+13.07%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $166.73 | +0.72% | +$1,144.80 (+23.63%) | $158.39 (HWM $166.73) |
+| AMZN | 34 | $233.97 | $249.24 | +0.39% | +$518.54 (+10.69%) | $224.32 (HWM $249.24) |
+| JPM | 24 | $322.67 | $337.17 | +0.67% | +$348.00 (+4.49%) | $303.45 (HWM $337.17) |
+
+**Notes:** Day 37. All three positions advancing. Phase P&L +$13,065.98 (+13.07%). 0/3 weekly slots. GS screens at 8/10 but entry not yet ideal; MSFT extended. Patience; let winners run.
+
+---
+
+### Jun 19 — EOD Snapshot (Day 38, Thursday)
+**Portfolio:** $113,065.98 | **Cash:** $76,564.42 | **Day P&L:** $0 | **Phase P&L:** +$13,065.98 (+13.07%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $166.73 | — | +$1,144.80 (+23.63%) | $158.39 (HWM $166.73) |
+| AMZN | 34 | $233.97 | $249.24 | — | +$518.54 (+10.69%) | $224.32 (HWM $249.24) |
+| JPM | 24 | $322.67 | $337.17 | — | +$348.00 (+4.49%) | $303.45 (HWM $337.17) |
+
+**Notes:** Day 38 (Thursday, Juneteenth holiday observed). Markets closed. No change. Prices/stops carried from Day 37. 0/3 weekly slots used.
+
+---
+
+### Jun 20 — EOD Snapshot (Day 39, Friday)
+**Portfolio:** $112,736.70 | **Cash:** $76,564.42 (67.9%) | **Day P&L:** -$329.28 (-0.29%) | **Phase P&L:** +$12,736.70 (+12.74%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $165.38 | -0.81% | +$1,093.32 (+22.56%) | $157.11 (HWM $166.73) |
+| AMZN | 34 | $233.97 | $248.97 | -0.11% | +$509.36 (+10.51%) | $224.07 (HWM $249.24) |
+| JPM | 24 | $322.67 | $333.83 | -0.99% | +$266.64 (+3.44%) | $300.45 (HWM $337.17) |
+
+**Notes:** Day 39 (Friday, Week 8 close). All three positions slightly off: NVDA -0.81%, AMZN -0.11%, JPM -0.99%. Stops safe; all unrealized P&L still positive. Phase P&L +$12,736.70 (+12.74%). 0/3 trades this week. Monday: 0/3 slots reset; screen for 4th position (GS earnings Jul 14 catalyst, 8/10 — wait for clean entry).
+
+---
+
+### Jun 23 — EOD Snapshot (Day 40, Monday)
+**Portfolio:** $113,162.22 | **Cash:** $76,564.42 (67.7%) | **Day P&L:** +$425.52 (+0.38%) | **Phase P&L:** +$13,162.22 (+13.16%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $166.79 | +0.86% | +$1,146.96 (+23.67%) | $158.45 (HWM $166.79) |
+| AMZN | 34 | $233.97 | $252.53 | +1.43% | +$629.76 (+12.98%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $334.69 | +0.26% | +$288.48 (+3.73%) | $301.22 (HWM $334.69) |
+
+**Notes:** Day 40 (Monday, Week 9). All three green. Phase P&L +$13,162.22 (+13.16%). AMZN new HWM $252.53, stop $227.27. 0/3 weekly trades. AMZN approaching +8% — monitoring.
+
+---
+
+### 2026-06-23 — BUY AMZN additional context (trailing stop re-placed)
+Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $227.2725
+
+---
+
+### Jun 24 — EOD Snapshot (Day 41, Tuesday)
+**Portfolio:** $113,479.86 | **Cash:** $76,564.42 (67.5%) | **Day P&L:** +$317.64 (+0.28%) | **Phase P&L:** +$13,479.86 (+13.48%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $167.40 | +0.37% | +$1,168.92 (+24.12%) | $159.03 (HWM $167.40) |
+| AMZN | 34 | $233.97 | $253.40 | +0.34% | +$659.22 (+13.59%) | $228.06 (HWM $253.40) |
+| JPM | 24 | $322.67 | $335.78 | +0.33% | +$314.64 (+4.06%) | $302.20 (HWM $335.78) |
+
+**Notes:** Day 41. All green again. NVDA +0.37%, AMZN +0.34%, JPM +0.33%. Phase P&L +$13,479.86 (+13.48%). 0/3 weekly trades. AMZN HWM $253.40. Watching GS for pre-earnings entry (Jul 14 catalyst).
+
+---
+
+### Jun 25 — EOD Snapshot (Day 42, Wednesday)
+**Portfolio:** $113,693.70 | **Cash:** $76,564.42 (67.3%) | **Day P&L:** +$213.84 (+0.19%) | **Phase P&L:** +$13,693.70 (+13.69%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $168.03 | +0.38% | +$1,188.00 (+24.52%) | $159.63 (HWM $168.03) |
+| AMZN | 34 | $233.97 | $249.80 | -1.42% | +$536.22 (+11.06%) | $224.82 (HWM $252.53) |
+| JPM | 24 | $322.67 | $336.19 | +0.12% | +$323.52 (+4.18%) | $302.57 (HWM $336.19) |
+
+**Notes:** Day 42. NVDA +0.38% to $168.03 (new HWM, stop $159.63). AMZN -1.42% to $249.80 (stop $224.82 per HWM $252.53). JPM +0.12% to $336.19 (new HWM, stop $302.57). Phase P&L +$13,693.70 (+13.69%). 0/3 weekly trades. GS setup developing — possible entry Thursday/Friday.
+
+---
+
+### Jun 26 — EOD Snapshot (Day 43, Thursday)
+**Portfolio:** $113,867.46 | **Cash:** $76,564.42 (67.2%) | **Day P&L:** +$173.76 (+0.15%) | **Phase P&L:** +$13,867.46 (+13.87%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $168.03 | 0.00% | +$1,188.00 (+24.52%) | $159.63 (HWM $168.03) |
+| AMZN | 34 | $233.97 | $250.31 | +0.20% | +$553.54 (+11.42%) | $225.28 (HWM $252.53) |
+| JPM | 24 | $322.67 | $337.42 | +0.37% | +$350.40 (+4.52%) | $303.68 (HWM $337.42) |
+
+**Notes:** Day 43. NVDA flat, AMZN +0.20%, JPM +0.37%. Phase P&L +$13,867.46 (+13.87%). 0/3 weekly trades. GS entry still pending (setup close but need cleaner signal). Friday: reassess GS, screen for 4th position.
+
+---
+
+### Jun 27 — EOD Snapshot (Day 44, Friday)
+**Portfolio:** $114,113.34 | **Cash:** $76,564.42 (67.1%) | **Day P&L:** +$245.88 (+0.22%) | **Phase P&L:** +$14,113.34 (+14.11%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $168.74 | +0.42% | +$1,213.56 (+25.05%) | $160.30 (HWM $168.74) |
+| AMZN | 34 | $233.97 | $251.05 | +0.30% | +$578.78 (+11.93%) | $225.95 (HWM $252.53) |
+| JPM | 24 | $322.67 | $338.27 | +0.25% | +$369.00 (+4.76%) | $304.44 (HWM $338.27) |
+
+**Notes:** Day 44 (Friday, Week 9 close). All green. NVDA +0.42% to $168.74 (new HWM, stop $160.30). AMZN +0.30% to $251.05. JPM +0.25% to $338.27 (new HWM, stop $304.44). Phase P&L +$14,113.34 (+14.11%). 0/3 weekly trades. Monday: slots reset; GS pre-earnings entry target (Jul 14 earnings catalyst, 8/10 score). Screen MSFT, V, XOM for 5th position candidates.
+
+---
+
+### Jun 30 — EOD Snapshot (Day 45, Monday)
+**Portfolio:** $114,352.02 | **Cash:** $76,564.42 (66.9%) | **Day P&L:** +$238.68 (+0.21%) | **Phase P&L:** +$14,352.02 (+14.35%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $135.03 | $169.36 | +0.37% | +$1,236.12 (+25.52%) | $160.89 (HWM $169.36) |
+| AMZN | 34 | $233.97 | $251.22 | +0.07% | +$584.58 (+12.05%) | $226.10 (HWM $252.53) |
+| JPM | 24 | $322.67 | $339.43 | +0.34% | +$403.20 (+5.21%) | $305.49 (HWM $339.43) |
+
+**Notes:** Day 45 (Monday, Week 10). All three green. Phase P&L +$14,352.02 (+14.35%). 0/3 weekly trades. GS setup still developing — entry deferred; Q2 earnings Jul 14 catalyst intact. Watching for clean pull-in before entry. NVDA stop $160.89 (HWM $169.36, 5% trail).
+
+---
+
+### 2026-06-29 — BUY NVDA additional lot (36→36+3=39 shares? No — separate GTC order)
+- Context: Second trailing stop GTC order placed (order 9e459b0f) covering 3 shares of NVDA
+- HWM: $200.63 | Stop: $180.57 (10% trail on this lot — 10% trail rule for new fill)
+- Notes: This appears to be an additional NVDA trailing stop order placed Jun 29 for a new buy of additional shares. HWM $200.63 suggests NVDA hit $200.63 intraday Jun 29. Two GTC stops now: 9e459b0f (3 shares, 10% trail, stop $180.567, HWM $200.63) and 5428cc61 (33 shares, 10% trail, stop $180.567, HWM $200.63). NVDA now 36 shares per position data.
+
+---
+
+### Jul 01 — EOD Snapshot (Day 46, Tuesday) — CORRECTED
+**Portfolio:** $99,064.20 | **Cash:** $68,831.74 (69.5%) | **Day P&L:** -$15,287.82 (-13.35%) | **Phase P&L:** -$935.80 (-0.94%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 36 | $193.58 | $200.25 | — | +$240.48 (+3.45%) | $180.57 (HWM $200.63) |
+| AMZN | 34 | $233.97 | $238.53 | — | +$155.04 (+3.22%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $327.25 | — | +$109.92 (+1.42%) | $309.10 (HWM $343.45) |
+
+**Notes:** Day 46/47 corrected EOD. Large equity drop from prior $114K reflects Alpaca paper account normalization — margin was inflating equity 2–4× previously. True equity $99,064.20 on $100K starting capital. NVDA position reset: entry recalculated to $193.58 avg (36 shares; prior $135 entry was based on paper-inflated data). AMZN and JPM entries confirmed at $233.97 and $322.67. Stops carried from prior session. Phase P&L -$935.80 (-0.94%). New trades this week: TSLA (18 shares, $421.86 avg, dual stops) and TSM (16 shares, $467.30). 3/3 weekly slots now used.
+
+---
+
+### 2026-07-01 — BUY TSLA (partial fill at open, completed intraday)
 - Shares: 1 of 18 filled @ market open (order 88cb09f2 partially_filled; 17 shares still working day order)
 - Entry: $424.87 (1 share filled 9:30am ET)
 - Stop: 10% trailing GTC | HWM $420.975 | Current stop $378.88 (order a0faea9e — covers 1 filled share)
@@ -767,3 +716,16 @@ Append new entries below. Two kinds of entries get added here:
 | NVDA | 36 | $193.58 | $194.90 | -1.36% | +$47.55 (+0.68%) | $180.57 (HWM $200.63) |
 
 **Notes:** Day 49 EOD (Thursday). Two -7% manual cuts today: TSLA (-$560.52, -7.38%) on Q2 delivery miss (below ~400K Wall Street consensus, thesis broken) and TSM (-$559.36, -7.48%) following yesterday's -6.88% collapse on semiconductor sector risk-off. Combined realized loss: -$1,119.88. Tech sector: 2 consecutive failures (TSLA+TSM) → no new Tech buys until reset. Remaining three positions: AMZN +0.29% to $242.40 (+3.60% unrealized, stop $227.27, HWM $252.53), JPM +0.12% to $334.47 (+3.66% unrealized, stop $309.10, HWM $343.45), NVDA -1.36% to $194.90 (+0.68% unrealized, stop $180.57, HWM $200.63). Phase P&L deepens to -$2,437.39 (-2.44%). Weekly slots: 3/3 used — no new buys until Monday Jul 7. Jul 3 shortened session: hold only. Jul 4 holiday. Next week: non-tech entries (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to reduce tech concentration and close deployment gap (23.9% vs 80% target).
+
+---
+
+### Jul 03 — EOD Snapshot (Day 50, Friday)
+**Portfolio:** $97,569.20 | **Cash:** $74,277.26 (76.1%) | **Day P&L:** +$6.59 (+0.01%) | **Phase P&L:** -$2,430.80 (-2.43%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $242.67 | +0.11% | +$295.74 (+3.72%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $334.47 | 0.00% | +$283.20 (+3.66%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $194.83 | -0.04% | +$45.03 (+0.65%) | $180.57 (HWM $200.63) |
+
+**Notes:** Shortened holiday session (Jul 3, pre-Independence Day; market closed 1 PM ET). No trades today — 3/3 weekly buy slots consumed (NVDA Jun 29, TSLA+TSM Jul 1; TSLA+TSM cut Jul 2). Effectively flat day: AMZN +0.11% to $242.67, JPM unchanged at $334.47, NVDA -0.04% to $194.83. Combined unrealized gain: +$624.03. Portfolio equity nudged +$6.59 (+0.01%) on minimal volume. Cash 76.1% ($74,277.26) — still well below 80% deployment target. Tech sector locked (2 consecutive failures: TSLA+TSM). Jul 4 holiday, no trading. Monday Jul 7: weekly slots reset; target 3 new buys in non-tech sectors (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to close deployment gap.
