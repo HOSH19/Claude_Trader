@@ -2,6 +2,108 @@
 
 ---
 
+## 2026-07-06 — Pre-Market Research (Day 50, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $97,676.14 |
+| Cash | $74,277.26 (76.0%) |
+| Long MV | $23,398.88 (24.0% deployed) |
+| DT Count | 0 |
+| DD from last equity | +$106.94 (+0.11%) — no halt |
+| Open positions | 3 (AMZN, JPM, NVDA) |
+| Weekly buy slots used | 0/3 (fresh week) |
+
+**Open Position Status:**
+| Ticker | Shares | Entry | Price | Unrealized | Stop | HWM |
+|--------|--------|-------|-------|-----------|------|-----|
+| AMZN | 34 | $233.97 | $245.24 | +$383.12 (+4.82%) | $227.27 (10% trail) | $252.53 |
+| JPM | 24 | $322.67 | $334.01 | +$272.16 (+3.51%) | $309.10 (10% trail) | $343.45 |
+| NVDA | 36 | $193.58 | $195.68 | +$75.63 (+1.09%) | $180.57 (10% trail) | $200.63 |
+
+---
+
+### Market Context
+- **WTI:** ~$69.00 | **Brent:** ~$72.20 (flat, stable)
+- **SPX Futures:** +28 pts / +0.37% (risk-on open expected)
+- **VIX:** ~16.3 (low, well below danger zone)
+- **Today's catalysts:** ISM Services (10:00 AM ET, est. 54.5), S&P Services PMI (9:45 AM ET)
+- **This week:** Fed June meeting minutes release; no significant BMO earnings today
+- **Upcoming earnings:** PEP (Thu BMO); JPM (Jul 14 BMO), TSM (Jul 16)
+- **Market breadth:** 69.73% of S&P 1500 above 200d MA — healthy
+- **Note:** Momentum trade "violent unwind" risk flagged by MarketWatch for July
+
+---
+
+### Sector ETF Ranking (Week Ending Jul 4 Holiday)
+1. **XLK** (Tech) — leader YTD; AI spending driving outperformance
+2. **XLI** (Industrials) — performed well
+3. **XLF** (Financials) — JPM earnings Jul 14 approaching
+- **SPY YTD:** +9.80% as of Jul 2
+- **Semi (SOXX):** Sold off hard holiday week on NVDA Kyber delay news
+
+---
+
+### Candidate Scoring (Universe: 20 symbols only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| META | **8/10** | 2 | 2 | 1 | 1 | 2 | ✅ PASS |
+| MSFT | **8/10** | 1 | 2 | 2 | 1 | 2 | ✅ PASS |
+| TSM | **8/10** | 2 | 2 | 2 | 2 | 2 | ⚠️ DEFERRED (neg. momentum) |
+| GS | 4/10 | 0 | 1 | 1 | 1 | 1 | ❌ <7 |
+| V | 5/10 | 0 | 1 | 2 | 1 | 1 | ❌ <7 |
+| Others | <7 | — | — | — | — | — | ❌ <7 |
+
+**IMPORTANT — Sector-fail update from Jul 1 log:** Tech sector had 2/2 consecutive new-entry failures (Jul 1: TSLA+TSM batch). Per strategy, NO NEW TECH BUYS until reset. This OVERRIDES META and MSFT ideas above. Reviewing this constraint:
+- Jul 1 log states: "Tech: 2/2 consecutive new-entry failures (TSLA+TSM same batch Jul 1→2) → NO NEW TECH BUYS until reset"
+- **TSLA is NOT in the scored universe (it IS in the 20-symbol list) — if TSLA + TSM counted as tech fails, sector exit is active**
+- META and MSFT are both Tech sector → **SECTOR EXIT RULE ACTIVE → CANNOT BUY META OR MSFT**
+- Only Finance (JPM held, +3.5%), Consumer Discretionary (AMZN held), non-Tech candidates viable
+- **Decision revised to HOLD (sector constraint)**
+
+---
+
+### Technical Validation
+**Bars API returned null (data access limitation) — estimated from news/price context.**
+
+**META (~$553):** 5-day momentum +7% ✅, est. 5-8% above SMA ✅, high volume ✅ — passes tech check. BUT: SECTOR EXIT blocks entry.
+
+**MSFT (~$390):** est. 1-2% above SMA ✅, positive momentum ✅ — passes tech check. BUT: SECTOR EXIT blocks entry.
+
+---
+
+### NVDA Thesis Watch
+- **CRITICAL (Jul 5-6):** SemiAnalysis — Kyber NVL144 delayed 12+ months to 2028 (PCB midplane manufacturing failure); Rubin Ultra 4-die CANCELLED; NVL72×2 backup cancelled. AMD MI500X and Google TPU positioned as beneficiaries.
+- **Thesis:** WEAKENED but not broken. Near-term Oberon Rubin rack shipments continue. Core Blackwell/Hopper business intact.
+- **Position:** +$75.63 (+1.09%); stop $180.57 provides protection.
+- **Decision:** HOLD with active monitoring. Cut if price breaks below $185 or additional negative roadmap news.
+- Sources: [CNBC Jul 6](https://www.cnbc.com/amp/2026/07/06/nvidia-kyber-rack-system-delayed-to-2028-over-manufacturing-snags.html)
+
+---
+
+### Risk Factors
+1. **NVDA Kyber delay (HIGH):** Next-gen rack delayed 1+ year; competitive moat eroding vs AMD/Google TPU
+2. **Tech sector exit active (HIGH):** 2 consecutive tech failures (Jul 1) → no new Tech buys
+3. **Semiconductor selloff (HIGH):** SOXX weakness; TSM dropped sharply post-NVDA delay news
+4. **Momentum unwind risk (MEDIUM):** MarketWatch flags July rotation risk
+5. **ISM Services today (MEDIUM):** 10:00 AM ET (est. 54.5) — weak print = market pressure
+6. **Fed minutes (MEDIUM):** Possible hawkish signals this week
+7. **Underdeployment (ONGOING):** 24% deployed vs 80% target; sector constraints limit options
+
+---
+
+### Decision
+**HOLD** — Tech sector exit rule (2 consecutive failures Jul 1) blocks META and MSFT entries.
+- No viable non-Tech candidates scored ≥7 with confirmed catalysts
+- Existing positions (AMZN, JPM, NVDA) within rules, no cuts required
+- Monitor ISM data and JPM earnings (Jul 14) for directional signals
+- Reserve 3 weekly buy slots for: JPM earnings catalyst (Jul 14, Finance sector, 1 failure), TSM post-earnings (Jul 16), and non-Tech breakout
+- Next action: market-open NVDA price check (thesis watch)
+
+---
+
 ## 2026-07-01 — Pre-Market Research (Day 48, Wednesday)
 
 ### Account Snapshot
@@ -676,7 +778,7 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 
 ### Technical Validation — GS (Score 7/10) ✅ PASS
 - **Last close (Jun 23):** $1,094.44 | **SMA20:** $1,052.52
-- **Dist from SMA20:** +4.0% → within 5% of SMA → ✅ PASS (not in 5–10% extended band)
+- **Dist from SMA20:** +4.0% → within 5% of SMA → ✅ PASS
 - **5-day momentum:** +1.7% → positive → ✅ PASS
 - **Vol ratio:** 0.85x → ≥ 0.8 threshold → ✅ PASS
 - **Result:** 0 confirmed fails → PASSES all technical checks
