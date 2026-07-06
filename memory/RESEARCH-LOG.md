@@ -529,11 +529,11 @@
 | JPM (held) | 4/10 | 0 | 0 | 2 | 2 | 0 | +4.7% | +3.7% | 2.07x | HELD — monitor downgrade |
 | GS | 3/10 | 0 | 0 | 1 | 2 | 0 | +5.3% | +5.9% | 1.83x | FAIL — bearish engulfing |
 | V | 4/10 | 0 | 0 | 2 | 2 | 0 | +0.9% | +2.6% | 1.79x | FAIL — weak sector |
-| MA | 4/10 | 0 | 0 | 2 | 2 | 0 | -0.2% | +0.7% | 1.71x | FAIL — weak sector |
+| MA | 4/10 | 0 | 0 | 2 | 2 | 0 | -0.2% | +0.7% | 1.71x | FAIL |
 | XOM | 5/10 | 0 | 1 | 2 | 2 | 0 | -6.9% | -6.0% | 2.62x | FAIL — oil downtrend |
 | CVX | 5/10 | 0 | 1 | 2 | 2 | 0 | -6.3% | -6.6% | 2.07x | FAIL — oil downtrend |
-| UNH | 4/10 | 0 | 0 | 2 | 2 | 0 | +1.7% | -1.1% | 1.67x | FAIL — weak sector |
-| JNJ | 4/10 | 0 | 0 | 2 | 2 | 0 | -1.4% | -4.2% | 2.35x | FAIL — weak sector |
+| UNH | 4/10 | 0 | 0 | 2 | 2 | 0 | +1.7% | -1.1% | 1.67x | FAIL |
+| JNJ | 4/10 | 0 | 0 | 2 | 2 | 0 | -1.4% | -4.2% | 2.35x | FAIL |
 | SPY | 4/10 | 0 | 1 | 2 | 1 | 0 | -0.0% | +1.2% | 1.40x | FAIL — no catalyst |
 | QQQ | 4/10 | 0 | 2 | 2 | 0 | 0 | +1.9% | +3.3% | 1.00x | FAIL — vol at avg |
 
@@ -778,7 +778,7 @@ Sources: tavily.sh, Yahoo Finance XLF quote
 
 ### Technical Validation — GS (Score 7/10) ✅ PASS
 - **Last close (Jun 23):** $1,094.44 | **SMA20:** $1,052.52
-- **Dist from SMA20:** +4.0% → within 5% of SMA → ✅ PASS
+- **Dist from SMA20:** +4.0% → within 5% of SMA → ✅ PASS (not in 5–10% extended band)
 - **5-day momentum:** +1.7% → positive → ✅ PASS
 - **Vol ratio:** 0.85x → ≥ 0.8 threshold → ✅ PASS
 - **Result:** 0 confirmed fails → PASSES all technical checks
