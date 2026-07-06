@@ -729,3 +729,16 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | NVDA | 36 | $193.58 | $194.83 | -0.04% | +$45.03 (+0.65%) | $180.57 (HWM $200.63) |
 
 **Notes:** Shortened holiday session (Jul 3, pre-Independence Day; market closed 1 PM ET). No trades today — 3/3 weekly buy slots consumed (NVDA Jun 29, TSLA+TSM Jul 1; TSLA+TSM cut Jul 2). Effectively flat day: AMZN +0.11% to $242.67, JPM unchanged at $334.47, NVDA -0.04% to $194.83. Combined unrealized gain: +$624.03. Portfolio equity nudged +$6.59 (+0.01%) on minimal volume. Cash 76.1% ($74,277.26) — still well below 80% deployment target. Tech sector locked (2 consecutive failures: TSLA+TSM). Jul 4 holiday, no trading. Monday Jul 7: weekly slots reset; target 3 new buys in non-tech sectors (Finance V/MA, Energy XOM/CVX, Healthcare UNH/JNJ) to close deployment gap.
+
+---
+
+### Jul 06 — EOD Snapshot (Day 51, Monday)
+**Portfolio:** $97,715.82 | **Cash:** $74,277.26 (76.0%) | **Day P&L:** +$146.62 (+0.15%) | **Phase P&L:** -$2,284.18 (-2.28%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $244.00 | +0.55% | +$340.96 (+4.29%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $337.90 | +1.03% | +$365.52 (+4.72%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $195.36 | +0.27% | +$64.11 (+0.92%) | $180.57 (HWM $200.63) |
+
+**Notes:** Day 51 EOD (Monday — first full session after Jul 4 holiday). No trades today; weekly buy slots reset (0/3 used). All three positions positive on the day: JPM led +1.03% to $337.90 (+4.72% unrealized, stop $309.10, HWM $343.45), AMZN +0.55% to $244.00 (+4.29% unrealized, stop $227.27, HWM $252.53), NVDA +0.27% to $195.36 (+0.92% unrealized, stop $180.57, HWM $200.63). No HWM updates — all prices below prior HWMs. Portfolio +$146.62 (+0.15%) on the day; Phase P&L -$2,284.18 (-2.28%). Deployment still low: 24.0% ($23,438.56) vs 80% target ($78,172.66 gap). Tech sector locked (2 consecutive failures: TSLA+TSM). Tuesday Jul 7: target up to 3 new buys in non-tech sectors (Finance: V or MA; Energy: XOM or CVX; Healthcare: UNH or JNJ) to close deployment gap aggressively.
