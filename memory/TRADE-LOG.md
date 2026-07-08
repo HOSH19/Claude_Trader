@@ -757,3 +757,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 - Gates: universe ✅ | positions 3→4 ≤10 ✅ | weekly 0→1/3 ✅ | cost $7,650 ≤ $7,812 (8% eq) ✅ | cash $74,277 ✅ | catalyst ✅ | DT 0 ✅ | no DD halt (-0.22%) ✅
 - MA skip: wide spread ($527/$562, $34 spread = 6.1%) at open — skipped per rules
 - Order ID: c37ad0d0 (buy) | 15b2b572 (trailing stop GTC)
+
+---
+
+### Jul 08 — EOD Snapshot (Day 52, Tuesday)
+**Portfolio:** $97,845.14 | **Cash:** $66,627.20 (68.1%) | **Day P&L:** -$0.72 (0.00%) | **Phase P&L:** -$2,154.86 (-2.15%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $243.71 | -0.92% | +$331.10 (+4.16%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $330.90 | -2.45% | +$197.52 (+2.55%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $204.02 | +3.60% | +$375.69 (+5.39%) | $184.64 (HWM $205.15) |
+| V | 22 | $347.73 | $347.53 | -1.33% | -$4.40 (-0.06%) | $314.65 (HWM $349.61) |
+
+**Notes:** Day 52 EOD (Tuesday). One trade today: BUY V (22 shares @ $347.73, order c37ad0d0; trailing stop GTC order 15b2b572, stop $314.65, HWM $349.61). Weekly buys: 1/3 used. Portfolio essentially flat: -$0.72 (0.00%). NVDA the standout +3.60% to $204.02 (+5.39% unrealized, HWM now $205.15, stop $184.64). JPM drag -2.45% to $330.90 (still +2.55% unrealized, stop $309.10, HWM $343.45). AMZN -0.92% to $243.71 (+4.16% unrealized, stop $227.27, HWM $252.53). V first day: -$0.20 to $347.53 (essentially flat, stop $314.65, HWM $349.61). No HWM tightening needed (no position at +15%). Combined unrealized P&L: +$899.91. Deployment 31.9% vs 80% target — still critical gap. 2 buy slots remaining (week). Tech sector locked (2 consecutive failures: TSLA+TSM). Wednesday priority: pre-market research for 2nd non-tech buy (Finance MA, Energy XOM/CVX, or Healthcare UNH/JNJ).
