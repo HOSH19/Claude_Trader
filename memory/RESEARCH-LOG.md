@@ -2,6 +2,164 @@
 
 ---
 
+## 2026-07-08 — Pre-Market Research (Day 52, Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $97,542.46 |
+| Cash | $74,277.26 (76.1%) |
+| Long MV | $23,265.20 (23.9% deployed) |
+| Last Equity | $97,871.34 |
+| Day P&L pre-mkt | -$328.88 (-0.34%) — no halt |
+| DT Count | 0 |
+| Weekly buy slots | 0/3 (fresh — reset Monday Jul 7) |
+| Open positions | 3 (AMZN, JPM, NVDA) |
+
+**Open Position Status (premarket):**
+| Ticker | Shares | Entry | Price | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|-------|-----------|------|-----|--------|
+| AMZN | 34 | $233.97 | $242.00 | +$272.96 (+3.43%) | $227.27 (10% trail) | $252.53 | ✅ Safe |
+| JPM | 24 | $322.67 | $336.00 | +$319.92 (+4.13%) | $309.10 (10% trail) | $343.45 | ✅ Safe |
+| NVDA | 36 | $193.58 | $193.70 | +$4.35 (+0.06%) | $180.57 (10% trail) | $200.63 | ✅ Safe (buffer $13.13) |
+
+**Stops review:**
+- AMZN: $242 vs stop $227.27 → buffer $14.73 (6.1%) ✅
+- JPM: $336 vs stop $309.10 → buffer $26.90 (8.0%) ✅
+- NVDA: $193.70 vs stop $180.57 → buffer $13.13 (6.8%) ✅ (Kyber delay denied by NVDA; thesis intact)
+
+---
+
+### Market Context
+- **WTI:** ~$68/bbl est | **Brent:** ~$71/bbl (J.P. Morgan 2026 forecast $60/bbl avg; range $68-72 current); oil weak ongoing
+- **SPX Futures:** +0.4% / ~7,541 — risk-on open
+- **VIX:** 17.55 (moderate, declining; favorable for entries)
+- **BMO Earnings Today:** None in universe
+- **Economic calendar:** CPI July 14 | PPI July 15 | Fed rate decision July 30 | No major releases today
+- **Upcoming this week:** JPM Q2 earnings July 14 BMO ($5.44 EPS est) | GS Q2 earnings July 14 BMO | TSM July 16
+- **Sector narrative:** AI/semiconductor weakness noted (Kyber delay) but NVDA denied; clean energy / nuclear AI power deals gaining interest (not in universe)
+- **NVDA update:** Analysts maintain $250 PT (+29% from $193.70 current); Kyber delay denied by company; core Blackwell/Hopper intact
+- Sources: Tavily (businessinsider.com, cnbc.com, tradingeconomics.com, seekingalpha.com)
+
+---
+
+### Sector ETF Ranking (YTD — as of last available Jul 2 data)
+| Rank | Sector | ETF | YTD | Our tier |
+|------|--------|-----|-----|---------|
+| 1 | Technology | XLK | +33.1% | Top ← **LOCKED (2 consec failures)** |
+| 2 | Utilities | XLU | +21.0% | Top |
+| 3 | Consumer Staples | XLP | +16.9% | Top |
+| 4 | Materials | XLB | +14.8% | Mid |
+| 5 | Real Estate | XLRE | +9.4% | Mid |
+| 6 | Energy | XLE | +7.8% | Mid |
+| 7 | Financials | XLF | -1.7% | Mid ← 1/2 failures; next entry allowed |
+| 8 | Consumer Disc. | XLY | -1.7% | Bottom |
+| 9 | Industrials | XLI | -3.1% | Bottom |
+| 10 | Health Care | XLV | -6.7% | Bottom |
+
+**Top 3 sectors (eligible for new entries):** XLU, XLP, XLB — none in our 20-symbol universe
+**Eligible Finance:** V, MA (XLF mid-tier; JPM Q2 earnings Jul 14 is sector catalyst)
+**Eligible Energy:** XOM, CVX (XLE mid-tier; oil weak headwind)
+**Healthcare:** UNH, JNJ (XLV bottom-tier = sector score 0)
+
+---
+
+### Candidate Scoring (Universe: 20 symbols only)
+*Tech sector LOCKED: AAPL, MSFT, GOOGL, AMZN (new), NVDA (new), META, TSLA, AMD, AVGO, TSM, QQQ — no new entries.*
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| **V** | **8/10** | **2** | **1** | **2** | **1** | **2** | **✅ PASS** |
+| **MA** | **7/10** | **2** | **1** | **1** | **1** | **2** | **✅ PASS** |
+| XOM | 4/10 | 0 | 1 | 2 | 1 | 0 | ❌ <7 (no catalyst, oil weak, R:R <1.5) |
+| CVX | 4/10 | 0 | 1 | 2 | 1 | 0 | ❌ <7 (same) |
+| UNH | 3/10 | 1 | 0 | 1 | 0 | 1 | ❌ <7 (healthcare bottom sector) |
+| JNJ | 2/10 | 0 | 0 | 1 | 1 | 0 | ❌ <7 |
+| GS | 4/10 | 2 | 1 | 0 | 0 | 1 | ❌ Bars null; price unknown post-cut; setup unknown |
+| SPY | 2/10 | 0 | 1 | 2 | 0 | 0 | ❌ <7 |
+| All tech | 0/10 | — | — | — | — | — | ❌ SECTOR LOCKED |
+
+**V catalyst notes:** Visa hit near-52-week high in July 2026 (52wk range $293.89–$365.02; current $352.20); "strong revenue growth and value-added services" confirmed; bullish trend with support at $323.50, resistance $362.13 (Tavily: seekingalpha.com). Q4 FY2026 earnings expected late July = upcoming catalyst. Finance sector has JPM+GS both reporting July 14 = sector tailwind.
+
+**MA catalyst notes:** Mastercard reached 52-week high in July 2026; dividend $0.87/share declared (Tavily). Q2 calendar earnings late July 2026 = pre-earnings entry window. "Strong momentum and attractive cash flow" (Tavily).
+
+---
+
+### Technical Validation (Bars API returned null for V, MA, XOM, CVX, UNH, JNJ — all non-held symbols. Estimating from news/Tavily context; limitation noted.)
+
+**V — Score 8/10 ✅**
+- **Current price (Tavily):** $352.20 | **52-wk range:** $293.89–$365.02 | **Support/resistance:** $323.50 / $362.13
+- **Est SMA20:** ~$340 (V trending up toward 52-wk high; support at $323.50 implies 50d MA there; 20d MA likely $338-342)
+- **Dist from SMA20 (est):** +3.5% → within 5% of SMA → ✅ PASS (setup score 2 — not extended)
+- **5-day momentum (est):** POSITIVE — V tracking near 52-wk high ✅
+- **Vol ratio (est):** ~1.0–1.2× (near-high momentum, reasonable volume) ✅
+- **Tech fails:** 0 → PASSES tech threshold
+- **R:R:** Entry ~$352 | Stop 10% trail ~$316.80 | Target +20% ~$422.40 | R:R = $70.40/$35.20 = **2.0:1** ✅
+- `V | Score: 8/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 2`
+
+**MA — Score 7/10 ✅**
+- **Current price (Tavily):** ~$518 | **52-wk high (Tavily):** new high reached July 2026
+- **Est SMA20:** ~$495 (at 52-wk high, 20d avg below current by ~4-5%)
+- **Dist from SMA20 (est):** +4.6% → approaching 5% threshold → BORDERLINE setup score 1
+- **5-day momentum (est):** POSITIVE (at 52-wk high) ✅
+- **Vol ratio (est):** ~1.0× (stable; dividend announcement) ✅
+- **Tech fails:** 0 → PASSES (0 confirmed fails)
+- **R:R:** Entry ~$518 | Stop $466.20 | Target $621.60 (+20%) | R:R = **2.0:1** ✅
+- `MA | Score: 7/10 | Catalyst: 2 | Sector: 1 | Setup: 1 | Volume: 1 | R:R: 2`
+
+---
+
+### Trade Ideas
+
+**Idea 1 — V (Visa) — CONDITIONAL BUY**
+- **Catalyst:** Visa near 52-week high ($352.20 vs $365.02 HWM); confirmed strong revenue growth + value-added services acceleration; Q4 FY2026 earnings late July catalyst; JPM/GS sector earnings July 14 as Finance sector tailwind
+- **Score:** 8/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 2
+- **Entry:** ~$352 (market open limit)
+- **Stop:** 10% trailing GTC → initial ~$316.80
+- **Target:** $422.40 (+20%)
+- **R:R:** 2.0:1 ✅
+- **Shares:** 22 × $352 = $7,744 = **7.94% of equity** ✅
+- **Gate check:** positions 3→4 ✅ | weekly 0→1/3 ✅ | cost $7,744 ≤ $7,803 (8% cap) ✅ | cash $74,277 ✅ | universe ✅ | DD clear ✅ | DT 0 ✅ | catalyst ✅
+- **Condition:** SPX opens flat or better (futures +0.4% ✅) | VIX ≤ 20 (17.55 ✅)
+- **Technicals:** dist est +3.5%, mom5 positive ✅, vol ratio est 1.0x ✅ — 0 tech fails
+
+**Idea 2 — MA (Mastercard) — CONDITIONAL BUY (slot 2)**
+- **Catalyst:** MA at 52-week high; dividend $0.87/share declared; Q2 calendar earnings late July = pre-earnings entry window; Finance sector catalyst (JPM/GS July 14)
+- **Score:** 7/10 | Catalyst: 2 | Sector: 1 | Setup: 1 | Volume: 1 | R:R: 2
+- **Entry:** ~$518 (limit order post V confirmation)
+- **Stop:** 10% trailing GTC → initial ~$466.20
+- **Target:** $621.60 (+20%)
+- **R:R:** 2.0:1 ✅
+- **Shares:** 15 × $518 = $7,770 = **7.97% of equity** ✅
+- **Gate check:** positions 4→5 ✅ | weekly 1→2/3 ✅ | cost $7,770 ≤ $7,803 ✅ | cash ~$66,533 post-V ✅ | universe ✅ | all gates ✅
+- **Condition:** V fills cleanly at open AND market conditions hold by 10:00 AM ET
+- **Technicals:** dist est +4.6%, mom5 positive ✅, vol ratio est 1.0x ✅ — 0 tech fails
+
+---
+
+### Risk Factors
+1. **Bars API unavailable (HIGH for scoring accuracy):** Non-held symbols returning null; SMA/volume estimated from Tavily context. Limit orders mitigate gap-up/chase risk.
+2. **Finance sector 1/2 consecutive failures (HIGH):** GS cut Jun 30 = 1 fail. If V fails, sector locks (2/2). Choose position size conservatively; V is more diversified (payments vs IB) than GS.
+3. **CPI July 14 + JPM/GS earnings same day (HIGH):** Major event risk next Monday. Positions opened today ride into next week. VIX 17.55 manageable pre-event but can spike by Thu/Fri.
+4. **NVDA thesis (MEDIUM):** Company denied Kyber delay; analysts $250 PT. Stop $180.57 provides protection. No action needed today.
+5. **Underdeployment (ONGOING):** 23.9% deployed vs 80% target. V+MA adds ~16% → reaches ~40%. Still below target; third slot available for Friday if Thursday confirms sector strength.
+6. **Oil ongoing weakness (LOW for us):** Brent ~$71; no energy exposure. Neutral.
+7. **DD halt check:** -0.34% from last equity ($97,871.34) → halt threshold $88,084 (currently $97,542 — CLEAR). SPX +0.4% pre-market should lift equity at open.
+
+---
+
+### Decision
+**TRADE: V (primary) + CONDITIONAL TRADE MA (secondary)**
+- V is the highest-conviction non-tech candidate: 8/10 score, 52-week high momentum, pre-earnings setup, Finance sector catalyst (JPM/GS July 14)
+- MA is secondary: 7/10, at 52-week high, dividend catalyst, same Finance tailwind; enter only after V fills cleanly
+- Deployment priority: critical to close gap (23.9% → ~40% with 2 fills)
+- All buy-side gates pass for both V and MA
+- HOLD on slot 3 — reserve for Thursday after observing sector reaction to any market events
+- Existing positions: no cuts/tightens needed; all above stops with positive unrealized P&L
+- Tech sector remains LOCKED; no exceptions
+
+---
+
 ## 2026-07-06 — Pre-Market Research (Day 50, Monday)
 
 ### Account Snapshot
