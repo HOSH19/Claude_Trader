@@ -771,3 +771,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $347.53 | -1.33% | -$4.40 (-0.06%) | $314.65 (HWM $349.61) |
 
 **Notes:** Day 52 EOD (Tuesday). One trade today: BUY V (22 shares @ $347.73, order c37ad0d0; trailing stop GTC order 15b2b572, stop $314.65, HWM $349.61). Weekly buys: 1/3 used. Portfolio essentially flat: -$0.72 (0.00%). NVDA the standout +3.60% to $204.02 (+5.39% unrealized, HWM now $205.15, stop $184.64). JPM drag -2.45% to $330.90 (still +2.55% unrealized, stop $309.10, HWM $343.45). AMZN -0.92% to $243.71 (+4.16% unrealized, stop $227.27, HWM $252.53). V first day: -$0.20 to $347.53 (essentially flat, stop $314.65, HWM $349.61). No HWM tightening needed (no position at +15%). Combined unrealized P&L: +$899.91. Deployment 31.9% vs 80% target — still critical gap. 2 buy slots remaining (week). Tech sector locked (2 consecutive failures: TSLA+TSM). Wednesday priority: pre-market research for 2nd non-tech buy (Finance MA, Energy XOM/CVX, or Healthcare UNH/JNJ).
+
+---
+
+### Jul 09 — EOD Snapshot (Day 53, Wednesday)
+**Portfolio:** $98,008.36 | **Cash:** $66,627.19 (68.0%) | **Day P&L:** +$169.23 (+0.17%) | **Phase P&L:** -$1,991.64 (-1.99%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $246.76 | +1.29% | +$434.80 (+5.47%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $335.47 | +1.47% | +$307.20 (+3.97%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $202.40 | -0.84% | +$317.55 (+4.56%) | $184.64 (HWM $205.15) |
+| V | 22 | $347.73 | $347.85 | +0.09% | +$2.64 (+0.04%) | $314.65 (HWM $349.61) |
+
+**Notes:** Day 53 (Wednesday). Modestly positive session: AMZN +1.29% to $246.76 (+5.47% unrealized), JPM +1.47% to $335.47 (+3.97% unrealized), NVDA -0.84% to $202.40 (+4.56% unrealized, stop $184.64, HWM $205.15), V +0.09% to $347.85 (day 2, essentially flat). No trades today. 1/3 weekly slots used (V yesterday). Phase P&L -$1,991.64 (-1.99%). Deployment 32% vs 80% target — 2 weekly slots remain. Tech sector locked (TSLA+TSM consecutive failures). Thursday priority: pre-market screen MA (check spread), GS (pre-earnings entry before Jul 14 catalyst, 8/10 score), XOM/CVX/UNH/JNJ as secondary candidates.
