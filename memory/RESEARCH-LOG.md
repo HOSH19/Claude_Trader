@@ -2,6 +2,164 @@
 
 ---
 
+## 2026-07-09 — Pre-Market Research (Day 53, Thursday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $97,793.49 |
+| Cash | $66,627.19 (68.1%) |
+| Long MV | $31,166.30 (31.9% deployed) |
+| Last Equity | $97,839.13 |
+| Day P&L pre-mkt | -$45.64 (-0.05%) — no DD halt |
+| DT Count | 0 |
+| Weekly buy slots | 1/3 used (V on Jul 8); 2 remaining |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Open Position Status (premarket prices):**
+| Ticker | Shares | Entry | Premarket | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|-----------|-----------|------|-----|--------|
+| AMZN | 34 | $233.97 | $241.95 | +$271.26 (+3.41%) | $227.27 (10% trail) | $252.53 | ✅ Safe |
+| JPM | 24 | $322.67 | $330.76 | +$194.16 (+2.51%) | $309.10 (10% trail) | $343.45 | ✅ Safe |
+| NVDA | 36 | $193.58 | $204.60 | +$396.75 (+5.69%) | $184.64 (10% trail) | $205.15 | ✅ WATCH: stop $184.64 |
+| V | 22 | $347.73 | $347.00 | -$16.06 (-0.21%) | $314.65 (10% trail) | $349.61 | ✅ Safe |
+
+**Stops review:**
+- AMZN: $241.95 vs stop $227.27 → buffer $14.68 (6.1%) ✅
+- JPM: $330.76 vs stop $309.10 → buffer $21.66 (6.5%) ✅
+- NVDA: $204.60 vs stop $184.64 → buffer $19.96 (9.8%) ✅ (HWM $205.15; near tightening at +15%)
+- V: $347.00 vs stop $314.65 → buffer $32.35 (9.3%) ✅
+
+---
+
+### Market Context
+- **WTI:** $74.46/bbl (+5.71% today) | **Brent:** $78.94/bbl (+6.44% today) — MAJOR SPIKE
+- **Catalyst:** Trump declared US-Iran ceasefire is OVER → Strait of Hormuz tensions escalate → oil +5-7%
+- **SPX Futures:** Unclear exact level; European markets heavily risk-off (FTSE -2.05%, DAX -2.23%, CAC -2.18%)
+- **Nikkei:** +1.67% (divergent)
+- **VIX:** 16.13 (up +3.60% from 15.57 — anxiety rising, not panic)
+- **CPI at 8:30 AM ET TODAY:** June CPI expected 0.5% MoM / 4.2% YoY; Core CPI 0.2% MoM / 2.9% YoY — PRIMARY MARKET MOVER
+- **Retail Sales at 8:30 AM ET TODAY:** June retail sales; consensus growth
+- **No universe earnings today** (13 total Jul 9 earnings, none in our 20-symbol universe)
+- **JPM/GS Q2 earnings Monday Jul 14 BMO** — Finance sector catalyst ahead
+- **TSM earnings Jul 16**
+- **Fed:** FOMC minutes released Jul 8 (already past); next rate decision Jul 30. Warsh-led Fed navigating energy-driven inflation.
+- Sources: tradingeconomics.com, businessinsider.com, ycharts.com, marketwatch.com (via Tavily); Benzinga, CNBC, Yahoo Finance
+
+---
+
+### Sector ETF Ranking (YTD — estimated Jul 9)
+| Rank | Sector | ETF | YTD est | Our tier | This wk |
+|------|--------|-----|---------|---------|---------|
+| 1 | Technology | XLK | +33%+ | Top ← **LOCKED (2 consec fails)** | +0.83% |
+| 2 | Utilities | XLU | +21%+ | Top | +0.01% |
+| 3 | Materials | XLB | +14%+ | Top | +1.46% |
+| 4 | Energy | XLE | +9%+ | Mid (surging today on oil spike) | +1.12% |
+| 5 | Financials | XLF | -1%+ | Bottom | +0.72% |
+| 6 | Healthcare | XLV | -7%+ | Bottom | -0.34% |
+
+**Top 3 sectors this week:** XLB (+1.46%), XLE (+1.12%), XLK (+0.83%) — Energy accelerating from Iran catalyst
+
+---
+
+### Candidate Scoring Table (20-symbol universe; tech locked)
+
+**Held (not re-scored as new buys):** AMZN, JPM, NVDA, V
+**Locked sector (Tech):** AAPL, MSFT, GOOGL, AMZN, META, TSLA, AMD, AVGO, TSM — ALL SKIP
+**Eligible non-tech:** GS, MA (Finance); XOM, CVX (Energy); UNH, JNJ (Healthcare); SPY, QQQ (ETFs)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Tech Checks | Result |
+|--------|-------|----------|--------|-------|--------|-----|-------------|--------|
+| XOM | 7/10 | 2 | 1 | 2 | 1 | 1 | PASS (all 3) | ✅ TRADE IDEA |
+| CVX | 7/10 | 2 | 1 | 2 | 1 | 1 | PASS (all 3) | ✅ TRADE IDEA |
+| MA | 4/10 | 1 | 0 | 2 | 0 | 1 | FAIL (vol 0.65x) | ❌ DISCARD (<7) |
+| GS | 5/10 | 1 | 0 | 1 | 1 | 2 | N/A | ❌ DISCARD (<7) |
+| UNH | 3/10 | 0 | 0 | 1 | 1 | 1 | N/A | ❌ DISCARD (<7) |
+| JNJ | 2/10 | 0 | 0 | 1 | 0 | 1 | N/A | ❌ DISCARD (<7) |
+| SPY | 3/10 | 0 | 1 | 1 | 1 | 0 | N/A | ❌ DISCARD (<7) |
+| QQQ | 3/10 | 0 | 1 | 1 | 1 | 0 | N/A | ❌ DISCARD (<7) |
+
+*Catalyst scoring note: Iran ceasefire declared over by Trump = confirmed catalyst (2) for Energy. Finance sector earnings Jul 14 = scheduled event (1). No specific catalyst for Healthcare or ETFs.*
+*Sector scoring: Energy recently mid-third (+9% est YTD, surging); Finance bottom-third (-1% YTD); Healthcare bottom-third (-7% YTD).*
+*Setup: XOM and CVX both within 0.5% of 20d SMA = at SMA (score 2). MA +3.35% = at SMA (score 2). GS estimated mid-range.*
+
+---
+
+### Technical Validation (≥7 scorers)
+
+**XOM** (Last close = $141.13, premarket may be higher on oil +5.71%):
+- SMA20: $140.45 | Dist: +0.48% (AT SMA — excellent) ✅
+- 5d momentum: +3.23% (vs Jun 30 close $136.72) ✅ POSITIVE
+- Volume ratio: 0.99x (near 1.0x, above 0.8 threshold) ✅
+- Extended >10%? NO → PASS | Mom5d negative? NO → PASS | Vol<0.8? NO → PASS
+- **All 3 tech checks PASS**
+- Sources: Alpaca bars data; Benzinga ceasefire cracks article
+
+**CVX** (Last close = $175.97):
+- SMA20: $175.72 | Dist: +0.14% (AT SMA — excellent) ✅
+- 5d momentum: +6.16% (vs Jun 30 close $165.76) ✅ STRONG POSITIVE
+- Volume ratio: 0.96x (above 0.8 threshold) ✅
+- Extended >10%? NO → PASS | Mom5d negative? NO → PASS | Vol<0.8? NO → PASS
+- **All 3 tech checks PASS**
+- Sources: Alpaca bars data; Benzinga/Tickeron CVX analysis
+
+**MA** (Last close = $519.86):
+- SMA20: $502.99 | Dist: +3.35% (just above SMA)
+- 5d momentum: +1.22% (vs Jun 30 close $513.60) ✅ positive
+- Volume ratio: 0.65x ❌ BELOW 0.8 (1 tech check fail)
+- Score 4/10 → discard before tech check even applies
+
+---
+
+### Trade Ideas (≥7 scorers that passed tech)
+
+**Idea 1: XOM (Primary)**
+- Catalyst: Iran ceasefire declared over by Trump → oil +5-7% → direct revenue impact for integrated oil major
+- Entry: ~$141-145 at market open (pending CPI 8:30 AM; oil already +5.71% premarket)
+- Stop: 10% trailing GTC (initial stop ~$127-131)
+- Target: +20% → ~$169-174
+- R:R: ~1.8-2.0:1
+- Score: 7/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 1
+- Technicals: SMA20 $140.45 (+0.48% above); 5d mom +3.23%; vol ratio 0.99x
+- Position size: ~$7,823 (8% of $97,793 equity) → ~54 shares at $145
+- Gates: universe ✅ | positions 4→5 ≤10 ✅ | weekly 1→2/3 ✅ | cost ≤8% ✅ | cash $66,627 ✅ | catalyst ✅ | DT 0 ✅
+
+**Idea 2: CVX (Secondary)**
+- Catalyst: Same Iran/oil catalyst. CVX higher leverage to upstream production vs XOM.
+- Entry: ~$176-180 at market open (pending CPI)
+- Stop: 10% trailing GTC (initial stop ~$158-162)
+- Target: +20% → ~$211-216
+- R:R: ~1.8:1
+- Score: 7/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 1
+- Technicals: SMA20 $175.72 (+0.14% above); 5d mom +6.16%; vol ratio 0.96x
+- Position size: ~$7,823 (8% equity) → ~43-44 shares at $178
+- Gates: universe ✅ | positions 5→6 ≤10 ✅ | weekly 2→3/3 ✅ | cost ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- NOTE: This would use 3/3 weekly slots — no further buys until Mon Jul 13
+
+---
+
+### Risk Factors (Today)
+1. **CPI at 8:30 AM (CRITICAL):** June CPI expected 4.2% YoY. If hot (>4.2%), VIX spikes, broad selloff — energy not immune to rate-hike fears causing demand destruction. WAIT for CPI before entering XOM/CVX.
+2. **Iran tensions = two-way risk:** If ceasefire unexpectedly resumes → oil reverses → XOM/CVX drop sharply. Oil +5-7% may already be partially priced in from Jul 8 (XOM opened $143.44 but closed $141.13).
+3. **European markets risk-off (-2%+):** FTSE -2.05%, DAX -2.23%, CAC -2.18% — broad equity weakness may drag US open.
+4. **NVDA near HWM tightening threshold:** NVDA at $204.60 vs HWM $205.15. If NVDA closes +15% above entry ($193.58 × 1.15 = $222.62) → tighten stop to 7%. Not triggered yet but watch.
+5. **Samsung chip results drag chip stocks:** Mentioned in news "chip stocks sank." NVDA intraday risk.
+6. **Concentration risk:** Buying both XOM and CVX = 2 energy positions from same Iran catalyst. One geopolitical pivot = both positions impacted.
+7. **Deployment constraint:** 3/3 slots used if both entered — no further buys until Mon Jul 13.
+
+---
+
+### Decision
+**CONDITIONAL TRADE: XOM (primary) and CVX (secondary) — gate on CPI at 8:30 AM**
+- **If CPI ≤ 4.2% YoY (benign/in-line):** BUY XOM at market open; evaluate CVX as second buy
+- **If CPI > 4.2% YoY (hot):** HOLD — rate-hike fears may temporarily reverse oil despite geopolitical tensions
+- **Default:** HOLD until CPI print confirms conditions
+- Both XOM and CVX passed scoring (7/10) and all tech checks
+- Positions would go 4→5 or 4→6; deployment 31.9% → 40-48% (still below 80% but improving)
+- Market-open routine to execute based on CPI outcome and opening price action
+
+---
+
 ## 2026-07-08 — Pre-Market Research (Day 52, Tuesday)
 
 ### Account Snapshot
