@@ -564,3 +564,70 @@ Template for each entry:
 - **Binary-event entry rule**: no new entries on delivery/earnings day; enter FOLLOWING session after print confirmed
 
 ### Overall Grade: D+
+
+---
+
+## Week ending 2026-07-10
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,845.86 (Jul 7 open) |
+| Ending portfolio | $98,334.06 |
+| Week return | +$488.20 (+0.50%) |
+| S&P 500 week | ~+0.90% (SPY $748→$754.95) |
+| Bot vs S&P | -0.40% |
+| Phase P&L | -$1,665.94 (-1.67%) |
+| Trades | 1 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | NVDA +8.75% unrealized |
+| Worst trade | V +0.43% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $233.97 (34 sh) | $245.83 | +$403.13 (+5.07%) | $227.27 (10% trail, HWM $252.53) |
+| JPM | $322.67 (24 sh) | $336.97 | +$343.20 (+4.43%) | $309.10 (10% trail, HWM $343.45) ⚑ Q2 earnings Jul 14 |
+| NVDA | $193.58 (36 sh) | $210.51 | +$609.51 (+8.75%) | $189.90 (10% trail, HWM $211.00) |
+| V | $347.73 (22 sh) | $349.23 | +$33.00 (+0.43%) | $316.05 (10% trail, HWM $351.17) |
+
+### What Worked
+- NVDA surged +8.75% unrealized by week end; China export restriction easing confirmed as catalyst — thesis resurgent
+- V entry Jul 8 (8/10 score, Finance sector) clean — holding above entry; Q4 FY2026 earnings late July sets up pre-earnings momentum
+- Strategic discipline: held 2 buy slots in reserve for JPM/GS Q2 earnings Jul 14 catalyst window instead of forcing marginal Energy entries
+- JPM thesis intact: +4.43% unrealized, ex-dividend passed Jul 6, Q2 earnings Jul 14 BMO = crystallization event approaching
+- No losses, no stops hit, no thesis breaks — cleanest holding week in over a month
+
+### What Didn't Work
+- 12th consecutive week below 80% deployment: 32.3% deployed ($31,707 / $98,334); $66.6K idle
+- Only 1/3 weekly buy slots used (V Jul 8); two slots preserved but not deployed
+- XOM/CVX (7/10 each) deferred because oil reversed -3.5% from spike the same day — correct decision, but deployment gap persists
+- Bot vs S&P: -0.40% relative underperformance — even with NVDA strength, low deployment dilutes alpha
+- Tech sector locked (TSLA+TSM consecutive failures) continues to cap the investable universe
+
+### Key Lessons
+- Deferring XOM/CVX despite 7/10 score on oil reversal day was correct: entering after a 5.71% commodity spike on the reversal day = chasing a spent catalyst; this was the right call
+- Slot preservation (2 slots for JPM/GS Jul 14) is strategic, not passive: the next session after a strong Finance earnings beat is the highest-conviction entry window
+- NVDA China catalyst validates staying long through the Jul 2 turbulence and sector noise — position management working
+- All 4 positions are positive unrealized: the portfolio quality is improving even as deployment remains below target
+- NVDA approaching +15% tighten trigger ($222.62); must monitor daily next week
+
+### Adjustments for Next Week
+- **JPM earnings Jul 14 BMO (CRITICAL):** If JPM beats $5.61 EPS est (96% prob) → Finance sector inflection; evaluate GS pre-earnings setup; deploy 1-2 buy slots Mon-Tue
+- **GS pre-earnings (Jul 14):** $14.10 EPS est, 32.6% YoY increase; if JPM beat lifts sector, GS score may cross 7/10 threshold → scout entry Mon after JPM reaction
+- **NVDA tighten:** Update trail to 7% when NVDA exceeds $222.62; current $210.51 is within 2 strong sessions of trigger; set alert
+- **Deployment target:** 40-50% deployed by EOW Jul 17; with 3 fresh slots + Finance catalyst, 1-2 new entries achievable and necessary
+- **TSM earnings Jul 16:** TSM fundamentals intact (52%+ YoY EPS growth expected); tech sector still locked for new entries; but results may create sector read-through for NVDA
+- **V hold:** Patient; pre-earnings setup targeting late July catalyst; stop $316.05 is adequate; do not tighten
+- **Tech reset counter:** Need 2 consecutive non-tech wins (JPM or V must close successfully); currently 0/2 — JPM earnings outcome is the test
+
+### Overall Grade: C
