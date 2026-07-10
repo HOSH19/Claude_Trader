@@ -785,3 +785,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $347.85 | +0.09% | +$2.64 (+0.04%) | $314.65 (HWM $349.61) |
 
 **Notes:** Day 53 (Wednesday). Modestly positive session: AMZN +1.29% to $246.76 (+5.47% unrealized), JPM +1.47% to $335.47 (+3.97% unrealized), NVDA -0.84% to $202.40 (+4.56% unrealized, stop $184.64, HWM $205.15), V +0.09% to $347.85 (day 2, essentially flat). No trades today. 1/3 weekly slots used (V yesterday). Phase P&L -$1,991.64 (-1.99%). Deployment 32% vs 80% target — 2 weekly slots remain. Tech sector locked (TSLA+TSM consecutive failures). Thursday priority: pre-market screen MA (check spread), GS (pre-earnings entry before Jul 14 catalyst, 8/10 score), XOM/CVX/UNH/JNJ as secondary candidates.
+
+---
+
+### Jul 10 — EOD Snapshot (Day 54, Thursday)
+**Portfolio:** $98,346.90 | **Cash:** $66,627.19 (67.7%) | **Day P&L:** +$308.59 (+0.31%) | **Phase P&L:** -$1,653.10 (-1.65%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $245.81 | -0.50% | +$402.50 (+5.06%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $337.17 | +0.51% | +$348.00 (+4.49%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $210.92 | +4.02% | +$624.44 (+8.96%) | $189.90 (HWM $211.00) |
+| V | 22 | $347.73 | $348.97 | +0.22% | +$27.28 (+0.36%) | $316.05 (HWM $351.17) |
+
+**Notes:** Day 54 (Thursday). NVDA session leader +4.02% to $210.92 (+8.96% unrealized, HWM $211.00, stop $189.90). Watch: +15% trigger at $222.62 → tighten trail to 7%. JPM +0.51% to $337.17 (+4.49% unrealized, stop $309.10). V +0.22% to $348.97 (day 3, HWM $351.17, stop $316.05). AMZN -0.50% to $245.81 (+5.06% unrealized, stop $227.27). No trades today. 1/3 weekly slots used (V Jul 08); 2 slots remain. Phase P&L -$1,653.10 (-1.65%). Deployment 32.2% vs 80% target — critical gap. Friday: screen GS (Jul 14 earnings catalyst, 8/10), MA, XOM/CVX, UNH/JNJ for 2nd/3rd buys.
