@@ -2,6 +2,152 @@
 
 ---
 
+## 2026-07-10 — Pre-Market Research (Day 54, Thursday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,083.76 |
+| Cash | $66,627.19 (67.9%) |
+| Long MV | $31,456.57 (32.1% deployed) |
+| Last Equity | $98,038.31 |
+| Day P&L pre-mkt | +$45.45 (+0.05%) — no DD halt |
+| DT Count | 0 |
+| Weekly buy slots | 1/3 used (V Jul 8); 2 remaining |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Open Position Status (live API):**
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|-----------|------|-----|--------|
+| AMZN | 34 | $233.97 | $247.46 | +$458.60 (+5.77%) | $227.27 (10% trail) | $252.53 | ✅ Safe |
+| JPM | 24 | $322.67 | $336.78 | +$338.71 (+4.37%) | $309.10 (10% trail) | $343.45 | ✅ Safe |
+| NVDA | 36 | $193.58 | $202.30 | +$313.95 (+4.51%) | $184.64 (10% trail) | $205.15 | ✅ Safe |
+| V | 22 | $347.73 | $348.97 | +$27.28 (+0.36%) | $314.65 (10% trail) | $349.61 | ✅ Safe |
+
+**Stops review:**
+- AMZN: $247.46 vs stop $227.27 → buffer $20.19 (8.2%) ✅
+- JPM: $336.78 vs stop $309.10 → buffer $27.68 (8.2%) ✅
+- NVDA: $202.30 vs stop $184.64 → buffer $17.66 (8.7%) ✅ (no tightening; +15% trigger $222.62 not reached)
+- V: $348.97 vs stop $314.65 → buffer $34.32 (9.8%) ✅
+
+---
+
+### Market Context
+- **WTI:** $71.86/bbl (-0.31%) | **Brent:** $76.04/bbl (-0.34%) — oil PULLING BACK from yesterday's Iran-driven spike (+5.71% → now -3.5% from spike high)
+- **Iran Catalyst:** Trump-declared ceasefire breakdown is priced into oil; Strait of Hormuz tensions persist but momentum fading
+- **SPX Futures:** +0.22% / ~7,545.50 — modest risk-on open
+- **VIX:** 16.59 — moderate, comfortable (slightly elevated from yesterday's 16.13)
+- **Earnings BMO today:** None in 20-symbol universe
+- **KEY UPCOMING CATALYST:** JPM Q2 earnings Mon Jul 14 BMO ($5.61 EPS est, 96% beat probability) | GS Q2 earnings Mon Jul 14 BMO ($14.10 EPS est, 32.6% YoY increase) | TSM earnings Jul 16
+- **Economic calendar:** BLS releases (CPI/PPI) may overlap this week — no confirmed major print today
+- **GS analyst preview:** Strong capital markets, trading revenue expected; EPS $14.10 est; "fully priced after 249% run" (Tavily)
+- **JPM analyst preview:** $49.8B revenue est, strong consumer banking + trading
+- **AMZN note:** Mixed analyst sentiment in July; stock down ~10% from peak; buying opportunity discussed
+- Sources: Tavily (businessinsider.com, cnbc.com, tradingeconomics.com, seekingalpha.com)
+
+---
+
+### Sector ETF Ranking (YTD est as of Jul 10)
+| Rank | Sector | ETF | YTD est | Our tier | Status |
+|------|--------|-----|---------|---------|--------|
+| 1 | Technology | XLK | +33%+ | Top | **LOCKED (2 consec failures)** |
+| 2 | Utilities | XLU | +21%+ | Top | No universe symbols |
+| 3 | Materials | XLB | +14%+ | Top | No universe symbols |
+| 4 | Energy | XLE | +9%+ | Mid | Eligible; oil reversing today |
+| 5 | Financials | XLF | -1.7% | Bottom | Eligible; 1/2 consec failures; JPM/GS Jul 14 catalyst |
+| 6 | Healthcare | XLV | -7%+ | Bottom | Eligible; no catalyst |
+
+**Top 3 eligible sectors:** Energy (XLE, mid-tier), Finance (XLF, bottom but catalyst imminent)
+
+---
+
+### Candidate Scoring Table (20-symbol universe; tech locked)
+
+**Held (not re-scored as new buys):** AMZN, JPM, NVDA, V
+**Locked sector (Tech):** AAPL, MSFT, GOOGL, AMZN (new), META, TSLA, AMD, AVGO, TSM — ALL SKIP
+**Eligible non-tech:** GS, MA (Finance); XOM, CVX (Energy); UNH, JNJ (Healthcare); SPY, QQQ (ETFs)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Tech | Result |
+|--------|-------|----------|--------|-------|--------|-----|------|--------|
+| XOM | 7/10 | 1 | 1 | 2 | 1 | 2 | BORDERLINE | ⚠️ PASS (see note) |
+| CVX | 7/10 | 1 | 1 | 2 | 1 | 2 | BORDERLINE | ⚠️ PASS (see note) |
+| GS | 6/10 | 1 | 0 | 2 | 1 | 2 | N/A | ❌ <7 |
+| MA | 6/10 | 2 | 0 | 2 | 0 | 2 | N/A | ❌ <7 (vol 0.65x bars-est) |
+| UNH | 3/10 | 0 | 0 | 1 | 1 | 1 | N/A | ❌ <7 |
+| JNJ | 2/10 | 0 | 0 | 1 | 0 | 1 | N/A | ❌ <7 |
+| SPY | 4/10 | 0 | 1 | 2 | 1 | 0 | N/A | ❌ <7 |
+| QQQ | 4/10 | 0 | 1 | 2 | 1 | 0 | N/A | ❌ <7 (tech-heavy) |
+
+*Catalyst notes: Iran geopolitical tension = ongoing confirmed event but oil is reversing today (-3.5% from spike) → downgraded to "scheduled event" (1) vs confirmed catalyst (2). GS/JPM earnings = scheduled event (1). MA earnings late July = scheduled (2 per rubric since dividend also confirmed). Setup: Energy stocks at SMA post-spike, bars null — estimated from prior session SMA20 data. Volume: null bars; estimated from oil-spike context.*
+
+---
+
+### Technical Validation (≥7 scorers — bars API returning null; estimated from prior session data and Tavily)
+
+**XOM (Score 7/10 ⚠️)**
+- Last confirmed close (Jul 9): ~$141.13 | SMA20 (Jul 9): $140.45 | Dist: +0.48% (AT SMA)
+- Estimated today (post oil-spike): ~$143-145 | SMA20 est: ~$141-142 | Dist est: ~+1-2% (near SMA) ✅
+- 5d momentum (est): Jun 30 close $136.72 → today est $143-145 = +4.6-6.1% ✅ POSITIVE
+- Volume ratio (est): Oil-spike day elevated vol; today pullback reduces vol → est 0.9-1.0x → score 1 ✅
+- Tech fails: 0 confirmed → PASSES threshold
+- **BUT:** Oil reversed -3.5% from spike high; entering Energy AFTER the spike day is poor timing
+- `XOM | Score: 7/10 | Catalyst: 1 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 2`
+
+**CVX (Score 7/10 ⚠️)**
+- Last confirmed close (Jul 9): ~$175.97 | SMA20 (Jul 9): $175.72 | Dist: +0.14% (AT SMA)
+- Estimated today: ~$178-181 | SMA20 est: ~$176-177 | Dist est: ~+1-2% ✅
+- 5d momentum (est): Jun 30 close $165.76 → today est $178-181 = +7.4-9.2% ✅ STRONG POSITIVE
+- Volume ratio (est): Similar to XOM; spike-day elevated, today retreating → est 0.9-1.0x ✅
+- Tech fails: 0 confirmed → PASSES threshold
+- **BUT:** Same oil-reversal concern as XOM; concentration risk (both from same Iran catalyst)
+- `CVX | Score: 7/10 | Catalyst: 1 | Sector: 1 | Setup: 2 | Volume: 1 | R:R: 2`
+
+**GS (Score 6/10 ❌)**
+- Price context (Tavily): SMA8 $1,041.03 | SMA20 $1,055.26 | Support $1,034.08 | Resistance $1,092.61
+- Current ~$1,034-1,055 | -1.35% below SMA20 → BELOW SMA → setup excellent (score 2)
+- 5d momentum: Positive (recovering from prior cut level $1,014); est +0.5-2% ✅
+- Volume: Pre-earnings, building; est 1.0-1.2x → score 1
+- Sector score 0 (XLF bottom third YTD) caps score at 7 max; conservative vol estimate keeps at 6
+- `GS | Score: 6/10 | Catalyst: 1 | Sector: 0 | Setup: 2 | Volume: 1 | R:R: 2` → ❌ DISCARD
+
+---
+
+### Trade Ideas
+
+**No high-conviction trade ideas today.** XOM and CVX technically score 7/10 but entry timing is poor:
+
+**XOM/CVX — BORDERLINE PASS but TIMING RISK (not actioning)**
+- Iran catalyst drove oil +5.71% on Jul 9; today oil -0.31% (-3.5% from spike high)
+- Optimal entry was Jul 9 (at the spike day); today we are entering AFTER the catalyst peak on a reversal day
+- Oil at $71.86 — still elevated vs pre-spike levels (~$68-69 Jul 8) but declining
+- Buying into a confirmed reversal, one day after a 5.7% commodity spike, violates the spirit of the setup
+- R:R deteriorates when entry is after momentum peaks
+
+---
+
+### Risk Factors (Today)
+1. **Oil reversal (HIGH for Energy):** WTI -3.5% from yesterday's $74.46 spike high back to $71.86. Entering XOM/CVX now = buying into the pullback; ceasefire talks could resume and further reverse oil.
+2. **JPM/GS earnings event risk Mon Jul 14 (HIGH):** 4-day window. Existing JPM position (24 shares, +4.37%) rides directly into earnings. Beat = upside; miss = potential stop trigger ($309.10 vs current $336.78 → 8.2% buffer).
+3. **Finance sector caution (MEDIUM-HIGH):** 1/2 consecutive failures (GS cut Jun 30). If next Finance trade fails, sector locks. GS is below 7/10 threshold; no actionable Finance entry today.
+4. **NVDA flat/slightly red:** $202.30 vs HWM $205.15. No tightening trigger. Monitor Kyber delay news — thesis intact per Nvidia denial but next-gen roadmap risk persists.
+5. **Deployment gap (ONGOING):** 32.1% deployed vs 80% target. Need to close gap but no ≥7 candidates pass quality filter today. Patience.
+6. **AMZN sentiment mixed:** Analysts divided on Amazon; some lowering targets; stock -10% from peak per Tavily. Hold thesis (AWS GenAI + Prime Day Jul). Stop $227.27 provides protection.
+7. **V pre-earnings hold:** Visa Q3 earnings Jul 28 = catalyst ahead. V only +0.36% unrealized; stay patient for pre-earnings momentum.
+
+---
+
+### Decision
+**HOLD — No new trades today**
+- XOM and CVX score 7/10 and pass tech checks, but timing is unfavorable: oil reversed -3.5% from yesterday's Iran spike; entering today = chasing a day-old catalyst on a pullback
+- GS and MA score 6/10 (Finance sector YTD bottom third pulls sector score to 0; below 7/10 threshold)
+- No other non-tech candidates score ≥7
+- **Preserve 2 buy slots for post-JPM/GS earnings opportunities (Mon Jul 14+):** If Finance sector responds positively to JPM beat ($5.61 EPS est, 96% prob), GS setup becomes more attractive; sector YTD trend improves
+- Weekly slots reset Mon Jul 14 (new 3-slot window coincides with earnings catalyst)
+- Existing 4 positions healthy; all above stops; combined unrealized +$1,138.54 (+3.62%)
+- **Next catalyst window:** JPM/GS earnings Mon Jul 14 BMO → Finance sector inflection; TSM Jul 16
+
+---
+
 ## 2026-07-09 — Pre-Market Research (Day 53, Thursday)
 
 ### Account Snapshot
