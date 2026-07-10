@@ -2,6 +2,34 @@
 
 ---
 
+## 2026-07-10 — Midday Addendum
+
+**Midday Scan (Day 54, Thursday)**
+| Field | Value |
+|-------|-------|
+| Equity | $98,208.69 | 
+| Session-start equity | $98,083.76 |
+| Day change | +$124.93 (+0.13%) — **no DD halt** |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop | Action |
+|--------|---------|-----------|---------|------|--------|
+| AMZN | $245.74 | +5.03% | -0.53% | $227.27 | ✅ Hold |
+| JPM | $336.46 | +4.27% | +0.30% | $309.10 | ✅ Hold |
+| NVDA | $209.55 | +8.25% | +3.34% | $189.50 | ✅ Hold — see note |
+| V | $345.81 | -0.55% | -0.69% | $316.05 | ✅ Hold |
+
+**NVDA catalyst (Tavily):** China potential easing of export restrictions on NVDA products → positive catalyst confirming thesis. NVDA up +3.34% intraday. HWM per orders: $210.56 (broker-tracked). Stop $189.50. No tightening yet (+15% trigger at $222.62 not reached; current $209.55).
+
+**Decisions:**
+- No cuts (-7% trigger: none hit; lowest V at -0.55%)
+- No stop tightening (no position at +15%+)
+- No thesis breaks — all 4 positions intact
+- No new trades — consistent with pre-market HOLD decision (2 slots reserved for post-JPM/GS earnings Jul 14)
+
+---
+
 ## 2026-07-10 — Pre-Market Research (Day 54, Thursday)
 
 ### Account Snapshot
