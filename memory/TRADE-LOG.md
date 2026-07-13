@@ -799,3 +799,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $348.97 | +0.22% | +$27.28 (+0.36%) | $316.05 (HWM $351.17) |
 
 **Notes:** Day 54 (Thursday). NVDA session leader +4.02% to $210.92 (+8.96% unrealized, HWM $211.00, stop $189.90). Watch: +15% trigger at $222.62 → tighten trail to 7%. JPM +0.51% to $337.17 (+4.49% unrealized, stop $309.10). V +0.22% to $348.97 (day 3, HWM $351.17, stop $316.05). AMZN -0.50% to $245.81 (+5.06% unrealized, stop $227.27). No trades today. 1/3 weekly slots used (V Jul 08); 2 slots remain. Phase P&L -$1,653.10 (-1.65%). Deployment 32.2% vs 80% target — critical gap. Friday: screen GS (Jul 14 earnings catalyst, 8/10), MA, XOM/CVX, UNH/JNJ for 2nd/3rd buys.
+
+---
+
+### Jul 13 — EOD Snapshot (Day 56, Monday)
+**Portfolio:** $98,232.49 | **Cash:** $66,627.19 (67.8%) | **Day P&L:** -$83.44 (-0.08%) | **Phase P&L:** -$1,767.51 (-1.77%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $247.25 | +0.78% | +$451.46 (+5.68%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $335.00 | -0.44% | +$295.92 (+3.82%) | $309.10 (HWM $343.45) |
+| NVDA | 36 | $193.58 | $202.93 | -3.81% | +$336.63 (+4.83%) | $189.90 (HWM $211.00) |
+| V | 22 | $347.73 | $357.48 | +2.44% | +$214.50 (+2.80%) | $323.54 (HWM $359.49) |
+
+**Notes:** Day 56 (Monday; Day 55/Jul 11 Friday EOD summary not logged). No trades today. Start of new week — 3/3 buy slots available Jul 14-18. Day P&L -$83.44 (-0.08%) vs Alpaca last_equity $98,315.93 (Jul 11 close). NVDA weakest -3.81% to $202.93, still +4.83% unrealized and above stop $189.90 (HWM $211.00, -3.81% from HWM). V strongest +2.44% to $357.48 (+2.80% unrealized, HWM now $359.49, stop $323.54). AMZN +0.78% to $247.25 (+5.68% unrealized, stop $227.27). JPM -0.44% to $335.00 (+3.82% unrealized, stop $309.10). Combined unrealized: +$1,298.51. No tightening triggers reached (none at +15%). Deployment 32.2% vs 80% target — critical. JPM earnings tomorrow (Jul 14) — major catalyst for Finance sector; watch reaction for potential MA buy. 3 buy slots available this week.
