@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-07-13 — Midday Addendum
+
+**Midday Scan (Day 55, Monday)**
+| Field | Value |
+|-------|-------|
+| Equity | $98,310.02 |
+| Session-start equity | $98,237.29 |
+| Day change | +$72.73 (+0.07%) — **no DD halt** |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop | Action |
+|--------|---------|-----------|---------|------|--------|
+| AMZN | $247.83 | +5.92% | +1.02% | $227.27 | ✅ Hold |
+| JPM | $334.39 | +3.63% | -0.62% | $309.10 | ✅ Hold — earnings tomorrow |
+| NVDA | $204.81 | +5.80% | -2.91% | $189.90 | ✅ Hold — see note |
+| V | $357.53 | +2.82% | +2.45% | $321.81 | ✅ Hold |
+
+**NVDA catalyst (Tavily):** Senate hearing on China chip sales + macro pressure; H20 shipments $0 in Q1 (vs $4.6B prior year), Q2 guided $0 — treated as "cleared risk, not hidden one." RTX Spark announced (new AI PC SoC with MediaTek/Microsoft — positive product news). Thesis intact: AI chip demand secular tailwind not broken by China revenue reset. Stop $189.90 (HWM $211.00, 10% trail) provides 7.3% buffer.
+
+**V note:** Up +2.45% intraday to $357.53; broker HWM updated to $357.57; stop auto-trailed to $321.81. No tightening needed (+15% trigger at $399.89 not reached).
+
+**Decisions:**
+- No cuts (-7% trigger: none hit; all positions positive unrealized)
+- No stop tightening (no position at +15%+)
+- No thesis breaks — all 4 positions intact; NVDA weakened but thesis holds
+- No new trades — midday not a buy window; pre-market CVX conditional deferred (markets softer today)
+
+---
+
 ## 2026-07-13 — Pre-Market Research (Day 55, Monday)
 
 ### Account Snapshot
