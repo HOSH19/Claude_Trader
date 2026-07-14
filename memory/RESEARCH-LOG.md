@@ -1852,3 +1852,33 @@ No stop tightening triggers reached (NVDA +15% trigger: $222.62; not at +15%). A
 - Sources: Tavily (GS earnings, CPI consensus, VIX, oil, sector ETFs, premarket futures); Alpaca (live positions, orders, account).
 - Watch TSLA delivery numbers: thesis intact above $392.33 (-7% cut level)
 - NFP at 8:30 AM is the key event; assess all positions post-release
+---
+
+## 2026-07-14 — Midday Addendum
+
+**Midday Scan (Day 57, Monday)**
+| Field | Value |
+|-------|-------|
+| Equity | $98,650.77 |
+| Session-start equity | $98,080.95 |
+| Day change | +$569.82 (+0.58%) — **no DD halt** |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop (HWM) | Action |
+|--------|---------|-----------|---------|------------|--------|
+| AMZN | $246.26 | +5.25% (+$417.80) | -0.43% | $227.27 (HWM $252.53) | ✅ Hold |
+| JPM | $340.80 | +5.62% (+$435.12) | +1.87% | $310.23 (HWM $344.70) | ✅ Hold |
+| NVDA | $211.19 | +9.10% (+$634.00) | +3.76% | $190.22 (HWM $211.35) | ✅ Hold — watch +15% @ $222.62 |
+| V | $357.94 | +2.94% (+$224.62) | +0.05% | $323.95 (HWM $359.94) | ✅ Hold |
+
+**Decisions:**
+- No cuts: no position at -7% (best unrealized V +2.94%, worst AMZN -0.43% intraday only)
+- No stop tightening: no position at +15% (NVDA closest at +9.10%; trigger $222.62)
+- No thesis breaks: all 4 theses intact
+  - JPM: Q2 beat (+10% YoY) confirmed; recovered from sell-the-news to +1.87% intraday ✅
+  - NVDA: AI momentum +3.76% intraday; approaching +15% tightening level ✅
+  - AMZN: steady; no news ✅
+  - V: Finance sector catalyst (JPM/GS both Q2 beats) intact ✅
+- No GS position: market-open routine did not execute GS buy (likely CPI or open conditions triggered HOLD). 2 weekly buy slots remain for GS/XOM.
+- No new trades — midday not the venue for new entries.
