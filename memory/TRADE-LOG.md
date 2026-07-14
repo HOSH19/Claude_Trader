@@ -813,3 +813,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $357.48 | +2.44% | +$214.50 (+2.80%) | $323.54 (HWM $359.49) |
 
 **Notes:** Day 56 (Monday; Day 55/Jul 11 Friday EOD summary not logged). No trades today. Start of new week — 3/3 buy slots available Jul 14-18. Day P&L -$83.44 (-0.08%) vs Alpaca last_equity $98,315.93 (Jul 11 close). NVDA weakest -3.81% to $202.93, still +4.83% unrealized and above stop $189.90 (HWM $211.00, -3.81% from HWM). V strongest +2.44% to $357.48 (+2.80% unrealized, HWM now $359.49, stop $323.54). AMZN +0.78% to $247.25 (+5.68% unrealized, stop $227.27). JPM -0.44% to $335.00 (+3.82% unrealized, stop $309.10). Combined unrealized: +$1,298.51. No tightening triggers reached (none at +15%). Deployment 32.2% vs 80% target — critical. JPM earnings tomorrow (Jul 14) — major catalyst for Finance sector; watch reaction for potential MA buy. 3 buy slots available this week.
+
+---
+
+### Jul 14 — EOD Snapshot (Day 57, Tuesday)
+**Portfolio:** $98,682.65 | **Cash:** $66,627.19 (67.5%) | **Day P&L:** +$420.62 (+0.43%) | **Phase P&L:** -$1,317.35 (-1.32%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $247.00 | -0.13% | +$442.96 (+5.57%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $342.32 | +2.33% | +$471.60 (+6.09%) | $310.23 (HWM $344.70) |
+| NVDA | 36 | $193.58 | $211.33 | +3.83% | +$638.95 (+9.17%) | $191.30 (HWM $212.55) |
+| V | 22 | $347.73 | $356.09 | -0.46% | +$183.92 (+2.40%) | $323.95 (HWM $359.94) |
+
+**Notes:** Day 57 (Tuesday). JPM Q2 earnings confirmed strong — JPM surged +2.33% to $342.32, new HWM $344.70 (stop auto-updated to $310.23). GS also reported Q2 today. NVDA continued momentum +3.83% to $211.33, approaching +15% trigger ($222.62); tighten trail to 7% when crossed. AMZN -0.13% to $247.00 (stable, stop $227.27 safe). V -0.46% to $356.09 (HWM $359.94, stop $323.95). Combined unrealized +$1,737.43. 0/3 weekly trades used. Deployment 32.5% vs 80% target — critical gap. Tomorrow: screen MA (Finance, earnings late July), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 2 new buys. Watch NVDA $222.62 trigger for trail tighten.
