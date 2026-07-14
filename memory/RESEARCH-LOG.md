@@ -1743,5 +1743,112 @@ For next-week watchlist:
 **HOLD — No new buys available (3/3 weekly slots used)**
 - Watchlist for Jul 7: AAPL (priority 1, score 7, cleanest setup), AMD (priority 2, score 7, momentum), MSFT (priority 3)
 - Critical action today: Monitor TSM at open — cut if price ≤ $434.59
+
+---
+
+## 2026-07-14 — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $98,080.95 | **Last equity (Jul 13 close):** $98,262.03 | **Day Δ:** -$181.08 (premarket)
+- **Cash:** $66,627.19 | **Long MV:** $31,453.76 | **Deployed:** 32.1% (target 80%)
+- **DT count:** 0 | **Weekly buy slots:** 0/3 used (week Jul 14–18)
+- **Open positions:** AMZN, JPM, NVDA, V (4 of 10 max)
+
+### Market Context
+- **WTI crude:** $80.35/bbl
+- **SPX futures (Sep 26):** $7,588.75 (flat/slight decline; MarketWatch Dec 26 contract $7,626)
+- **VIX:** 16.13 (+3.60% from prior close of 15.57)
+- **CPI June (HIGH IMPACT):** Released 8:30 AM ET today — consensus headline 3.9% YoY, core 2.9%
+- **FOMC:** July 30 decision (next key Fed event)
+- **European markets risk-off:** DAX -2.23%, FTSE -2.05%, CAC -2.18% — significant global caution
+- **Nikkei:** +1.67% (divergent; Asia positive)
+- **Gold futures:** $4,062.86 (-0.37%) — modest safe-haven demand
+
+### Earnings Today (Confirmed BMO)
+- **JPM Q2:** Beat (+10% YoY), reported before open; stock -1.96% premarket to $327.98 (sell-the-news / CPI caution). Our position entry $322.67 — stop $309.10, buffer adequate.
+- **GS Q2:** Strong beat — EPS $17.23 (consensus ~$13.45, +28% YoY), revenue $17.2B beat, IB revenues +42%; stock gapping +3.6% to ~$1,058 premarket from prior close ~$1,021.
+- **AXP:** Triple analyst upgrade (JPM, MS, Jefferies → Overweight/Buy) — Finance sector tailwind (AXP not in universe)
+
+### Sector ETF Ranking (This Week)
+| Rank | Sector | ETF | Week Perf |
+|------|--------|-----|-----------|
+| 1 | Energy | XLE | +3.01% |
+| 2 | Technology | XLK | +2.64% |
+| 3 | Financials* | XLF | improving (Q2 earnings catalyst) |
+
+*XLF YTD -1.7% (bottom third YTD); weekly improvement on JPM/GS beats.
+
+### Held Position Status (Premarket)
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | Stop (HWM) | Notes |
+|--------|--------|-------|---------|-----------|------------|-------|
+| AMZN | 34 | $233.97 | $246.15 | +$414.06 (+5.21%) | $227.27 ($252.53) | -0.47% pre-mkt; no news |
+| JPM | 24 | $322.67 | $327.98 | +$127.44 (+1.65%) | $309.10 ($343.45) | -1.96% pre-mkt; Q2 beat, sell-the-news |
+| NVDA | 36 | $193.58 | $204.50 | +$393.15 (+5.64%) | $189.90 ($211.00) | +0.48% pre-mkt; JPM positive mention |
+| V | 22 | $347.73 | $356.78 | +$199.10 (+2.60%) | $323.54 ($359.49) | -0.27% pre-mkt; institutional buying |
+No stop tightening triggers reached (NVDA +15% trigger: $222.62; not at +15%). All GTC stops valid.
+
+### Candidate Scoring (20-symbol universe; Tech sector LOCKED — no AAPL/MSFT/GOOGL/META/AMD/AVGO/TSLA/TSM new buys)
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Tech Checks | Result |
+|--------|-------|----------|--------|-------|--------|-----|-------------|--------|
+| GS | **8/10** | 2 | 0 | 2 | 2 | 2 | PASS (all 3) | ✅ TRADE IDEA |
+| XOM | **7/10** | 1 | 1 | 1* | 2* | 2 | PASS* | ✅ TRADE IDEA (conditional) |
+| MA | 4/10 | 1 | 0 | 1 | 1 | 1 | N/A | ❌ <7 — no specific catalyst |
+| CVX | 5/10 | 1 | 1 | 1 | 0 | 2 | FAIL (vol 0.6x on Jul 13) | ❌ tech fail |
+| UNH | 3/10 | 0 | 0 | 1 | 1 | 1 | N/A | ❌ <7 — XLV YTD -6.7%, no catalyst |
+| JNJ | 2/10 | 0 | 0 | 1 | 0 | 1 | N/A | ❌ <7 — same as UNH |
+| SPY/QQQ | 4/10 | 1 | 1 | 1 | 1 | 0 | N/A | ❌ <7 — no directional thesis |
+
+*Bars data unavailable via Alpaca (data plan limitation); XOM/CVX technicals estimated via Tavily.
+**Note:** NVDA already held; GS Finance (0/2 sector YTD) but confirmed Q2 catalyst compensates.
+
+### Technical Validation (≥7 scorers)
+
+**GS** (prior close ~$1,021; premarket ~$1,058):
+- 50d SMA: $1,039.18; 20d & 8d SMA: above prior close (Tavily: "8d/20d suggest Sell" at $1,021)
+- Estimated 20d SMA: ~$1,030–1,040
+- Pre-mkt $1,058 vs est. 20d SMA ~$1,035 → Dist: ~+2.2% (at-SMA zone, <5%) ✅
+- 5d momentum: +1.0% (Tavily; stock was near 52wk levels pre-earnings) ✅
+- Volume: Earnings day → well above 1.5x avg ✅
+- **Tech check: 0/3 failures → PASS**
+
+**XOM** (price ~$138.88):
+- 20d MA: "bullish" per Tavily; volume July 2026: 27.9M (avg ~15–17M → ~1.7x)
+- Estimated Dist from 20d SMA: +2–5% (at-zone)
+- 5d momentum: Energy sector +3.01% week → estimated positive ✅
+- Volume ratio: ~1.7x → ✅
+- **Tech check: 0/3 estimated failures → PASS (conditional — no bar data)**
+
+### Trade Ideas
+
+**1. GS — Goldman Sachs (Primary)**
+- **Score:** 8/10 | Catalyst: Q2 beat (EPS $17.23, IB +42%) | Sector: Finance (weekly improving) | Setup: near 20d SMA | Volume: Earnings day
+- **Entry:** ~$1,055–1,065 at open after CPI (9:30 AM, after 8:30 AM data settles)
+- **Stop:** 10% trailing (initial ~$950) | **HWM = entry price**
+- **Target:** +20% (~$1,268–1,278) | **R:R:** 2.0:1
+- **Size:** 7 shares × ~$1,060 = ~$7,420 (7.6% of equity)
+- **Condition:** Only enter if CPI headline ≤ 4.0% and core ≤ 3.1%; wait for open reaction to settle
+
+**2. XOM — Exxon Mobil (Secondary / Later This Week)**
+- **Score:** 7/10 | Catalyst: WTI $80.35, Energy sector week leader +3.01% | Sector: XLE mid-third YTD +7.8% | Setup: ~at 20d SMA | Volume: elevated
+- **Entry:** ~$138–140 (after CPI confirmation, ideally mid-week)
+- **Stop:** 10% trailing (initial ~$125) | **Target:** +20% ($167) | **R:R:** 2.0:1
+- **Size:** 55 shares × ~$139 = ~$7,645 (7.8% of equity)
+- **Condition:** Bars data unavailable; confirm at entry that price is within 10% of 20d SMA; conditional on CPI not causing energy selloff
+
+### Risk Factors
+1. **CPI 8:30 AM (CRITICAL):** Hotter print (>4.0% headline or >3.1% core) → risk-off, delay all new buys, evaluate existing stops.
+2. **European selloff -2%+ (HIGH):** DAX -2.23%, FTSE -2.05%, CAC -2.18% — global caution may spill into US open.
+3. **VIX +3.60% to 16.13 (MEDIUM):** Rising anxiety. Watch for spike >20 → pause buys.
+4. **Finance concentration risk (MEDIUM):** JPM + V + GS (if bought) = 3 Finance positions. Sector YTD -1.7%.
+5. **JPM premarket -1.96% (WATCH):** Earnings beat but sell-the-news dynamic. Stop $309.10, current $327.98 — 6.1% buffer, no action needed.
+6. **Underdeployment (ONGOING):** 32.1% vs 80% target — critical. Need 2–3 more positions. GS + XOM this week would bring to ~48%.
+
+### Decision
+**TRADE — GS (primary, 8/10); XOM (secondary, 7/10)**
+- GS: Enter at open after confirming CPI ≤4.0% headline. 7 shares, ~$7,420 cost.
+- XOM: Later this week (Wed/Thu) after verifying bars technicals. 55 shares, ~$7,645 cost.
+- **If CPI hot (>4.0%):** Switch to HOLD — reassess in midday routine.
+- Weekly slot allocation: GS = slot 1/3; XOM = slot 2/3; slot 3 reserved.
+- Sources: Tavily (GS earnings, CPI consensus, VIX, oil, sector ETFs, premarket futures); Alpaca (live positions, orders, account).
 - Watch TSLA delivery numbers: thesis intact above $392.33 (-7% cut level)
 - NFP at 8:30 AM is the key event; assess all positions post-release
