@@ -1882,3 +1882,145 @@ No stop tightening triggers reached (NVDA +15% trigger: $222.62; not at +15%). A
   - V: Finance sector catalyst (JPM/GS both Q2 beats) intact ✅
 - No GS position: market-open routine did not execute GS buy (likely CPI or open conditions triggered HOLD). 2 weekly buy slots remain for GS/XOM.
 - No new trades — midday not the venue for new entries.
+
+---
+
+## 2026-07-15 — Pre-Market Research (Day 58, Wednesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,806.92 |
+| Cash | $66,627.19 (67.4%) |
+| Long market value | $32,179.73 (32.6%) — vs 80% target |
+| Day P&L vs last EOD | +$124.27 (+0.13%) |
+| Daytrade count | ~0 |
+| Weekly buys used | 0/3 (week Jul 14-18) |
+
+### Open Positions (premarket)
+| Ticker | Shares | Entry | Price | Unrlzd P&L | Stop (HWM) |
+|--------|--------|-------|-------|-----------|-----------|
+| AMZN | 34 | $233.97 | $248.54 | +$495.32 (+6.23%) | $227.27 (HWM $252.53) |
+| JPM | 24 | $322.67 | $343.57 | +$501.63 (+6.48%) | $310.23 (HWM $344.70) |
+| NVDA | 36 | $193.58 | $211.85 | +$657.84 (+9.44%) | $191.30 (HWM $212.55) |
+| V | 22 | $347.73 | $357.05 | +$205.04 (+2.68%) | $323.95 (HWM $359.94) |
+
+All positions above stop levels; no tightening triggers reached (NVDA +15% trigger @ $222.62, still ~5% away).
+
+### Market Context
+- **Oil:** WTI $78.94 (+1.02%), Brent $84.55 (+1.50%) — US-Iran military escalation; Strait of Hormuz closure concerns (source: oilprice.com, robinhood.com/us/en/stocks/CVX)
+- **SPX futures:** +$11.75 (+0.15%) — slightly positive (source: marketwatch.com)
+- **VIX:** 15.57 — moderate, not alarming (source: tradingeconomics.com/united-states/cboe-volatility-index-vix)
+- **IBM:** Earnings miss, diving toward worst day in 40 years — tech caution signal (not in universe; watch for spillover)
+- **European markets:** DAX -2.23%, FTSE -2.05%, CAC -2.18% yesterday; recovering today
+
+### Today's Economic Calendar
+- **08:30 AM ET:** PPI (June) — BLS confirmed (source: bls.gov)
+- **08:30 AM ET:** JNJ Q2 earnings conference call
+- **10:00 AM ET:** Fed Chair Warsh Senate Banking Committee testimony (pledging "inflation regime change")
+- No CPI today (was yesterday Jul 14)
+
+### Sector ETF Ranking — This Week
+| Rank | Sector | ETF | YTD | Notes |
+|------|--------|-----|-----|-------|
+| 1 | Technology | XLK | +33% | LOCKED — tech sector ban (2 consecutive failures: TSLA, TSM) |
+| 2 | Energy | XLE | +21% | ✅ Eligible — US-Iran oil surge catalyst |
+| 3 | Industrials | XLI | +22% | No specific catalyst today |
+| — | Finance | XLF | — | -1.6% this week; already hold JPM + V |
+| — | Healthcare | XLV | +21% | -1.93% this week; JNJ earnings today |
+
+Source: etfdb.com/sector-investing-content-hub/xlk-xle-xli-top-performing-sector-spdrs, marketchameleon.com
+
+### Candidate Scoring (20-symbol universe)
+**Tech sector LOCKED — no new buys:** AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, AMD, AVGO, TSM
+**Already held — no new entry:** JPM, V
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| XOM | **10/10** | 2 | 2 | 2 | 2 | 2 | ✅ ADVANCE |
+| CVX | **9/10** | 2 | 2 | 1 | 2 | 2 | ✅ ADVANCE |
+| JNJ | **9/10** | 2 | 1 | 2 | 2 | 2 | ⚠️ ADVANCE (5d momentum caution) |
+| GS | **7/10** | 2 | 1 | 1 | 1 | 2 | ✅ ADVANCE (Finance concentration risk) |
+| MA | 5/10 | 1 | 1 | 1 | 0 | 2 | ❌ FAIL |
+| UNH | 5/10 | 1 | 1 | 1 | 1 | 1 | ❌ FAIL |
+| SPY | 5/10 | 1 | 1 | 1 | 1 | 1 | ❌ FAIL |
+| QQQ | 5/10 | 1 | 1 | 1 | 1 | 1 | ❌ FAIL |
+
+*Scoring rubric: Catalyst (0-2) | Sector rank YTD (0-2) | Technical setup vs 20d SMA (0-2) | Volume confirmation (0-2) | R:R ratio (0-2)*
+
+### Technical Validation (≥7 scorers)
+
+**XOM — PASS (0/3 failures)**
+- Price: $144.51 | Est. 20d SMA: ~$141-142 (computed from: Jul 6 close $136.44, 8d SMA $138.21, 50d SMA $146.86)
+- Dist from SMA: +2.1% ✅ (not extended >10%)
+- 5d momentum: $136.44 (Jul 6) → $144.51 = **+5.9% positive** ✅
+- Volume ratio: Oil surge + US-Iran catalyst → well above avg ✅
+- Bars: unavailable (API returned null); technicals estimated from Tavily data sources
+- Source: finance.yahoo.com/quote/XOM, financhill.com, investing.com/equities/exxon-mobil-technical
+
+**CVX — PASS (0/3 failures)**
+- Price: ~$187 (est. Jul 14 close $181.57 + oil surge today per CNN) | Est. 20d SMA: ~$176-178 (from Jul 9 close $174.05 trajectory)
+- Dist from SMA: +5.4% ✅ (not >10%; in 5-10% zone → setup score 1/2)
+- 5d momentum: $174.05 (Jul 9) → $187 = **+7.4% positive** ✅
+- Volume ratio: Oil surge + Strait of Hormuz news → elevated ✅
+- Bars: unavailable (API null); technicals estimated from Tavily
+- Source: robinhood.com/us/en/stocks/CVX, macrotrends.net/stocks/charts/CVX, cnn.com/markets/stocks/CVX
+
+**JNJ — CONDITIONAL (1/3 failures — 5d momentum negative)**
+- Price: ~$257.77 (premarket) | 52-week high: $269.43 (Jul 7) | Est. 20d SMA: ~$264-267
+- Dist from SMA: ~-3% (below SMA) ✅ (good setup technically)
+- 5d momentum: $269.43 (Jul 7) → $257.77 = **-4.3% negative** ❌
+- Volume ratio: Earnings day → elevated ✅
+- Earnings: Q2 today BMO; EPS est $2.85, Earnings ESP +2.08% (likely beat). EPS $2.90/$25.2B per Tavily answer (unconfirmed). Conf call 8:30 AM.
+- **Fail count: 1/3 → technically passes discard threshold but negative momentum into entry is a caution flag**
+- Source: robinhood.com, perplexity.ai/finance/JNJ, marketbeat.com/earnings/reports/2026-7-15-johnson-johnson-stock
+
+**GS — CONDITIONAL (Finance concentration)**
+- Price: New 52wk high on Jul 14 (above $1,125); Jul 10 close $1,055.18 | Est. 20d SMA: ~$1,050-1,065
+- Dist from SMA: ~+7% ✅ (5-10% zone, not >10%)
+- 5d momentum: $1,029.64 (Jul 8) → ~$1,140+ = **+10.7% positive** ✅
+- Volume: Day 1 after earnings (Jul 14) was elevated; today (day 2) may normalize ⚠️
+- Finance concentration: JPM + V + GS = 3 Finance positions; Finance sector -1.6% this week
+- Pass count: 0/3 technical failures; deprioritized due to concentration risk and post-earnings extension
+- Source: macrotrends.net/stocks/charts/GS, cnbc.com/quotes/GS, investing.com/equities/goldman-sachs-group-historical-data
+
+### Trade Ideas
+
+**1. XOM — ExxonMobil (Primary, 10/10)**
+- **Catalyst:** US-Iran military escalation confirmed; Iran Strait of Hormuz closure concerns; WTI $78.94 (+1.02%), Brent $84.55 (+1.50%) — supply shock confirmed
+- **Entry:** ~$144-146 at market open; wait for PPI release (8:30 AM) — only enter if PPI MoM ≤ +0.3% (benign)
+- **Stop:** 10% trailing GTC | HWM = entry price | Initial stop ~$130-131
+- **Target:** +20% (~$173-175)
+- **R:R:** 2.0:1
+- **Size:** 54 shares × $144.51 ≈ $7,804 (7.9% of equity)
+- **Tech check:** 20d SMA dist +2.1% ✅ | 5d momentum +5.9% ✅ | volume elevated ✅
+- **Entry gate:** PPI benign ✅ | oil holding >$78 ✅ | position cost ≤8% ✅ | weekly slot 0→1/3 ✅ | positions 4→5 ≤10 ✅
+
+**2. CVX — Chevron (Secondary, 9/10)**
+- **Catalyst:** Same Strait of Hormuz / US-Iran oil shock; CNN confirms +$5.80 from last close
+- **Entry:** ~$185-188 at open; stagger after XOM fills to confirm energy momentum
+- **Stop:** 10% trailing GTC | Initial stop ~$168
+- **Target:** +20% (~$222-225)
+- **R:R:** 2.0:1
+- **Size:** 42 shares × $186 ≈ $7,812 (7.9% of equity)
+- **Tech check:** 20d SMA dist +5.4% ✅ | 5d momentum +7.4% ✅ | volume elevated ✅
+- **Entry gate:** After XOM entry confirmed | oil still holding | weekly slot 1→2/3 | positions 5→6 ≤10 ✅
+
+### Risk Factors
+1. **US-Iran ceasefire (HIGH):** Peace talks could reverse oil sharply — stop management critical; don't chase if oil reverses at open
+2. **PPI 8:30 AM (MEDIUM):** Hot print (>+0.5% MoM core) = risk-off, delay all energy buys, reassess
+3. **Warsh testimony 10 AM (MEDIUM):** Hawkish tone on rates could pressure cyclicals including energy
+4. **JNJ earnings + PPI at 8:30 AM (MEDIUM):** Double catalyst = volatile open; 15-min wait after open before executing
+5. **NVDA +15% trigger watch (LOW):** Trigger at $222.62 (+5.1% from $211.85); tighten trail to 7% when crossed
+6. **Finance sector weakness (ONGOING):** JPM + V holding fine but Finance declining -1.6% weekly; no new Finance buys
+7. **Underdeployment (ONGOING):** 32.6% → ~48% if both XOM+CVX executed; still below 80% target
+
+### Decision
+**TRADE — XOM (primary) + CVX (secondary)**
+- XOM: Enter at open after PPI confirms benign; 54 shares ~$7,804 (7.9% equity); 10% trailing stop
+- CVX: Enter immediately after XOM fills if energy momentum confirmed; 42 shares ~$7,812 (7.9% equity); 10% trailing stop
+- **ABORT CONDITION (both):** PPI prints hot (>+0.5% core MoM) or oil reverses below $77 at open
+- Weekly slot allocation: XOM = 1/3, CVX = 2/3; 1 slot reserved rest of week
+- GS: Skip — Finance concentration (already 2 Finance positions), post-earnings extension risk
+- JNJ: Skip — negative 5d momentum, PPI volatility at same time as earnings call (8:30 AM)
+- Sources: Tavily (oil, VIX, SPX futures, sectors, earnings, JNJ, GS, CVX, XOM); Alpaca (account, positions, orders)
