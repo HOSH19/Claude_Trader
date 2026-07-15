@@ -827,3 +827,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $356.09 | -0.46% | +$183.92 (+2.40%) | $323.95 (HWM $359.94) |
 
 **Notes:** Day 57 (Tuesday). JPM Q2 earnings confirmed strong — JPM surged +2.33% to $342.32, new HWM $344.70 (stop auto-updated to $310.23). GS also reported Q2 today. NVDA continued momentum +3.83% to $211.33, approaching +15% trigger ($222.62); tighten trail to 7% when crossed. AMZN -0.13% to $247.00 (stable, stop $227.27 safe). V -0.46% to $356.09 (HWM $359.94, stop $323.95). Combined unrealized +$1,737.43. 0/3 weekly trades used. Deployment 32.5% vs 80% target — critical gap. Tomorrow: screen MA (Finance, earnings late July), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 2 new buys. Watch NVDA $222.62 trigger for trail tighten.
+
+---
+
+### Jul 15 — EOD Snapshot (Day 58, Wednesday)
+**Portfolio:** $99,091.65 | **Cash:** $66,627.19 (67.2%) | **Day P&L:** +$363.20 (+0.37%) | **Phase P&L:** -$908.35 (-0.91%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $255.19 | +3.11% | +$721.42 (+9.07%) | $230.83 (HWM $256.48) |
+| JPM | 24 | $322.67 | $346.91 | +1.17% | +$581.76 (+7.51%) | $314.62 (HWM $349.58) |
+| NVDA | 36 | $193.58 | $212.47 | +0.32% | +$680.07 (+9.76%) | $191.31 (HWM $212.57) |
+| V | 22 | $347.73 | $355.18 | -0.24% | +$163.90 (+2.14%) | $324.39 (HWM $360.43) |
+
+**Notes:** Day 58 (Wednesday). No trades. All 4 positions green on the day except V (-0.24%). AMZN the standout +3.11% to $255.19, closing in on HWM $256.48 (new HWM possible tomorrow). JPM +1.17% to $346.91 (+7.51% unrealized, stop $314.62, HWM $349.58 — approaching prior HWM). NVDA +0.32% to $212.47 (+9.76% unrealized, stop $191.31, HWM $212.57 — essentially at HWM). V -0.24% to $355.18 (+2.14% unrealized, stop $324.39, HWM $360.43). Combined unrealized +$2,147.15. No +15% tightening triggers reached (NVDA needs $222.62). Phase P&L improves to -$908.35 (-0.91%) — approaching breakeven. 0/3 weekly buy slots used (Jul 14–18). Deployment 32.8% vs 80% target — critical gap. Thursday: screen MA (Finance), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 2–3 new buys; aim to deploy $20k+ toward 80% target.
