@@ -2024,3 +2024,15 @@ Source: etfdb.com/sector-investing-content-hub/xlk-xle-xli-top-performing-sector
 - GS: Skip — Finance concentration (already 2 Finance positions), post-earnings extension risk
 - JNJ: Skip — negative 5d momentum, PPI volatility at same time as earnings call (8:30 AM)
 - Sources: Tavily (oil, VIX, SPX futures, sectors, earnings, JNJ, GS, CVX, XOM); Alpaca (account, positions, orders)
+
+### Midday Addendum (2026-07-15)
+- **Portfolio equity ~$99,035** vs session-start $98,806.92 (+$228, +0.23%) — no DD halt
+- **AMZN +2.94%** to $254.76 (new HWM $256.48, stop auto-trailed to $230.83) — BofA "biggest AI winner" call today; $25B AI bond issuance from yesterday; thesis intact, +8.89% unrealized
+- **JPM +1.38%** to $347.61 (new HWM $349.58, stop $314.62) — Q2 earnings momentum; +7.73% unrealized
+- **V +1.18%** to $360.225 (HWM $360.43, stop $324.39) — stable; +3.59% unrealized
+- **NVDA -1.91%** to $207.745 (HWM $212.55, stop $191.30) — IBM miss tech spillover; thesis intact (Perplexity Vera chip win, Goldman "bargain" note); +7.32% unrealized, well above stop
+- **No cuts** (all positions >-7%)
+- **No tightening** (NVDA +15% trigger at $222.62; not reached; no other position near +15%)
+- **No thesis breaks** — all positions within rules
+- **XOM/CVX not entered** — market-open routine outcome not in TRADE-LOG; likely aborted (PPI or oil conditions)
+- Source: Alpaca API, Tavily (AMZN BofA/CNN/WSJ)
