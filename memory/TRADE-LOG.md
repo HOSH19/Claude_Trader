@@ -841,3 +841,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $355.18 | -0.24% | +$163.90 (+2.14%) | $324.39 (HWM $360.43) |
 
 **Notes:** Day 58 (Wednesday). No trades. All 4 positions green on the day except V (-0.24%). AMZN the standout +3.11% to $255.19, closing in on HWM $256.48 (new HWM possible tomorrow). JPM +1.17% to $346.91 (+7.51% unrealized, stop $314.62, HWM $349.58 — approaching prior HWM). NVDA +0.32% to $212.47 (+9.76% unrealized, stop $191.31, HWM $212.57 — essentially at HWM). V -0.24% to $355.18 (+2.14% unrealized, stop $324.39, HWM $360.43). Combined unrealized +$2,147.15. No +15% tightening triggers reached (NVDA needs $222.62). Phase P&L improves to -$908.35 (-0.91%) — approaching breakeven. 0/3 weekly buy slots used (Jul 14–18). Deployment 32.8% vs 80% target — critical gap. Thursday: screen MA (Finance), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 2–3 new buys; aim to deploy $20k+ toward 80% target.
+
+---
+
+### Jul 16 — EOD Snapshot (Day 59, Thursday)
+**Portfolio:** $98,845.61 | **Cash:** $66,627.19 (67.4%) | **Day P&L:** -$239.14 (-0.24%) | **Phase P&L:** -$1,154.39 (-1.15%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $249.94 | -1.97% | +$542.92 (+6.83%) | $232.27 (HWM $258.08) |
+| JPM | 24 | $322.67 | $343.15 | -1.08% | +$491.52 (+6.35%) | $314.62 (HWM $349.58) |
+| NVDA | 36 | $193.58 | $207.22 | -2.49% | +$491.07 (+7.05%) | $191.31 (HWM $212.57) |
+| V | 22 | $347.73 | $364.77 | +2.71% | +$374.88 (+4.90%) | $328.42 (HWM $364.91) |
+
+**Notes:** Day 59 (Thursday). No trades. Mixed session — 3 of 4 positions down: NVDA worst -2.49% to $207.22 (+7.05% unrealized, stop $191.31, HWM $212.57), AMZN -1.97% to $249.94 (intraday HWM updated to $258.08, stop ratcheted to $232.27), JPM -1.08% to $343.15 (+6.35% unrealized, stop $314.62, HWM $349.58). V the standout +2.71% to $364.77; new HWM $364.91, stop $328.42. No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,900.39. 0/3 weekly buy slots used (Jul 14–18). Deployment 32.6% vs 80% target — critical gap. Friday: weekly review + screen MA (Finance), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 1–2 buys.
