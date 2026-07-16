@@ -2166,3 +2166,16 @@ Source: etfdb.com/sector-investing-content-hub/xlk-xle-xli-top-performing-sector
 - XOM/CVX: DEFERRED to Friday pending Iran clarity
 - Sources: Tavily (UNH, MA, XOM, market context, sectors, earnings, economic calendar); Alpaca API (account, positions, orders)
 
+
+### Midday Addendum — 2026-07-16 ~12:00 ET
+
+**NVDA intraday check (Tavily):**
+- Current: $206.92 (−2.6% from yesterday's close $212.47)
+- No thesis-breaking news: normal pullback within AI/chip cycle; Motley Fool/Yahoo note ~13% drawdown over past month is natural ebb after May/June run-up
+- Chaikin Money Flow near zero, institutional positioning unclear but no major sell signal
+- Stop $191.31 safe (+7.5% cushion from current price)
+- **Verdict:** Thesis intact. Hold.
+
+**Midday scan result:** All clear — no cuts, no tighten triggers, no thesis breaks, no DD halt (−0.06% from $99,084.75 session-start equity).
+- Positions: 4 open (AMZN +9.3%, JPM +7.0%, NVDA +6.9%, V +4.0%)
+- Watch levels: NVDA +15% trigger $222.62 | AMZN +15% trigger $269.07
