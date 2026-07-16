@@ -2036,3 +2036,133 @@ Source: etfdb.com/sector-investing-content-hub/xlk-xle-xli-top-performing-sector
 - **No thesis breaks** — all positions within rules
 - **XOM/CVX not entered** — market-open routine outcome not in TRADE-LOG; likely aborted (PPI or oil conditions)
 - Source: Alpaca API, Tavily (AMZN BofA/CNN/WSJ)
+- **Source:** Tavily (Alpaca API, CNN, Robinhood, MarketWatch)
+
+---
+
+## 2026-07-16 — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $99,090.64 | **Cash:** $66,627.19 | **Deployed:** $32,463.45 (32.8%) | **Day P&L:** +$5.89 (+0.01%) | **DT Count:** 0
+- **Buy slots this week:** 0/3 used (Jul 14–18)
+- **Session-start equity:** $99,084.75 (no DD halt: +$5.89 = +0.01%)
+
+### Positions (Pre-Market)
+| Ticker | Shares | Entry | Pre-Mkt Price | Unrealized | Stop | HWM | Alert |
+|--------|--------|-------|--------------|------------|------|-----|-------|
+| AMZN | 34 | $233.97 | $257.43 | +$797.63 (+10.03%) | $230.83 | $256.48 | **NEW HWM** $257.43 → stop auto-updates to ~$231.69 |
+| JPM | 24 | $322.67 | $348.00 | +$607.92 (+7.85%) | $314.62 | $349.58 | Below HWM |
+| NVDA | 36 | $193.58 | $209.51 | +$573.33 (+8.23%) | $191.31 | $212.57 | Pre-mkt -1.41% |
+| V | 22 | $347.73 | $355.30 | +$166.54 (+2.18%) | $324.39 | $360.43 | Stable |
+
+**AMZN HWM update:** Current $257.43 > HWM $256.48 → trailing stop auto-trails; new stop ≈ $231.69. +15% trigger: $268.97 (not yet reached).
+**NVDA:** Pre-market $209.51 (-1.41%); +15% trigger $222.62 (not reached); stop $191.31 safe.
+
+### Market Context
+- **WTI:** ~$79.93/bbl (Jul 2026 contract, MarketWatch) | **Brent:** ~$85.03/bbl
+- **S&P 500:** ~7,562–7,572; premarket +0.15%
+- **VIX:** est. 15–18 (30-day range: 14.96–20.72, Business Insider)
+- **US-Iran:** US-Iran blockade of Strait of Hormuz in effect (Jul 13 reinstated); BUT Iran president signaled willingness to negotiate Wednesday (Jul 15) → XOM/CVX dropped 5% on de-escalation talk. WTI held ~$79-80.
+- **Energy sector:** XLE premarket +0.38% (recovering slightly from Wednesday's peace-talk drop)
+
+### Economic Releases Today (Jul 16)
+- **8:30 AM:** Retail Sales (Jun) exp +0.3% MoM; ex-Auto exp -0.1%
+- **8:30 AM:** Initial Jobless Claims (week Jul 11); Philadelphia Fed Index; Housing Starts
+- **9:15 AM:** Industrial Production & Capacity Utilization (Jun)
+- **10:00 AM:** Business Inventories (May)
+- Soft retail ex-auto = consumer caution signal; hot prints = risk-on; watch before entering
+
+### Earnings Today BMO
+- **UNH** (Q2 2026, in universe) — EPS est $3.89; KeyBanc/Truist/TD Cowen raised targets ahead ($430–$475); pre-mkt $420.74 (+$4.47 from prior close per CNN)
+- **TSM** (Q2 2026, tech sector LOCKED — irrelevant)
+- **GE** (Q2 2026, not in universe)
+
+### Sector ETF Rankings
+- **YTD top 3:** XLK +33% | XLE +21% | XLI +20%
+- **Week of Jul 5 top 3:** XLV +4.04% | XLC +3.00% | XLY +2.62% (XLF +1.97%; XLE -1.42% that week before Iran escalation)
+- **This week est. top 3:** XLF (JPM/GS Q2 beats) | XLV (JNJ/UNH earnings) | XLE (Iran escalation Mon–Tue, partial reversal Wed)
+
+### Candidate Scoring (20-symbol universe — non-tech, non-held only)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| UNH | 8/10 | 2 (Q2 earnings BMO) | 0 (XLV +2.7% YTD = bottom third) | 2 (near 200d SMA, CNN) | 2 (earnings day) | 2 (>2:1) | PASS |
+| MA | 8/10 | 2 (Barclays OW Jul 8; pre-Q4 FY26 earnings) | 1 (XLF mid-third YTD) | 2 (at 200d SMA, CNN) | 1 (avg vol) | 2 (>2:1) | PASS |
+| XOM | 8/10 | 1 (Iran blockade but de-escalation risk Wed) | 2 (XLE +21% YTD) | 2 (est ~$159 SMA, dist +1.3%) | 2 (elevated) | 2 (>2:1) | PASS (conditional) |
+| CVX | 8/10 | 1 (same as XOM) | 2 (XLE top third) | 2 (est near SMA) | 2 (elevated) | 2 (>2:1) | PASS (conditional) |
+| GS | 5/10 | 1 (post-earnings day 2) | 1 (XLF mid-third) | 1 (est +7% above SMA) | 1 (normalized) | 1 (1.5–2:1) | DISCARD |
+| JNJ | 6/10 | 1 (post-earnings Jul 15) | 1 (XLV bottom-mid) | 2 (below SMA) | 1 (avg) | 1 (1.5–2:1) | DISCARD |
+
+### Technical Validation (Bars API null for non-held; estimates from Tavily)
+
+**UNH** — PASS (0/3 failures)
+- Price: ~$420.74 pre-mkt | Est 20d SMA: ~$410 (recovering from $270 in March, $399 on May 13)
+- Dist from SMA: ~+2.4% ✅ (not >10% extended; well within "at or below" zone)
+- 5d momentum: recovering trajectory, +1–2% positive ✅
+- Volume: Earnings day BMO → elevated ✅
+- Source: robinhood.com/us/en/stocks/UNH, cnn.com/markets/stocks/UNH, tikr.com/blog
+
+**MA** — PASS (0/3 failures)
+- Price: ~$535 (Yahoo: $535.21, Kraken: $535.00, CNBC: $535.75)
+- CNN: "trading in middle of 52-week range and near 200-day SMA" → dist ~0% ✅
+- 5d momentum: ~flat to slightly positive from Jul 8 levels ($527–545 range) ✅
+- Volume: avg est. ≥0.8× ratio minimum ✅
+- Source: finance.yahoo.com/quote/MA/history, cnbc.com/quotes/MA, cnn.com/markets/stocks/MA
+
+**XOM** — PASS (0/3 failures) — but Iran thesis risk flagged
+- Price: ~$161 (Yahoo: dropped from ~$169 on Iran de-escalation Wednesday Jul 15)
+- Est 20d SMA: ~$159 (from May 19 level $160.49 per 247wallst; recovered on Iran)
+- Dist from SMA: ~+1.3% ✅ (not extended)
+- 5d momentum: from ~$153 (Jul 9) to $161 (today) = +5.2% ✅ but declining from $169 peak
+- Volume: Iran news = elevated ✅
+- Source: finance.yahoo.com/sectors/energy/articles/exxon-mobil-chevron-fall-5, 247wallst.com/investing/2026/05/19
+
+### Trade Ideas
+
+**1. UNH — UnitedHealth Group (PRIMARY, 8/10, CONDITIONAL)**
+- **Catalyst:** Q2 2026 earnings BMO today; EPS est $3.89; KeyBanc raised target, Truist raised target, TD Cowen raised to $430; BofA maintains Buy $475; Mizuho maintains Buy $460
+- **Entry:** $420–435 at market open; ABORT if gap >5% above pre-mkt $420.74 (price >$441)
+- **Stop:** 10% trailing GTC | Initial stop ~$381–391
+- **Target:** +20% = ~$505–522
+- **R:R:** ~2.2:1
+- **Size:** 18 shares × $425 ≈ $7,650 (7.7% equity)
+- **Technicals:** SMA dist +2.4% ✅ | 5d momentum positive ✅ | earnings volume ✅
+- **Gate:** universe ✅ | positions 4→5 ≤10 ✅ | weekly 0→1/3 ✅ | cost ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- **ABORT CONDITIONS:** Q2 miss (EPS < $3.89 or revenue miss + guidance cut); gap >5% above $420.74; retail sales wildly negative at 8:30 AM
+- Source: robinhood.com/us/en/stocks/UNH, markets.businessinsider.com/stocks/unh-stock
+
+**2. MA — Mastercard (SECONDARY, 8/10)**
+- **Catalyst:** Barclays initiated Overweight Jul 8; TD Cowen/Baird rated Jul 7; pre-Q4 FY2026 earnings window (late July); Revenue +16.61% YoY (CNN); consensus Buy with targets $605–$735
+- **Entry:** ~$535–542 at market open (check bid-ask spread <3% before entering)
+- **Stop:** 10% trailing GTC | Initial stop ~$481–488
+- **Target:** +20% = ~$642–650
+- **R:R:** ~2.0:1
+- **Size:** 14 shares × $537 ≈ $7,518 (7.6% equity)
+- **Technicals:** at 200d SMA per CNN ✅ | momentum flat/slight positive ✅ | volume ≥0.8× ✅
+- **Note:** 3rd Finance position (JPM + V + MA) — concentration risk; no hard rule violation
+- **Gate:** universe ✅ | positions 4→5 (or 5→6 if UNH entered first) ≤10 ✅ | weekly 1→2/3 ✅ | cost ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- Source: cnbc.com/quotes/MA, cnn.com/markets/stocks/MA, benzinga.com/quote/MA/analyst-ratings
+
+**XOM — MONITOR (Iran de-escalation thesis risk; defer to Friday)**
+- Iran president signaled de-escalation Wednesday; XOM dropped 5% to $161
+- If blockade collapses and peace achieved → thesis immediately broken; exit at loss
+- Deferred: monitor for Iran news overnight/Thursday; enter Friday if Iran talks stall and oil holds >$78
+- Source: finance.yahoo.com/sectors/energy/articles/exxon-mobil-chevron-fall-5
+
+### Risk Factors
+1. **UNH earnings miss (HIGH for UNH):** DOJ criminal investigation ongoing; membership -1.3M in 2026; guidance cut possible → skip if miss
+2. **Iran de-escalation (HIGH for energy):** Peace talks could reverse XOM/CVX another 5-10% — reason for deferral
+3. **Retail Sales 8:30 AM (MEDIUM):** Ex-auto expected -0.1%; weak print = consumer caution; delay all entries if wildly below exp
+4. **Finance concentration (MEDIUM):** 3rd Finance position (MA) — JPM, V, MA all in XLF
+5. **AMZN HWM exceeded (LOW):** $257.43 > $256.48 HWM → trailing stop auto-updating to ~$231.69; +15% trigger at $268.97 not yet reached
+6. **NVDA premarket -1.41% (LOW):** Down to $209.51; stop $191.31 safe (+9.0% cushion); thesis intact
+7. **Deployment gap (ONGOING):** 32.8% vs 80% target; 2 trades today = ~48%; 1 slot Friday for XOM or other
+
+### Decision
+**TRADE: UNH (conditional on earnings beat) + MA**
+- UNH: Enter at open if Q2 beats and price ≤$441 (≤5% gap); 18 shares ~$7,650; 10% trailing stop GTC
+- MA: Enter at open; check bid-ask spread first (skip if >3%); 14 shares ~$7,518; 10% trailing stop GTC
+- Weekly slot usage: 0→2/3 after both trades; 1 slot reserved for Friday (XOM if Iran stabilizes)
+- XOM/CVX: DEFERRED to Friday pending Iran clarity
+- Sources: Tavily (UNH, MA, XOM, market context, sectors, earnings, economic calendar); Alpaca API (account, positions, orders)
+
