@@ -855,3 +855,17 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $364.77 | +2.71% | +$374.88 (+4.90%) | $328.42 (HWM $364.91) |
 
 **Notes:** Day 59 (Thursday). No trades. Mixed session — 3 of 4 positions down: NVDA worst -2.49% to $207.22 (+7.05% unrealized, stop $191.31, HWM $212.57), AMZN -1.97% to $249.94 (intraday HWM updated to $258.08, stop ratcheted to $232.27), JPM -1.08% to $343.15 (+6.35% unrealized, stop $314.62, HWM $349.58). V the standout +2.71% to $364.77; new HWM $364.91, stop $328.42. No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,900.39. 0/3 weekly buy slots used (Jul 14–18). Deployment 32.6% vs 80% target — critical gap. Friday: weekly review + screen MA (Finance), XOM/CVX (Energy), UNH/JNJ (Healthcare) for 1–2 buys.
+
+---
+
+### Jul 17 — EOD Snapshot (Day 60, Friday)
+**Portfolio:** $98,390.61 | **Cash:** $66,627.19 (67.7%) | **Day P&L:** -$467.92 (-0.47%) | **Phase P&L:** -$1,609.39 (-1.61%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $247.01 | -1.15% | +$443.30 (+5.57%) | $232.27 (HWM $258.08) |
+| JPM | 24 | $322.67 | $341.22 | -0.56% | +$445.20 (+5.75%) | $314.62 (HWM $349.58) |
+| NVDA | 36 | $193.58 | $202.43 | -2.40% | +$318.63 (+4.57%) | $191.31 (HWM $212.57) |
+| V | 22 | $347.73 | $358.56 | -1.80% | +$238.26 (+3.11%) | $328.42 (HWM $364.91) |
+
+**Notes:** Day 60 (Friday). No trades today; 0/3 weekly buy slots used (Jul 14–18). Broad pullback — all 4 positions down on the day. NVDA worst -2.40% to $202.43 (+4.57% unrealized, stop $191.31, HWM $212.57). AMZN -1.15% to $247.01 (+5.57% unrealized, HWM $258.08, stop $232.27). V -1.80% to $358.56 (+3.11% unrealized, HWM $364.91, stop $328.42). JPM -0.56% to $341.22 (+5.75% unrealized, stop $314.62, HWM $349.58). No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,445.39. Phase P&L -$1,609.39 (-1.61%). Deployment 32.3% vs 80% target — critical gap persists, no trades placed all week. Monday: weekly slots reset (3/3 available Jul 21–25); pre-market screen MA, XOM/CVX, UNH/JNJ for 2–3 new buys to address deployment gap.
