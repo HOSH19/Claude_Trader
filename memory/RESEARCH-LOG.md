@@ -144,6 +144,36 @@ MA   | Score: 7/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1
 
 ---
 
+## 2026-07-17 — Midday Addendum
+
+**Midday Scan (Day 60, Friday)**
+| Field | Value |
+|-------|-------|
+| Equity | $98,624.60 |
+| Session-start equity | $99,084.75 |
+| Day change | -$460.15 (-0.46%) — **no DD halt** |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop | HWM | Action |
+|--------|---------|-----------|---------|------|-----|--------|
+| AMZN | $249.17 | +6.49% (+$516.57) | -0.29% | $232.27 | $258.08 | ✅ Hold |
+| JPM | $343.40 | +6.43% (+$497.52) | +0.07% | $314.62 | $349.58 | ✅ Hold |
+| NVDA | $205.82 | +6.32% (+$440.67) | -0.76% | $191.31 | $212.57 | ✅ Hold |
+| V | $357.94 | +2.94% (+$224.62) | -1.97% | $328.42 | $364.91 | ✅ Hold |
+
+**Decisions:**
+- DD halt: -0.46% from session-start ($99,084.75) — no halt triggered
+- No cuts: all unrealized P&L positive (no position at ≤-7%)
+- No stop tightening: NVDA +15% trigger at $222.62 (current $205.82); V +15% at $399.89; JPM +15% at $371.07; AMZN +15% at $269.07
+- Thesis intact: NVDA chip weakness (-0.76%) consistent with Asia selloff context from pre-market; stop $191.31 has 7.1% cushion from current $205.82; no thesis break
+- V intraday -1.97% ($365→$358) — normal pullback after +2.71% yesterday; thesis intact; well above stop $328.42
+- No Tavily needed: all moves explained by pre-market research (Asia chip selloff, end-of-week positioning)
+
+**Result: All clear — no cuts, no adjustments**
+
+---
+
 ## 2026-07-13 — Midday Addendum
 
 **Midday Scan (Day 55, Monday)**
