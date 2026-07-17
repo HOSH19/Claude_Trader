@@ -631,3 +631,70 @@ Template for each entry:
 - **Tech reset counter:** Need 2 consecutive non-tech wins (JPM or V must close successfully); currently 0/2 — JPM earnings outcome is the test
 
 ### Overall Grade: C
+
+---
+
+## Week ending 2026-07-17
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,334.06 (Jul 13 open) |
+| Ending portfolio | $98,421.09 |
+| Week return | +$87.03 (+0.09%) |
+| S&P 500 week | -1.54% (SPY $754.95→$743.29) |
+| Bot vs S&P | +1.63% |
+| Phase P&L | -$1,578.91 (-1.58%) |
+| Trades | 0 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | JPM +2.09% (week; Q2 earnings beat Jul 14) |
+| Worst trade | NVDA -0.08% (week; Asia chip selloff pressure) |
+| Profit factor | N/A |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $233.97 (34 sh) | $247.13 | +$447.38 (+5.62%) | $232.27 (HWM $258.08) |
+| JPM | $322.67 (24 sh) | $341.99 | +$463.68 (+5.99%) | $314.62 (HWM $349.58) |
+| NVDA | $193.58 (36 sh) | $202.76 | +$330.51 (+4.74%) | $191.31 (HWM $212.57) |
+| V | $347.73 (22 sh) | $358.38 | +$234.30 (+3.06%) | $328.42 (HWM $364.91) |
+
+### What Worked
+- First positive-alpha week: +0.19% portfolio vs S&P -1.54% = **+1.63% relative outperformance** — best alpha week since inception
+- JPM Q2 earnings beat Jul 14 confirmed Finance sector thesis; +2.33% on earnings day, new HWM $344.70; stop ratcheted to $314.62
+- All 4 positions maintained positive unrealized P&L all week; zero stop-outs; cleanest structural week to date
+- NVDA held through Asia chip selloff (-6% Japan/Taiwan semis Jul 17); position only -0.08% on the week; stop $191.31 intact (6.5% buffer)
+- Portfolio preservation in a tech-driven down market: held 68% cash which neutralized market drawdown
+
+### What Didn't Work
+- 14th consecutive week below 80% deployment: 32.3% deployed ($31,794 / $98,421); $66.6K idle
+- Zero new trades despite: 3 buy slots available, CVX 8/10 + XOM 8/10 + UNH 7/10 all identified with passing tech checks this week
+- Positive alpha almost entirely from market declining, not from active stock selection — passive benefit, not skill
+- XOM (8/10, Iran re-escalation catalyst Jul 17) and UNH (7/10, post-earnings) identified but deferred to next Monday — same pattern as prior weeks
+- Combined portfolio unrealized +$1,475.87 on only $31.8K deployed; scale impact minimal due to 68% cash
+
+### Key Lessons
+- Positive relative alpha in a down market validates quality of existing positions but does not address structural deployment failure
+- JPM Finance thesis fully validated: beat $5.61 EPS est by $0.18, raised guidance — confirms Finance sector momentum; V and JPM both solid holds
+- NVDA approaching +15% trail-tighten trigger ($222.62); currently $202.76; approximately 3 strong sessions away; must monitor daily
+- "Friday risk-off" is a recurring excuse that has cost 6+ weeks of deployment opportunities; if a candidate scores ≥8/10 with confirmed catalyst, the day of the week does not override the entry signal
+- At current 32% deployment, even +1.63% relative alpha translates to only $87 absolute gain — the multiplier problem: correct direction, inadequate scale
+
+### Adjustments for Next Week
+- **Monday open: BUY XOM (8/10)** — 48 shares ~$7,700; Iran re-escalation confirmed, oil above $78, at SMA; stop 10% trail; no more deferrals
+- **Monday open: BUY UNH (7/10)** — 17 shares ~$7,429; post-UNH earnings momentum (Jul 16 beat: EPS $6.38 vs $4.68 est, +53.8% op income YoY); Healthcare diversification; execute if market stable at open
+- **MA (7/10) by Wednesday**: Q2 earnings Jul 30 pre-earnings window; Finance sector now confirmed-momentum; enter if slots allow after XOM+UNH
+- **NVDA**: +15% tighten trigger $222.62; tighten trail to 7% immediately on close above; stop $191.31 is adequate for now; do NOT add to position
+- **Target**: 50%+ deployed by EOW (from 32.3%); adding XOM+UNH+MA gets to ~55%; no more patience paralysis
+
+### Overall Grade: B-
+
+---

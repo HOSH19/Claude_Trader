@@ -35,6 +35,8 @@ Only trade symbols from this list. No exceptions.
 10. Exit a sector after 2 consecutive failed trades
 11. Portfolio DD halt: if equity drops 10% from session-start equity, stop all new buys for the day
 12. Patience > activity
+13. Binary-event gate: do NOT enter a new position on the same calendar day as that position's primary catalyst event (earnings report, delivery data, major product announcement). Enter the FOLLOWING session after confirming the catalyst outcome. [Added 2026-07-17 — TSLA Jul 1 confirmed loss from same-day delivery report entry]
+14. Holiday-week rule: in weeks with ≤3 trading days, max 1 new position total. [Added 2026-07-17 — Jul 4 week TSLA+TSM batch proved simultaneous correlated entries into forced exit window]
 
 ## Candidate Scoring (min 7/10 to advance to trade idea)
 
