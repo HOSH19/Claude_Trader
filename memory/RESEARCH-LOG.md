@@ -2,6 +2,148 @@
 
 ---
 
+## 2026-07-17 — Pre-Market Research (Day 60, Friday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,498.83 |
+| Cash | $66,627.19 |
+| Long Market Value | $31,871.64 |
+| Deployment | 32.4% (target 80%) |
+| DT Count | ~0 |
+| Session-Start Equity | $99,084.75 |
+| DD from session-start | -0.59% (halt threshold: -10%) |
+| Weekly Trades Used | 0/3 (week Jul 14–18) |
+
+**Open Positions:**
+| Ticker | Shares | Avg Entry | Premarket | Unrealized | Stop | HWM |
+|--------|--------|-----------|-----------|-----------|------|-----|
+| AMZN | 34 | $233.97 | $246.50 | +$425.96 (+5.36%) | $232.27 | $258.08 |
+| JPM | 24 | $322.67 | $342.73 | +$481.38 (+6.22%) | $314.62 | $349.58 |
+| NVDA | 36 | $193.58 | $202.20 | +$310.33 (+4.45%) | $191.31 | $212.57 |
+| V | 22 | $347.73 | $363.00 | +$335.94 (+4.39%) | $328.42 | $364.91 |
+
+**Combined unrealized P&L:** +$1,553.61
+
+### Market Context
+- **Oil:** WTI $78.94 (+1.02%) | Brent $84.55 (+1.50%) — Iran military exchanges resuming; Hormuz blockade reinstated per CNBC (sources: oilprice.com, markets.businessinsider.com)
+- **S&P 500 futures:** -0.22% (7,598.25) — modest decline despite Asian rout (source: markets.businessinsider.com/premarket)
+- **VIX:** 15.77 (low fear; no panic signal) (source: finance.yahoo.com/quote/%5EVIX)
+- **Asian markets:** Japan + Taiwan chip stocks -6% — "bloodbath" in semiconductors (source: reuters.com/world/china/global-markets-selloff-quotes-pix-2026-07-17)
+- **BMO earnings today:** None in universe (UNH reported yesterday Jul 16 — beat massively)
+- **Economic data released this week:**
+  - CPI June: -0.4% actual vs -0.2% est (deflationary surprise)
+  - Core CPI June: 0.0% actual vs 0.2% est
+  - PPI June: -0.3% actual vs 0.0% est
+  - Retail Sales June: +0.2% (in line)
+  - → Fed rate cut probability rising; supportive for defensive/value sectors
+  - (source: marketwatch.com/economy-politics/calendar)
+
+### Sector ETF Ranking (week Jul 14–18)
+| Rank | Sector | ETF | Thesis |
+|------|--------|-----|--------|
+| 1 | Finance | XLF | JPM/GS Q2 earnings beats; strongest bank earnings season |
+| 2 | Energy | XLE | Iran military re-escalation; WTI +1% today above $78 threshold |
+| 3 | Healthcare | XLV | UNH massive Q2 beat (+53.8% operating income YoY), guidance raised |
+| — | Tech | XLK | Global chip selloff -6% Asia; weakest this week; locked sector (TSLA/TSM) |
+
+### Candidate Scoring (20-symbol universe)
+*Note: Alpaca bars API returned null (premarket); technicals estimated from Tavily price research.*
+
+**Scored ≥7:**
+```
+XOM  | Score: 8/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 2 | R:R: 1
+UNH  | Score: 7/10 | Catalyst: 2 | Sector: 1 | Setup: 1 | Volume: 2 | R:R: 1
+MA   | Score: 7/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1
+```
+
+**Scored <7 (eliminated):**
+- AAPL/MSFT/GOOGL/AMZN/META/AMD/AVGO: Tech sector risk-off, no catalyst (Tech = 0/1 scores)
+- TSLA/TSM: Sector locked (2 consecutive failures)
+- NVDA: Held; chip selloff pressure; below ≥7 threshold as new entry
+- JPM/V: Already held
+- GS: Post-earnings (reported Jul 14), catalyst passed; no new entry signal
+- CVX: Similar to XOM but more exposed to peace-deal risk; XOM preferred
+- JNJ: No catalyst; Healthcare, but no specific event; Score ~5
+- SPY/QQQ: ETF, monitoring only
+
+### Technical Validation (estimates — bars null premarket)
+
+**XOM — PASS (0/3 failures)**
+- Price: ~$161 (post-Iran peace-talk dip from $169 peak; rebounding with re-escalation)
+- 20d SMA est: ~$159 (range $153–$169 over 20d; weighted avg)
+- SMA dist: +1.3% ✅ (at SMA, not extended)
+- 5d momentum: $161 (Jul 10) → $161 (Jul 17) = ~0% — not negative ✅
+- Volume: Elevated on Iran military exchange news; est >1.5× avg ✅
+- Source: finance.yahoo.com, 247wallst.com, thestreet.com
+
+**UNH — PASS (0/3 failures)**
+- Price: ~$437 (post-earnings; up ~4.47% yesterday Jul 16)
+- 20d SMA est: ~$418 (15+ days in $408–$425 range pre-earnings, 2d post-earnings)
+- SMA dist: +4.5% ✅ (≤5%, within threshold)
+- 5d momentum: $411 (Jul 10) → $437 (Jul 17) = +6.3% ✅
+- Volume: Earnings day + morning after = massive ✅
+- Source: rttnews.com, reuters.com, investopedia.com
+
+**MA — PASS (0/3 failures)**
+- Price: $535–$549 (active trading today per Robinhood Jul 17 data)
+- 20d SMA est: ~$537 (ranged $527–$549 over past 3 weeks)
+- SMA dist: +2.2% ✅ (at SMA)
+- 5d momentum: $535 (Jul 10) → $549 (Jul 17) = +2.6% ✅
+- Volume ratio: ~1.0× avg (no unusual volume) — passes ≥0.8 threshold ✅
+- Note: Q2 earnings July 30; pre-earnings momentum window
+- Source: robinhood.com/us/en/stocks/MA, perplexity.ai/finance/MA
+
+### Trade Ideas
+
+**1. XOM — ExxonMobil (PRIMARY, 8/10)**
+- **Catalyst:** Trump reinstated Hormuz blockade; U.S.-Iran military exchanges ongoing (CNBC); oil +1% at $78.94 — confirmed military conflict = durable oil premium
+- **Entry:** ~$161 at open (check spread; skip if >3% bid-ask or gap >5%)
+- **Stop:** 10% trailing GTC | Initial stop ~$144.90
+- **Target:** +20% = $193.20
+- **R:R:** $32.20 / $16.10 = 2.0:1
+- **Size:** 48 shares × $161 = $7,728 (7.8% equity)
+- **Gate check:** universe ✅ | positions 4→5 ≤10 ✅ | weekly 0→1/3 ✅ | cost ≤8% ✅ | cash $66,627 ✅ | catalyst ✅ | DT 0 ✅ | not options ✅
+- **Abort:** If oil drops >2% at open; peace deal breakthrough overnight; spread >3%
+- Source: cnbc.com/quotes/@CL.1, thestreet.com/investing/stocks/xom-exxon-cvx-chevron-general-license-x
+
+**2. UNH — UnitedHealth Group (SECONDARY, 7/10, POST-EARNINGS MOMENTUM)**
+- **Catalyst:** Q2 2026 beat Jul 16 — EPS $6.38 vs est $4.68; op income +53.8% YoY; raised FY26 guidance to $19.50–$20 adj EPS. Post-earnings momentum day 2. Confirmed catalyst.
+- **Entry:** ~$437 at open (skip if gap >5% above yesterday's close $437.24, i.e., >$459)
+- **Stop:** 10% trailing GTC | Initial stop ~$393
+- **Target:** +20% = $524
+- **R:R:** $87 / $44 = 2.0:1
+- **Size:** 17 shares × $437 = $7,429 (7.5% equity)
+- **Gate check:** universe ✅ | positions 4→5 or 5→6 ≤10 ✅ | weekly 1→2/3 ✅ | cost ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- **Abort:** If UNH reverses and opens below $420; broader market sells off >1% at open
+- Source: reuters.com/legal/litigation/unitedhealth-raises-2026-forecast, rttnews.com/3667721
+
+**3. MA — Mastercard (DEFERRED to next week, 7/10)**
+- **Catalyst:** Q2 earnings Jul 30 (2 weeks); analyst consensus Buy, avg target $653 (Baird $680, Barclays $640, Clear Street $617). Pre-earnings window.
+- **Deferral reason:** Finance sector concentration risk (already hold JPM + V; adding MA = 3 Finance positions). Risk-off Friday environment. Next week allows cleaner entry ahead of earnings week.
+- **Watch:** Pre-market price stability above $535; no bid-ask spread issues
+- Source: investor.mastercard.com, perplexity.ai/finance/MA
+
+### Risk Factors
+1. **Asian chip selloff (HIGH for NVDA):** Japan/Taiwan -6% in semis. NVDA at $202.20, stop $191.31 — only 5.4% cushion. Watch closely at open.
+2. **Friday risk-off (MEDIUM):** End-of-week position-squaring; tech contagion to broader market uncertain.
+3. **XOM Iran thesis whipsaw (MEDIUM):** Iran peace deal could restart at any time; war premium could reprice sharply. XOM dropped 5% on Jul 15 peace-talk news.
+4. **UNH second-day fade (MEDIUM):** Post-earnings momo entry = higher fade risk; catalyst already 90% priced in.
+5. **Finance concentration (LOW for today):** MA deferred; only JPM + V held in Finance.
+6. **CPI deflationary overshoot risk (LOW):** Deflationary CPI (-0.4%) is good for rate-cut hopes but could signal demand weakness.
+7. **Deployment gap (ONGOING):** 32.4% vs 80% target. Even with XOM+UNH adds ~$15k → ~47%. Still well below target; more work needed.
+
+### Decision
+**TRADE: XOM (primary) + UNH (secondary) | MA DEFERRED to next week**
+- XOM: Enter at open; 48 shares ~$7,728; 10% trailing stop GTC. Iran re-escalation = durable catalyst; at SMA; oil above $78 threshold.
+- UNH: Enter at open if stable (no gap >5% or broad selloff >1%); 17 shares ~$7,429; 10% trailing stop GTC. Post-earnings momentum + defensive in rate-cut environment.
+- Weekly slots: 0→2/3 after both. 1 slot available next week.
+- NVDA stop watch: $191.31. Alert if approaching on chip selloff.
+- Sources: Alpaca API (account/positions/orders); Tavily (all research queries above; bars null premarket — note limitation)
+
+---
+
 ## 2026-07-13 — Midday Addendum
 
 **Midday Scan (Day 55, Monday)**
