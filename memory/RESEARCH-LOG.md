@@ -2,6 +2,144 @@
 
 ---
 
+## 2026-07-20 — Pre-Market Research (Day 61, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,500.66 |
+| Cash | $66,627.19 (67.6%) |
+| Long Market Value | $31,873.47 |
+| Deployment | 32.4% vs 80% target |
+| Buying Power | $355,754.48 |
+| DT Count | 0 |
+| Weekly Buy Slots | 3/3 (Jul 20–24 reset) |
+
+**Open Positions:**
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM |
+|--------|--------|-------|---------|------------|------|-----|
+| AMZN | 34 | $233.97 | $246.94 | +$440.92 (+5.54%) | $232.27 | $258.08 |
+| JPM | 24 | $322.67 | $341.81 | +$459.36 (+5.93%) | $314.62 | $349.58 |
+| NVDA | 36 | $193.58 | $205.14 | +$416.19 (+5.97%) | $191.31 | $212.57 |
+| V | 22 | $347.73 | $358.59 | +$238.97 (+3.12%) | $328.42 | $364.91 |
+
+NVDA premarket: $203.58–204.15 (+0.38–0.66%). Stop $191.31 = 5.5% cushion from close.
+
+---
+
+### Market Context
+- **Oil:** WTI $82.02/bbl (MarketWatch Jul 20 4:52am) | Brent ~$72–73/bbl
+  - US launched fresh airstrikes vs Iran on Jul 16, struck sanctioned Iranian tanker in Persian Gulf — geopolitical premium holds
+  - Peace talks ongoing but stalled; oil elevated on supply concern
+- **SPX Futures:** Friday Jul 17 close $7,494.75 (−0.98%) | NASDAQ 100 futures −1.41%
+  - Semiconductor sector dragged markets: SOXX ETF −10%+ week, SMH −9%
+- **VIX:** ~18.5 (MarketWatch); Fed model estimate 15.57 — moderate but elevated vs recent lows
+- **Key events this week:** TSLA Q2 earnings (est. Tue Jul 22) | GOOGL/Alphabet Q2 earnings (Wed Jul 23) | Initial jobless claims (Thu) | New home sales (Fri)
+- **Earnings BMO today (Jul 20):** AGNC, Dynex Capital, Calix, ServisFirst — NONE from our universe
+- **Economic data today:** No major release
+
+---
+
+### Sector ETF Ranking — Week of Jul 14–17
+| Rank | Sector | ETF | Weekly Perf (est) | Driver |
+|------|--------|-----|-------------------|--------|
+| #1 | Energy | XLE | +2–3% | Iran escalation; US airstrike Jul 16; WTI $82 |
+| #2 | Finance | XLF | +1–2% | JPM/GS Q2 beats sustained; MA +1.1% |
+| #3 | Healthcare | XLV | Mixed (UNH volatile, JNJ −2%) | UNH Q2 beat overwhelmed by reversal |
+| Laggard | Technology | XLK | −5 to −10% | SOXX −10%+; chip sector broad selloff |
+
+**Prior week (Jul 5):** XLV #1 (+4.04%) | XLC #2 | XLY #3
+
+---
+
+### Candidate Scoring (20-symbol universe — non-tech, non-held only)
+Tech sector LOCKED (TSLA+TSM consecutive failures). GS discard (5/10 last week, post-earnings day 4).
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| UNH | 9/10 | 2 (Q2 EPS $6.38 vs $4.84 est, +32% beat; FY guidance raised $19.50–20.00; buyback doubled) | 1 (XLV mid-third YTD) | 2 (dist +1.4% from SMA) | 2 (1.61x — elevated post-earnings) | 2 (>2.0) | **PASS** |
+| XOM | 7/10 | 1 (Iran airstrikes Jul 16 confirmed; US struck Iranian tanker; WTI $82; Q2 Aug) | 2 (XLE top-third YTD +21%) | 1 (dist +5.4%, 5–10% above SMA) | 1 (1.09x, 1–1.5×) | 2 (>2.0) | **PASS** |
+| MA | 6/10 | 1 (Barclays OW initiated Jul 8; pre-earnings late July) | 1 (XLF mid-third) | 2 (dist +4.8%, at or below 5%) | 0 (0.82x < 1×) | 2 (>2.0) | DISCARD |
+| CVX | 6/10 | 1 (Iran/oil, same as XOM) | 2 (XLE top-third) | 1 (dist +7.3%, 5–10% above) | 0 (0.73x below avg — TECH FAIL) | 2 (>2.0) | DISCARD |
+| JNJ | 6/10 | 0 (Jul 15 Q2 earnings reaction −2.7%; no confirmed beat) | 1 (XLV mid-third) | 2 (dist +0.5%) | 1 (1.09x) | 2 (>2.0) | DISCARD |
+
+---
+
+### Technical Validation (bars through Jul 17, 53 sessions)
+
+**UNH — PASS (0/3 failures)**
+- Last close (Jul 17): $426.09 | 20d SMA: $420.19 | Dist: +1.4% ✅ (at or below)
+- 5d momentum: +0.3% ✅ (slightly positive; recovered from earnings reversal)
+- Volume ratio: 1.61× ✅ (elevated post-earnings week)
+- Q2 context: Gap-up to $449 open (Jul 16) → high $461.62 → close $423.38 (sell-the-news reversal)
+  Jul 17 recovery to $426.09 = stabilizing above SMA support
+- Source: 247wallst.com/companies/unh/earnings/2026/Q2, tradingview.com news, qz.com
+
+**XOM — PASS (0/3 failures)**
+- Last close (Jul 17): $147.36 | 20d SMA: $139.81 | Dist: +5.4% ✅ (5–10%, borderline)
+- 5d momentum: +6.1% ✅ (strong Iran-driven move from $138.88 → $147.36)
+- Volume ratio: 1.09× ✅ (above 0.8 threshold; elevated on geopolitical news)
+- Iran context: US airstrike on Iranian tanker Jul 16; Strait of Hormuz risk premium holding
+- Source: barchart.com, marketwatch.com/investing/stock/xom, benzinga.com, investing.com
+
+---
+
+### Trade Ideas
+
+**1. UNH — UnitedHealth Group (PRIMARY, 9/10)**
+- **Catalyst:** Q2 2026 earnings beat (BMO Jul 16): Adj EPS $6.38 vs est $4.84 (+31.8%); Revenue $112.0B; FY guidance raised to $19.50–$20.00 (from >$18.25); OCF guidance raised to ~$24B; share buyback doubled to $5B+. Analyst targets: BofA $475, Mizuho $460, Truist $430, TD Cowen $430, KeyBanc raised target.
+- **Entry:** $426–435 at open; ABORT if premarket shows price >$446 (>5% above $426.09)
+- **Stop:** 10% trailing GTC | Initial stop ~$383–392
+- **Target:** +20% = ~$511–522
+- **R:R:** ~2.0:1
+- **Size:** 18 shares × $426 ≈ $7,668 (7.8% equity)
+- **Technicals:** SMA dist +1.4% ✅ | momentum +0.3% ✅ | volume 1.61× ✅
+- **Gate:** universe ✅ | pos 4→5 ≤10 ✅ | weekly 0→1/3 ✅ | cost 7.8% ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅
+- **ABORT:** Gap >5% above $426.09 (>$447); any news of additional DOJ action; Q2 guidance explicitly cut on call
+- Source: 247wallst.com/companies/unh/earnings/2026/Q2, qz.com/unitedhealth-group-q2-2026-earnings-profit-forecast-071626
+
+**2. XOM — ExxonMobil (SECONDARY, 7/10)**
+- **Catalyst:** Iran escalation confirmed — US struck Iranian tanker in Persian Gulf Jul 16; WTI $82.02/bbl; Strait of Hormuz supply disruption risk; XOM YTD +30%; Q2 results early August.
+- **Entry:** ~$147–152 at open; ABORT if WTI crude drops below $78 premarket or Iran peace deal breaks out overnight
+- **Stop:** 10% trailing GTC | Initial stop ~$132–137
+- **Target:** +20% = ~$176–180
+- **R:R:** ~2.0:1
+- **Size:** 50 shares × $149 ≈ $7,450 (7.6% equity)
+- **Technicals:** SMA dist +5.4% ✅ | momentum +6.1% ✅ | volume 1.09× ✅
+- **Gate:** universe ✅ | pos 5→6 (after UNH) ≤10 ✅ | weekly 1→2/3 ✅ | cost 7.6% ≤8% ✅ | cash after UNH: ~$59k ✅ | catalyst ✅ | DT 0 ✅
+- **ABORT:** WTI below $78 at open; Iran-US ceasefire/peace framework; XOM below $140 (stop)
+- Source: marketwatch.com/investing/future/clm26, benzinga.com, ibtimes.com, barchart.com/stocks/quotes/CLN26
+
+**3rd slot:** RESERVED — MA deferred (6/10 score); CVX deferred (weak volume); no other non-tech candidates. Use slot later in week if setup improves.
+
+---
+
+### Post-Entry Deployment Target
+After UNH + XOM entries (if both execute):
+- Deployed: $31,873 + $7,668 + $7,450 = $46,991 (47.7%) — still below 80% target
+- Cash remaining: ~$51,500 (52.3%)
+- Gap: ~3 additional trades needed over coming weeks to reach 80%
+
+---
+
+### Risk Factors
+1. **Iran peace deal (HIGH for XOM/CVX):** Any ceasefire framework overnight drops WTI 5–10%; XOM/CVX would follow → use abort condition $78 WTI
+2. **Semiconductor contagion (MEDIUM for NVDA):** SOXX −10%+ last week; NVDA stop at $191.31 = 5.5% cushion from $202.43 close; TSLA/GOOGL earnings this week could move tech/chip sentiment
+3. **UNH post-earnings reversal pattern (MEDIUM):** $461 intraday → $423 close = "sell the news" but Q2 is confirmed beat; DOJ investigation overhang
+4. **TSLA/GOOGL earnings this week (MEDIUM):** Market volatility catalyst; broad tech pullback possible; no direct exposure but NVDA correlation risk
+5. **Deployment gap (ONGOING):** Even after 2 trades, 47.7% vs 80% target; patience > forcing bad trades
+
+---
+
+### Decision
+**TRADE: UNH + XOM (2 entries, 2/3 weekly slots)**
+- UNH: 18 shares ~$7,668; enter at open; 10% trailing stop GTC; abort if gap >5%
+- XOM: 50 shares ~$7,450; enter at open conditional on WTI ≥$78; 10% trailing stop GTC
+- 1 weekly slot reserved for later in week
+- Sources: Alpaca API (account/positions/orders/bars); Tavily (UNH earnings, XOM/Iran, VIX, SPX futures, sector ETFs, economic calendar, market context)
+
+---
+
 ## 2026-07-17 — Pre-Market Research (Day 60, Friday)
 
 ### Account Snapshot
