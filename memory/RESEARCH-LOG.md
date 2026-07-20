@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-07-20 — Pre-Market Research (Day 61, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,700.33 |
+| Cash | $66,627.19 |
+| Long MV | $32,028.68 (32.5% deployed) |
+| Last Equity | $98,408.89 |
+| Day P&L pre-mkt | +$291.44 (+0.30%) — no DD halt |
+| DT Count | 0 |
+| Weekly buy slots | 3/3 FRESH (new week Jul 20–24) |
+| Open positions | 4 (AMZN, JPM, NVDA, V) |
+
+**Open Position Status (live API):**
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Status |
+|--------|--------|-------|---------|-----------|------|-----|--------|
+| AMZN | 34 | $233.97 | $248.84 | +$505.52 (+6.36%) | $232.27 | $258.08 | ✅ Safe |
+| JPM | 24 | $322.67 | $342.94 | +$486.48 (+6.28%) | $314.62 | $349.58 | ✅ Safe |
+| NVDA | 36 | $193.58 | $206.74 | +$473.79 (+6.80%) | $191.31 | $212.57 | ✅ Safe |
+| V | 22 | $347.73 | $358.74 | +$242.22 (+3.17%) | $328.42 | $364.91 | ✅ Safe |
+
+**GTC stops confirmed:** All 5 existing stops active (V 22sh, NVDA 36sh split 33+3, AMZN 34sh, JPM 24sh) ✅
+
+### Market Context
+- **SPX Futures:** +0.53% (7,534.25) | NASDAQ +1.03% (29,063.50) | DOW +0.34% — risk-on open
+- **WTI/Brent:** Near $80/$85 — sustained from weekend US-Iran military fighting over Strait of Hormuz
+- **Iran Catalyst (CONFIRMED FRESH):** Weekend (Jul 18-19) — heavy US-Iran fighting over Strait of Hormuz control; military sources confirm exchanges over tanker transit rights; Hormuz effectively restricted → oil supply premium elevated
+- **EuroStoxx 50:** +0.49% — European markets positive
+- **Gold Futures:** +0.41% ($4,026) — modest safe-haven bid
+- Sources: markets.businessinsider.com (premarket), Tavily (benzinga.com, economictimes.com)
+
+### Sector ETF Ranking
+| Rank | Sector | ETF | Status |
+|------|--------|-----|--------|
+| 1 | Finance | XLF | Top — JPM/GS/BAC/WFC/C Q2 beats last week; XLF YTD top-third |
+| 2 | Energy | XLE | Mid — Iran/Hormuz oil premium; WTI ~$80 |
+| 3 | Tech | XLK | Top YTD but **LOCKED** (TSLA+TSM 2 consec failures) |
+| — | Healthcare | XLV | Bottom-third YTD |
+
+### Candidate Scoring
+```
+XOM | Score: 8/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 2 | R:R: 1
+MA  | Score: 7/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1
+```
+**Eliminated:**
+- UNH: 6/10 (Healthcare sector 0/2 = bottom-third; 4 days post-earnings, momentum faded)
+- CVX: 7/10 but same Iran catalyst as XOM = correlated concentration risk; only 1 energy buy
+- TSLA/TSM: Sector locked
+- All other Tech: Sector locked
+
+### Technical Validation
+**XOM ($146.74 bid premarket):**
+- Bars close: $147.17 | SMA20 est: ~$142 (range $136–$147 past 20d) | Dist: +3.6% ✅ at SMA
+- 5d momentum: $141 (Jul 9) → $147 = +4.3% ✅ positive
+- Volume: Energy stocks elevated on Iran news; est >1.5× avg ✅
+- `XOM | Score: 8/10 | Catalyst: 2 | Sector: 1 | Setup: 2 | Volume: 2 | R:R: 1`
+
+**MA ($538.89 fill):**
+- Bars close: $540.06 | 52-wk avg: $538.86 (MacroTrends) | Dist: ~0% ✅ at SMA
+- 5d momentum: $535 (Jul 13) → $540 = +0.9% ✅ positive
+- Volume: 72K pre-market bar; ~1.0× avg ✅
+- Earnings Jul 30 — pre-earnings window; Finance sector top-third YTD (after bank earnings beats)
+- `MA | Score: 7/10 | Catalyst: 1 | Sector: 2 | Setup: 2 | Volume: 1 | R:R: 1`
+
+### Trade Ideas → EXECUTED
+1. **XOM** (8/10): BUY 52 shares @ $147.17 — Iran/Hormuz fresh catalyst; at SMA; Energy
+2. **MA** (7/10): BUY 14 shares @ $538.89 — Pre-earnings Jul 30; at SMA; Finance top-third
+
+### Gates (both passed)
+- Universe ✅ | Positions 4→5→6 ≤ 10 ✅ | Weekly 0→2/3 ✅
+- XOM cost $7,652.84 (7.75% equity) ✅ | MA cost $7,544.46 (7.64% equity) ✅
+- Cash $66,627 → $51,430 after both ✅ | DD: +0.30% (no halt) ✅
+- Catalyst documented ✅ | Not options ✅
+
+---
+
 ## 2026-07-17 — Pre-Market Research (Day 60, Friday)
 
 ### Account Snapshot

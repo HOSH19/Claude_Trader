@@ -869,3 +869,31 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $358.56 | -1.80% | +$238.26 (+3.11%) | $328.42 (HWM $364.91) |
 
 **Notes:** Day 60 (Friday). No trades today; 0/3 weekly buy slots used (Jul 14–18). Broad pullback — all 4 positions down on the day. NVDA worst -2.40% to $202.43 (+4.57% unrealized, stop $191.31, HWM $212.57). AMZN -1.15% to $247.01 (+5.57% unrealized, HWM $258.08, stop $232.27). V -1.80% to $358.56 (+3.11% unrealized, HWM $364.91, stop $328.42). JPM -0.56% to $341.22 (+5.75% unrealized, stop $314.62, HWM $349.58). No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,445.39. Phase P&L -$1,609.39 (-1.61%). Deployment 32.3% vs 80% target — critical gap persists, no trades placed all week. Monday: weekly slots reset (3/3 available Jul 21–25); pre-market screen MA, XOM/CVX, UNH/JNJ for 2–3 new buys to address deployment gap.
+
+---
+
+### 2026-07-20 — BUY XOM (ExxonMobil)
+- Shares: 52
+- Entry: $147.17
+- Stop: 10% trailing | HWM $147.23 | Current stop $132.51 (order 698053d9)
+- Target: $176.60 (+20%)
+- Thesis: Weekend US-Iran fighting over Strait of Hormuz control → fresh oil supply disruption catalyst; WTI ~$80, Brent ~$85; XOM at SMA20 (~$142), not extended
+- Catalyst: Weekend (Jul 18-19) US-Iran military conflict over Strait of Hormuz; sustained oil premium; Energy sector momentum
+- Sector: Energy (XLE — mid-third YTD)
+- R:R: 2.0:1 | Score: 8/10
+- Gates: universe ✅ | positions 4→5 ≤10 ✅ | weekly 0→1/3 ✅ | cost $7,652.84 ≤ $7,896 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt (+0.30%) ✅
+- Order ID: 778e8d1c (buy) | 698053d9 (trailing stop GTC)
+
+---
+
+### 2026-07-20 — BUY MA (Mastercard)
+- Shares: 14
+- Entry: $538.89
+- Stop: 10% trailing | HWM $540.63 | Current stop $486.57 (order 5cabffe4)
+- Target: $646.67 (+20%)
+- Thesis: Q2 earnings Jul 30 (pre-earnings momentum window, 10 days out); at 52-week avg SMA (~$539); Finance sector top-third YTD after JPM/GS/BAC/WFC/C Q2 beats; analyst Buy consensus, avg target $655 (+21%)
+- Catalyst: Q2 FY2026 earnings Jul 30 ($4.75 EPS est, +14.5% YoY); Finance sector strong earnings season
+- Sector: Finance (XLF — top-third YTD after bank earnings week)
+- R:R: 2.0:1 | Score: 7/10
+- Gates: universe ✅ | positions 5→6 ≤10 ✅ | weekly 1→2/3 ✅ | cost $7,544.46 ≤ $7,896 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 6e104aca (buy) | 5cabffe4 (trailing stop GTC)
