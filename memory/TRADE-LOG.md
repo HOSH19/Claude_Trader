@@ -897,3 +897,19 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $358.56 | -1.80% | +$238.26 (+3.11%) | $328.42 (HWM $364.91) |
 
 **Notes:** Day 60 (Friday). No trades today; 0/3 weekly buy slots used (Jul 14–18). Broad pullback — all 4 positions down on the day. NVDA worst -2.40% to $202.43 (+4.57% unrealized, stop $191.31, HWM $212.57). AMZN -1.15% to $247.01 (+5.57% unrealized, HWM $258.08, stop $232.27). V -1.80% to $358.56 (+3.11% unrealized, HWM $364.91, stop $328.42). JPM -0.56% to $341.22 (+5.75% unrealized, stop $314.62, HWM $349.58). No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,445.39. Phase P&L -$1,609.39 (-1.61%). Deployment 32.3% vs 80% target — critical gap persists, no trades placed all week. Monday: weekly slots reset (3/3 available Jul 21–25); pre-market screen MA, XOM/CVX, UNH/JNJ for 2–3 new buys to address deployment gap.
+
+---
+
+### Jul 20 — EOD Snapshot (Day 61, Monday)
+**Portfolio:** $98,698.14 | **Cash:** $51,429.89 (52.1%) | **Day P&L:** +$289.25 (+0.29%) | **Phase P&L:** -$1,301.86 (-1.30%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $250.36 | +1.26% | +$557.07 (+7.00%) | $232.27 (HWM $258.08) |
+| JPM | 24 | $322.67 | $338.73 | -0.69% | +$385.44 (+4.98%) | $314.62 (HWM $349.58) |
+| MA | 14 | $538.89 | $547.44 | +0.71% | +$119.70 (+1.59%) | $493.12 (HWM $547.91) |
+| NVDA | 36 | $193.58 | $203.20 | +0.19% | +$346.35 (+4.97%) | $191.31 (HWM $212.57) |
+| V | 22 | $347.73 | $360.57 | +0.56% | +$282.48 (+3.69%) | $328.42 (HWM $364.91) |
+| XOM | 52 | $147.17 | $148.36 | +0.68% | +$61.88 (+0.81%) | $134.18 (HWM $149.09) |
+
+**Notes:** Day 61 (Monday, Week 12). Two new positions opened at market open: MA (14 shares @ $538.89, stop $493.12, HWM $547.91) and XOM (52 shares @ $147.17, stop $134.18, HWM $149.09). Weekly slots: 2/3 used. Deployment improved from 32.3% → 47.9% vs 80% target — still below but closing gap. All 6 positions unrealized-positive. AMZN best day +1.26% to $250.36 (+7.00% unrealized). JPM slight drag -0.69% to $338.73 (+4.98% unrealized). MA first day +0.71% to $547.44 (+1.59% unrealized). NVDA +0.19% to $203.20 (+4.97% unrealized, stop $191.31, +15% trigger $222.62 still not reached). V +0.56% to $360.57 (+3.69% unrealized). XOM +0.68% to $148.36 (+0.81% unrealized; Iran/Hormuz oil premium holding). Combined unrealized P&L: +$1,752.92. Phase P&L -$1,301.86 (-1.30%). No stops triggered. No trail tightening needed. 1 buy slot remaining — screen GS, UNH, or JNJ tomorrow for 3rd entry.
