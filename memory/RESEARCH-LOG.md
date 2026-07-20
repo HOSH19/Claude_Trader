@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-07-20 — Midday Addendum (Day 61, Monday)
+
+**Midday Scan**
+| Field | Value |
+|-------|-------|
+| Equity | $98,787.11 |
+| Session-start equity | $98,408.89 (Jul 17 close) |
+| Day change | +$378.22 (+0.38%) — **no DD halt** |
+| Open positions | 6 (AMZN, JPM, MA, NVDA, V, XOM) |
+| Weekly buy slots | 2/3 used (MA + XOM at open today) |
+
+**Position Review (midday):**
+| Ticker | Entry | Current | Unrealized | Intraday | Stop | HWM | Action |
+|--------|-------|---------|-----------|---------|------|-----|--------|
+| AMZN | $233.97 | $251.44 | +7.47% (+$593.92) | +1.70% | $232.27 | $258.08 | ✅ Hold |
+| JPM | $322.67 | $339.98 | +5.37% (+$415.44) | -0.33% | $314.62 | $349.58 | ✅ Hold |
+| MA | $538.89 | $545.71 | +1.27% (+$95.48) | +0.39% | $493.12 | $547.91 | ✅ Hold (new today) |
+| NVDA | $193.58 | $203.73 | +5.24% (+$365.25) | +0.45% | $191.31 | $212.57 | ✅ Hold |
+| V | $347.73 | $360.98 | +3.81% (+$291.50) | +0.67% | $328.42 | $364.91 | ✅ Hold |
+| XOM | $147.17 | $148.86 | +1.15% (+$87.88) | +1.02% | $134.07 | $148.97 | ✅ Hold (new today) |
+
+**Combined unrealized P&L:** +$1,849.47
+
+**Decisions:**
+- DD halt: +$378.22 from session-start — no halt ✅
+- No cuts: all 6 positions positive unrealized (lowest XOM +1.15%, well above -7% threshold at $136.87)
+- No tighten: no position at +15% (AMZN needs $268.85, NVDA needs $222.62 — none reached)
+- XOM thesis check (Tavily): Iran tensions escalating confirmed — "escalating U.S.-Iran tensions" with WTI rising toward $75, Brent toward $80 per Perplexity Jul 20; thesis intact ✅
+- All other theses intact: AMZN (AWS/Prime Day), JPM (Q2 beat Jul 14), MA (pre-Q2 earnings Jul 30), NVDA (AI chip demand), V (pre-Q4 FY2026 earnings)
+- 1 slot remaining this week
+
+**Result: All clear — no cuts, no adjustments. 6 positions, all within rules.**
+
+---
+
 ## 2026-07-17 — Pre-Market Research (Day 60, Friday)
 
 ### Account Snapshot

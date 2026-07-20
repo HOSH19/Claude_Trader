@@ -858,6 +858,34 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 
 ---
 
+### 2026-07-20 — BUY MA (Mastercard)
+- Shares: 14
+- Entry: $538.89 (avg fill at market open)
+- Stop: 10% trailing | HWM $547.91 | Current stop $493.12 (order 5cabffe4)
+- Target: $646.67 (+20%)
+- Thesis: Pre-Q2 earnings momentum (earnings Jul 30); Finance sector strength post-JPM beat Jul 14; analyst consensus Buy, avg PT $653 (Baird $680, Barclays $640); MA deferred from Jul 17 due to concentration risk — now entering clean with Finance sector proven
+- Catalyst: Q2 calendar earnings Jul 30 — pre-earnings entry window; JPM sector tailwind confirmed
+- Sector: Finance (XLF — eligible, 0 consecutive failures)
+- R:R: 2.0:1 | Score: 7/10
+- Gates: universe ✅ | positions 4→5 ≤10 ✅ | weekly 0→1/3 ✅ | cost $7,544 ≤ $7,871 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 5cabffe4 (trailing stop GTC)
+
+---
+
+### 2026-07-20 — BUY XOM (ExxonMobil)
+- Shares: 52
+- Entry: $147.17 (avg fill at market open)
+- Stop: 10% trailing | HWM $148.97 | Current stop $134.07 (order 698053d9)
+- Target: $176.60 (+20%)
+- Thesis: Iran military re-escalation sustained; Hormuz blockade reinstated; WTI rising toward $75, Brent toward $80; XOM roared back on Iran headline; oil premium durable while conflict ongoing
+- Catalyst: U.S.-Iran military exchanges ongoing; Strait of Hormuz tanker attacks; XOM at/below 20d SMA = ideal entry
+- Sector: Energy (XLE — eligible, 0 consecutive failures)
+- R:R: 2.0:1 | Score: 8/10
+- Gates: universe ✅ | positions 5→6 ≤10 ✅ | weekly 1→2/3 ✅ | cost $7,653 ≤ $7,871 (8% eq) ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- Order ID: 698053d9 (trailing stop GTC)
+
+---
+
 ### Jul 17 — EOD Snapshot (Day 60, Friday)
 **Portfolio:** $98,390.61 | **Cash:** $66,627.19 (67.7%) | **Day P&L:** -$467.92 (-0.47%) | **Phase P&L:** -$1,609.39 (-1.61%)**
 
