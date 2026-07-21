@@ -897,3 +897,19 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | V | 22 | $347.73 | $358.56 | -1.80% | +$238.26 (+3.11%) | $328.42 (HWM $364.91) |
 
 **Notes:** Day 60 (Friday). No trades today; 0/3 weekly buy slots used (Jul 14–18). Broad pullback — all 4 positions down on the day. NVDA worst -2.40% to $202.43 (+4.57% unrealized, stop $191.31, HWM $212.57). AMZN -1.15% to $247.01 (+5.57% unrealized, HWM $258.08, stop $232.27). V -1.80% to $358.56 (+3.11% unrealized, HWM $364.91, stop $328.42). JPM -0.56% to $341.22 (+5.75% unrealized, stop $314.62, HWM $349.58). No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized P&L: +$1,445.39. Phase P&L -$1,609.39 (-1.61%). Deployment 32.3% vs 80% target — critical gap persists, no trades placed all week. Monday: weekly slots reset (3/3 available Jul 21–25); pre-market screen MA, XOM/CVX, UNH/JNJ for 2–3 new buys to address deployment gap.
+
+---
+
+### Jul 21 — EOD Snapshot (Day 62, Tuesday)
+**Portfolio:** $98,820.12 | **Cash:** $51,429.88 (52.0%) | **Day P&L:** +$128.20 (+0.13%) | **Phase P&L:** -$1,179.88 (-1.18%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 34 | $233.97 | $247.52 | -0.99% | +$460.64 (+5.79%) | $232.27 (HWM $258.08) |
+| JPM | 24 | $322.67 | $345.00 | +1.81% | +$535.92 (+6.92%) | $314.62 (HWM $349.58) |
+| MA | 14 | $538.89 | $538.30 | -1.67% | -$8.26 (-0.11%) | $493.12 (HWM $547.91) |
+| NVDA | 36 | $193.58 | $206.72 | +1.69% | +$473.07 (+6.79%) | $191.31 (HWM $212.57) |
+| V | 22 | $347.73 | $355.82 | -1.32% | +$177.98 (+2.33%) | $328.42 (HWM $364.91) |
+| XOM | 52 | $147.17 | $151.70 | +2.25% | +$235.56 (+3.08%) | $136.58 (HWM $151.76) |
+
+**Notes:** Day 62 (Tuesday). No trades today; 2/3 weekly buy slots used (MA + XOM entered yesterday Jul 20). First EOD with 6 positions — deployment jumped from 32% to 48% after Monday's buys. Mixed session: JPM +1.81% to $345.00 (unrealized +6.92%, HWM $349.58, stop $314.62), XOM +2.25% to $151.70 (unrealized +3.08%, near HWM $151.76, stop $136.58), NVDA +1.69% to $206.72 (unrealized +6.79%, stop $191.31, HWM $212.57). AMZN -0.99% to $247.52 (+5.79% unrealized, stop $232.27, HWM $258.08), V -1.32% to $355.82 (+2.33% unrealized, stop $328.42, HWM $364.91), MA -1.67% to $538.30 (flat, -0.11% unrealized — healthy pullback from HWM $547.91, stop $493.12). No stops triggered. No tightening triggers reached (NVDA needs $222.62 for +15% → 7% trail). Combined unrealized +$1,874.91. Deployment 48.0% vs 80% target — 1 buy slot remaining this week; screen UNH, JNJ, or CVX Wednesday.
