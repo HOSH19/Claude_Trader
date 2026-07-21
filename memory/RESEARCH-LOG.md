@@ -2,6 +2,122 @@
 
 ---
 
+## 2026-07-21 — Pre-Market Research (Day 62, Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,719.92 |
+| Cash | $51,429.88 (52.1%) |
+| Long Market Value | $47,290.04 (47.9% deployment) |
+| Buying Power | $338,131.64 |
+| DT Count | 0 |
+| Weekly Buy Slots | 2/3 used (MA Jul 20, XOM Jul 20) — **1 slot remaining** |
+| Open Positions | 6 (AMZN, JPM, MA, NVDA, V, XOM) |
+
+### Positions Live (premarket)
+| Ticker | Entry | Current | Unrealized | Stop | HWM |
+|--------|-------|---------|-----------|------|-----|
+| AMZN | $233.97 | $250.07 | +$547.51 (+6.88%) | $232.27 | $258.08 |
+| JPM | $322.67 | $339.25 | +$397.84 (+5.14%) | $314.62 | $349.58 |
+| MA | $538.89 | $547.30 | +$117.74 (+1.56%) | $493.12 | $547.91 |
+| NVDA | $193.58 | $205.58 | +$432.11 (+6.20%) | $191.31 | $212.57 |
+| V | $347.73 | $360.01 | +$270.16 (+3.53%) | $328.42 | $364.91 |
+| XOM | $147.17 | $147.35 | +$9.36 (+0.12%) | $134.18 | $149.09 |
+
+**Combined unrealized P&L:** +$1,774.72
+
+### Market Context
+- **WTI:** $82.06/bbl (-0.51%) | **Brent:** $82.42/bbl (MarketWatch Jul 21 4:45am) — Source: marketwatch.com/investing/future/cl.1
+- **SPX Futures:** $7,527.00 (+42.75, +0.57%) as of 4:20am ET — Source: marketwatch.com/investing/future/es00
+- **VIX:** ~17.4 (WSJ VIX Jul 2026: 17.40) — moderate, not fearful — Source: wsj.com/market-data/quotes/futures/VXU26
+- **Iran:** Reports of 10-day ceasefire proposal pausing oil's rally; "Oil prices reverse lower amid report of 10-day cease-fire in Iran" (MarketWatch Jul 20 5:11pm) — **HIGH RISK for XOM thesis** — Source: marketwatch.com/investing/fund/xlk
+- **NVDA $4T milestone:** Nvidia surged 2.5%, becoming first company to surpass $4T market cap — **BULLISH for NVDA & AI chip sector** — Source: xtb.com/int/market-analysis/news-and-research/breaking-nvidia-surges-2-5-surpassing-4-trillion-market-cap
+
+### Earnings & Economic Calendar (Jul 21)
+- **Earnings today BMO:** NVS, SCHW, DHR, MMM, GM — none from our universe — Source: finance.yahoo.com/calendar/earnings
+- **Earnings tomorrow Jul 22:** GOOGL (Alphabet) — major catalyst; hyperscaler capex guidance matters for NVDA/AVGO — Source: youtube.com/watch?v=663gQrgPWZs
+- **Earnings Jul 29:** MSFT, META — pre-earnings window opens now
+- **Economic data:** NO major releases today. CPI/PPI released last week (Jun: CPI -0.2% beat, Core CPI 0.0%, PPI -0.3%) — Source: marketwatch.com/economy-politics/calendar; kiplinger.com/investing/economy/this-weeks-economic-calendar
+- **Fed:** No scheduled Fed speakers today; Waller spoke earlier this week
+
+### Sector ETF Ranking (week of Jul 5 — most recent data)
+1. **XLV** +4.04% (Healthcare)
+2. **XLC** +3.00% (Comm Services)
+3. **XLF** +1.97% (Finance) ← confirmed by JPM/GS beats
+4. **XLK** +1.40% (Tech) — YTD #1 at +33%
+5. **XLI** +1.75% (Industrials)
+- **XLE** -1.42% (Energy) — worst performer that week
+- Source: x.com/GreenOverGreed1 Jul 5 2026; etfdb.com
+
+**YTD 2026 sector leaders:** XLK +33%, XLI +21%, XLF strong (JPM/GS beats confirmed)
+**Active thesis check:** Energy (XLF) 0 consecutive failures ✅; Finance 0 ✅; Energy (XLE) 0 ✅ (XOM first trade)
+
+### Candidate Scoring Table
+Universe: AAPL, MSFT, GOOGL, META, TSLA, AMD, AVGO, TSM, GS, UNH, JNJ, SPY, QQQ, CVX (held: AMZN, JPM, MA, NVDA, V, XOM)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Result | Reason |
+|--------|-------|---------|--------|-------|--------|-----|--------|--------|
+| GOOGL | 8/10 | 2 | 2 | 2 | 0 | 2 | DISCARD (tech fail) | 2 tech failures: mom5d -2.0% ❌, volratio 0.53 ❌; also entering day before earnings = gap risk |
+| AVGO | 7/10 | 1 | 2 | 2 | 0 | 2 | DISCARD (tech fail) | 2 tech failures: mom5d neg post-Kimi-K3 selloff ❌, volratio 0.66 ❌ |
+| META | 7/10 | 2 | 2 | 0 | 1 | 2 | BORDERLINE | Extended >10% above SMA (setup 0); only 1 tech failure (SMA extension) |
+| AAPL | 6/10 | 1 | 2 | 1 | 0 | 2 | FAIL | Score <7; volume weak 0.56x |
+| MSFT | ~7-8 | 2 | 2 | ~1 | 1 | 2 | PENDING | Earnings Jul 29; $400 current; SMA unconfirmed from API stale data; JPMorgan PT $475 |
+| CVX | ~5 | 1 | 0 | ? | ? | ? | SKIP | Same Iran thesis risk as XOM; energy sector bottom-third this week |
+| UNH | ~5 | 1 | 1 | ? | ? | ? | SKIP | Regulatory overhang (DOJ); healthcare mid-third |
+| GS | ~6 | 1 | 2 | ? | ? | ? | SKIP | Post-earnings Jul 14, already priced in; Finance concentration risk (JPM+V+MA+GS=4) |
+| TSM | ~5 | 1 | 1 | ? | ? | ? | SKIP | Not US-listed primary; limited recent catalyst; Kimi K3 uncertainty |
+| SPY/QQQ | — | — | — | — | — | — | SKIP | ETFs for deployment only; no 2:1 R:R potential per individual setup |
+
+### Technical Validation (bars to Jul 14 — last available API data)
+
+**GOOGL** — DISCARD (2 tech failures)
+- Last close: $359.51 (Jul 14) | SMA20: $357.61 | Dist: +0.5% ✅
+- 5d momentum: -2.0% ❌ (downtrend)
+- Volume ratio: 0.53 ❌ (low conviction)
+- Note: earnings tomorrow Jul 22 = gap risk for pre-earnings entry today; rule 13 spirit applies
+
+**AVGO** — DISCARD (2 tech failures)
+- Last close: $389.11 (Jul 14), close Jul 17 $370.82 (Macrotrends), premarket Jul 21 ~$372-386
+- SMA20: $383.04 (Jul 14) | Dist: +1.6% ✅ (currently may be at or below SMA)
+- 5d momentum: -4.7% from Jul 14 to Jul 17 (Kimi K3 chip selloff) ❌ (negative)
+- Volume ratio: 0.66-0.71 ❌ (below 0.8)
+
+**META** — BORDERLINE (1 tech failure, score barely 7)
+- Last close: $661.04 (Jul 14) | SMA20: $593.72 | Dist: +11.3% ❌ (>10% extended, setup score 0)
+- 5d momentum: +7.4% ✅
+- Volume ratio: 0.82 ✅
+- Earnings Jul 29 — 8-day window; extended setup is risky entry point
+
+### Trade Ideas
+*None meeting full criteria (score ≥7 AND passing technical check AND 1 remaining slot justification)*
+
+**GOOGL (post-earnings, PENDING):**
+- Catalyst: Q2 earnings Jul 22 BMO — enter Jul 23 if beats (rule 13: enter following session after confirming outcome)
+- Entry tomorrow contingent: $360-375 range; abort if gap >5% above pre-earnings close
+- Stop: 10% trailing GTC | Target: +20% | R:R: 2.0:1
+- 1 slot remaining — reserve for this opportunity
+- Score potential: 2(catalyst)+2(sector)+2(setup, at SMA)+?(volume)+2(R:R) = up to 8-9/10 post-earnings
+
+### Risk Factors
+1. **XOM Iran ceasefire (HIGH):** "Oil prices reverse lower amid report of 10-day cease-fire" — if confirmed, XOM entry $147.17 at risk; oil could retrace to $72-75 range; exit if WTI breaks below $78 (thesis = Hormuz blockade/oil premium)
+2. **GOOGL earnings (MEDIUM):** Report tomorrow Jul 22; if miss → GOOGL shorts cap tech; if beats (expected) → AI capex confirmation bullish for NVDA/AVGO/AMZN
+3. **Chip sector volatility (MEDIUM):** Kimi K3 sent chips down Jul 18; NVDA recovered to $4T milestone; another China AI model release could repeat
+4. **Deployment gap (ONGOING):** 47.9% vs 80% target — need ~$31k more deployed; 1 slot left this week; 3 slots reset Monday Jul 27
+5. **Finance concentration (MEDIUM):** JPM + V + MA = 3 Finance positions; adding GS would be 4th — overcrowded if XLF rolls
+
+### Decision
+**HOLD — no new buys today**
+- 1 slot remaining; no candidate meets ≥7 score + passing technical checks simultaneously
+- GOOGL 8/10 but 2 technical failures + earnings-day-eve entry risk; reserve slot for post-earnings entry Jul 23
+- META 7/10 but extended >10% above SMA — high-risk entry
+- AVGO 7/10 but 2 technical failures (negative 5d momentum, low volume)
+- XOM: monitor Iran ceasefire news; exit if WTI breaks below $78 or peace confirmed
+- Next week (Jul 27): 3 slots reset — primary targets GOOGL (if Jul 22 beats), MSFT (pre-earnings Jul 29), potential AVGO (if volume normalizes)
+- Sources: Tavily (MarketWatch, Yahoo Finance, Benzinga, Barchart, Robinhood, XTB); Alpaca API (account, positions, orders, bars)
+
+---
+
 ## 2026-07-20 — Midday Addendum (Day 61, Monday)
 
 **Midday Scan**
