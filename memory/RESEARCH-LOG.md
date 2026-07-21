@@ -118,6 +118,39 @@ Universe: AAPL, MSFT, GOOGL, META, TSLA, AMD, AVGO, TSM, GS, UNH, JNJ, SPY, QQQ,
 
 ---
 
+## 2026-07-21 — Midday Addendum (Day 62, Tuesday)
+
+**Midday Scan**
+| Field | Value |
+|-------|-------|
+| Equity | $98,844.96 |
+| Session-start equity | $98,719.92 (pre-market snapshot) |
+| Day change | +$125.04 (+0.13%) — **no DD halt** |
+| Open positions | 6 (AMZN, JPM, MA, NVDA, V, XOM) |
+| Weekly buy slots | 2/3 used (MA + XOM Jul 20) — 1 remaining |
+
+**Position Review (midday):**
+| Ticker | Entry | Current | Unrealized | Intraday | Stop | HWM | Action |
+|--------|-------|---------|-----------|---------|------|-----|--------|
+| AMZN | $233.97 | $247.94 | +$474.75 (+5.97%) | -0.82% | $232.27 | $258.08 | ✅ Hold |
+| JPM | $322.67 | $345.14 | +$539.16 (+6.96%) | +1.85% | $314.62 | $349.58 | ✅ Hold |
+| MA | $538.89 | $541.70 | +$39.27 (+0.52%) | -1.05% | $493.12 | $547.91 | ✅ Hold |
+| NVDA | $193.58 | $205.38 | +$424.65 (+6.09%) | +1.03% | $191.31 | $212.57 | ✅ Hold |
+| V | $347.73 | $358.40 | +$234.63 (+3.07%) | -0.60% | $328.42 | $364.91 | ✅ Hold |
+| XOM | $147.17 | $150.74 | +$185.64 (+2.43%) | +1.60% | $136.34 | $151.49 | ✅ Hold |
+
+**Combined unrealized P&L:** +$1,898.10
+
+**Decisions:**
+- DD halt: +$125 from session-start — no halt ✅
+- No cuts: all 6 positions positive unrealized (lowest MA +0.52%, well above -7% threshold at $501.17)
+- No tighten: no position at +15% (NVDA needs $222.62, JPM needs $370.97 — none reached)
+- XOM thesis check (Tavily Jul 21): Hormuz tensions ongoing; US naval blockade of Iranian ports intact since Apr 13; WTI still elevated; Iran 10-day ceasefire proposal not confirmed as executed; XOM up +1.60% intraday → thesis intact ✅
+- All other theses intact: AMZN (AWS/Prime Day), JPM (Q2 beat confirmed), MA (pre-earnings Jul 30), NVDA ($4T milestone, AI demand), V (pre-Q4 FY2026 earnings)
+- 1 slot remaining this week — reserved for GOOGL post-earnings entry Jul 23 (if Q2 beats Jul 22)
+
+---
+
 ## 2026-07-20 — Midday Addendum (Day 61, Monday)
 
 **Midday Scan**
