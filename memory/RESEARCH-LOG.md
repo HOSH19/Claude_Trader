@@ -2,6 +2,92 @@
 
 ---
 
+## 2026-07-22 — Pre-Market Research (Day 63, Wednesday)
+
+### Account Snapshot
+- **Equity:** $98,870.57 | **Cash:** $51,429.88 | **Deployment:** 48% (vs 80% target)
+- **Long MV:** $47,440.69 | **Buying Power:** $338,553.46
+- **DT count:** 0 | **Weekly trades:** 2/3 used (MA + XOM Jul 20)
+
+### Open Positions
+| Ticker | Shares | Entry | Close (Jul 21) | Unrealized | Stop | HWM |
+|--------|--------|-------|----------------|-----------|------|-----|
+| AMZN | 34 | $233.97 | $247.55 | +$469.82 (+5.9%) | $232.27 | $258.08 |
+| JPM | 24 | $322.67 | $345.23 | +$511.92 (+6.6%) | $314.62 | $349.58 |
+| MA | 14 | $538.89 | $538.30 | +$4.34 (+0.1%) | $493.12 | $547.91 |
+| NVDA | 36 | $193.58 | $207.29 | +$442.83 (+6.4%) | $191.31 | $212.57 |
+| V | 22 | $347.73 | $355.82 | +$187.00 (+2.4%) | $328.42 | $364.91 |
+| XOM | 52 | $147.17 | $153.12* | +$309.45 (+4.0%) | $136.58 | $151.76→$153.12* |
+
+*XOM premarket $153.12 > prior HWM $151.76; trailing stop auto-adjusts.
+
+### Market Context
+- **WTI Crude:** ~$84/bbl (session range $81.41–$84.38) — US strikes on Iran entering **Day 10**; Rubio says Iran "not serious" about peace → oil premium sustained
+- **SPX Futures:** +0.39% (~7,513) premarket
+- **VIX:** ~17.53 (range 17.42–17.66) — trending lower (30d high 20.72)
+- **Macro releases today:** None material. Thursday: initial jobless claims. Friday: new home sales.
+- **Earnings AMC today:** **GOOGL** (AI revenue focus) + **TSLA** (480K deliveries +25% YoY, margin uncertainty, EPS est GAAP $0.36 / non-GAAP $0.55) — both binary-event gate applies; cannot enter either today
+- **Other earnings this week:** IBM, ServiceNow (AMC tonight); Microsoft + META + MA Jul 29
+
+### Sector ETF Ranking (Week)
+1. **XLE Energy** — +13.2% (Iran/Hormuz premium, top sector)
+2. **XLK Technology** — positive (AAPL +4.3%, MSFT +3.3%, broad AI momentum)
+3. **XLF Financial** — +2.6%
+4. **XLV Healthcare** — -0.7% (lagging)
+
+### Candidate Scoring (20-Symbol Universe)
+
+**Blocked (already holding):** AMZN, JPM, MA, NVDA, V, XOM
+**Blocked (binary-event gate, earnings AMC today):** GOOGL, TSLA
+**Eliminated early (adverse signals):** AMD -6.0% (downtrend), TSM (no catalyst)
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Notes |
+|--------|-------|----------|--------|-------|--------|-----|-------|
+| AVGO | 8/10 | 2 | 2 | 2 | 0 | 2 | AI chip rev +200%; BUT 2 tech fails → DISCARD |
+| CVX | 7/10 | 2 | 2 | 1 | 0 | 2 | Iran thesis; dual-energy risk with XOM |
+| MSFT | 7/10 | 1 | 2 | 2 | 0 | 2 | Pre-earnings Jul 29; low volume (0.55x) |
+| AAPL | 5/10 | 0 | 2 | 1 | 0 | 2 | No confirmed catalyst; low vol → FAIL |
+| META | 6/10 | 1 | 2 | 1 | 0 | 2 | 5d mom -2.6%, vol 0.47x → FAIL |
+| UNH | 6/10 | 0 | 0 | 2 | 1 | 2 | No fresh catalyst; healthcare lagging → FAIL |
+| GS | N/A | — | — | — | — | — | Skipped: Q2 already reported, no fresh setup |
+| SPY/QQQ | — | — | — | — | — | — | ETF vehicles only; prefer single names |
+
+### Technical Validation (≥7 scorers)
+
+**AVGO** ($386.50) — DISCARDED (2+ tech failures)
+- SMA20: $379.90 | Dist: +1.7% ✓ | 5d Mom: -0.7% ✗ | Vol Ratio: 0.71x ✗ → 2 failures → discard
+
+**CVX** ($191.07) — PASSES tech (1 failure only)
+- SMA20: $176.30 | Dist: +8.4% ✓ (not >10%) | 5d Mom: +5.1% ✓ | Vol Ratio: 0.78x ✗ (<0.8)
+- 1 failure → tech pass; but dual-energy concentration with XOM (identical Iran catalyst)
+
+**MSFT** ($397.75) — PASSES tech (1 failure only)
+- SMA20: $383.82 | Dist: +3.6% ✓ | 5d Mom: +3.3% ✓ | Vol Ratio: 0.55x ✗ (<0.8)
+- 1 failure → tech pass; but volume notably low → low conviction pre-earnings
+
+### Risk Factors
+1. **GOOGL + TSLA earnings AMC (HIGH):** Market-moving tonight; TSLA margin uncertainty (EPS spread $0.36–$0.55); GOOGL AI revenue pivotal for tech sector direction → preserve weekly slot for post-earnings clarity
+2. **Iran de-escalation (MEDIUM):** Rubio says "not serious," sustaining oil premium; any peace signal = XOM thesis broken
+3. **XOM trailing stop:** HWM auto-updated to ~$153.12 today; stop now ~$137.81 (up from $136.58)
+4. **NVDA 5d momentum negative (-2.1%):** Stop $191.31 safe (+7.4% cushion at $205.88); thesis intact — hold
+5. **Low volume across candidates (ONGOING):** Vol ratios 0.47–0.78x for all non-held names → institutional conviction absent today
+6. **Deployment gap (ONGOING):** 48% vs 80% target; only 1 weekly slot remaining
+
+### Trade Ideas
+- None meet full conviction threshold today.
+- **CVX** (7/10): Only viable pass but inadvisable — dual energy concentration with XOM; if Iran de-escalates, 2 positions hit simultaneously. Deferred.
+- **MSFT** (7/10): Pre-earnings play, tech momentum strong. Will reassess post-GOOGL/TSLA results tonight; if GOOGL beats strongly, MSFT/tech sector entry Thursday becomes high priority.
+
+### Decision
+**HOLD** — Wait for GOOGL + TSLA AMC earnings. 1 weekly slot preserved.
+- Post-results action plan: If GOOGL beats → enter MSFT or GOOGL Thu morning (1 slot used)
+- AVGO: Re-evaluate next week if volume picks up
+- No new buys today per patience-first rule
+
+**Sources:** Tavily (oil, SPX futures, VIX, sector ETFs, earnings calendar, market catalysts, TSLA preview); Alpaca API (account, positions, orders, bars)
+
+---
+
 ## 2026-07-21 — Pre-Market Research (Day 62, Tuesday)
 
 ### Account Snapshot
