@@ -2,6 +2,105 @@
 
 ---
 
+## 2026-07-23 — Pre-Market Research (Day 64, Thursday)
+
+### Account Snapshot
+- **Equity:** $98,992.17 | **Cash:** $51,429.88 (52.0%) | **Buying Power:** $51,429.88
+- **Positions (6):** AMZN +2.9% | JPM +8.5% | MA -1.0% | NVDA +9.0% | V +1.6% | XOM +6.3%
+- **Weekly slots:** 2/3 used (MA + XOM Jul 20) — **1 slot remaining**
+- **DT count:** 0 | **DD halt trigger:** $89,092 (–10% from $98,992) — not triggered
+
+### Market Context
+- **WTI crude:** $89.19 (+4.4% today) — US-Iran conflict entering "dangerous new phase"; 11th consecutive night of US strikes; Rubio says Iran "not serious" about peace talks; Strait of Hormuz + Bab el-Mandeb simultaneously threatened. Source: investing.com/commodities/crude-oil
+- **SPX futures:** –0.27% (~7,521–7,525) | NASDAQ –0.67% (chip stocks cooling post-GOOGL)
+- **VIX:** 17.11–17.65 (prev close 18.65; range 52w: 13.38–35.30) — declining despite Iran escalation = unusual calm
+- **Earnings BMO today (Jul 23):** LMT ($7.22e), HON ($1.81e), BX ($1.33e), FCX ($0.61e), AAL ($0.03e) — none in universe
+- **Earnings AMC tonight:** INTC ($0.21e) — not in universe
+- **Yesterday AMC:** TSLA fell (profit miss; cash burn below est); GOOGL fell (beat EPS $9.11 vs $2.31 YoY but AI capex spooked investors)
+- **Economic releases today:** None significant (jobs Aug 7; PPI already released Jul 15 at 5.5% YoY)
+- Source: catacal.com/catalysts-this-week, earningswhispers.com/calendar, marketwatch.com
+
+### Sector ETF Ranking (week)
+1. **XLE Energy** +1.6% — Iran oil premium driving; XOM / CVX outperformers
+2. **XLF Finance** +0.3% — JPM, MA, V all positive on week
+3. **XLB Materials** — positive
+4. **XLK Tech** — flat/negative (GOOGL AI capex concerns, TSLA miss)
+5. **XLV Healthcare** — neutral
+
+### Candidate Scoring Table
+
+**Evaluated all 14 non-held universe symbols:**
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Pass/Fail |
+|--------|-------|----------|--------|-------|--------|-----|-----------|
+| CVX | 6/10 | 2 | 2 | 0 | 0 | 2 | **FAIL** |
+| UNH | 7/10 | 1 | 1 | 2 | 0 | 2 | **PASS** |
+| TSM | 5/10 | 1 | 1 | 2 | 0 | 1 | FAIL |
+| GS | 4/10 | 1 | 1 | 1 | 0 | 1 | FAIL |
+| AVGO | 4/10 | 0 | 1 | 1 | 0 | 2 | FAIL |
+| MSFT | 4/10 | 0 | 1 | 2 | 0 | 1 | FAIL |
+| AAPL | 3/10 | 0 | 1 | 1 | 0 | 1 | FAIL |
+| GOOGL/TSLA | — | Binary event gate: just reported AMC, both down. No entry. | | | | | SKIP |
+| AMD/META/JNJ/SPY/QQQ | < 5 | No compelling catalyst | | | | | FAIL |
+
+**CVX scoring note:** dist=+8.9% from SMA20 yesterday; today with WTI +4.4%, intraday dist likely >10% (extended). Vol_ratio=0.70 (< 0.8). Same Iran thesis as held XOM — double energy concentration risk if thesis reverses.
+
+### Technical Validation (UNH — only ≥7 scorer)
+
+Data from Alpaca bars (2026-05-01 to 2026-07-22):
+- Last close: $431.31 | 20d SMA: $423.81
+- Distance from SMA20: **+1.8%** ✅ (not extended)
+- 5-day momentum: **+3.1%** ✅ (positive)
+- Vol ratio (last/20d avg): **0.68×** ❌ (< 0.8)
+- **Result: PASSES** (fails 1 of 3 checks; threshold = 2+)
+- Source: Alpaca data API
+
+### Trade Ideas
+
+**1. UNH — UnitedHealth Group (7/10, MARGINAL)**
+- **Catalyst:** Q2 2026 beat Jul 16 — EPS beat, raised 2026 forecast, shares surged ~8%. Improved medical cost management. Expanded buyback. Buy consensus (22 analysts), PT $454.09.
+- **Entry:** ~$431 at market open
+- **Stop:** 10% trailing GTC | initial stop ~$388
+- **Target:** $517 (+20%)
+- **R:R:** ~2.0:1
+- **Size:** 17 shares × $431 ≈ $7,327 (7.4% equity)
+- **Technicals:** dist +1.8% ✅ | mom5 +3.1% ✅ | vol_ratio 0.68× ❌
+- **Concern:** Healthcare (XLV) mid-tier sector this week; catalyst is 7 days old; volume below average; last weekly slot
+- Source: reuters.com/legal/unitedhealth-raises-2026-forecast, public.com/stocks/unh/forecast-price-target
+
+### Position Monitor (existing holdings)
+
+| Ticker | Live | Entry | Unreal% | SMA20 | Dist | Mom5 | VolRatio | Notes |
+|--------|------|-------|---------|-------|------|------|----------|-------|
+| AMZN | $240.74 | $233.97 | +2.9% | $243.61 | -1.2% | -4.0% | 0.61 | Below SMA; GOOGL drag; stop $232.27 (3.5% cushion) — watch |
+| JPM | $350.22 | $322.67 | +8.5% | $337.16 | +3.3% | +0.4% | 0.78 | New HWM ($350.22); stop auto→$315.20 |
+| MA | $533.30 | $538.89 | -1.0% | $526.29 | +1.3% | -0.6% | 0.64 | Pre-earnings positioning (earns Jul 30); hold |
+| NVDA | $210.98 | $193.58 | +9.0% | $202.29 | +4.8% | -0.2% | 1.01 | AI capex concern mild; thesis intact |
+| V | $353.31 | $347.73 | +1.6% | $350.68 | +0.8% | -0.5% | 0.53 | Flat; hold |
+| XOM | $156.49 | $147.17 | +6.3% | $141.73 | +10.4% | +6.9% | 0.89 | EXTENDED >10% today on WTI surge; trailing stop auto-updating; thesis intact |
+
+**Key alerts:**
+- XOM extended >10% from SMA — trail protecting +6.3% gain; do not add to position
+- AMZN: below SMA20, -4% 5d momentum; stop cushion only 3.5%; watch for thesis break (AWS still strong, no fundamental change from GOOGL results)
+
+### Risk Factors
+1. **Iran de-escalation (HIGH for XOM):** If Rubio comments evolve into ceasefire deal, oil drops 5-10% and XOM/thesis collapses. Trailing stop at $140.84 (~$156.49 × 0.9) protects downside.
+2. **GOOGL AI capex sell-off (MEDIUM for NVDA/AMZN):** Investors spooked by rising AI spend → tech rotation risk. NVDA thesis (AI demand) actually strengthened by hyperscaler capex, but short-term sentiment negative.
+3. **AMZN stop proximity (MEDIUM):** $240.74 live, stop $232.27 = 3.5% cushion. If broad market weakness persists, stop could be hit. Thesis unchanged: no AWS weakness signaled.
+4. **VIX calm despite Iran (LOW/WATCH):** VIX declining to 17 even as WTI +4.4% = complacency risk. If market reprices geopolitical risk suddenly, broad sell-off possible.
+5. **SPX –0.27% futures (LOW):** Modest decline, earnings-driven. Not systemic.
+6. **Deployment gap (ONGOING):** 48.1% deployed vs 80% target. 1 slot remains but HOLD decision preserves it for higher-conviction entry later this week.
+
+### Decision
+**HOLD — no new trades today**
+- UNH: Scores 7/10 and passes technical check, but below-average volume (0.68×), mid-tier sector, and 7-day-old catalyst do not justify deploying the last weekly slot
+- CVX: Would double energy exposure (alongside XOM); extended >10% above SMA intraday; below-avg volume (0.70×) — PASS
+- Preserve final weekly slot for a cleaner setup Thursday EOD or Friday
+- All 6 existing positions: hold. Monitor AMZN stop proximity. Monitor XOM extension.
+- Sources: Tavily (all queries), Alpaca API (account, positions, orders, bars)
+
+---
+
 ## 2026-07-22 — Pre-Market Research (Day 63, Wednesday)
 
 ### Account Snapshot
