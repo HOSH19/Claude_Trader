@@ -916,6 +916,16 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 
 ---
 
+### 2026-07-23 — SELL AMZN (trailing stop triggered)
+- Shares: 34
+- Exit: $232.27 (trailing stop fill; HWM $258.08, 10% trail = $232.27)
+- Entry: $233.97
+- Realized P&L: -$57.80 (-0.73%)
+- Notes: AMZN trailing stop triggered intraday Jul 23. GOOGL Q2 earnings (beat EPS but AI capex $57B spooked investors) and prior-day TSLA miss drove broad tech/growth selling. AMZN had only 3.5% cushion to stop at open ($240.74 → stop $232.27 per pre-market research). AWS thesis fundamentally intact — mechanical stop exit per 10% trail rule. Net effect: capital preserved near entry. Weekly slots: 2/3 used (MA+XOM Jul 20); 1 remaining this week.
+- Order ID: trailing stop auto-fill (already filled; no active order shown)
+
+---
+
 ### Jul 22 — EOD Snapshot (Day 63, Wednesday)
 **Portfolio:** $99,076.28 | **Cash:** $51,429.88 (51.9%) | **Day P&L:** +$256.16 (+0.26%) | **Phase P&L:** -$923.72 (-0.92%)
 

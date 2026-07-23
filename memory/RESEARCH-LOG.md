@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-07-23 — Midday Addendum (Day 64, Thursday)
+
+**Midday Scan**
+| Field | Value |
+|-------|-------|
+| Equity | $98,518.13 |
+| Session-start equity | $98,992.17 |
+| Day change | -$474.04 (-0.48%) — **no DD halt** (trigger: $89,092) |
+| Open positions | 5 (JPM, MA, NVDA, V, XOM) |
+| Weekly buy slots | 2/3 used (MA + XOM Jul 20) — 1 remaining |
+
+**AMZN Exit (trailing stop triggered):**
+- Sold 34 shares @ $232.27 | Realized P&L: -$57.80 (-0.73%)
+- Cause: GOOGL Q2 earnings AI capex spook + TSLA miss → tech/growth selling; AMZN had only 3.5% stop cushion at open ($240.74 → stop $232.27)
+- Thesis: AWS fundamentally intact — mechanical stop exit
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop | HWM | Action |
+|--------|---------|-----------|---------|------|-----|--------|
+| JPM | $348.08 | +7.88% (+$609.84) | -0.04% | $314.62 | $349.58 | ✅ Hold |
+| MA | $527.61 | -2.09% (-$157.92) | -0.82% | $493.12 | $547.91 | ✅ Hold |
+| NVDA | $210.02 | +8.49% (+$591.94) | -0.96% | $192.95 | $214.39 | ✅ Hold |
+| V | $350.77 | +0.87% (+$66.88) | -0.75% | $328.42 | $364.91 | ✅ Hold |
+| XOM | $157.25 | +6.85% (+$523.90) | +1.81% | $142.71 | $158.57 | ✅ Hold |
+
+**Decisions:**
+- DD halt: -0.48% from session-start — not triggered ✅
+- Cuts: None — MA weakest at -2.09%, well above -7% floor; all others positive ✅
+- Stop tighten: No position at +15%+ (NVDA trigger: $222.62; JPM trigger: $371.07) ✅
+- Thesis check: All 5 positions intact — JPM Finance strength, MA pre-earnings hold (Q2 Jul 30, 6.5% cushion above stop), NVDA AI demand confirmed by GOOGL $57B hyperscaler capex, V stable pre-earnings, XOM Iran oil premium sustained (WTI +1.81% intraday)
+
+**Result: AMZN stop triggered | 5 positions, all within rules**
+
+---
+
 ## 2026-07-23 — Pre-Market Research (Day 64, Thursday)
 
 ### Account Snapshot
