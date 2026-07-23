@@ -939,3 +939,18 @@ Order d7c418ab replaced with new order reflecting updated HWM $252.525, stop $22
 | XOM | 52 | $147.17 | $154.45 | +1.81% | +$378.56 (+4.95%) | $139.32 (HWM $154.80) |
 
 **Notes:** Day 63 (Wednesday). No trades today; 2/3 weekly buy slots used (MA + XOM entered Jul 20). Mixed session — NVDA led +2.39% to $212.25 (unrealized +9.65%, HWM updated to $214.39, stop $192.95), XOM +1.81% to $154.45 (new HWM $154.80, stop auto-updated to $139.32), JPM +1.06% to $348.90 (unrealized +8.13%, HWM $349.58, stop $314.62). AMZN -1.05% to $244.94 (+4.69% unrealized, stop $232.27), V -0.67% to $353.42 (+1.64% unrealized, stop $328.42), MA -0.39% to $536.22 (flat/slightly underwater -0.50%, stop $493.12 well clear). No +15% tightening triggers reached (NVDA needs $222.62; JPM needs $371.07). Combined unrealized +$2,140.93. Phase P&L recovering: -$923.72 (-0.92%). Deployment 48.1% vs 80% target — 1 weekly buy slot remaining; Thursday: screen UNH, JNJ, or CVX for third and final weekly buy.
+
+---
+
+### Jul 23 — EOD Snapshot (Day 64, Thursday)
+**Portfolio:** $98,586.71 | **Cash:** $59,327.29 (60.2%) | **Day P&L:** -$489.57 (-0.49%) | **Phase P&L:** -$1,413.29 (-1.41%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| JPM | 24 | $322.67 | $349.90 | +0.49% | +$653.52 (+8.44%) | $314.93 (HWM $349.92) |
+| MA | 14 | $538.89 | $530.06 | -0.36% | -$123.62 (-1.64%) | $493.12 (HWM $547.91) |
+| NVDA | 36 | $193.58 | $209.50 | -1.21% | +$573.21 (+8.23%) | $192.95 (HWM $214.39) |
+| V | 22 | $347.73 | $351.85 | -0.45% | +$90.58 (+1.18%) | $328.42 (HWM $364.91) |
+| XOM | 52 | $147.17 | $156.89 | +1.58% | +$505.44 (+6.61%) | $142.71 (HWM $158.57) |
+
+**Notes:** Day 64 (Thursday). Trades today: AMZN trailing stop triggered at $232.27 (34 shares sold; realized P&L -$57.80 vs entry, -$430.78 vs yesterday close). Tech weakness from GOOGL AI capex concerns and TSLA miss drove AMZN through its 10% trailing stop — AWS thesis intact but mechanical rule executed correctly. AMZN exit drops deployment from 48% to ~40%. Gainers: XOM +1.58% to $156.89 (new HWM $158.57, stop ratcheted to $142.71, unrealized +6.61%), JPM +0.49% to $349.90 (new HWM $349.92, stop $314.93, unrealized +8.44%). Losers: NVDA -1.21% to $209.50 (stop $192.95, HWM $214.39, unrealized +8.23%), MA -0.36% to $530.06 (unrealized -1.64%, stop $493.12 well clear), V -0.45% to $351.85 (unrealized +1.18%, stop $328.42). No +15% tightening triggers reached (NVDA needs $222.62 for 7% trail; JPM needs $371.07). Combined unrealized +$1,699.13. 2/3 weekly buy slots used (MA+XOM Jul 20); 1 remaining for Jul 21–25. Deployment 39.8% vs 80% target — critical gap. Friday: weekly review + final weekly buy slot; screen CVX, UNH, JNJ; consider AMZN re-entry if technicals stabilize.
