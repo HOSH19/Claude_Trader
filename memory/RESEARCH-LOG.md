@@ -48,6 +48,36 @@
 
 ---
 
+## 2026-07-24 — Midday Addendum (Day 65, Friday)
+
+**Midday Scan**
+| Field | Value |
+|-------|-------|
+| Equity | ~$98,752.59 |
+| Session-start equity | $98,561.16 |
+| Day change | +$191.43 (+0.19%) — **no DD halt** (trigger: $88,705) |
+| Open positions | 5 (JPM, MA, NVDA, V, XOM) |
+| Weekly buy slots | 2/3 used (MA + XOM Jul 20) — 1 remaining (no clean candidates found pre-market) |
+
+**Position Review (midday):**
+| Ticker | Current | Unrealized | Intraday | Stop | HWM | Action |
+|--------|---------|-----------|---------|------|-----|--------|
+| JPM | $352.78 | +9.33% (+$722.64) | +0.82% | $318.03 | $353.37 | ✅ Hold |
+| MA | $534.55 | -0.81% (-$60.76) | +0.80% | $493.12 | $547.91 | ✅ Hold (pre-earnings Jul 30) |
+| NVDA | $209.96 | +8.46% (+$589.53) | +0.57% | $192.95 | $214.39 | ✅ Hold |
+| V | $353.38 | +1.63% (+$124.30) | +0.51% | $328.42 | $364.91 | ✅ Hold |
+| XOM | $156.58 | +6.39% (+$489.32) | -0.20% | $142.84 | $158.71 | ✅ Hold (Iran thesis intact) |
+
+**Decisions:**
+- DD halt: +0.19% from session-start — not triggered ✅
+- Cuts: None — MA weakest at -0.81%, well above -7% floor; all others positive ✅
+- Stop tighten: No position at +15%+ (NVDA trigger: $222.62; JPM trigger: $371.07) ✅
+- Thesis check: All 5 intact — JPM Finance +9.3% steady, MA pre-earnings hold (Jul 30 Q2), NVDA AI demand confirmed, V stable, XOM Iran oil premium (HWM updated to $158.71 by Alpaca)
+
+**Result: All clear | 5 positions, all within rules**
+
+---
+
 ## 2026-07-23 — Midday Addendum (Day 64, Thursday)
 
 **Midday Scan**
