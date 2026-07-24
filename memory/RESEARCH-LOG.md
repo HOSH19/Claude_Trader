@@ -2,6 +2,52 @@
 
 ---
 
+## 2026-07-24 — Pre-Market Research (Day 65, Friday)
+
+### Account Snapshot
+- **Equity:** $98,561.16 | **Cash:** $59,327.27 (60.2%) | **Buying Power:** $59,327.27
+- **Positions (5):** JPM +8.1% | MA -1.1% | NVDA +7.3% | V +1.7% | XOM +6.4%
+- **Weekly slots:** 2/3 used (MA + XOM Jul 20) — **1 slot remaining (last day)**
+- **DT count:** 0 | **DD halt trigger:** $88,701.99 (–10% from $98,557.77 session-start) — not triggered
+
+### Market Context
+- **SPX futures:** –0.42% (ESU26) | Nasdaq futures: –0.51% (NQU26) — continuing risk-off from yesterday's –1.49% / –2.26%
+- **VIX:** ~18–19 (elevated; "Strong Buy" signal on VIX futures = market fear rising)
+- **Oil (WTI):** ~$89–104 range (Iran/Hormuz tensions ongoing; Trump reinstated naval blockade plan; $104 intraday high earlier in week; some pullback)
+- **XOM thesis check:** Iran Hormuz tensions sustained; US-Iran military exchanges ongoing; Brent high $114.4 earlier this week; oil premium durable. XOM stop $142.71 (HWM $158.57) — thesis intact ✅
+- **Earnings today BMO:** AXP (American Express) — not in universe. No universe stocks reporting today.
+- **Earnings next week:** MA Jul 30 (held — 6 days), MSFT + META Jul 29 (not held)
+- Sources: Barchart (SPX/VIX futures), Tavily (oil/Iran)
+
+### JPM Stop Update
+- JPM HWM auto-updated to $350.64 by Alpaca (intraday new high at open); stop → $315.58 (auto-trail)
+
+### Candidate Scoring (final weekly slot)
+
+| Ticker | Score | Spread Check | Notes |
+|--------|-------|-------------|-------|
+| UNH | 7/10 (from Jul 23) | **FAIL** | Bid $402.80 / Ask $448.19 — ~10.5% spread at open; automatic skip |
+| CVX | 7/10 (conditional) | **FAIL** | Bid $183.39 / Ask $203.69 — ~10.5% spread + dual-energy with XOM |
+| Others | <7 | N/A | No other ≥7/10 candidates identified |
+
+### Decision
+**NO TRADE — hold all 5 positions**
+- Both main candidates (UNH, CVX) fail the spread check (>3% bid-ask spread = automatic skip per rules)
+- Risk-off pre-market environment (SPX –0.42%) compounds caution
+- Patience > activity; 1 weekly slot undeployed (resets Monday Jul 27)
+- Next week: 3 fresh slots; screen UNH (check spread stability), CVX, and AMZN re-entry if technicals stabilize
+
+### Position Monitor
+| Ticker | Current | Entry | Unreal% | Stop | HWM | Action |
+|--------|---------|-------|---------|------|-----|--------|
+| JPM | $348.99 | $322.67 | +8.1% | $315.58 | $350.64 | ✅ Hold |
+| MA | $532.72 | $538.89 | -1.1% | $493.12 | $547.91 | ✅ Hold (pre-earnings Jul 30) |
+| NVDA | $207.70 | $193.58 | +7.3% | $192.95 | $214.39 | ✅ Hold |
+| V | $353.58 | $347.73 | +1.7% | $328.42 | $364.91 | ✅ Hold |
+| XOM | $156.61 | $147.17 | +6.4% | $142.71 | $158.57 | ✅ Hold (Iran thesis intact) |
+
+---
+
 ## 2026-07-23 — Midday Addendum (Day 64, Thursday)
 
 **Midday Scan**
