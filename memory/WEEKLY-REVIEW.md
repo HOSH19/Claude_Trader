@@ -698,3 +698,70 @@ Template for each entry:
 ### Overall Grade: B-
 
 ---
+
+## Week ending 2026-07-24
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,421.09 (Jul 17 close) |
+| Ending portfolio | $98,794.75 |
+| Week return | +$373.66 (+0.38%) |
+| S&P 500 week | ~+0.7% est (SPX 7,433→~7,490; Jul 22 confirmed close 7,498.96) |
+| Bot vs S&P | ~-0.32% |
+| Phase P&L | -$1,205.25 (-1.21%) |
+| Trades | 3 (W:0 / L:1 / open:5) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | JPM +9.48% unrealized |
+| Worst trade | AMZN -$57.80 (-0.73%) realized |
+| Profit factor | 0.00 (no winners closed) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AMZN | $233.97 (34 sh) | $232.27 | -$57.80 (-0.73%) | Trailing stop triggered Jul 23; GOOGL AI capex spook + TSLA miss drove broad tech/growth selling; AWS thesis intact but mechanical 10% trail executed correctly; only 3.5% stop cushion at open |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| JPM | $322.67 (24 sh) | $353.27 | +$734.40 (+9.48%) | $318.03 (HWM $353.37) |
+| MA | $538.89 (14 sh) | $539.66 | +$10.78 (+0.14%) | $493.12 (HWM $547.91) ⚑ Q2 earnings Jul 30 |
+| NVDA | $193.58 (36 sh) | $206.85 | +$477.75 (+6.86%) | $192.95 (HWM $214.39) |
+| V | $347.73 (22 sh) | $355.74 | +$176.22 (+2.30%) | $328.42 (HWM $364.91) |
+| XOM | $147.17 (52 sh) | $156.94 | +$508.04 (+6.64%) | $142.84 (HWM $158.71) |
+
+### What Worked
+- XOM entry Jul 20 immediately validated: +6.64% in first week; Iran military exchanges ongoing, WTI holding above $85 intraday; oil premium durable with active Hormuz threat
+- AMZN trailing stop executed correctly at $232.27 — mechanical rule preserved capital near entry (-$57.80) rather than letting a thesis-intact position become a large loss
+- Spread check discipline prevented a bad UNH trade (10.5% bid-ask spread at Jul 24 open = automatic skip); same discipline blocked CVX on both Jul 24 and prior days
+- JPM Finance thesis compounding steadily: +9.48% unrealized; Q2 earnings beat Jul 14 confirmed; stop ratcheting properly to lock gains
+- MA recovery: recovered from -1.64% on Jul 23 to near-flat +0.14% by week close; pre-earnings positioning intact heading into Jul 30 Q2 report
+
+### What Didn't Work
+- 15th+ consecutive week below 80% deployment target: 39.9% deployed vs 80%; $59K+ idle
+- AMZN stopped out: entered during period of minimal stop cushion (3.5% buffer); GOOGL AI capex disappointment drove correlated tech/growth selling that mechanically triggered exit
+- Final weekly slot (Friday Jul 24) went unused: UNH spread 10.5%, CVX spread 10.5% both failed — no backup candidates identified; slot expired
+- Negative relative performance: bot +0.38% vs S&P est +0.7% = ~-0.32% underperformance; 16th weekly underperformance vs S&P overall
+- MA entered pre-earnings Jul 20 and immediately went underwater (-1.64%) before recovering; timing risk of entering 10 days ahead of earnings materializing
+
+### Key Lessons
+- Thin stop cushions are the vulnerability: AMZN had only 3.5% stop cushion when GOOGL/TSLA catalyst shock hit; positions with <5% stop cushion in volatile sectors deserve extra monitoring or early exit
+- Spread checks are essential and now formalized (Rule 15 added to TRADING-STRATEGY.md): 10.5% spreads on UNH and CVX would have resulted in immediate -5%+ adverse entry; the rule prevented two bad trades this week
+- XOM's immediate +6.64% move shows correct thesis identification and entry timing; the Iranian military escalation was the right durable catalyst vs. a stale event
+- 3 Finance positions (JPM + MA + V) = concentration near limit; do not add GS or any 4th Finance name until one of the three exits
+- Deployment gap still growing vs benchmark: at 40% deployed, portfolio math means even a 10% winner only adds ~4% to account; must get to 60%+ before alpha compounds meaningfully
+
+### Adjustments for Next Week
+- **Deploy aggressively Mon Jul 27 (3 fresh slots):** Primary targets — AMZN re-entry (if AWS technicals stabilize above $235 and spread <1%); CVX (if spread normalizes to <3% — re-check at market open); UNH (confirm spread <3% at open before entry)
+- **MA earnings Jul 30 (CRITICAL):** Do NOT add to position ahead of earnings; hold through Q2 report; if beats EPS $7.24 est → trailing stop protects gains; if miss → cut at -7% ($500.87 or below); no manual cut before print
+- **NVDA tighten:** Monitor daily; +15% trigger at $222.62 (current $206.85 needs +7.6%); tighten trail to 7% on any close above; do NOT add to position
+- **JPM tighten:** +15% trigger at $371.07 (current $353.27 needs +5.0%); approaching — watch for trigger; tighten to 7% trail on close above
+- **XOM:** Iran thesis intact; WTI above $85 level; trailing stop auto-ratcheting properly (stop $142.84); hold; if ceasefire confirmed, cut immediately (thesis break criterion)
+- **Target deployment:** 55-60% by EOW Jul 31; requires 2-3 new positions; execution NOT optional
+
+### Overall Grade: C
+
+---

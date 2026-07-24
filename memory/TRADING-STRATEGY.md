@@ -37,6 +37,7 @@ Only trade symbols from this list. No exceptions.
 12. Patience > activity
 13. Binary-event gate: do NOT enter a new position on the same calendar day as that position's primary catalyst event (earnings report, delivery data, major product announcement). Enter the FOLLOWING session after confirming the catalyst outcome. [Added 2026-07-17 — TSLA Jul 1 confirmed loss from same-day delivery report entry]
 14. Holiday-week rule: in weeks with ≤3 trading days, max 1 new position total. [Added 2026-07-17 — Jul 4 week TSLA+TSM batch proved simultaneous correlated entries into forced exit window]
+15. Bid-ask spread gate: if bid-ask spread at open exceeds 3% of mid-price, skip entry automatically regardless of score. Illiquid opens destroy R:R before the trade begins. Check spread BEFORE placing market order. [Formalized 2026-07-24 — UNH and CVX both showed 10.5% spreads at open Jul 24; spread check prevented two bad entries]
 
 ## Candidate Scoring (min 7/10 to advance to trade idea)
 
@@ -72,6 +73,7 @@ Log format in RESEARCH-LOG per candidate:
 - `daytrade_count` leaves room (under 3 on a sub-$25k account)
 - A specific catalyst is documented in today's RESEARCH-LOG entry
 - Instrument is a stock (not an option, not anything else)
+- Bid-ask spread at open ≤ 3% of mid-price (Rule 15; check BEFORE placing order)
 
 ## Sell-Side Rules
 
