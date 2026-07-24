@@ -2,6 +2,130 @@
 
 ---
 
+## 2026-07-24 — Pre-Market Research (Day 65, Friday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,547.23 |
+| Cash | $59,327.27 (60.2%) |
+| Long Market Value | $39,219.96 |
+| Deployment | 39.8% vs 80% target — critical gap |
+| Daytrade count | 0 |
+| Weekly buy slots | 2/3 used (MA + XOM Jul 20) — **1 remaining** |
+| Phase P&L | ~-$1,452 (-1.45%) |
+
+**Open Positions (premarket marks):**
+| Ticker | Shares | Entry | Close | Unr. P&L | Stop | HWM |
+|--------|--------|-------|-------|----------|------|-----|
+| JPM | 24 | $322.67 | $350.98 | +$679.44 (+8.77%) | $314.93 | $349.92 → $350.98 (new) |
+| MA | 14 | $538.89 | $530.29 | -$120.40 (-1.60%) | $493.12 | $547.91 |
+| NVDA | 36 | $193.58 | $208.06 | +$521.31 (+7.48%) | $192.95 | $214.39 |
+| V | 22 | $347.73 | $352.79 | +$111.32 (+1.46%) | $328.42 | $364.91 |
+| XOM | 52 | $147.17 | $156.17 | +$468.00 (+6.12%) | $142.71 | $158.57 |
+
+---
+
+### Market Context
+- **WTI**: ~$79–90 (sources vary; +4–7% surge) | **Brent**: ~$85–101 (tradingeconomics: $100.53 on Jul 23)
+- **Iran**: Trump declared ceasefire "over" — US–Iran military strikes continue, Strait of Hormuz effectively sealed (day 12). Major supply-side shock. (Source: investing.com, barrons.com)
+- **SPX Futures**: +$20 (+0.27%) → $7,465 (source: marketwatch.com)
+- **VIX**: 18.70 (Jul 23 close; up from 16.64 prior day — elevated but not panic) (source: ycharts.com)
+- **BMO Earnings Today**: AXP (est $4.41), NEE, VZ, SLB — none in our universe; AXP beat could lift Finance sentiment
+- **AMC Tonight**: AAPL (Q3) — will affect tech sentiment Monday
+- **Economic**: PCE June 8:30 AM ET (key inflation; prior 0.4%); Leading indicators 10 AM
+- **Asia**: Nikkei +0.46%, Hang Seng +1.28%
+- **Europe**: DAX -0.69%, CAC -1.16%
+
+---
+
+### Sector ETF Ranking (YTD — source: totalrealreturns.com)
+1. **XLE Energy: +34.23%** ← Iran oil shock accelerating today
+2. **XLK Technology: +25.52%** ← AI capex confirmed strong (hyperscalers)
+3. **XLF Finance: solid** ← JPM/MA earnings beat, AXP reporting today
+4. XLI Industrials: +3.22%
+5. XLV Healthcare: recovering; -3.05% from recent peak (Jul 22)
+
+---
+
+### Candidate Scoring (fixed 20-symbol universe)
+
+**Discard pool (score < 7):**
+- AMZN | Score: 4/10 | Catalyst: 0 | Sector: 1 | Setup: 1 | Volume: 1 | R:R: 1 — recently stopped out, no fresh catalyst; thesis needs stabilization
+- MSFT | Score: 6/10 | Catalyst: 1 | Sector: 2 | Setup: 0 | Volume: 1 | R:R: 2 — earns Jul 29, binary event gate; extended above 20d SMA
+- AAPL | Score: 5/10 | Catalyst: 1 | Sector: 1 | Setup: 0 | Volume: 1 | R:R: 1 — earns AMC today, binary event gate blocks entry today
+- TSLA | Score: 3/10 | Catalyst: 0 | Sector: 1 | Setup: 0 | Volume: 1 | R:R: 1 — missed Q2, -14.5% Jul 23, broken thesis
+- AMD | Score: 5/10 | Catalyst: 1 | Sector: 1 | Setup: 0 | Volume: 1 | R:R: 1 — no near-term catalyst, extended
+- GOOGL | Score: 4/10 | Catalyst: 0 | Sector: 1 | Setup: 0 | Volume: 1 | R:R: 1 — AI capex overhang, post-earnings selloff
+- GS, TSM, AVGO | Score: 4–5/10 — no specific catalyst today
+- UNH | Score: 6/10 | Catalyst: 1 | Sector: 1 | Setup: 1 | Volume: 1 | R:R: 2 — DOJ investigation overhang, $430+ less compelling vs JNJ setup
+- META | Score: 6/10 | Catalyst: 1 | Sector: 1 | Setup: 0 | Volume: 1 | R:R: 1 — earns Jul 29, binary event gate; extended
+- SPY, QQQ | Score: 4/10 — ETF index plays, not primary candidates vs individual setups
+
+**Candidates ≥ 7:**
+
+**CVX | Score: 7/10 | Catalyst: 2 | Sector: 2 | Setup: 0 | Volume: 2 | R:R: 1**
+- Catalyst: Iran ceasefire "over" = confirmed supply shock; oil surging (+4–7%)
+- Sector: XLE #1 YTD (+34.23%) = top third = 2
+- Setup: 20d SMA ~$175.50 (source: financhill.com); current ~$196 → +11.7% extended → **FAIL** (>10%)
+- Volume: Iran news = elevated, expected >1.5× avg = 2
+- R:R: entry ~$196, stop 10% trail ~$176, target +20% = ~$235 → R:R ~1.95 = 1
+- Earnings: **Jul 31** (next Friday) — binary gate blocks same-day entry only; but holding into earnings is added risk
+- **Tech Validation:** Dist from 20d SMA: +11.7% → FAIL ❌ | 5d momentum: strongly positive ✅ | Volume: elevated ✅ → 1/3 failures (passes 2/3 rule)
+- **Decision: MONITOR** — 7/10 borderline, technically extended >10%, holding into Jul 31 earnings adds binary risk. Defer to next week.
+
+**JNJ | Score: 8/10 | Catalyst: 2 | Sector: 1 | Setup: 1 | Volume: 2 | R:R: 2**
+- Catalyst: FDA Marketing Authorization for OTTAVA robotic surgery platform (Jul 23, fresh) + Q2 earnings beat Jul 16 (revenue +6.6%, guidance raised)
+- Sector: XLV Healthcare mid-third = 1 (recovering, not leading)
+- Setup: Price ~$257 (Alpaca quote EOD Jul 23: midpoint ~$257); 20d SMA est. ~$245–248 (stock ran post-earnings Jul 16 + FDA); dist ~+4% = 5–10% above → score 1
+- Volume: Post-FDA news → elevated institutional buying = 2
+- R:R: entry ~$258, stop 10% trail ~$232.20, target +20% = $309.60 → R:R = 2.0 = 2
+- Analyst upgrades: Freedom Broker (Buy), Scotiabank PT $305, Citi PT $298, Morgan Stanley PT $284, Raymond James PT $265 — broad consensus bullish (sources: cnn.com/markets/stocks/JNJ, tipranks.com)
+- 52-wk high $269.43 → current $257 = -4.6% from peak; room to run
+- No upcoming earnings catalyst (Q3 expected August)
+- **Tech Validation:** Dist from 20d SMA: ~+4% ✅ | 5d momentum: $250.50→$258 = +3% positive ✅ | Volume: elevated (FDA) ✅ → 0/3 failures — **PASS** ✅
+
+---
+
+### Trade Ideas
+
+**1. JNJ — Johnson & Johnson (PRIMARY, 8/10) ← FINAL WEEKLY SLOT**
+- **Catalyst:** FDA Marketing Authorization for OTTAVA robotic surgery platform (Jul 23); post-Q2 beat (Jul 16)
+- **Rationale:** Fresh confirmed catalyst, multiple analyst PT raises ($265–$305 range), stock -4.6% from 52-week high with momentum recovering, Healthcare sector defensive but JNJ specifically in strong institutional favor
+- **Entry:** Market open; target ~$258 (check bid-ask <3% at open)
+- **Stop:** 10% trailing GTC | Initial stop ~$232.20 | HWM at fill
+- **Target:** +20% = ~$309.60
+- **R:R:** 2.0:1
+- **Size:** 29 shares × $258 ≈ $7,482 (7.6% equity)
+- **Gates:** universe ✅ | positions 5→6 ≤10 ✅ | weekly 2→3/3 ✅ | cost ≤8% ✅ | cash ✅ | catalyst ✅ | DT 0 ✅ | no DD halt ✅
+- **Abort if:** gap >5% above $258 at open (>$271); or pre-market weakness below $250
+- Sources: cnn.com/markets/stocks/JNJ, tipranks.com, robinhood.com/us/en/stocks/JNJ
+
+**2. CVX — Chevron (SECONDARY, 7/10) ← MONITOR / DEFERRED**
+- Strong Iran thesis, XLE #1 sector, but extended >10% above 20d SMA + earnings Jul 31
+- Defer to week of Jul 28; evaluate post-open-week if Iran sustains and price consolidates below 20d SMA distance threshold
+
+---
+
+### Risk Factors
+1. **PCE 8:30 AM (HIGH):** June PCE above forecast could spike yields, hurt growth stocks and financials
+2. **AAPL AMC tonight (MEDIUM):** AAPL Q3 report after close → affects tech sentiment Monday; NVDA/MA exposed indirectly
+3. **MA earnings Jul 30 (MEDIUM):** MA at -1.60% unrealized; if it weakens toward -7% ($501.37), cut before earnings
+4. **Iran escalation vs ceasefire risk (HIGH for XOM):** Any peace signal reverses oil trade; XOM stop at $142.71 provides cushion
+5. **JPM new HWM (LOW):** JPM at $350.98 (new HWM today); trailing stop auto-ratchets; +15% trigger at $371.07 not yet reached
+6. **Deployment gap (ONGOING):** Adding JNJ brings deployment to ~47.5% — still well below 80%; aggressive screening needed Monday for 2-3 more buys
+
+---
+
+### Decision
+**TRADE: JNJ (1 final weekly slot for Jul 21–25)**
+- JNJ: 29 shares @ market open ~$258; 10% trailing stop GTC
+- CVX: MONITOR — hold for next week (Jul 28+) post-earnings clarity and price pullback
+- Weekly slots used: 2→3/3 after JNJ entry; full reset Monday Jul 28 (3/3 available)
+- Sources: Tavily (market context, oil/Iran, sectors, earnings, JNJ/CVX fundamentals); Alpaca API (account, positions, orders, quotes)
+
+---
+
 ## 2026-07-23 — Midday Addendum (Day 64, Thursday)
 
 **Midday Scan**
