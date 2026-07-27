@@ -2,6 +2,120 @@
 
 ---
 
+## 2026-07-27 — Pre-Market Research (Day 66, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,692.37 |
+| Cash | $59,327.27 |
+| Long MV | $39,365.10 |
+| Deployment | ~40% vs 80% target |
+| Buying Power | $347,531.36 |
+| DT Count | 0 |
+| Weekly Buy Slots | 3/3 (fresh week Jul 28-Aug 1) |
+
+### Open Positions (premarket)
+| Ticker | Qty | Entry | Premarket | Unrealized | Stop | HWM |
+|--------|-----|-------|-----------|------------|------|-----|
+| JPM | 24 | $322.67 | $356.00 (+0.79%) | +$799.92 (+10.33%) | $318.03 | $353.37 |
+| MA | 14 | $538.89 | $540.00 (+0.06%) | +$15.54 (+0.21%) | $493.12 | $547.91 |
+| NVDA | 36 | $193.58 | $208.55 (+0.83%) | +$538.79 (+7.73%) | $192.95 | $214.39 |
+| V | 22 | $347.73 | $356.85 (+0.31%) | +$200.64 (+2.62%) | $328.42 | $364.91 |
+| XOM | 52 | $147.17 | $152.00 (-3.15%) | +$251.16 (+3.28%) | $142.84 | $158.71 |
+
+### Market Context
+- **SPX futures**: ~$7,508 (+1.3% vs Friday close $7,411) — risk-on; Iran ceasefire rally
+- **VIX**: 17.62 (-5.2% premarket) — fear declining; bullish
+- **WTI crude**: ~$85-89/bbl (down ~4.5% on Iran diplomatic signals)
+- **Brent crude**: ~$91-96/bbl (down ~4%)
+- **FOMC**: meeting Jul 28-29; decision Wednesday Jul 30; 64.2% hold probability (CME FedWatch)
+- **Big Tech earnings this week**: MSFT/META (Wed Jul 30 AMC), AAPL/AMZN (Thu Jul 31 AMC), XOM/CVX (Fri Jul 31 BMO)
+- **Iran situation**: US-Iran MOU signed Jun 17 (60-day truce); Trump declared ceasefire over Jul 8 (conflict resumed); Jul 22 Trump downplayed peace talks; Jul 27 renewed diplomatic signals again deflating war premium → WTI volatile
+- **Economic data**: No major releases today; FOMC dominates week; PCE likely Friday
+- Sources: oilprice.com, investing.com, tradingeconomics.com, marketwatch.com, econoday.com, kiplinger.com
+
+### Sector ETF Ranking (YTD 2026)
+| Rank | Sector | ETF | YTD Return |
+|------|--------|-----|------------|
+| 1 | Energy | XLE | +34.23% (selling off today on Iran) |
+| 2 | Technology | XLK | +25.52% |
+| 3 | Industrials | XLI | +15.90% |
+| 4 | Consumer Staples | XLP | +10.00% |
+| 5 | Utilities | XLU | +9.03% |
+| 6 | Healthcare | XLV | +3.87% |
+| 7 | Financials | XLF | +3.22% |
+Source: totalrealreturns.com (2026 YTD as of Jul 22)
+
+### Candidate Scoring
+
+**Note**: Alpaca bars endpoint returning null premarket (market not open). Technical estimates use Tavily/CNBC/Yahoo data.
+
+| Ticker | Score | Catalyst | Sector | Setup | Volume | R:R | Status |
+|--------|-------|----------|--------|-------|--------|-----|--------|
+| GOOGL | 8/10 | 2 | 2 | 2 | 0 | 2 | DISCARD (2 tech failures) |
+| GS | 7/10 | 2 | 0 | 1 | 2 | 2 | SKIP (concentration) |
+| MSFT | — | — | — | — | — | — | Binary gate: earnings Wed AMC |
+| META | — | — | — | — | — | — | Binary gate: earnings Wed AMC |
+| AAPL | — | — | — | — | — | — | Binary gate: earnings Thu AMC |
+| AMZN | — | — | — | — | — | — | Binary gate: earnings Thu AMC |
+| CVX | — | — | — | — | — | — | Binary gate: earnings Fri BMO |
+
+#### GOOGL — DISCARD (2/3 tech failures)
+- Price: ~$350 premarket (52-week high $408.61, low $187.82; below 200d SMA per CNN)
+- Catalyst: Q2 earnings beat Jul 22 (EPS beat + revenue beat); AI capex $57B+ spooked investors; post-earnings recovery today on risk-on rally — **Catalyst: 2**
+- Sector: Tech (XLK) #2 YTD +25.52% — **Sector: 2**
+- 20d SMA est: ~$370-380 (30-day decline from $408 peak); GOOGL at $350 = ~5-8% below SMA — **Setup: 2** ✓ (not extended above)
+- Volume: Jul 26 volume 22.3M vs 31.8M avg = 0.70x — **Volume: 0** ✗ (< 0.8x)
+- R:R: Entry $350, stop $315 (-10%), target $420 (+20%) = 2:1 — **R:R: 2**
+- **Tech check FAIL**: 5d momentum negative (post-earnings selloff ~$380→$350) ✗ | Volume 0.70x < 0.8 ✗ → **2 failures → DISCARD**
+- Analyst consensus: Moderate Buy, avg target $427-433 (Wells Fargo raised to $438 Jul 21)
+- Sources: yahoo.com/quote/GOOGL, cnbc.com/quotes/GOOGL, marketbeat.com/stocks/NASDAQ/GOOGL
+
+#### GS — SKIP (Finance concentration)
+- Price: ~$1,061 (Jul 24 close per Zacks/alphaquery)
+- Q2 earnings: Reported Jul 14; EPS $20.98 vs est $14.54 (+44.99% beat); Revenue $20.34B (+39.4% YoY) — massive beat — **Catalyst: 2**
+- Sector: XLF bottom third YTD +3.22% — **Sector: 0**
+- Setup: Post-earnings rally est 5-8% above 20d SMA — **Setup: 1**
+- Volume: Post-earnings elevated — **Volume: 2**
+- R:R: Entry ~$1,061, stop ~$955, target ~$1,273 = 2:1 — **R:R: 2**
+- **Skip reason**: Would create 4th XLF-sector position (hold JPM + V + MA); sector bottom third; extreme concentration risk
+- Sources: marketbeat.com/stocks/NYSE/GS/earnings, goldmansachs.com press release
+
+### XOM Thesis Review (existing position)
+- Entry thesis (Jul 20): Iran re-escalation + Hormuz blockade → WTI toward $75, XOM at/below SMA
+- Current status: Iran volatile — MOU Jun 17, Trump ended ceasefire Jul 8, renewed peace signals Jul 27
+- Oil trajectory: WTI has risen from $75 region to $89 since entry → original target EXCEEDED; thesis has paid off substantially
+- Ceasefire risk: EIA forecasts Brent <$80 in Q3 and ~$70 YE; Goldman cut Q4 target to $80 Brent
+- XOM premarket: $152 (-3.15% today), still +3.28% above $147.17 entry; stop $142.84 (5.4% below current)
+- XOM earnings Fri Jul 31 (confirmed): binary event; already holding → no rule 13 issue
+- **Decision**: HOLD XOM; trailing stop $142.84 manages risk; thesis volatile but not definitively broken; monitor Iran news
+
+### Trade Ideas
+None — no candidates scored ≥7 AND passed technical validation AND were eligible today.
+
+- GOOGL: 8/10 but fails 2 tech checks
+- GS: 7/10 but concentration disqualifies
+- Big Tech (MSFT/META/AAPL/AMZN): binary-event gate all week
+- Energy: sector headwinds from Iran ceasefire signals
+
+**Opportunity window this week**: Post-FOMC (Wed evening) + post-earnings entries:
+- If MSFT/META beat Wed AMC → enter Thu morning (check technicals at open)
+- If AAPL/AMZN beat Thu AMC → enter Fri morning (confirm spread rule 15 first)
+- 3/3 buy slots available; deployment gap critical (40% vs 80%)
+
+### Risk Factors
+1. **XOM energy thesis (HIGH)**: WTI -4.5% on Iran peace signals today; XOM -3.15% premarket; EIA/GS project Brent <$80 Q3. Monitor for thesis-break trigger (Hormuz definitively reopened → close regardless of stop).
+2. **FOMC Wednesday (HIGH)**: 64.2% hold probability but any hawkish surprise = broad selloff. Cuts → rally. Do not open new positions Tuesday pre-FOMC.
+3. **Big Tech earnings week (HIGH)**: MSFT/META/AAPL/AMZN all reporting; misses on AI capex themes could hurt NVDA (currently holding). A NVDA sympathy dip could threaten stop $192.95 (current $208.55, -7.5% cushion).
+4. **JPM near +15% trigger (LOW/WATCH)**: At $356; trigger at $371.07. Another +4.2% needed to tighten to 7% trail.
+5. **Deployment gap (ONGOING)**: 40% vs 80%; 3/3 slots available; week provides best entry windows post-earnings.
+
+### Decision
+**HOLD** — Patience ahead of most catalytic week of earnings season. No eligible candidates pass full criteria today. Monitor Big Tech earnings (Wed/Thu AMC) for Thursday/Friday entry opportunities (MSFT, AAPL, AMZN, META — confirm catalyst, then enter following session per Rule 13).
+
+---
+
 ## 2026-07-24 — Pre-Market Research (Day 65, Friday)
 
 ### Account Snapshot
